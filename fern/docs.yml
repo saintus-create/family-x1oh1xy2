@@ -31,16 +31,16 @@ navigation:
           - page: Definitions & Indian Children
             path: docs/pages/division-1-definitions.mdx
             icon: fa-solid fa-book-bookmark
-          - page: Division 3 — Marriage
+          - page: Marriage
             path: docs/pages/division-3-marriage.mdx
             icon: fa-solid fa-ring
-          - page: Division 6 — Dissolution
+          - page: Dissolution
             path: docs/pages/division-6-dissolution.mdx
             icon: fa-solid fa-scale-unbalanced
-          - page: Division 8 — Custody of Children
+          - page: Custody of Children
             path: docs/pages/division-8-custody.mdx
             icon: fa-solid fa-children
-          - page: Division 9 — Support
+          - page: Support
             path: docs/pages/division-9-support.mdx
             icon: fa-solid fa-hand-holding-dollar
       - section: Docs Toolkit
@@ -71,14 +71,14 @@ navbar-links:
     url: https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM&division=1.&title=&part=&chapter=&article=
 colors:
   accent-primary:
-    light: "#7C2D12"
-    dark: "#FBBF24"
+    light: "#1D4ED8"
+    dark: "#60A5FA"
   background:
-    light: "#FFFBF5"
-    dark: "#0B0B0C"
+    light: "#FFFFFF"
+    dark: "#0A0A0A"
   border:
-    light: "#E7DCCB"
-    dark: "#26241F"
+    light: "#9CA3AF"
+    dark: "#3F3F46"
 theme:
   page-actions: toolbar
   footer-nav: minimal

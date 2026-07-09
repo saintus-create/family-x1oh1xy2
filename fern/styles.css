@@ -1,21 +1,54 @@
 /* Custom styles for the Interactive California Family Code */
 
-/* Subtle parchment gradient background */
+/* High-contrast, crisp background */
 .fern-background-image {
-  background-image: linear-gradient(180deg, rgba(124, 45, 18, 0.03) 0%, transparent 50%);
+  background-image: linear-gradient(180deg, rgba(29, 78, 216, 0.04) 0%, transparent 50%);
 }
 
 :root.dark .fern-background-image {
-  background-image: linear-gradient(180deg, rgba(251, 191, 36, 0.04) 0%, transparent 50%);
+  background-image: linear-gradient(180deg, rgba(96, 165, 250, 0.05) 0%, transparent 50%);
 }
 
-/* Statute-style section headings */
-h2 {
-  border-bottom: 1px solid var(--border, #e7dccb);
-  padding-bottom: 0.3rem;
+/* Size hierarchy instead of ALL CAPS for statute structure.
+   Topic (h1) is largest; Division/Part headings scale down with weight. */
+.markdown > h1 {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
 }
 
-/* Make the code "FAM" feel like a code header */
-.markdown > h2:first-of-type {
-  letter-spacing: 0.08em;
+.markdown > h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  border-bottom: 2px solid var(--border, #9CA3AF);
+  padding-bottom: 0.35rem;
+  margin-top: 2.5rem;
+}
+
+.markdown > h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+.markdown > h4 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-transform: none;
+  color: var(--text, #111827);
+}
+
+/* Strong, high-contrast body text */
+.markdown p,
+.markdown li {
+  color: var(--text, #111827);
+  line-height: 1.65;
+}
+
+/* Accent the statute section numbers for scannability */
+.markdown h3,
+.markdown h4 {
+  color: var(--accent-primary, #1D4ED8);
 }
