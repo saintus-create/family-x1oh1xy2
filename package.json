@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "mdx-tsx-import-checker": "^0.1.8"
+  }
+}
