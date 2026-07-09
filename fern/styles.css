@@ -52,3 +52,227 @@
 .markdown h4 {
   color: var(--accent-primary, #1D4ED8);
 }
+
+/* ========================================
+   LEGAL REFERENCE COMPONENTS - MODERN STYLING
+   ======================================== */
+
+/* Section Reference - Modern Badge Style */
+.section-ref {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+}
+
+.section-ref .section-title {
+  font-weight: 500;
+  color: var(--text, #111827);
+  margin-left: 0.25rem;
+}
+
+/* Statute Citation */
+.statute-cite {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+
+.statute-cite .code-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #1D4ED8 0%, #1E40AF 100%);
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+.statute-cite .statute-title {
+  color: var(--text, #111827);
+  margin-left: 0.25rem;
+}
+
+/* Bill Reference - Success Color */
+.bill-ref {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Case Citation - Linked Style */
+.case-cite {
+  color: var(--accent-primary, #1D4ED8);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--accent-primary, #1D4ED8);
+  transition: all 0.2s ease;
+}
+
+.case-cite:hover {
+  color: var(--accent-primary, #2563EB);
+  border-bottom-style: solid;
+}
+
+.case-cite strong {
+  font-weight: 700;
+}
+
+.case-cite .case-meta {
+  display: inline;
+  color: var(--text-muted, #6B7280);
+  font-style: italic;
+  margin-left: 0.25rem;
+}
+
+/* Defined Term - Interactive */
+.defined-term {
+  color: var(--accent-primary, #1D4ED8);
+  font-style: italic;
+  border-bottom: 2px dotted var(--accent-primary, #1D4ED8);
+  cursor: help;
+  transition: all 0.2s ease;
+}
+
+.defined-term:hover {
+  background-color: rgba(29, 78, 216, 0.1);
+  border-bottom-color: var(--accent-primary, #2563EB);
+}
+
+/* Legislative History - Compact Visual */
+.legislative-history {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background-color: rgba(29, 78, 216, 0.05);
+  border-left: 3px solid var(--accent-primary, #1D4ED8);
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  margin: 0.5rem 0;
+}
+
+.legislative-history .history-text {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.legislative-history .effective-date {
+  color: var(--text-muted, #6B7280);
+  font-size: 0.8rem;
+}
+
+/* Section Range - Compact Badge */
+.section-range {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+}
+
+.section-range .range-title {
+  font-weight: 500;
+  color: var(--text, #111827);
+  margin-left: 0.25rem;
+}
+
+/* Division Header - Visual Prominence */
+.division-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, rgba(29, 78, 216, 0.05) 0%, rgba(96, 165, 250, 0.05) 100%);
+  border: 1px solid var(--border, #E5E7EB);
+  border-radius: 0.75rem;
+  margin: 1.5rem 0;
+}
+
+.division-header .division-info {
+  flex: 1;
+}
+
+.division-header h2 {
+  margin: 0 0 0.5rem 0;
+  color: var(--accent-primary, #1D4ED8);
+}
+
+.division-header .division-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+/* Cross Reference - Navigation */
+.cross-ref {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--accent-primary, #1D4ED8);
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border-radius: 0.375rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.cross-ref:hover {
+  background-color: rgba(29, 78, 216, 0.1);
+  text-decoration: underline;
+}
+
+/* Legal Code Block */
+.legal-code {
+  background: var(--bg-code, #F9FAFB);
+  border: 1px solid var(--border, #E5E7EB);
+  border-left: 4px solid var(--accent-primary, #1D4ED8);
+  border-radius: 0.375rem;
+  padding: 1rem;
+  margin: 1rem 0;
+  font-family: 'Monaco', 'Courier New', monospace;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.legal-code .code-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+  color: var(--accent-primary, #1D4ED8);
+}
+
+.legal-code .subsection {
+  color: var(--text-muted, #6B7280);
+  font-weight: 500;
+}
+
+.legal-code .code-text {
+  color: var(--text, #111827);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* Dark Mode Adjustments */
+:root.dark .statute-cite .code-badge {
+  background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+}
+
+:root.dark .legislative-history {
+  background-color: rgba(59, 130, 246, 0.1);
+  border-left-color: var(--accent-primary, #60A5FA);
+}
+
+:root.dark .division-header {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(96, 165, 250, 0.1) 100%);
+  border-color: var(--border, #374151);
+}
+
+:root.dark .legal-code {
+  background: var(--bg-code, #1F2937);
+  border-color: var(--border, #374151);
+}
