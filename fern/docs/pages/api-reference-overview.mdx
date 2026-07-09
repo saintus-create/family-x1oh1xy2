@@ -1,81 +1,63 @@
 ---
-title: API reference
-subtitle: Interactive documentation generated from your API specification
-slug: api-reference
+title: Family Code API
+subtitle: The California Family Code, available as a structured, queryable API
+slug: family-code-api
 ---
 
-Fern automatically generates interactive API reference documentation from your API specification. This starter template includes a sample Plant Store API to demonstrate the feature.
+<Icon icon="fa-solid fa-database" size={28} />
 
-## Supported specifications
+## Family Code API
 
-Fern supports multiple API specification formats:
+The **Family Code API** is the machine-readable companion to the interactive Family Code
+documentation on this site. It returns the actual codified text of the California Family
+Code — divisions, parts, chapters, articles, and sections — exactly as enacted.
 
-| Format | Description | Documentation |
-|--------|-------------|---------------|
-| **OpenAPI** | The most widely used REST API specification format (versions 2.0, 3.0, and 3.1) | [OpenAPI docs](https://buildwithfern.com/learn/api-definitions/openapi/overview) |
-| **AsyncAPI** | For event-driven and message-based APIs | [AsyncAPI docs](https://buildwithfern.com/learn/api-definitions/asyncapi) |
-| **gRPC** | Protocol buffer definitions for gRPC services | [gRPC docs](https://buildwithfern.com/learn/api-definitions/protobuf) |
+<CardGroup cols={2}>
+  <Card title="REST API (OpenAPI 3.1)" icon="fa-solid fa-code" href="/family-code-api/section-getsection">
+    Look up any section by number, list a division, or full-text search.
+  </Card>
+  <Card title="Realtime (AsyncAPI)" icon="fa-solid fa-bolt" href="/family-code-api-realtime/sectionupdates">
+    Subscribe over WebSocket to live amendment events.
+  </Card>
+</CardGroup>
 
-## How it works
+## Endpoints at a glance
 
-Place your API specification file in the `fern/` directory and reference it in your `docs.yml` navigation:
+| Method | Path | Purpose |
+| --- | --- | --- |
+| GET | `/divisions` | List all 20 divisions |
+| GET | `/sections` | List sections, filterable by `division` and `part` |
+| GET | `/sections/{sectionNumber}` | Fetch one section (e.g. `300`, `4055`) |
+| GET | `/search?q=` | Full-text search across the Code |
 
-```yaml title="docs.yml"
-navigation:
-  - section: Documentation
-    contents:
-      - page: Overview
-        path: docs/pages/overview.mdx
-  - api: API Reference
-```
+## Example
 
-Fern parses your specification and generates:
+<CodeBlocks>
+  ```bash title="Get Family Code section 300"
+  curl https://api.familycode.ca.gov/v1/sections/300
+  ```
 
-- Endpoint documentation with request/response schemas
-- Interactive API Explorer for testing endpoints
-- Code snippets in multiple languages
-- Type definitions and examples
-
-## API Explorer
-
-The API Explorer lets users test API endpoints directly in the documentation. Users can fill in parameters, send requests, and see responses without leaving the page.
-
-<Note>
-For advanced API Explorer features like auto-populating API keys, see the [API Explorer documentation](https://buildwithfern.com/learn/docs/api-references/api-explorer/overview).
-</Note>
-
-## Customizing the API reference
-
-Control how your API reference appears using the `api` configuration in `docs.yml`:
-
-```yaml title="docs.yml"
-navigation:
-  - api: API Reference
-    api-name: plantstore
-    paginated: true
-```
-
-You can also add custom content to API reference pages, organize endpoints into groups, customize section names, and control which endpoints are visible.
+  ```json title="Response"
+  {
+    "sectionNumber": "300",
+    "division": 3,
+    "part": 1,
+    "title": "Marriage is a personal relation / civil contract",
+    "text": "Marriage is a personal relation arising out of a civil contract between two persons...",
+    "enactedBy": "Stats. 1992, Ch. 162, Sec. 10"
+  }
+  ```
+</CodeBlocks>
 
 <Note>
-For detailed customization options, see the [API reference documentation](https://buildwithfern.com/learn/docs/api-references/generate-api-ref).
+  The API is read-only. The enacted Code — and this documentation — remain the source of
+  truth. The API simply makes the Code easier to query, cite, and build upon.
 </Note>
 
-## SDK code snippets
-
-If you generate SDKs with Fern, code snippets automatically appear in your API reference showing how to call each endpoint using your SDK:
-
-```yaml title="generators.yml"
-groups:
-  python-sdk:
-    generators:
-      - name: fernapi/fern-python-sdk
-        version: 4.3.1
-        output:
-          location: pypi
-          package-name: plantstore
-```
-
-<Note>
-For more information on SDK generation, see the [SDK documentation](https://buildwithfern.com/learn/sdks/overview/introduction).
-</Note>
+<Prompt
+  title="Build a citation helper"
+  actions={["cursor", "claude"]}
+>
+  Write a small TypeScript function that calls GET /sections/{sectionNumber} on the Family
+  Code API and formats the result as a Bluebook-style citation, e.g. "Cal. Fam. Code § 300".
+</Prompt>

@@ -1,342 +1,177 @@
 openapi: 3.1.0
 servers:
-  - url: https://api.plantstore.dev/v3
-    description: Demo server
+  - url: https://api.familycode.ca.gov/v1
+    description: Production (read-only) Family Code service
 info:
   description: |
-    This is a sample Plant Store Server based on the OpenAPI 3.1 specification. It provides a comprehensive set of endpoints for managing plants, orders, and user authentication.
-    
+    The **Family Code API** is the machine-readable companion to the California Family
+    Code documentation. It returns the actual codified text of the Code — divisions,
+    parts, chapters, articles, and sections — exactly as enacted.
+
     ### Key Features
-    - **Rich API Documentation**: Includes detailed examples and schema definitions.
-    - **Search Functionality**: Search for plants by tags or status.
-    - **User-Friendly Endpoints**: Login, logout, and retrieve user information.
-    - **Error Handling**: Clear and consistent error responses.
-    
+    - **Section lookup**: Fetch any section by its number (e.g., `300`, `4055`).
+    - **Division browsing**: List every section within a Division.
+    - **Full-text search**: Find sections that mention a term.
+    - **Stable citations**: Every response carries the section number and chapter.
+
     ### Developer Notes
-    - Use `api_key` for store endpoints requiring authorization.
-    - OAuth2 flow is available for plant-specific operations.
-    
-  version: 1.0.18
-  title: Swagger Plant Store - OpenAPI 3.1
-  termsOfService: "http://buildwithfern.com/tos/"
-  contact:
-    name: Plant Store API Support
-    url: https://support.plantstore.dev
-    email: support@buildwithfern.com
+    - All responses are read-only; the Code is the source of truth, not this API.
+    - Section numbers use the official numbering (e.g., `5700.905`).
+  version: 1.0.0
+  title: Family Code API - OpenAPI 3.1
   license:
-    name: Apache 2.0
-    url: "http://www.apache.org/licenses/LICENSE-2.0.html"
+    name: Public domain (California statutory text)
 tags:
-  - name: plant
-    description: Everything about your Plants
-    externalDocs:
-      description: Plant API Documentation
-      url: https://docs.plantstore.dev/plants
-  - name: store
-    description: Access to Plantstore orders
-    externalDocs:
-      description: Order Management Guide
-      url: https://docs.plantstore.dev/orders
-  - name: user
-    description: Operations about user
-    externalDocs:
-      description: User Management API
-      url: https://docs.plantstore.dev/users
+  - name: sections
+    description: Individual sections of the Family Code
+  - name: divisions
+    description: The 20 Divisions of the Family Code
 paths:
-  /plant:
-    post:
-      tags:
-        - plant
-      summary: Add a new plant to the store
-      operationId: addPlant
-      requestBody:
-        description: Details of the plant to add
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/Plant"
-            examples:
-              example1:
-                summary: Add a Fern Plant
-                value:
-                  name: "Fern"
-                  category: "Indoor"
-                  tags: ["green", "leafy"]
-                  status: "available"
-      responses:
-        "200":
-          description: Plant successfully added
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/PlantResponse"
-              examples:
-                exampleResponse:
-                  summary: Successful Plant Addition
-                  value:
-                    id: 101
-                    name: "Fern"
-                    status: "available"
-                    tags: ["green", "leafy"]
-        "405":
-          description: Invalid input
-    put:
-      tags:
-        - plant
-      summary: Update an existing plant
-      operationId: updatePlant
-      requestBody:
-        description: Updated details of the plant
-        required: true
-        content:
-          application/json:
-            schema:
-              $ref: "#/components/schemas/Plant"
-            examples:
-              example1:
-                summary: Update plant status
-                value:
-                  name: "Fern"
-                  category: "Indoor"
-                  tags: ["green", "leafy"]
-                  status: "sold"
-      responses:
-        "200":
-          description: Plant successfully updated
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/PlantResponse"
-              examples:
-                exampleResponse:
-                  summary: Successful Plant Update
-                  value:
-                    id: 101
-                    name: "Fern"
-                    status: "sold"
-                    tags: ["green", "leafy"]
-        "400":
-          description: Invalid ID supplied
-        "404":
-          description: Plant not found
-  /plant/search/status:
+  /divisions:
     get:
       tags:
-        - plant
-      summary: Search plants by status
-      description: Filter plants based on their current status.
-      operationId: searchPlantsByStatus
-      parameters:
-        - name: status
-          in: query
-          description: The status of plants to search for.
-          required: false
-          schema:
-            type: string
-            enum: [available, pending, sold]
+        - divisions
+      summary: List all divisions
+      operationId: listDivisions
       responses:
         "200":
-          description: List of plants matching the status filter
+          description: The divisions of the Family Code
           content:
             application/json:
               schema:
                 type: array
                 items:
-                  $ref: "#/components/schemas/PlantResponse"
+                  $ref: "#/components/schemas/Division"
               examples:
                 exampleResponse:
-                  summary: Plants with status available
+                  summary: Two of the twenty divisions
                   value:
-                    - id: 101
-                      name: "Fern"
-                      status: "available"
-                      tags: ["green", "leafy"]
-                    - id: 102
-                      name: "Palm"
-                      status: "available"
-                      tags: ["tropical"]
-  /plant/search/tags:
+                    - number: 1
+                      title: "Preliminary Provisions and Definitions"
+                      range: "1-185"
+                    - number: 3
+                      title: "Marriage"
+                      range: "300-560"
+  /sections:
     get:
       tags:
-        - plant
-      summary: Search plants by tags
-      description: Filter plants based on associated tags.
-      operationId: searchPlantsByTags
+        - sections
+      summary: List sections
+      operationId: listSections
       parameters:
-        - name: tags
+        - name: division
           in: query
-          description: Tags to filter plants (comma-separated).
+          description: Filter by division number
           schema:
-            type: array
-            items:
-              type: string
-      responses:
-        "200":
-          description: List of plants matching the tags filter
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  $ref: "#/components/schemas/PlantResponse"
-              examples:
-                exampleResponse:
-                  summary: Plants filtered by tags
-                  value:
-                    - id: 101
-                      name: "Fern"
-                      status: "available"
-                      tags: ["green", "leafy"]
-                    - id: 103
-                      name: "Cactus"
-                      status: "available"
-                      tags: ["spiky", "desert"]
-  /plant/{plantId}:
-    get:
-      tags:
-        - plant
-      summary: Find plant by ID
-      description: Retrieve a plant's details by its ID.
-      operationId: getPlantById
-      parameters:
-        - name: plantId
-          in: path
-          description: ID of the plant to retrieve
-          required: true
+            type: integer
+        - name: part
+          in: query
+          description: Filter by part number within the division
           schema:
             type: integer
       responses:
         "200":
-          description: Details of the requested plant
+          description: Matching sections
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/PlantResponse"
-              examples:
-                exampleResponse:
-                  summary: Plant details
-                  value:
-                    id: 101
-                    name: "Fern"
-                    status: "available"
-                    tags: ["green", "leafy"]
-  /user/auth/login:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Section"
+  /sections/{sectionNumber}:
     get:
       tags:
-        - user
-      summary: Logs user into the system
-      operationId: loginUser
+        - sections
+      summary: Get a section by number
+      operationId: getSection
       parameters:
-        - name: username
-          in: query
-          description: The username for login
-          schema:
-            type: string
-        - name: password
-          in: query
-          description: The password for login
-          schema:
-            type: string
-      responses:
-        "200":
-          description: Successful login
-          headers:
-            Set-Cookie:
-              description: Session token for user authentication
-              schema:
-                type: string
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/UserAuthResponse"
-              examples:
-                exampleResponse:
-                  summary: Successful login response
-                  value:
-                    token: "abc123token"
-                    expiresIn: 3600
-  /user/auth/logout:
-    get:
-      tags:
-        - user
-      summary: Logs out current logged-in user session
-      operationId: logoutUser
-      responses:
-        default:
-          description: Successful logout
-  /user/{username}:
-    get:
-      tags:
-        - user
-      summary: Get user by username
-      description: Retrieve user details using their username.
-      operationId: getUserByName
-      parameters:
-        - name: username
+        - name: sectionNumber
           in: path
-          description: Username of the user to retrieve
           required: true
+          description: The section number (e.g., 300 or 4055)
           schema:
             type: string
       responses:
         "200":
-          description: User details retrieved successfully
+          description: The requested section
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/User"
+                $ref: "#/components/schemas/Section"
               examples:
                 exampleResponse:
-                  summary: User details response
+                  summary: Family Code section 300
                   value:
-                    id: 1
-                    username: "john_doe"
-                    email: "john@example.com"
+                    sectionNumber: "300"
+                    division: 3
+                    part: 1
+                    title: "Marriage is a personal relation / civil contract"
+                    text: "Marriage is a personal relation arising out of a civil contract between two persons, to which the consent of the parties capable of making that contract is necessary."
+                    enactedBy: "Stats. 1992, Ch. 162, Sec. 10"
+        "404":
+          description: Section not found
+  /search:
+    get:
+      tags:
+        - sections
+      summary: Full-text search
+      operationId: searchSections
+      parameters:
+        - name: q
+          in: query
+          required: true
+          description: Search term
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Sections matching the query
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/SearchResult"
 components:
   schemas:
-    Plant:
+    Division:
       type: object
       properties:
-        name:
-          type: string
-        category:
-          type: string
-        tags:
-          type: array
-          items:
-            type: string
-        status:
-          type: string
-          enum: [available, pending, sold]
-    PlantResponse:
-      type: object
-      properties:
-        id:
+        number:
           type: integer
-        name:
+          description: Division number (1 through 20, with gaps)
+        title:
           type: string
-        status:
+          description: Official division title
+        range:
           type: string
-        tags:
-          type: array
-          items:
-            type: string
-    UserAuthResponse:
+          description: Section range, e.g. "300-560"
+    Section:
       type: object
       properties:
-        token:
+        sectionNumber:
           type: string
-          description: Authentication token
-        expiresIn:
+          description: Official section number (e.g., "300" or "5700.905")
+        division:
           type: integer
-          description: Token expiration time in seconds
-    User:
+        part:
+          type: integer
+        title:
+          type: string
+          description: Section heading
+        text:
+          type: string
+          description: The enacted text of the section
+        enactedBy:
+          type: string
+          description: Statutory citation for the enactment
+    SearchResult:
       type: object
       properties:
-        id:
-          type: integer
-        username:
+        sectionNumber:
           type: string
-        email:
+        title:
           type: string
+        snippet:
+          type: string
+          description: Matching excerpt

@@ -8,33 +8,44 @@ instances:
         repo: family-x1oh1xy2
         branch: main
       launch: dashboard
-title: family | Documentation
+title: California Family Code | Interactive Edition
 layout:
   searchbar-placement: header
   page-width: full
   tabs-placement: header
 tabs:
-  home:
-    display-name: Home
-    icon: home
+  code:
+    display-name: Family Code
+    icon: scale-balanced
   API Reference:
-    display-name: API Reference
-    icon: puzzle
+    display-name: Family Code API
+    icon: database
 navigation:
-  - tab: home
+  - tab: code
     layout:
-      - section: Get started
+      - section: Family Code
         contents:
-          - page: Welcome
-            path: docs/pages/welcome.mdx
-            icon: fa-solid fa-house
-          - page: Edit your docs
-            path: docs/pages/editing-your-docs.mdx
-            icon: fa-solid fa-pen-to-square
-          - page: Manage your docs
-            path: docs/pages/dashboard.mdx
-            icon: fa-regular fa-gauge
-          - page: Use components
+          - page: Preliminary Provisions
+            path: docs/pages/preliminary-provisions.mdx
+            icon: fa-solid fa-scroll
+          - page: Definitions & Indian Children
+            path: docs/pages/division-1-definitions.mdx
+            icon: fa-solid fa-book-bookmark
+          - page: Division 3 — Marriage
+            path: docs/pages/division-3-marriage.mdx
+            icon: fa-solid fa-ring
+          - page: Division 6 — Dissolution
+            path: docs/pages/division-6-dissolution.mdx
+            icon: fa-solid fa-scale-unbalanced
+          - page: Division 8 — Custody of Children
+            path: docs/pages/division-8-custody.mdx
+            icon: fa-solid fa-children
+          - page: Division 9 — Support
+            path: docs/pages/division-9-support.mdx
+            icon: fa-solid fa-hand-holding-dollar
+      - section: Docs Toolkit
+        contents:
+          - page: Components reference
             path: docs/pages/components.mdx
             icon: fa-solid fa-cubes
           - page: Developer guide
@@ -43,34 +54,31 @@ navigation:
           - page: Support
             path: docs/pages/support.mdx
             icon: fa-solid fa-headset
-      - section: Changelog
-        contents:
-          - changelog: docs/changelog
   - tab: API Reference
     layout:
       - section: Overview
         contents:
-          - page: API reference
+          - page: Family Code API
             path: docs/pages/api-reference-overview.mdx
             icon: fa-duotone fa-book
-      - api: Swagger Plant Store - OpenAPI 3.1
+      - api: Family Code API - OpenAPI 3.1
         api-name: example-openapi
-      - api: Plant Store AsyncAPI
+      - api: Family Code Realtime
         api-name: example-asyncapi
 navbar-links:
   - type: filled
-    text: Edit
-    url: https://dashboard.buildwithfern.com
+    text: Read the source
+    url: https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM&division=1.&title=&part=&chapter=&article=
 colors:
   accent-primary:
-    light: "#008700"
-    dark: "#4ADE80"
+    light: "#7C2D12"
+    dark: "#FBBF24"
   background:
-    light: "#FFFFFF"
-    dark: "#111113"
+    light: "#FFFBF5"
+    dark: "#0B0B0C"
   border:
-    light: "#E5E7EB"
-    dark: "#222325"
+    light: "#E7DCCB"
+    dark: "#26241F"
 theme:
   page-actions: toolbar
   footer-nav: minimal
@@ -78,7 +86,7 @@ logo:
   dark: docs/assets/logo-dark.svg
   light: docs/assets/logo.svg
   height: 20
-  href: https://buildwithfern.com
+  href: https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM
 favicon: docs/assets/favicon.svg
 css:
   - styles.css
