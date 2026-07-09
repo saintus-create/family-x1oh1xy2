@@ -1,0 +1,10 @@
+{
+  "desiredContentHash": "ed281fad19078d82a3003495e91ccf3783a6a930a10b5443f404e12e377346b8",
+  "docsUrl": "https://family.docs.buildwithfern.com",
+  "starter": {
+    "repoOwner": "fern-api",
+    "repoName": "docs-starter-internal",
+    "commitSha": "abf6de6e5327dbde36a53464b5f01fad8162fc14",
+    "label": "2026-06-30-vendor-onboarding-layouts"
+  }
+}

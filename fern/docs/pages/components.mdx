@@ -1,0 +1,132 @@
+---
+title: Components
+subtitle: Pre-built UI components for rich documentation pages
+slug: components
+---
+
+Fern provides [built-in components](https://buildwithfern.com/learn/docs/writing-content/components/overview) for common documentation patterns. Use them in the Fern Editor or directly in MDX files.
+
+## Callouts
+
+Highlight important information with styled callouts.
+
+<Note>
+This is a note callout. Use it for tips, warnings, or important context.
+</Note>
+
+```jsx
+<Note>
+This is a note callout.
+</Note>
+```
+
+## Cards
+
+Use cards to link to other pages or highlight features.
+
+<CardGroup cols={2}>
+  <Card title="First card" icon="duotone star">
+    Cards can contain a short description
+  </Card>
+  <Card title="Second card" icon="duotone rocket">
+    Add an `href` to make them clickable
+  </Card>
+</CardGroup>
+
+```jsx
+<CardGroup cols={2}>
+  <Card title="First card" icon="duotone star">
+    Cards can contain a short description
+  </Card>
+  <Card title="Second card" icon="duotone rocket">
+    Add an href to make them clickable
+  </Card>
+</CardGroup>
+```
+
+## Accordions
+
+Collapsible sections for FAQs or optional detail.
+
+<AccordionGroup>
+  <Accordion title="Click to expand">
+    Hidden content is revealed when the user clicks.
+  </Accordion>
+</AccordionGroup>
+
+```jsx
+<AccordionGroup>
+  <Accordion title="Click to expand">
+    Hidden content is revealed when the user clicks.
+  </Accordion>
+</AccordionGroup>
+```
+
+## Tabs
+
+Organize content into switchable views.
+
+<Tabs>
+  <Tab title="JavaScript">
+    ```js
+    console.log("Hello");
+    ```
+  </Tab>
+  <Tab title="Python">
+    ```python
+    print("Hello")
+    ```
+  </Tab>
+</Tabs>
+
+```jsx
+<Tabs>
+  <Tab title="JavaScript">
+    console.log("Hello");
+  </Tab>
+  <Tab title="Python">
+    print("Hello")
+  </Tab>
+</Tabs>
+```
+
+## Steps
+
+Walk users through a process.
+
+<Steps>
+  <Step title="Install the CLI">
+    ```bash
+    npm install -g fern-api
+    ```
+  </Step>
+  <Step title="Preview your docs">
+    ```bash
+    fern docs dev
+    ```
+  </Step>
+</Steps>
+
+```jsx
+<Steps>
+  <Step title="Install the CLI">
+    npm install -g fern-api
+  </Step>
+  <Step title="Preview your docs">
+    fern docs dev
+  </Step>
+</Steps>
+```
+
+## Code blocks
+
+Fern supports syntax-highlighted code blocks with optional titles.
+
+```python title="example.py"
+def hello():
+    return "Hello, world!"
+```
+
+---
+
+For the full list of components and detailed usage, see the [Fern components documentation](https://buildwithfern.com/learn/docs/writing-content/components/overview).

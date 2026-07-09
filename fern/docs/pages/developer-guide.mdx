@@ -1,0 +1,129 @@
+---
+title: Developer guide
+subtitle: Work with the code directly for full control over your docs
+slug: developer-guide
+---
+
+Fern Editor is the fastest way to make changes, but when you need full control you can work with the source files directly.
+
+## Project structure
+
+Your docs project is organized like this:
+
+<Files>
+  <File name="docs.yml" comment="Navigation, theme, and site settings" />
+  <File name="fern.config.json" comment="Organization name and CLI version" />
+  <File name="openapi.yaml" comment="Your API specification" />
+  <Folder name="docs" defaultOpen>
+    <Folder name="pages" comment="Documentation pages in MDX" />
+    <Folder name="assets" comment="Logos, favicon, and images" />
+    <Folder name="changelog" comment="Changelog entries" />
+  </Folder>
+</Files>
+
+For details on each file, see the [project structure documentation](https://buildwithfern.com/learn/docs/getting-started/project-structure).
+
+## Configure with docs.yml
+
+`docs.yml` is the single file that controls your site's look, feel, and structure — no custom code needed. Here's what you can adjust:
+
+<CardGroup cols={2}>
+  <Card title="Colors" icon="duotone palette" href="https://buildwithfern.com/learn/docs/configuration/site-level-settings#colors-configuration">
+    Brand colors for light and dark modes
+  </Card>
+  <Card title="Typography" icon="duotone font" href="https://buildwithfern.com/learn/docs/configuration/site-level-settings#typography-configuration">
+    Fonts for headings and body text
+  </Card>
+  <Card title="Logo and favicon" icon="duotone image" href="https://buildwithfern.com/learn/docs/configuration/site-level-settings#logo-configuration">
+    Your brand logo and browser icon
+  </Card>
+  <Card title="Layout" icon="duotone table-layout" href="https://buildwithfern.com/learn/docs/configuration/site-level-settings#layout-configuration">
+    Page width, sidebar, and tabs placement
+  </Card>
+  <Card title="Navigation" icon="duotone sitemap" href="https://buildwithfern.com/learn/docs/configuration/navigation">
+    Sections, pages, tabs, and versioning
+  </Card>
+  <Card title="Navbar links" icon="duotone link" href="https://buildwithfern.com/learn/docs/configuration/site-level-settings#navbar-links-configuration">
+    Links and buttons in your header
+  </Card>
+</CardGroup>
+
+For the full reference, see the [site-level settings documentation](https://buildwithfern.com/learn/docs/configuration/site-level-settings).
+
+## Writing pages in MDX
+
+Pages are MDX files — Markdown with support for Fern [components](/components). Each page starts with frontmatter:
+
+```markdown title="docs/pages/my-page.mdx"
+---
+title: Page title
+subtitle: Optional subtitle
+slug: my-page
+---
+
+Your content here. Use **bold**, *italic*, `code`, and standard Markdown.
+
+## Headings create sections
+
+Add components like <Note>, <Card>, and <Tabs> alongside your Markdown.
+```
+
+After creating a page, add it to `docs.yml` to include it in your navigation.
+
+## Editing, previewing, and publishing
+
+Clone the repository and open it in your editor of choice. Install the Fern CLI to preview changes locally as you work:
+
+```bash
+npm install -g fern-api
+fern docs dev
+```
+
+This starts a local dev server with hot-reloading at [http://localhost:3000](http://localhost:3000). Edit MDX files, update `docs.yml`, and see changes instantly.
+
+### When you open a pull request
+
+When you're ready, push your changes and open a pull request. This repository has GitHub Actions workflows (in `.github/workflows/`) that take it from there — your docs are validated, a shareable preview link is posted as a comment on your PR, and once merged to `main`, your docs are published to production automatically.
+
+| Workflow | Trigger | What it does |
+|---|---|---|
+| `check.yml` | PRs and pushes to `main` | Runs `fern check` to validate your API spec and docs configuration |
+| `preview-docs.yml` | Pull requests | Generates a [preview URL](https://buildwithfern.com/learn/docs/preview-publish/previewing-changes#preview-links) and posts it as a PR comment so reviewers can see changes before merging |
+| `publish-docs.yml` | Push to `main` | [Publishes your docs](https://buildwithfern.com/learn/docs/preview-publish/publishing-your-docs) to production automatically |
+
+<Note>
+  These workflows require a `FERN_TOKEN` [repository secret](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository). Generate one with `fern token` and add it in your repository's **Settings → Secrets and variables → Actions**.
+</Note>
+
+## Going further
+
+<CardGroup cols={2}>
+  <Card
+    title="Custom CSS and JavaScript"
+    icon="duotone code"
+    href="https://buildwithfern.com/learn/docs/customization/custom-css-js"
+  >
+    Add custom styles and scripts to your site
+  </Card>
+  <Card
+    title="Custom React components"
+    icon="duotone puzzle-piece"
+    href="https://buildwithfern.com/learn/docs/customization/custom-react-components"
+  >
+    Build interactive components for your docs
+  </Card>
+  <Card
+    title="SEO and metadata"
+    icon="duotone magnifying-glass"
+    href="https://buildwithfern.com/learn/docs/seo/setting-seo-metadata"
+  >
+    Configure page-level SEO with frontmatter
+  </Card>
+  <Card
+    title="CLI reference"
+    icon="duotone terminal"
+    href="https://buildwithfern.com/learn/cli-api-reference/cli-reference/overview"
+  >
+    Full list of CLI commands and options
+  </Card>
+</CardGroup>

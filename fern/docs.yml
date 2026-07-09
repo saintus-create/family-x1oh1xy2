@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
+
+instances:
+  - url: family.docs.buildwithfern.com
+    edit-this-page:
+      github:
+        owner: fern-starter
+        repo: family-x1oh1xy2
+        branch: main
+      launch: dashboard
+title: family | Documentation
+layout:
+  searchbar-placement: header
+  page-width: full
+  tabs-placement: header
+tabs:
+  home:
+    display-name: Home
+    icon: home
+  API Reference:
+    display-name: API Reference
+    icon: puzzle
+navigation:
+  - tab: home
+    layout:
+      - section: Get started
+        contents:
+          - page: Welcome
+            path: docs/pages/welcome.mdx
+            icon: fa-solid fa-house
+          - page: Edit your docs
+            path: docs/pages/editing-your-docs.mdx
+            icon: fa-solid fa-pen-to-square
+          - page: Manage your docs
+            path: docs/pages/dashboard.mdx
+            icon: fa-regular fa-gauge
+          - page: Use components
+            path: docs/pages/components.mdx
+            icon: fa-solid fa-cubes
+          - page: Developer guide
+            path: docs/pages/developer-guide.mdx
+            icon: fa-solid fa-code
+          - page: Support
+            path: docs/pages/support.mdx
+            icon: fa-solid fa-headset
+      - section: Changelog
+        contents:
+          - changelog: docs/changelog
+  - tab: API Reference
+    layout:
+      - section: Overview
+        contents:
+          - page: API reference
+            path: docs/pages/api-reference-overview.mdx
+            icon: fa-duotone fa-book
+      - api: Swagger Plant Store - OpenAPI 3.1
+        api-name: example-openapi
+      - api: Plant Store AsyncAPI
+        api-name: example-asyncapi
+navbar-links:
+  - type: filled
+    text: Edit
+    url: https://dashboard.buildwithfern.com
+colors:
+  accent-primary:
+    light: "#008700"
+    dark: "#4ADE80"
+  background:
+    light: "#FFFFFF"
+    dark: "#111113"
+  border:
+    light: "#E5E7EB"
+    dark: "#222325"
+theme:
+  page-actions: toolbar
+  footer-nav: minimal
+logo:
+  dark: docs/assets/logo-dark.svg
+  light: docs/assets/logo.svg
+  height: 20
+  href: https://buildwithfern.com
+favicon: docs/assets/favicon.svg
+css:
+  - styles.css
+  - docs/assets/onboarding-theme.css
+typography:
+  headingsFont:
+    name: Inter
+  bodyFont:
+    name: Inter
+ai-search: {}
