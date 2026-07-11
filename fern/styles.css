@@ -27,15 +27,15 @@
   --fam-text-main: #1b1b1b;
   --fam-text-muted: #565c65;
   --fam-border: #c0c0c0;
-  --fam-radius: 0.25rem;
-  --fam-radius-lg: 0.5rem;
-  --fam-shadow: 0 1px 3px rgba(0,0,0,0.08);
-  --fam-shadow-md: 0 4px 12px rgba(0,0,0,0.1);
-  --fam-shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+  --fam-radius: 0.5rem;
+  --fam-radius-lg: 0.875rem;
+  --fam-shadow: 0 1px 2px rgba(0,0,0,0.06), 0 1px 3px rgba(0,0,0,0.05);
+  --fam-shadow-md: 0 1px 3px rgba(0,0,0,0.1), 0 4px 10px rgba(0,0,0,0.06);
+  --fam-shadow-lg: 0 2px 6px rgba(0,0,0,0.1), 0 8px 20px rgba(0,0,0,0.08);
   --fam-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
   --fam-font-mono: 'SF Mono', 'Monaco', 'Menlo', 'Consolas', monospace;
-  --fam-max-width: 80rem;
-  --fam-sidebar-width: 16rem;
+  --fam-max-width: 78rem;
+  --fam-sidebar-width: 17rem;
 }
 
 :root.dark {
@@ -61,9 +61,9 @@
   --fam-text-main: #f0f0f0;
   --fam-text-muted: #c0c0c0;
   --fam-border: #4a4a4a;
-  --fam-shadow: 0 1px 3px rgba(0,0,0,0.3);
-  --fam-shadow-md: 0 4px 12px rgba(0,0,0,0.4);
-  --fam-shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
+  --fam-shadow: 0 1px 2px rgba(0,0,0,0.4), 0 1px 3px rgba(0,0,0,0.3);
+  --fam-shadow-md: 0 1px 3px rgba(0,0,0,0.5), 0 4px 10px rgba(0,0,0,0.35);
+  --fam-shadow-lg: 0 2px 6px rgba(0,0,0,0.5), 0 8px 20px rgba(0,0,0,0.4);
 }
 
 /* ========================================
@@ -635,4 +635,123 @@
 .fern-page-actions button {
   font-family: var(--fam-font-sans);
   font-weight: 600;
+}
+
+/* ========================================
+   18. MATTE / WHITESPACE + HOME (Google-Gemini feel)
+   ======================================== */
+
+/* Airier base rhythm */
+.markdown {
+  line-height: 1.72;
+  padding-bottom: 2rem;
+}
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+  letter-spacing: -0.012em;
+  margin-top: 2.5rem;
+  margin-bottom: 1.1rem;
+}
+.markdown h1 { font-size: 2.25rem; font-weight: 600; }
+.markdown h2 { font-size: 1.6rem; font-weight: 600; }
+
+/* Statute cards: softer, roomier, more rounded */
+.statute-card {
+  padding: 1.6rem;
+  margin: 1.1rem 0;
+  border-radius: var(--fam-radius-lg);
+}
+.statute-card .section-body p { max-width: 78ch; }
+
+/* ---- Home / hero ---- */
+.fam-hero {
+  text-align: center;
+  max-width: 54rem;
+  margin: 0.5rem auto 2.5rem;
+  padding: 4rem 1rem 0;
+}
+.fam-hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background: var(--fam-bg-subtle);
+  border: 1px solid var(--fam-border);
+  color: var(--fam-text-muted);
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.6rem;
+}
+.fam-hero-title {
+  font-size: clamp(2.6rem, 5.5vw, 4.25rem);
+  font-weight: 500;
+  letter-spacing: -0.025em;
+  line-height: 1.08;
+  margin: 0;
+  color: var(--fam-text-main);
+}
+.fam-hero-title .accent { color: var(--fam-color-primary); }
+.fam-hero-subtitle {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: var(--fam-text-muted);
+  max-width: 42rem;
+  margin: 1.4rem auto 0;
+}
+.fam-hero-actions {
+  margin-top: 2.2rem;
+  display: flex;
+  gap: 0.85rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.fam-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 999px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: background 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+.fam-btn-primary {
+  background: var(--fam-color-primary);
+  color: #ffffff;
+  box-shadow: var(--fam-shadow);
+}
+.fam-btn-primary:hover { background: var(--fam-color-primary-dark); }
+.fam-btn-ghost {
+  background: transparent;
+  color: var(--fam-color-primary);
+  border: 1px solid var(--fam-border);
+}
+.fam-btn-ghost:hover { background: var(--fam-bg-subtle); }
+
+.fam-section-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  margin: 3.5rem 0 1.5rem;
+  text-align: center;
+}
+
+/* Matte overrides for Fern Cards (home grid) */
+.card-group { gap: 1.35rem; }
+.card {
+  border-radius: var(--fam-radius-lg) !important;
+  border: 1px solid var(--fam-border) !important;
+  box-shadow: var(--fam-shadow) !important;
+  background: var(--fam-bg-elevated) !important;
+  padding: 1.6rem !important;
+  transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
+}
+.card:hover {
+  box-shadow: var(--fam-shadow-md) !important;
+  border-color: var(--fam-color-primary) !important;
+  transform: translateY(-2px);
 }
