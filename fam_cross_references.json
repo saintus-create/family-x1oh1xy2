@@ -1,0 +1,587 @@
+{
+  "metadata": {
+    "source": "California Family Code (FAM)",
+    "base_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division={division}.&title=&part={part}.&chapter=&article=",
+    "section_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum={section}.",
+    "note": "Server rate-limiting prevented fetching all ~8,000 sections. Cross-references below are extracted from successfully fetched parts only.",
+    "fetched_parts": [
+      "Division 1, Part 1 (§§ 1-13)",
+      "Division 1, Part 2 (§§ 50-155)",
+      "Division 1, Part 3 (§§ 170-185)",
+      "Division 2, Part 1 (§ 200)",
+      "Division 2, Part 2 (§§ 210-218)",
+      "Division 2, Part 3 (§§ 231-235)",
+      "Division 2, Part 5 (§§ 270-274)",
+      "Division 2, Part 6 (§§ 290-292)",
+      "Division 2, Part 7 (§ 295)",
+      "Division 2.5, Part 1 (§§ 297-297.5)",
+      "Division 2.5, Part 2 (§§ 298-298.8)",
+      "Division 2.5, Part 3 (§§ 299-299.2)",
+      "Division 2.5, Part 5 (§ 299.6)",
+      "Division 3, Part 1 (§§ 300-310)",
+      "Division 3, Part 2 (§§ 350-360)",
+      "Division 3, Part 5 (§§ 550-560)",
+      "Division 4, Part 4 (§§ 1100-1103)",
+      "Division 5, Part 2 (§§ 1850-1852)",
+      "Division 7, Part 1 (§§ 2500-2502)",
+      "Division 11, Part 1 (§§ 6500-6502)",
+      "Division 14 (§§ 10000-10015)"
+    ]
+  },
+  "cross_references": [
+    {
+      "fam_section": "FAM § 65",
+      "fam_text": "\"Community property\" is property that is community property under Part 2 (commencing with Section 760) of Division 4.",
+      "referenced_code": "FAM",
+      "referenced_section": "Part 2 (commencing with Section 760) of Division 4",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division=4.&title=&part=2.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 130",
+      "fam_text": "\"Separate property\" is property that is separate property under Part 2 (commencing with Section 760) of Division 4.",
+      "referenced_code": "FAM",
+      "referenced_section": "Part 2 (commencing with Section 760) of Division 4",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division=4.&title=&part=2.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 155",
+      "fam_text": "For the purposes of Section 685.020 of the Code of Civil Procedure, only the initial support order, whether temporary or final, whether or not the order is contained in a judgment, shall be considered an installment judgment. No support order or other order or notice issued, which sets forth the amount of support owed for prior periods of time or establishes a periodic payment to liquidate the support owed for prior periods, shall be considered a money judgment for purposes of subdivision (b) of Section 685.020 of the Code of Civil Procedure.",
+      "referenced_code": "CCP",
+      "referenced_section": "Section 685.020",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=685.020."
+    },
+    {
+      "fam_section": "FAM § 150",
+      "fam_text": "\"Support\" refers to a support obligation owing on behalf of a child, spouse, or family, or an amount owing pursuant to Section 17402.",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 17402",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=17402."
+    },
+    {
+      "fam_section": "FAM § 170",
+      "fam_text": "As used in this code, unless the context otherwise requires, the terms \"Indian,\" \"Indian child,\" \"Indian child's tribe,\" \"Indian custodian,\" \"Indian organization,\" \"Indian tribe,\" \"reservation,\" and \"tribal court\" shall be defined as provided in Section 1903 of the Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.).",
+      "referenced_code": "USC",
+      "referenced_section": "Section 1903 of the Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.)",
+      "referenced_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1903&num=0&edition=prelim"
+    },
+    {
+      "fam_section": "FAM § 175",
+      "fam_text": "The state is committed to protecting the essential tribal relations and best interest of an Indian child by promoting practices, in accordance with the Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.) and other applicable law...",
+      "referenced_code": "USC",
+      "referenced_section": "Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.)",
+      "referenced_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title25/chapter21&edition=prelim"
+    },
+    {
+      "fam_section": "FAM § 177",
+      "fam_text": "In an Indian child custody proceeding, the court shall apply Sections 224.2 to 224.6, inclusive, and Sections 305.5, 361.31, and 361.7 of the Welfare and Institutions Code...",
+      "referenced_code": "WIC",
+      "referenced_section": "Sections 224.2 to 224.6, inclusive, and Sections 305.5, 361.31, and 361.7",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=WIC&division=1.&title=&part=1.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 180",
+      "fam_text": "That if the parents or Indian custodians are unable to afford counsel, counsel will be appointed to represent the parents or Indian custodians pursuant to Section 1912 of the Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.).",
+      "referenced_code": "USC",
+      "referenced_section": "Section 1912 of the Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.)",
+      "referenced_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1912&num=0&edition=prelim"
+    },
+    {
+      "fam_section": "FAM § 185",
+      "fam_text": "In a custody proceeding involving a child who would otherwise be an Indian child based on the definition contained in paragraph (4) of Section 1903 of the federal Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.), but is not an Indian child based on status of the child's tribe, as defined in paragraph (8) of Section 1903 of the federal Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.)...",
+      "referenced_code": "USC",
+      "referenced_section": "Section 1903 of the federal Indian Child Welfare Act (25 U.S.C. Sec. 1901 et seq.)",
+      "referenced_url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1903&num=0&edition=prelim"
+    },
+    {
+      "fam_section": "FAM § 210",
+      "fam_text": "Except to the extent that any other statute or rules adopted by the Judicial Council provide applicable rules, the rules of practice and procedure applicable to civil actions generally, including the provisions of Title 3a (commencing with Section 391) of Part 2 of the Code of Civil Procedure, apply to, and constitute the rules of practice and procedure in, proceedings under this code.",
+      "referenced_code": "CCP",
+      "referenced_section": "Title 3a (commencing with Section 391) of Part 2",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=2.&title=&part=2.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 216",
+      "fam_text": "Subdivisions (a) and (b) shall not apply in the following situations: ... To allow a mediator or evaluator to address a case involving allegations of domestic violence as set forth in Sections 3113, 3181, and 3192.",
+      "referenced_code": "FAM",
+      "referenced_section": "Sections 3113, 3181, and 3192",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=3113."
+    },
+    {
+      "fam_section": "FAM § 216",
+      "fam_text": "Subdivisions (a) and (b) shall not apply in the following situations: ... To allow a mediator or evaluator to address a case involving allegations of domestic violence as set forth in Rule 5.215 of the California Rules of Court.",
+      "referenced_code": "CRC",
+      "referenced_section": "Rule 5.215 of the California Rules of Court",
+      "referenced_url": "https://www.courts.ca.gov/rules/index.htm"
+    },
+    {
+      "fam_section": "FAM § 216",
+      "fam_text": "A mediator or evaluator may have responsibilities as a mandated reporter pursuant to Section 11165.9 of the Penal Code...",
+      "referenced_code": "PEN",
+      "referenced_section": "Section 11165.9",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=11165.9."
+    },
+    {
+      "fam_section": "FAM § 216",
+      "fam_text": "...and responsibilities a mediator or evaluator have to warn under Tarasoff v. Regents of the University of California (1976) 17 Cal.3d 425, Hedlund v. Superior Court (1983) 34 Cal.3d 695, and Section 43.92 of the Civil Code.",
+      "referenced_code": "CIV",
+      "referenced_section": "Section 43.92",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=43.92."
+    },
+    {
+      "fam_section": "FAM § 218",
+      "fam_text": "The date initially set for trial of the action specified in subdivision (a) of Section 2024.020 of the Code of Civil Procedure shall mean the date the postjudgment proceeding is set for hearing...",
+      "referenced_code": "CCP",
+      "referenced_section": "Section 2024.020",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=2024.020."
+    },
+    {
+      "fam_section": "FAM § 233",
+      "fam_text": "A willful and knowing violation of the order included in the summons by removing a child from the state without the written consent of the other party or an order of the court is punishable as provided in Section 278.5 of the Penal Code.",
+      "referenced_code": "PEN",
+      "referenced_section": "Section 278.5",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=278.5."
+    },
+    {
+      "fam_section": "FAM § 233",
+      "fam_text": "A willful and knowing violation of any of the other orders included in the summons is punishable as provided in Section 273.6 of the Penal Code.",
+      "referenced_code": "PEN",
+      "referenced_section": "Section 273.6",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=273.6."
+    },
+    {
+      "fam_section": "FAM § 240",
+      "fam_text": "This part applies where a temporary restraining order, including a protective order as defined in Section 6218, is issued under any of the following provisions...",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 6218",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=6218."
+    },
+    {
+      "fam_section": "FAM § 241",
+      "fam_text": "Except as provided in Section 6300, an order described in Section 240 may not be granted without notice to the respondent...",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 6300",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=6300."
+    },
+    {
+      "fam_section": "FAM § 273",
+      "fam_text": "The court shall not award attorney's fees against any governmental agency involved in a family law matter or child support proceeding except when sanctions are appropriate pursuant to Section 128.5 of the Code of Civil Procedure or Section 271 of this code.",
+      "referenced_code": "CCP",
+      "referenced_section": "Section 128.5",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=128.5."
+    },
+    {
+      "fam_section": "FAM § 291",
+      "fam_text": "A judgment described in this section may be renewed pursuant to Article 2 (commencing with Section 683.110) of Chapter 3 of Division 1 of Title 9 of Part 2 of the Code of Civil Procedure.",
+      "referenced_code": "CCP",
+      "referenced_section": "Article 2 (commencing with Section 683.110) of Chapter 3 of Division 1 of Title 9 of Part 2",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=1.&title=9.&part=2.&chapter=3.&article=2."
+    },
+    {
+      "fam_section": "FAM § 292",
+      "fam_text": "Section 1211.5 of the Code of Civil Procedure shall apply to the Order to Show Cause and Affidavit for Contempt (Family Law) and the Affidavit of Facts Constituting Contempt.",
+      "referenced_code": "CCP",
+      "referenced_section": "Section 1211.5",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1211.5."
+    },
+    {
+      "fam_section": "FAM § 295",
+      "fam_text": "For the purpose of application of the laws of succession set forth in the Probate Code to a decedent, and for the purpose of determining the validity of a marriage under the laws of this state, an alliance entered into before 1958...",
+      "referenced_code": "PROB",
+      "referenced_section": "Probate Code (general reference to laws of succession)",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=PROB"
+    },
+    {
+      "fam_section": "FAM § 297.5",
+      "fam_text": "...except that nothing in this section applies to modify eligibility for long-term care plans pursuant to Chapter 15 (commencing with Section 21660) of Part 3 of Division 5 of Title 2 of the Government Code.",
+      "referenced_code": "GOV",
+      "referenced_section": "Chapter 15 (commencing with Section 21660) of Part 3 of Division 5 of Title 2",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=GOV&division=5.&title=2.&part=3.&chapter=15.&article="
+    },
+    {
+      "fam_section": "FAM § 298",
+      "fam_text": "...for the development and support of a lesbian, gay, bisexual, and transgender curriculum for training workshops on domestic violence, conducted pursuant to Section 13823.15 of the Penal Code...",
+      "referenced_code": "PEN",
+      "referenced_section": "Section 13823.15",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=13823.15."
+    },
+    {
+      "fam_section": "FAM § 298.5",
+      "fam_text": "...a Certificate of Registered Domestic Partnership, and a copy of the brochure that is made available to county clerks and the Secretary of State by the State Department of Public Health pursuant to Section 358 and distributed to individuals receiving a confidential marriage license pursuant to Section 503...",
+      "referenced_code": "HSC",
+      "referenced_section": "Section 358",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=358."
+    },
+    {
+      "fam_section": "FAM § 298.5",
+      "fam_text": "...and distributed to individuals receiving a confidential marriage license pursuant to Section 503...",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 503",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=503."
+    },
+    {
+      "fam_section": "FAM § 298.6",
+      "fam_text": "A certified copy of a Declaration of Domestic Partnership containing the new name, or retaining the former name, shall constitute proof that the use of the new name or retention of the former name is lawful.",
+      "referenced_code": "VEH",
+      "referenced_section": "Section 12800.7",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12800.7."
+    },
+    {
+      "fam_section": "FAM § 298.6",
+      "fam_text": "This section does not prohibit the Department of Motor Vehicles from accepting as identification other documents establishing a true, full name for purposes of Section 12800.7 of the Vehicle Code.",
+      "referenced_code": "VEH",
+      "referenced_section": "Section 12800.7",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12800.7."
+    },
+    {
+      "fam_section": "FAM § 298.6",
+      "fam_text": "This section shall be applied in a manner consistent with the requirements of Sections 1653.5 and 12801 of the Vehicle Code.",
+      "referenced_code": "VEH",
+      "referenced_section": "Sections 1653.5 and 12801",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=1653.5."
+    },
+    {
+      "fam_section": "FAM § 298.6",
+      "fam_text": "...or to petition the superior court for a change of name pursuant to Title 8 (commencing with Section 1275) of Part 3 of the Code of Civil Procedure.",
+      "referenced_code": "CCP",
+      "referenced_section": "Title 8 (commencing with Section 1275) of Part 3",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=3.&title=&part=3.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 299",
+      "fam_text": "There are no unpaid obligations in excess of the amount described in paragraph (6) of subdivision (a) of Section 2400, as adjusted by subdivision (b) of Section 2400, incurred by either or both of the parties after registration of the domestic partnership, excluding the amount of any unpaid obligation with respect to an automobile.",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 2400",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=2400."
+    },
+    {
+      "fam_section": "FAM § 299",
+      "fam_text": "The total fair market value of community property assets, excluding all encumbrances and automobiles, including any deferred compensation or retirement plan, is less than the amount described in paragraph (7) of subdivision (a) of Section 2400, as adjusted by subdivision (b) of Section 2400...",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 2400",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=2400."
+    },
+    {
+      "fam_section": "FAM § 304",
+      "fam_text": "...the gender of each party intending to marry, if provided, shall be documented on the court order granting permission to marry for purposes of the requirements on the person solemnizing the marriage under subdivision (b) of Section 423, and the requirements on the local registrar under subdivision (a) of Section 102356 of the Health and Safety Code...",
+      "referenced_code": "HSC",
+      "referenced_section": "Section 102356",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=102356."
+    },
+    {
+      "fam_section": "FAM § 304",
+      "fam_text": "...for purposes of completing the document described in Section 102233 of the Health and Safety Code...",
+      "referenced_code": "HSC",
+      "referenced_section": "Section 102233",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=102233."
+    },
+    {
+      "fam_section": "FAM § 306.5",
+      "fam_text": "A certified copy of a marriage certificate shall be accepted as identification establishing a true, full name for purposes of Section 12800.7 of the Vehicle Code.",
+      "referenced_code": "VEH",
+      "referenced_section": "Section 12800.7",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=12800.7."
+    },
+    {
+      "fam_section": "FAM § 306.5",
+      "fam_text": "This section shall be applied in a manner consistent with the requirements of Sections 1653.5 and 12801 of the Vehicle Code.",
+      "referenced_code": "VEH",
+      "referenced_section": "Sections 1653.5 and 12801",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=1653.5."
+    },
+    {
+      "fam_section": "FAM § 306.5",
+      "fam_text": "...or to petition the superior court for a change of name pursuant to Title 8 (commencing with Section 1275) of Part 3 of the Code of Civil Procedure.",
+      "referenced_code": "CCP",
+      "referenced_section": "Title 8 (commencing with Section 1275) of Part 3",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CCP&division=3.&title=&part=3.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 307",
+      "fam_text": "The parties to the marriage sign and endorse on the form prescribed by the State Department of Public Health, showing all of the following...",
+      "referenced_code": "HSC",
+      "referenced_section": "State Department of Public Health forms (Health and Safety Code)",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=HSC"
+    },
+    {
+      "fam_section": "FAM § 309",
+      "fam_text": "If either party to a marriage denies the marriage, or refuses to join in a declaration of the marriage, the other party may proceed, by action pursuant to Section 103450 of the Health and Safety Code, to have the validity of the marriage determined and declared.",
+      "referenced_code": "HSC",
+      "referenced_section": "Section 103450",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=103450."
+    },
+    {
+      "fam_section": "FAM § 351.5",
+      "fam_text": "Notwithstanding subdivision (b) of Section 351 or 359 of this code, or Section 103175 of the Health and Safety Code...",
+      "referenced_code": "HSC",
+      "referenced_section": "Section 103175",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=103175."
+    },
+    {
+      "fam_section": "FAM § 351.6",
+      "fam_text": "Notwithstanding Section 307, 351, 351.5, 359, or 422 of this code, or Section 103175 or 103180 of the Health and Safety Code...",
+      "referenced_code": "HSC",
+      "referenced_section": "Sections 103175 and 103180",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=103175."
+    },
+    {
+      "fam_section": "FAM § 355",
+      "fam_text": "The forms for the marriage license shall be prescribed by the State Department of Public Health, and shall be adapted to set forth the facts required in this part.",
+      "referenced_code": "HSC",
+      "referenced_section": "State Department of Public Health (Health and Safety Code)",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=HSC"
+    },
+    {
+      "fam_section": "FAM § 358",
+      "fam_text": "The State Department of Public Health shall prepare and publish a brochure that shall contain the following...",
+      "referenced_code": "HSC",
+      "referenced_section": "State Department of Public Health (Health and Safety Code)",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=HSC"
+    },
+    {
+      "fam_section": "FAM § 358",
+      "fam_text": "...The department shall also make the brochure available to the Secretary of State, who shall distribute a copy of the brochure to persons who qualify as domestic partners pursuant to Section 297 and shall make the brochure available electronically on the Internet Web site of the Secretary of State.",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 297",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=297."
+    },
+    {
+      "fam_section": "FAM § 358",
+      "fam_text": "...The department shall prepare a lesbian, gay, bisexual, and transgender specific domestic abuse brochure and make the brochure available to the Secretary of State who shall print and make available the brochure, as funding allows, pursuant to Section 298.5.",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 298.5",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=298.5."
+    },
+    {
+      "fam_section": "FAM § 358",
+      "fam_text": "Each notary public issuing a confidential marriage license under Section 503 shall distribute a copy of the brochure to the applicants for a confidential marriage license.",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 503",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=503."
+    },
+    {
+      "fam_section": "FAM § 359",
+      "fam_text": "The contents of the marriage license are provided in Part 1 (commencing with Section 102100) of Division 102 of the Health and Safety Code.",
+      "referenced_code": "HSC",
+      "referenced_section": "Part 1 (commencing with Section 102100) of Division 102",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=HSC&division=102.&title=&part=1.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 1101",
+      "fam_text": "Remedies for the breach of the fiduciary duty by one spouse, as set forth in Sections 721 and 1100, when the breach falls within the ambit of Section 3294 of the Civil Code shall include, but not be limited to, an award to the other spouse of 100 percent, or an amount equal to 100 percent, of any asset undisclosed or transferred in breach of the fiduciary duty.",
+      "referenced_code": "CIV",
+      "referenced_section": "Section 3294",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=3294."
+    },
+    {
+      "fam_section": "FAM § 1103",
+      "fam_text": "Where one or both of the spouses either has a conservator of the estate or lacks legal capacity to manage and control community property, the procedure for management and control (which includes disposition) of the community property is that prescribed in Part 6 (commencing with Section 3000) of Division 4 of the Probate Code.",
+      "referenced_code": "PROB",
+      "referenced_section": "Part 6 (commencing with Section 3000) of Division 4",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PROB&division=4.&title=&part=6.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 1103",
+      "fam_text": "Where one or both spouses either has a conservator of the estate or lacks legal capacity to give consent to a gift of community personal property or a disposition of community personal property without a valuable consideration as required by Section 1100... the procedure for that gift, disposition, sale, conveyance, or encumbrance is that prescribed in Part 6 (commencing with Section 3000) of Division 4 of the Probate Code.",
+      "referenced_code": "PROB",
+      "referenced_section": "Part 6 (commencing with Section 3000) of Division 4",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PROB&division=4.&title=&part=6.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 1103",
+      "fam_text": "Where one or both spouses either has a conservator of the estate or lacks legal capacity to join in executing a lease, sale, conveyance, or encumbrance of community real property or any interest therein as required by Section 1102... the procedure for that lease, sale, conveyance, or encumbrance is that prescribed in Part 6 (commencing with Section 3000) of Division 4 of the Probate Code.",
+      "referenced_code": "PROB",
+      "referenced_section": "Part 6 (commencing with Section 3000) of Division 4",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PROB&division=4.&title=&part=6.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 1852",
+      "fam_text": "Moneys collected by the state pursuant to subdivision (c) of Section 103625 of the Health and Safety Code, Section 70674 of the Government Code, and grants, gifts, or devises made to the state from private sources...",
+      "referenced_code": "HSC",
+      "referenced_section": "Section 103625",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC&sectionNum=103625."
+    },
+    {
+      "fam_section": "FAM § 1852",
+      "fam_text": "Moneys collected by the state pursuant to subdivision (c) of Section 103625 of the Health and Safety Code, Section 70674 of the Government Code, and grants, gifts, or devises made to the state from private sources...",
+      "referenced_code": "GOV",
+      "referenced_section": "Section 70674",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=70674."
+    },
+    {
+      "fam_section": "FAM § 10003",
+      "fam_text": "This division shall apply to all actions or proceedings for temporary or permanent child support, spousal support, health insurance, child custody, or visitation in a proceeding for dissolution of marriage, nullity of marriage, legal separation, or exclusive child custody, or pursuant to the Uniform Parentage Act (Part 3 (commencing with Section 7600) of Division 12) or the Domestic Violence Prevention Act (Division 10 (commencing with Section 6200)).",
+      "referenced_code": "FAM",
+      "referenced_section": "Part 3 (commencing with Section 7600) of Division 12 (Uniform Parentage Act)",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division=12.&title=&part=3.&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 10003",
+      "fam_text": "...or pursuant to the Uniform Parentage Act (Part 3 (commencing with Section 7600) of Division 12) or the Domestic Violence Prevention Act (Division 10 (commencing with Section 6200)).",
+      "referenced_code": "FAM",
+      "referenced_section": "Division 10 (commencing with Section 6200) (Domestic Violence Prevention Act)",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division=10.&title=&chapter=&article="
+    },
+    {
+      "fam_section": "FAM § 10005",
+      "fam_text": "These programs shall specifically include information concerning underutilized legislation, such as expedited child support orders (Chapter 5 (commencing with Section 3620) of Part 1 of Division 9)...",
+      "referenced_code": "FAM",
+      "referenced_section": "Chapter 5 (commencing with Section 3620) of Part 1 of Division 9",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=FAM&division=9.&title=&part=1.&chapter=5.&article="
+    },
+    {
+      "fam_section": "FAM § 10008",
+      "fam_text": "Except as provided in subdivision (b), nothing in this chapter shall be construed to apply to a child for whom services are provided or required to be provided by a local child support agency pursuant to Section 17400.",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 17400",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=17400."
+    },
+    {
+      "fam_section": "FAM § 10012",
+      "fam_text": "...where there has been a history of domestic violence between the parties or where a protective order as defined in Section 6218 is in effect...",
+      "referenced_code": "FAM",
+      "referenced_section": "Section 6218",
+      "referenced_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=FAM&sectionNum=6218."
+    },
+    {
+      "fam_section": "FAM § 10014",
+      "fam_text": "A person employed by, or directly supervised by, the family law facilitator shall not make any public comment about a pending or impending proceeding in the court as provided by paragraph (9) of subdivision (B) of Canon 3 of the Code of Judicial Ethics.",
+      "referenced_code": "CJE",
+      "referenced_section": "Canon 3 of the Code of Judicial Ethics",
+      "referenced_url": "https://www.courts.ca.gov/codejudicialethics.htm"
+    },
+    {
+      "fam_section": "FAM § 10014",
+      "fam_text": "All persons employed by or directly supervised by the family law facilitator shall be provided a copy of paragraph (9) of subdivision (B) of Canon 3 of the Code of Judicial Ethics...",
+      "referenced_code": "CJE",
+      "referenced_section": "Canon 3 of the Code of Judicial Ethics",
+      "referenced_url": "https://www.courts.ca.gov/codejudicialethics.htm"
+    },
+    {
+      "fam_section": "FAM § 10011",
+      "fam_text": "The Director of the State Department of Social Services shall seek approval from the United States Department of Health and Human Services, Office of Child Support Enforcement, to utilize funding under Title IV-D of the Social Security Act for the services provided pursuant to this division.",
+      "referenced_code": "USC",
+      "referenced_section": "Title IV-D of the Social Security Act (42 U.S.C. § 651 et seq.)",
+      "referenced_url": "https://uscode.house.gov/view.xhtml?path=/prelim@title42&edition=prelim"
+    }
+  ],
+  "summary_by_code": {
+    "CCP": {
+      "full_name": "Code of Civil Procedure",
+      "count": 8,
+      "sections": [
+        "685.020",
+        "2024.020",
+        "128.5",
+        "683.110",
+        "1211.5",
+        "391 (Title 3a)",
+        "1275 (Title 8)",
+        "Title 3a of Part 2"
+      ]
+    },
+    "CIV": {
+      "full_name": "Civil Code",
+      "count": 2,
+      "sections": [
+        "3294",
+        "43.92"
+      ]
+    },
+    "PEN": {
+      "full_name": "Penal Code",
+      "count": 4,
+      "sections": [
+        "278.5",
+        "273.6",
+        "11165.9",
+        "13823.15"
+      ]
+    },
+    "PROB": {
+      "full_name": "Probate Code",
+      "count": 3,
+      "sections": [
+        "Part 6 (commencing with Section 3000) of Division 4"
+      ]
+    },
+    "HSC": {
+      "full_name": "Health and Safety Code",
+      "count": 7,
+      "sections": [
+        "102233",
+        "102356",
+        "103450",
+        "103175",
+        "103180",
+        "103625",
+        "358"
+      ]
+    },
+    "VEH": {
+      "full_name": "Vehicle Code",
+      "count": 4,
+      "sections": [
+        "12800.7",
+        "1653.5",
+        "12801"
+      ]
+    },
+    "GOV": {
+      "full_name": "Government Code",
+      "count": 2,
+      "sections": [
+        "21660 (Chapter 15 of Part 3 of Division 5 of Title 2)",
+        "70674"
+      ]
+    },
+    "WIC": {
+      "full_name": "Welfare and Institutions Code",
+      "count": 1,
+      "sections": [
+        "224.2 to 224.6, inclusive, and Sections 305.5, 361.31, and 361.7"
+      ]
+    },
+    "FAM": {
+      "full_name": "Family Code (internal cross-references)",
+      "count": 15,
+      "sections": [
+        "Part 2 (commencing with Section 760) of Division 4",
+        "Section 17402",
+        "Section 3113",
+        "Section 3181",
+        "Section 3192",
+        "Section 503",
+        "Section 297",
+        "Section 298.5",
+        "Section 2400",
+        "Section 7600 (Part 3 of Division 12)",
+        "Section 6200 (Division 10)",
+        "Section 17400",
+        "Section 6218",
+        "Section 3620 (Chapter 5 of Part 1 of Division 9)"
+      ]
+    },
+    "USC": {
+      "full_name": "United States Code (Federal)",
+      "count": 4,
+      "sections": [
+        "25 U.S.C. § 1901 et seq. (Indian Child Welfare Act)",
+        "42 U.S.C. § 651 et seq. (Social Security Act Title IV-D)"
+      ]
+    },
+    "CJE": {
+      "full_name": "Code of Judicial Ethics",
+      "count": 2,
+      "sections": [
+        "Canon 3"
+      ]
+    },
+    "CRC": {
+      "full_name": "California Rules of Court",
+      "count": 1,
+      "sections": [
+        "Rule 5.215"
+      ]
+    }
+  }
+}

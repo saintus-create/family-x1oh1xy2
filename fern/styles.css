@@ -1,192 +1,582 @@
-/* Custom styles for the Interactive California Family Code */
+/* California Family Code: unified Inter font, USWDS-inspired design system */
 
-/* High-contrast, crisp background */
+/* ========================================
+   1. DESIGN TOKENS
+   ======================================== */
+
+:root {
+  --fam-color-primary: #005ea2;
+  --fam-color-primary-dark: #1a4480;
+  --fam-color-primary-light: #73b3e7;
+  --fam-color-accent: #d54309;
+  --fam-color-accent-dark: #b92b00;
+  --fam-color-success: #1e5f29;
+  --fam-color-success-light: #e7f4ec;
+  --fam-color-warning: #73540c;
+  --fam-color-warning-light: #fff2cc;
+  --fam-color-info: #005ea2;
+  --fam-color-info-light: #e7f6fc;
+  --fam-color-neutral-dark: #1b1b1b;
+  --fam-color-neutral: #565c65;
+  --fam-color-neutral-light: #f0f0f0;
+  --fam-color-border: #c0c0c0;
+  --fam-color-focus: #2491ff;
+  --fam-bg-page: #ffffff;
+  --fam-bg-elevated: #ffffff;
+  --fam-bg-subtle: #f8f8f8;
+  --fam-text-main: #1b1b1b;
+  --fam-text-muted: #565c65;
+  --fam-border: #c0c0c0;
+  --fam-radius: 0.25rem;
+  --fam-radius-lg: 0.5rem;
+  --fam-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  --fam-shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+  --fam-shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+  --fam-font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  --fam-font-mono: 'SF Mono', 'Monaco', 'Menlo', 'Consolas', monospace;
+  --fam-max-width: 80rem;
+  --fam-sidebar-width: 16rem;
+}
+
+:root.dark {
+  --fam-color-primary: #90d0fc;
+  --fam-color-primary-dark: #73b3e7;
+  --fam-color-primary-light: #005ea2;
+  --fam-color-accent: #ff9e7c;
+  --fam-color-accent-dark: #ff7a54;
+  --fam-color-success: #a3d9b1;
+  --fam-color-success-light: #1a3d24;
+  --fam-color-warning: #e5c97a;
+  --fam-color-warning-light: #3d2e05;
+  --fam-color-info: #90d0fc;
+  --fam-color-info-light: #0a2a3d;
+  --fam-color-neutral-dark: #f0f0f0;
+  --fam-color-neutral: #c0c0c0;
+  --fam-color-neutral-light: #2d2d2d;
+  --fam-color-border: #4a4a4a;
+  --fam-color-focus: #90d0fc;
+  --fam-bg-page: #0a0a0a;
+  --fam-bg-elevated: #141414;
+  --fam-bg-subtle: #1a1a1a;
+  --fam-text-main: #f0f0f0;
+  --fam-text-muted: #c0c0c0;
+  --fam-border: #4a4a4a;
+  --fam-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  --fam-shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+  --fam-shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
+}
+
+/* ========================================
+   2. BASE & LAYOUT
+   ======================================== */
+
 .fern-background-image {
-  background-image: linear-gradient(180deg, rgba(29, 78, 216, 0.04) 0%, transparent 50%);
+  background: var(--fam-bg-page);
 }
 
-:root.dark .fern-background-image {
-  background-image: linear-gradient(180deg, rgba(96, 165, 250, 0.05) 0%, transparent 50%);
+.markdown {
+  font-family: var(--fam-font-sans);
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--fam-text-main);
 }
 
-/* Size hierarchy instead of ALL CAPS for statute structure.
-   Topic (h1) is largest; Division/Part headings scale down with weight. */
+.markdown > * + * {
+  margin-top: 1rem;
+}
+
+.markdown > h1,
+.markdown > h2,
+.markdown > h3,
+.markdown > h4,
+.markdown > h5,
+.markdown > h6 {
+  font-family: var(--fam-font-sans);
+  color: var(--fam-text-main);
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
 .markdown > h1 {
-  font-size: 2.4rem;
-  font-weight: 800;
+  font-size: 2.25rem;
+  font-weight: 700;
   letter-spacing: -0.02em;
-  line-height: 1.1;
+  border-bottom: 3px solid var(--fam-color-primary);
+  padding-bottom: 0.5rem;
+  margin-top: 0;
 }
 
 .markdown > h2 {
   font-size: 1.75rem;
   font-weight: 700;
-  letter-spacing: -0.01em;
-  border-bottom: 2px solid var(--border, #9CA3AF);
-  padding-bottom: 0.35rem;
-  margin-top: 2.5rem;
+  color: var(--fam-color-primary-dark);
+  border-bottom: 2px solid var(--fam-border);
+  padding-bottom: 0.4rem;
 }
 
 .markdown > h3 {
-  font-size: 1.3rem;
-  font-weight: 700;
-  margin-top: 2rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--fam-text-main);
 }
 
 .markdown > h4 {
-  font-size: 1.05rem;
+  font-size: 1.1rem;
   font-weight: 700;
+  color: var(--fam-text-main);
   text-transform: none;
-  color: var(--text, #111827);
 }
 
-/* Strong, high-contrast body text */
-.markdown p,
-.markdown li {
-  color: var(--text, #111827);
-  line-height: 1.65;
+.markdown > p {
+  max-width: 70ch;
 }
 
-/* Accent the statute section numbers for scannability */
-.markdown h3,
-.markdown h4 {
-  color: var(--accent-primary, #1D4ED8);
+.markdown p.lead {
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--fam-color-neutral);
+  max-width: 75ch;
+}
+
+.markdown a {
+  color: var(--fam-color-primary);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.markdown a:hover {
+  color: var(--fam-color-primary-dark);
 }
 
 /* ========================================
-   LEGAL REFERENCE COMPONENTS - MODERN STYLING
+   3. LOGO
    ======================================== */
 
-/* Section Reference - Modern Badge Style */
-.section-ref {
+.logo-wrapper {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
+  height: 100%;
+}
+
+.logo-wrapper svg {
+  height: 28px;
+  width: auto;
+}
+
+/* ========================================
+   4. BADGES
+   ======================================== */
+
+.fern-badge,
+.fern-badge[class*="intent"] {
+  font-family: var(--fam-font-sans);
   font-weight: 600;
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  border-radius: var(--fam-radius);
+  padding: 0.25rem 0.625rem;
+  text-transform: none;
 }
 
-.section-ref .section-title {
-  font-weight: 500;
-  color: var(--text, #111827);
-  margin-left: 0.25rem;
+.fern-badge.intent-info,
+.fern-badge[class*="intent-info"] {
+  background: var(--fam-color-info-light);
+  color: var(--fam-color-primary-dark);
+  border: 1px solid transparent;
 }
 
-/* Statute Citation */
-.statute-cite {
+.fern-badge.intent-success,
+.fern-badge[class*="intent-success"] {
+  background: var(--fam-color-success-light);
+  color: var(--fam-color-success);
+  border: 1px solid transparent;
+}
+
+.fern-badge.intent-warning,
+.fern-badge[class*="intent-warning"] {
+  background: var(--fam-color-warning-light);
+  color: var(--fam-color-warning);
+  border: 1px solid transparent;
+}
+
+.fern-badge.intent-launch,
+.fern-badge[class*="intent-launch"] {
+  background: var(--fam-color-neutral-light);
+  color: var(--fam-color-neutral);
+  border: 1px solid var(--fam-border);
+}
+
+/* ========================================
+   5. STATUTE CARDS
+   ======================================== */
+
+.statute-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1.25rem;
+  padding: 1.25rem;
+  background: var(--fam-bg-elevated);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--fam-radius-lg);
+  margin: 0.75rem 0;
+  box-shadow: var(--fam-shadow);
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.statute-card:hover {
+  box-shadow: var(--fam-shadow-md);
+  border-color: var(--fam-color-primary);
+}
+
+.statute-card .section-icon {
+  width: 3rem;
+  height: 3rem;
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
-  font-weight: 500;
-}
-
-.statute-cite .code-badge {
-  display: inline-block;
-  background: linear-gradient(135deg, #1D4ED8 0%, #1E40AF 100%);
-  color: white;
-  padding: 0.25rem 0.75rem;
-  border-radius: 0.375rem;
-  font-size: 0.875rem;
+  justify-content: center;
+  border-radius: var(--fam-radius-lg);
+  background: var(--fam-color-primary);
+  color: #ffffff;
   font-weight: 700;
-}
-
-.statute-cite .statute-title {
-  color: var(--text, #111827);
-  margin-left: 0.25rem;
-}
-
-/* Bill Reference - Success Color */
-.bill-ref {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-/* Case Citation - Linked Style */
-.case-cite {
-  color: var(--accent-primary, #1D4ED8);
-  text-decoration: none;
-  border-bottom: 1px dashed var(--accent-primary, #1D4ED8);
-  transition: all 0.2s ease;
-}
-
-.case-cite:hover {
-  color: var(--accent-primary, #2563EB);
-  border-bottom-style: solid;
-}
-
-.case-cite strong {
-  font-weight: 700;
-}
-
-.case-cite .case-meta {
-  display: inline;
-  color: var(--text-muted, #6B7280);
-  font-style: italic;
-  margin-left: 0.25rem;
-}
-
-/* Defined Term - Interactive */
-.defined-term {
-  color: var(--accent-primary, #1D4ED8);
-  font-style: italic;
-  border-bottom: 2px dotted var(--accent-primary, #1D4ED8);
-  cursor: help;
-  transition: all 0.2s ease;
-}
-
-.defined-term:hover {
-  background-color: rgba(29, 78, 216, 0.1);
-  border-bottom-color: var(--accent-primary, #2563EB);
-}
-
-/* Legislative History - Compact Visual */
-.legislative-history {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  padding: 0.5rem 0.75rem;
-  background-color: rgba(29, 78, 216, 0.05);
-  border-left: 3px solid var(--accent-primary, #1D4ED8);
-  border-radius: 0.375rem;
   font-size: 0.875rem;
-  margin: 0.5rem 0;
+  font-family: var(--fam-font-mono);
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
 }
 
-.legislative-history .history-text {
+.statute-card .section-body h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--fam-text-main);
+}
+
+.statute-card .section-body p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--fam-text-main);
+  max-width: 75ch;
+}
+
+.statute-card .section-meta {
   display: flex;
   align-items: center;
   gap: 0.5rem;
   flex-wrap: wrap;
+  margin-top: 0.6rem;
 }
 
-.legislative-history .effective-date {
-  color: var(--text-muted, #6B7280);
-  font-size: 0.8rem;
+/* ========================================
+   6. CODE BLOCKS / LEGISLATIVE HISTORY
+   ======================================== */
+
+.legal-code {
+  background: var(--fam-bg-subtle);
+  border: 1px solid var(--fam-border);
+  border-left: 4px solid var(--fam-color-primary);
+  border-radius: var(--fam-radius-lg);
+  padding: 1.25rem;
+  margin: 1rem 0;
+  font-family: var(--fam-font-sans);
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--fam-text-main);
 }
 
-/* Section Range - Compact Badge */
+.legislative-history {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.75rem;
+  background: var(--fam-bg-subtle);
+  border-left: 3px solid var(--fam-color-primary);
+  border-radius: var(--fam-radius);
+  font-size: 0.875rem;
+  margin-top: 0.75rem;
+  color: var(--fam-color-neutral);
+  font-family: var(--fam-font-sans);
+}
+
+/* ========================================
+   7. CARDS
+   ======================================== */
+
+.fern-card {
+  border-radius: var(--fam-radius-lg);
+  border: 1px solid var(--fam-border);
+  box-shadow: var(--fam-shadow);
+  transition: box-shadow 0.2s, border-color 0.2s;
+  background: var(--fam-bg-elevated);
+}
+
+.fern-card:hover {
+  box-shadow: var(--fam-shadow-md);
+  border-color: var(--fam-color-primary);
+}
+
+.fern-card-body {
+  padding: 1.25rem;
+  color: var(--fam-text-main);
+}
+
+.fern-card-title {
+  font-weight: 700;
+  color: var(--fam-text-main);
+  font-size: 1.05rem;
+}
+
+/* ========================================
+   8. CALLOUTS
+   ======================================== */
+
+.fern-callout {
+  border-radius: var(--fam-radius-lg);
+  border-left-width: 0.375rem;
+  padding: 1rem 1.25rem;
+  font-family: var(--fam-font-sans);
+  box-shadow: var(--fam-shadow);
+}
+
+.fern-callout.info {
+  background: var(--fam-color-info-light);
+  border-color: var(--fam-color-info);
+}
+
+.fern-callout.warning {
+  background: var(--fam-color-warning-light);
+  border-color: #f0c020;
+}
+
+.fern-callout.success {
+  background: var(--fam-color-success-light);
+  border-color: var(--fam-color-success);
+}
+
+.fern-callout.danger {
+  background: #fcebec;
+  border-color: #d54309;
+}
+
+:root.dark .fern-callout.danger {
+  background: #3d1a14;
+  border-color: #ff7a54;
+}
+
+/* ========================================
+   9. TERM MAP (glossary grid)
+   ======================================== */
+
+.term-map {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.875rem;
+  margin: 1rem 0;
+}
+
+.term-card {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.875rem 1rem;
+  background: var(--fam-bg-elevated);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--fam-radius-lg);
+  box-shadow: var(--fam-shadow);
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.term-card:hover {
+  border-color: var(--fam-color-primary);
+  box-shadow: var(--fam-shadow-md);
+}
+
+.term-card .term-key {
+  font-weight: 700;
+  font-size: 0.875rem;
+  color: var(--fam-color-primary-dark);
+  white-space: nowrap;
+  font-family: var(--fam-font-sans);
+}
+
+.term-card .term-val {
+  font-size: 0.9375rem;
+  color: var(--fam-text-main);
+  font-family: var(--fam-font-sans);
+}
+
+/* ========================================
+   10. TABLE
+   ======================================== */
+
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  margin: 1.25rem 0;
+  box-shadow: var(--fam-shadow);
+  border-radius: var(--fam-radius-lg);
+  overflow: hidden;
+}
+
+.markdown table thead {
+  background: var(--fam-color-primary);
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.markdown table thead th {
+  text-align: left;
+  padding: 0.875rem 1rem;
+  border: none;
+}
+
+.markdown table tbody tr {
+  background: var(--fam-bg-elevated);
+  border-bottom: 1px solid var(--fam-border);
+}
+
+.markdown table tbody tr:nth-child(even) {
+  background: var(--fam-bg-subtle);
+}
+
+.markdown table tbody td {
+  padding: 0.75rem 1rem;
+  border: none;
+  color: var(--fam-text-main);
+  vertical-align: top;
+}
+
+.markdown table tbody tr:hover {
+  background: var(--fam-color-info-light);
+}
+
+/* ========================================
+   11. BUTTONS & CONTROLS
+   ======================================== */
+
+.fern-btn {
+  font-family: var(--fam-font-sans);
+  font-weight: 600;
+  font-size: 1rem;
+  border-radius: var(--fam-radius-lg);
+  letter-spacing: 0.01em;
+  min-height: 2.5rem;
+  padding: 0.5rem 1.25rem;
+}
+
+.fern-btn[class*="intent-primary"] {
+  background: var(--fam-color-primary);
+  color: #ffffff;
+  border: 2px solid var(--fam-color-primary);
+}
+
+.fern-btn[class*="intent-primary"]:hover {
+  background: var(--fam-color-primary-dark);
+  border-color: var(--fam-color-primary-dark);
+}
+
+.fern-btn[class*="intent-secondary"] {
+  background: transparent;
+  color: var(--fam-color-primary);
+  border: 2px solid var(--fam-color-primary);
+}
+
+.fern-btn[class*="intent-secondary"]:hover {
+  background: var(--fam-color-info-light);
+}
+
+/* ========================================
+   12. ACCORDION
+   ======================================== */
+
+.fern-accordion,
+.fern-accordion[class*="accordion"] {
+  border: 1px solid var(--fam-border);
+  border-radius: var(--fam-radius-lg);
+  margin: 0.75rem 0;
+  overflow: hidden;
+  box-shadow: var(--fam-shadow);
+}
+
+.fern-accordion-trigger {
+  font-family: var(--fam-font-sans);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 1rem 1.25rem;
+  background: var(--fam-bg-elevated);
+  color: var(--fam-text-main);
+  border-bottom: 1px solid var(--fam-border);
+  transition: background 0.2s;
+}
+
+.fern-accordion-trigger:hover {
+  background: var(--fam-bg-subtle);
+}
+
+.fern-accordion-content {
+  padding: 1.25rem;
+  background: var(--fam-bg-elevated);
+}
+
+/* ========================================
+   13. MISC UTILITIES
+   ======================================== */
+
+.markdown hr {
+  border: none;
+  border-top: 2px solid var(--fam-border);
+  margin: 2.5rem 0;
+}
+
+.case-cite {
+  color: var(--fam-color-primary);
+  font-style: italic;
+}
+
+.defined-term {
+  color: var(--fam-color-primary);
+  font-weight: 600;
+  cursor: help;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.2em;
+}
+
+/* ========================================
+   14. SECTION RANGE (compact)
+   ======================================== */
+
 .section-range {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  font-weight: 600;
 }
 
 .section-range .range-title {
   font-weight: 500;
-  color: var(--text, #111827);
+  color: var(--fam-text-muted);
   margin-left: 0.25rem;
 }
 
-/* Division Header - Visual Prominence */
+/* ========================================
+   15. DIVISION HEADER
+   ======================================== */
+
 .division-header {
   display: flex;
   align-items: center;
   gap: 1.5rem;
   padding: 1.5rem;
-  background: linear-gradient(135deg, rgba(29, 78, 216, 0.05) 0%, rgba(96, 165, 250, 0.05) 100%);
-  border: 1px solid var(--border, #E5E7EB);
-  border-radius: 0.75rem;
+  background: var(--fam-bg-subtle);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--fam-radius-lg);
   margin: 1.5rem 0;
 }
 
@@ -196,7 +586,7 @@
 
 .division-header h2 {
   margin: 0 0 0.5rem 0;
-  color: var(--accent-primary, #1D4ED8);
+  color: var(--fam-color-primary-dark);
 }
 
 .division-header .division-meta {
@@ -206,73 +596,43 @@
   flex-wrap: wrap;
 }
 
-/* Cross Reference - Navigation */
-.cross-ref {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
-  color: var(--accent-primary, #1D4ED8);
-  text-decoration: none;
-  font-weight: 500;
-  transition: all 0.2s ease;
-  border-radius: 0.375rem;
-  padding: 0.25rem 0.5rem;
+/* ========================================
+   16. COPY CODE BUTTON
+   ======================================== */
+
+.fern-copy-code-btn {
+  background: var(--fam-bg-elevated);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--fam-radius);
+  padding: 0.4rem 0.75rem;
+  font-family: var(--fam-font-sans);
+  font-size: 0.875rem;
+  cursor: pointer;
+  color: var(--fam-text-muted);
 }
 
-.cross-ref:hover {
-  background-color: rgba(29, 78, 216, 0.1);
-  text-decoration: underline;
+.fern-copy-code-btn:hover {
+  background: var(--fam-color-primary);
+  color: #ffffff;
+  border-color: var(--fam-color-primary);
 }
 
-/* Legal Code Block */
-.legal-code {
-  background: var(--bg-code, #F9FAFB);
-  border: 1px solid var(--border, #E5E7EB);
-  border-left: 4px solid var(--accent-primary, #1D4ED8);
-  border-radius: 0.375rem;
-  padding: 1rem;
-  margin: 1rem 0;
-  font-family: 'Monaco', 'Courier New', monospace;
-  font-size: 0.9375rem;
-  line-height: 1.6;
-}
+/* ========================================
+   17. FOOTER / PAGE ACTIONS
+   ======================================== */
 
-.legal-code .code-header {
+.fern-page-actions {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.75rem;
-  font-weight: 700;
-  color: var(--accent-primary, #1D4ED8);
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 1rem 0;
+  margin-top: 2rem;
+  border-top: 1px solid var(--fam-border);
 }
 
-.legal-code .subsection {
-  color: var(--text-muted, #6B7280);
-  font-weight: 500;
-}
-
-.legal-code .code-text {
-  color: var(--text, #111827);
-  white-space: pre-wrap;
-  word-break: break-word;
-}
-
-/* Dark Mode Adjustments */
-:root.dark .statute-cite .code-badge {
-  background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
-}
-
-:root.dark .legislative-history {
-  background-color: rgba(59, 130, 246, 0.1);
-  border-left-color: var(--accent-primary, #60A5FA);
-}
-
-:root.dark .division-header {
-  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1) 0%, rgba(96, 165, 250, 0.1) 100%);
-  border-color: var(--border, #374151);
-}
-
-:root.dark .legal-code {
-  background: var(--bg-code, #1F2937);
-  border-color: var(--border, #374151);
+.fern-page-actions a,
+.fern-page-actions button {
+  font-family: var(--fam-font-sans);
+  font-weight: 600;
 }

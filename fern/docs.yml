@@ -31,18 +31,60 @@ navigation:
           - page: Definitions & Indian Children
             path: docs/pages/division-1-definitions.mdx
             icon: fa-solid fa-book-bookmark
+          - page: General Provisions
+            path: docs/pages/division-2-general.mdx
+            icon: fa-solid fa-gear
+          - page: Domestic Partner Registration
+            path: docs/pages/division-2.5-domestic-partners.mdx
+            icon: fa-solid fa-heart-circle-check
           - page: Marriage
             path: docs/pages/division-3-marriage.mdx
             icon: fa-solid fa-ring
+          - page: Rights During Marriage
+            path: docs/pages/division-4-rights-during-marriage.mdx
+            icon: fa-solid fa-circle-nodes
+          - page: Conciliation Proceedings
+            path: docs/pages/division-5-conciliation.mdx
+            icon: fa-solid fa-comments
           - page: Dissolution
             path: docs/pages/division-6-dissolution.mdx
             icon: fa-solid fa-scale-unbalanced
+          - page: Division of Property
+            path: docs/pages/division-7-property.mdx
+            icon: fa-solid fa-building-columns
           - page: Custody of Children
             path: docs/pages/division-8-custody.mdx
             icon: fa-solid fa-children
           - page: Support
             path: docs/pages/division-9-support.mdx
             icon: fa-solid fa-hand-holding-dollar
+          - page: Prevention of Domestic Violence
+            path: docs/pages/division-10-domestic-violence.mdx
+            icon: fa-solid fa-shield-halved
+          - page: Minors
+            path: docs/pages/division-11-minors.mdx
+            icon: fa-solid fa-child
+          - page: Parent and Child Relationship
+            path: docs/pages/division-12-parent-child.mdx
+            icon: fa-solid fa-people-roof
+          - page: Adoption
+            path: docs/pages/division-13-adoption.mdx
+            icon: fa-solid fa-people-arrows
+          - page: Family Law Facilitator Act
+            path: docs/pages/division-14-family-law-facilitator.mdx
+            icon: fa-solid fa-headset
+          - page: Support Services
+            path: docs/pages/division-17-support-services.mdx
+            icon: fa-solid fa-building-columns
+          - page: Pilot Projects
+            path: docs/pages/division-20-pilot-projects.mdx
+            icon: fa-solid fa-flask
+          - page: Forms
+            path: docs/pages/forms.mdx
+            icon: fa-solid fa-file-lines
+          - page: Judicial Decisions
+            path: docs/pages/case-law.mdx
+            icon: fa-solid fa-scale-balanced
       - section: Docs Toolkit
         contents:
           - page: Components reference
@@ -68,7 +110,7 @@ navigation:
 navbar-links:
   - type: filled
     text: Read the source
-    url: https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM&division=1.&title=&part=&chapter=&article=
+    url: https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM
 colors:
   accent-primary:
     light: "#1D4ED8"

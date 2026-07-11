@@ -1,25 +1,15 @@
 ---
 title: Family Code API
-subtitle: The California Family Code, available as a structured, queryable API
+subtitle: "The California Family Code, available as a structured, queryable API"
 slug: family-code-api
 ---
-
 <Icon icon="fa-solid fa-database" size={28} />
 
 ## Family Code API
 
 The **Family Code API** is the machine-readable companion to the interactive Family Code
 documentation on this site. It returns the actual codified text of the California Family
-Code — divisions, parts, chapters, articles, and sections — exactly as enacted.
-
-<CardGroup cols={2}>
-  <Card title="REST API (OpenAPI 3.1)" icon="fa-solid fa-code" href="/family-code-api/section-getsection">
-    Look up any section by number, list a division, or full-text search.
-  </Card>
-  <Card title="Realtime (AsyncAPI)" icon="fa-solid fa-bolt" href="/family-code-api-realtime/sectionupdates">
-    Subscribe over WebSocket to live amendment events.
-  </Card>
-</CardGroup>
+Code: divisions, parts, chapters, articles, and sections: exactly as enacted.
 
 ## Endpoints at a glance
 
@@ -44,13 +34,13 @@ Code — divisions, parts, chapters, articles, and sections — exactly as enact
     "part": 1,
     "title": "Marriage is a personal relation / civil contract",
     "text": "Marriage is a personal relation arising out of a civil contract between two persons...",
-    "enactedBy": "Stats. 1992, Ch. 162, Sec. 10"
+    enactedBy": "Stats. 1992, Ch. 162, Sec. 10
   }
   ```
 </CodeBlocks>
 
 <Note>
-  The API is read-only. The enacted Code — and this documentation — remain the source of
+  The API is read-only. The enacted Code: and this documentation: remain the source of
   truth. The API simply makes the Code easier to query, cite, and build upon.
 </Note>
 
