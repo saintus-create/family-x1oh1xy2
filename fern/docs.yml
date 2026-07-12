@@ -25,9 +25,9 @@ navigation:
     layout:
       - section: Family Code
         contents:
-          - page: Home
-            path: docs/pages/home.mdx
-            icon: fa-solid fa-scale-balanced
+          - page: Introduction
+            path: docs/pages/intro.mdx
+            icon: fa-solid fa-book-open
           - page: Preliminary Provisions
             path: docs/pages/preliminary-provisions.mdx
             icon: fa-solid fa-scroll
@@ -128,25 +128,18 @@ theme:
   page-actions: toolbar
   footer-nav: minimal
 favicon: docs/assets/favicon.svg
+landing-page:
+  page: Home
+  path: docs/pages/home.mdx
+  slug: /
 css:
   - styles.css
   - docs/assets/onboarding-theme.css
 typography:
   headingsFont:
-    name: Inter
+    name: Public Sans
   bodyFont:
-    name: Inter
+    name: Public Sans
 ai-search:
-  prompt: |
-    You are the AI assistant for the Interactive California Family Code documentation,
-    published by the California Legislature. Answer user questions using only the
-    content of the California Family Code pages in this documentation site.
-
-    Guidelines:
-    - Cite the specific Family Code section number(s) (e.g., "Family Code § 2300")
-      and the relevant division whenever possible.
-    - If a question is outside the Family Code material covered here, say so plainly
-      and do not invent statutes or case law.
-    - Keep answers concise and structured; use the section references already present
-      in the pages.
-    - Prefer pointing users to the exact division/page that answers their question.
+  location:
+    - docs

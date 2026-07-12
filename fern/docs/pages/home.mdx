@@ -4,20 +4,23 @@ subtitle: The complete California Family Code, reimagined as an interactive refe
 slug: home
 ---
 
-<div className="fam-hero">
-  <span className="fam-hero-badge">Interactive California Family Code</span>
-  <h1 className="fam-hero-title">California <span className="accent">Family Code</span></h1>
-  <p className="fam-hero-subtitle">
+<CardGroup cols={1}>
+  <Card title="California Family Code" icon="lucide:scale" href="/division-1-definitions">
     Every division, section, and amendment — organized, cross-linked, and easy to read.
     Start with a division or use search to jump to any statute.
-  </p>
-  <div className="fam-hero-actions">
-    <a className="fam-btn fam-btn-primary" href="/division-1-definitions">Start with Definitions</a>
-    <a className="fam-btn fam-btn-ghost" href="/preliminary-provisions">Preliminary Provisions</a>
-  </div>
-</div>
+  </Card>
+</CardGroup>
 
-<h2 className="fam-section-title">Browse by division</h2>
+<Columns cols={2}>
+  <Card title="Ask" icon="lucide:search">
+    Ask about any section, division, or filing. Answers are grounded in the Family Code.
+  </Card>
+  <Card title="Official source" icon="lucide:landmark">
+    This interactive edition is derived from the [California Legislative Information](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM) Family Code, the official codification maintained by the California State Senate and Assembly.
+  </Card>
+</Columns>
+
+## Browse by division
 
 <CardGroup cols={3}>
   <Card title="Preliminary Provisions" href="/preliminary-provisions">Short title, construction, and general provisions.</Card>
@@ -41,3 +44,7 @@ slug: home
   <Card title="Forms" href="/forms">Court forms and filings.</Card>
   <Card title="Judicial Decisions" href="/case-law">Indexed judicial decisions.</Card>
 </CardGroup>
+
+<Note>
+  <strong>Official source:</strong> This interactive edition is derived from the <a href="https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM">California Legislative Information</a> Family Code, the official codification maintained by the California State Senate and Assembly.
+</Note>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" role="img" aria-label="AI search">
+  <!-- magnifying glass -->
+  <circle cx="56" cy="56" r="34" fill="none" stroke="#1A73E8" stroke-width="11"/>
+  <line x1="82" y1="82" x2="116" y2="116" stroke="#1A73E8" stroke-width="14" stroke-linecap="round"/>
+  <!-- subtle 4-color AI sparkle -->
+  <g transform="translate(112,34)">
+    <path d="M0 -14 C3 -4 4 0 14 0 C4 3 3 4 0 14 C-3 4 -4 3 -14 0 C-4 -3 -3 -4 0 -14 Z" fill="#4285F4"/>
+    <path d="M16 -6 C18 0 18 2 24 4 C18 6 16 8 14 14 C12 8 10 6 4 4 C10 2 12 0 16 -6 Z" fill="#EA4335"/>
+    <path d="M-14 -6 C-12 0 -12 2 -6 4 C-12 6 -14 8 -16 14 C-18 8 -20 6 -26 4 C-20 2 -18 0 -14 -6 Z" fill="#FBBC04"/>
+    <path d="M2 14 C4 20 6 22 12 24 C6 26 4 28 -2 30 C-4 24 -6 22 -12 20 C-6 18 -4 16 2 14 Z" fill="#34A853"/>
+  </g>
+</svg>
