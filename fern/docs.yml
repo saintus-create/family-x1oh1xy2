@@ -119,15 +119,11 @@ colors:
     light: "#1D4ED8"
     dark: "#60A5FA"
   background:
-    light: "#fdfbf9"
+    light: "#FFFFFF"
     dark: "#0A0A0A"
   border:
     light: "#9CA3AF"
     dark: "#3F3F46"
-  header-background:
-    light: "#fdfbf9"
-  sidebar-background:
-    light: "#fdfbf9"
 theme:
   page-actions: toolbar
   footer-nav: minimal
