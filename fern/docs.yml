@@ -16,10 +16,10 @@ layout:
 tabs:
   code:
     display-name: Family Code
-    icon: scale-balanced
+    icon: docs/assets/icon-circle.svg
   API Reference:
     display-name: Family Code API
-    icon: database
+    icon: docs/assets/icon-circle.svg
 navigation:
   - tab: code
     layout:
@@ -27,85 +27,85 @@ navigation:
         contents:
           - page: Introduction
             path: docs/pages/intro.mdx
-            icon: fa-solid fa-book-open
+            icon: docs/assets/icon-circle.svg
           - page: Preliminary Provisions
             path: docs/pages/preliminary-provisions.mdx
-            icon: fa-solid fa-scroll
+            icon: docs/assets/icon-circle.svg
           - page: Definitions & Indian Children
             path: docs/pages/division-1-definitions.mdx
-            icon: fa-solid fa-book-bookmark
+            icon: docs/assets/icon-circle.svg
           - page: General Provisions
             path: docs/pages/division-2-general.mdx
-            icon: fa-solid fa-gear
+            icon: docs/assets/icon-circle.svg
           - page: Domestic Partner Registration
             path: docs/pages/division-2.5-domestic-partners.mdx
-            icon: fa-solid fa-heart-circle-check
+            icon: docs/assets/icon-circle.svg
           - page: Marriage
             path: docs/pages/division-3-marriage.mdx
-            icon: fa-solid fa-ring
+            icon: docs/assets/icon-circle.svg
           - page: Rights During Marriage
             path: docs/pages/division-4-rights-during-marriage.mdx
-            icon: fa-solid fa-circle-nodes
+            icon: docs/assets/icon-circle.svg
           - page: Conciliation Proceedings
             path: docs/pages/division-5-conciliation.mdx
-            icon: fa-solid fa-comments
+            icon: docs/assets/icon-circle.svg
           - page: Dissolution
             path: docs/pages/division-6-dissolution.mdx
-            icon: fa-solid fa-scale-unbalanced
+            icon: docs/assets/icon-circle.svg
           - page: Division of Property
             path: docs/pages/division-7-property.mdx
-            icon: fa-solid fa-building-columns
+            icon: docs/assets/icon-circle.svg
           - page: Custody of Children
             path: docs/pages/division-8-custody.mdx
-            icon: fa-solid fa-children
+            icon: docs/assets/icon-circle.svg
           - page: Support
             path: docs/pages/division-9-support.mdx
-            icon: fa-solid fa-hand-holding-dollar
+            icon: docs/assets/icon-circle.svg
           - page: Prevention of Domestic Violence
             path: docs/pages/division-10-domestic-violence.mdx
-            icon: fa-solid fa-shield-halved
+            icon: docs/assets/icon-circle.svg
           - page: Minors
             path: docs/pages/division-11-minors.mdx
-            icon: fa-solid fa-child
+            icon: docs/assets/icon-circle.svg
           - page: Parent and Child Relationship
             path: docs/pages/division-12-parent-child.mdx
-            icon: fa-solid fa-people-roof
+            icon: docs/assets/icon-circle.svg
           - page: Adoption
             path: docs/pages/division-13-adoption.mdx
-            icon: fa-solid fa-people-arrows
+            icon: docs/assets/icon-circle.svg
           - page: Family Law Facilitator Act
             path: docs/pages/division-14-family-law-facilitator.mdx
-            icon: fa-solid fa-headset
+            icon: docs/assets/icon-circle.svg
           - page: Support Services
             path: docs/pages/division-17-support-services.mdx
-            icon: fa-solid fa-building-columns
+            icon: docs/assets/icon-circle.svg
           - page: Pilot Projects
             path: docs/pages/division-20-pilot-projects.mdx
-            icon: fa-solid fa-flask
+            icon: docs/assets/icon-circle.svg
           - page: Forms
             path: docs/pages/forms.mdx
-            icon: fa-solid fa-file-lines
+            icon: docs/assets/icon-circle.svg
           - page: Judicial Decisions
             path: docs/pages/case-law.mdx
-            icon: fa-solid fa-scale-balanced
+            icon: docs/assets/icon-circle.svg
       - section: Docs Toolkit
         contents:
           - page: Components reference
             path: docs/pages/components.mdx
-            icon: fa-solid fa-cubes
+            icon: docs/assets/icon-circle.svg
           - page: Developer guide
             path: docs/pages/developer-guide.mdx
-            icon: fa-solid fa-code
+            icon: docs/assets/icon-circle.svg
           - page: Support
             path: docs/pages/support.mdx
-            icon: fa-solid fa-headset
+            icon: docs/assets/icon-circle.svg
   - tab: API Reference
     layout:
       - section: Overview
         contents:
           - page: Family Code API
             path: docs/pages/api-reference-overview.mdx
-            icon: fa-duotone fa-book
+            icon: docs/assets/icon-circle.svg
       - api: Family Code API - OpenAPI 3.1
         api-name: example-openapi
       - api: Family Code Realtime

@@ -189,8 +189,8 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-text-main);
   line-height: var(--lh-tight);
   font-weight: 600;
-  margin-top: var(--space-8);
-  margin-bottom: var(--space-3);
+  margin-top: var(--space-6);
+  margin-bottom: var(--space-2);
   text-wrap: balance;
 }
 
@@ -289,18 +289,18 @@ h1, h2, h3, h4, h5, h6 {
 
 .markdown ul,
 .markdown ol {
-  margin: var(--space-4) 0;
-  padding-left: var(--space-6);
+  margin: var(--space-3) 0;
+  padding-left: var(--space-5);
 }
 
 .markdown li {
-  margin: var(--space-1) 0;
-  line-height: var(--lh-relaxed);
+  margin: 2px 0;
+  line-height: var(--lh-snug);
 }
 
 .markdown li::marker {
   color: var(--color-text-muted);
-  font-size: 1.25em;
+  font-size: 1em;
 }
 
 .markdown blockquote {
@@ -1257,13 +1257,13 @@ h1, h2, h3, h4, h5, h6 {
 .icon-lg { width: 24px; height: 24px; }
 .icon-xl { width: 32px; height: 32px; }
 
-/* Lucide icon currentColor by default */
+/* Lucide icon currentColor by default — VS Code Codicon-style stroke */
 .lucide {
   display: inline-block;
   vertical-align: middle;
   fill: none;
   stroke: currentColor;
-  stroke-width: 2;
+  stroke-width: 1.5;
   stroke-linecap: round;
   stroke-linejoin: round;
 }
@@ -1326,7 +1326,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ========================================
-   15. STATUTE CARDS — Refined
+   15. STATUTE CARDS — Flat, Simple
    ======================================== */
 
 .statute-card {
@@ -1338,14 +1338,17 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid var(--color-border);
   border-radius: 8px;
   margin: var(--space-4) 0;
-  box-shadow: var(--shadow-sm);
-  transition: box-shadow var(--duration-normal) var(--ease-standard),
-              border-color var(--duration-fast) var(--ease-standard);
 }
 
 .statute-card:hover {
-  box-shadow: var(--shadow-md);
+  background: var(--color-gray-100);
   border-color: var(--color-border-strong);
+}
+
+@media (prefers-color-scheme: dark) {
+  .statute-card:hover {
+    background: var(--color-gray-800);
+  }
 }
 
 .statute-card .section-icon {
@@ -1485,8 +1488,8 @@ h1, h2, h3, h4, h5, h6 {
 .markdown h2,
 .markdown h3 {
   letter-spacing: -0.012em;
-  margin-top: var(--space-8);
-  margin-bottom: var(--space-3);
+  margin-top: var(--space-6);
+  margin-bottom: var(--space-2);
 }
 
 .markdown h1 { font-size: var(--text-4xl); font-weight: 700; }

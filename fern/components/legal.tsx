@@ -61,8 +61,11 @@ export const DefinedTerm = ({ term, definition, children }) => (
   </span>
 );
 
+import { SectionIcon } from './icons';
+
 export const DivisionHeader = ({ number, title, sections, icon }) => (
   <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem', padding: '1.5rem', background: 'linear-gradient(135deg, rgba(29, 78, 216, 0.05) 0%, rgba(96, 165, 250, 0.05) 100%)', border: '1px solid #E5E7EB', borderRadius: '0.75rem', margin: '1.5rem 0' }}>
+    <SectionIcon style={{ color: '#1D4ED8', flexShrink: 0 }} />
     <div style={{ flex: 1 }}>
       <h2 style={{ margin: '0 0 0.5rem 0', color: '#1D4ED8' }}>{title}</h2>
       <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap' }}>

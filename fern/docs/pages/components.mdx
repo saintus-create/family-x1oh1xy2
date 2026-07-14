@@ -109,6 +109,35 @@ def hello():
     return "Hello, world!"
 ```
 
+## Icons
+
+This project uses a single, uniform [Lucide](https://lucide.dev) icon everywhere — one minimal glyph, monochrome, drawn with a thin VS Code-style 1.5px stroke that stays consistent at any size. Using one icon keeps the docs calm and consistent instead of mixing many different marks.
+
+<SectionIcon /> <SectionIcon /> <SectionIcon />
+
+```jsx
+<SectionIcon />
+```
+
+Three components are available, all rendering the same glyph:
+
+- `<SectionIcon />` — large (28px), for section and division headings.
+- `<ListItemIcon />` — small (16px), for list items and inline callouts.
+- `<GlyphIcon />` — the base icon; pass `size` to set any dimension.
+
+```jsx
+<SectionIcon />
+<ListItemIcon />
+<GlyphIcon size={20} />
+<GlyphIcon size={24} color="#1D4ED8" />
+```
+
+Icons inherit the surrounding text color, so they stay monochrome. To change the glyph used everywhere, edit the single `Glyph` constant in `fern/components/icons.tsx` — every icon updates at once.
+
+The `DivisionHeader` component already renders `<SectionIcon />` automatically:
+
+<DivisionHeader number="3" title="Marriage" sections="300–560" />
+
 ---
 
 For the full list of components and detailed usage, see the [Fern components documentation](https://buildwithfern.com/learn/docs/writing-content/components/overview).
