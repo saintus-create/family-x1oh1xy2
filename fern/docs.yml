@@ -34,6 +34,9 @@ navigation:
           - page: Division 2 — Marriage
             path: docs/pages/marriage.mdx
             icon: docs/assets/icon-circle.svg
+          - page: Division 2.5 — Domestic Partner Registration
+            path: docs/pages/division-2.5-domestic-partners.mdx
+            icon: docs/assets/icon-circle.svg
           - page: Division 3 — Marriage: Rights and Obligations
             path: docs/pages/division-3-marriage.mdx
             icon: docs/assets/icon-circle.svg
@@ -69,6 +72,9 @@ navigation:
             icon: docs/assets/icon-circle.svg
           - page: Division 14 — Family Law Facilitator
             path: docs/pages/division-14-family-law-facilitator.mdx
+            icon: docs/assets/icon-circle.svg
+          - page: Division 15 — Conservatorship and Guardianship
+            path: docs/pages/division-15-conservatorship.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 17 — Support Services
             path: docs/pages/division-17-support-services.mdx
