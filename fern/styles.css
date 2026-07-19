@@ -1,5 +1,23 @@
 /* Minimal overrides — only for custom HTML elements Fern doesn't style. */
 
+/* Remove default link underlines */
+a { text-decoration: none; }
+
+/* Improve readability — spacing and measure */
+.markdown {
+  max-width: 52rem;
+  line-height: 1.7;
+}
+.markdown p {
+  margin: 0.75rem 0;
+}
+.markdown h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--border, #e5e5e5);
+}
+
 /* Division cards on home page */
 .division-grid {
   display: grid;
