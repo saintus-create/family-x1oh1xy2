@@ -101,7 +101,6 @@ colors:
 theme:
   page-actions: toolbar
   footer-nav: minimal
-favicon: docs/assets/favicon.svg
 landing-page:
   page: Home
   path: docs/pages/home.mdx
@@ -129,3 +128,7 @@ typography:
 ai-search:
   location:
     - docs
+favicon: Scottsboro_Boys_Freed287287____Downloads____2024-jan_____Users.Jpeg
+logo:
+  dark: Scottsboro_Boys_Freed287287____Downloads____2024-jan_____Users.Jpeg
+  light: Scottsboro_Boys_Freed287287____Downloads____2024-jan_____Users.Jpeg
