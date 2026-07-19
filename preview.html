@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Preview — Family Code docs (uniform Lucide)</title>
+  <link rel="stylesheet" href="fern/styles.css" />
+  <style>
+    body { margin: 0; font-family: 'Public Sans', system-ui, sans-serif; }
+    .wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; padding: 24px; }
+    @media (max-width: 900px) { .wrap { grid-template-columns: 1fr; } }
+    .pane { border: 1px solid #ddd; border-radius: 12px; overflow: hidden; }
+    .pane h3.lbl { margin: 0; padding: 8px 16px; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; background: #f3f4f6; color: #6b7280; }
+    .preview-dark { --color-bg-page:#0A0A0A; --color-bg-elevated:#1a1a1a; --color-bg-subtle:#262626; --color-text-main:#fafafa; --color-text-muted:#a3a3a3; --color-border:#404040; --color-border-strong:#737373; --color-gray-100:#1a1a1a; --color-gray-200:#262626; --color-gray-800:#262626; background:#0A0A0A; color:#fafafa; }
+    .preview-dark .pane, .preview-dark h3.lbl { background:#1a1a1a; }
+    .preview-dark h3.lbl { color:#a3a3a3; }
+    .mark { display:inline-flex; vertical-align:middle; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <!-- LIGHT -->
+    <div class="pane">
+      <h3 class="lbl">Light</h3>
+      <div class="markdown" style="padding:24px;">
+        <h1>California Family Code</h1>
+        <p>Interactive edition with uniform, minimal, monochrome icons.</p>
+
+        <div style="display:flex;align-items:center;gap:24px;padding:24px;background:linear-gradient(135deg,rgba(29,78,216,.05),rgba(96,165,250,.05));border:1px solid #E5E7EB;border-radius:12px;margin:24px 0;">
+          <svg class="lucide mark" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#1D4ED8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg>
+          <div>
+            <h2 style="margin:0 0 8px;">Marriage</h2>
+            <div style="display:flex;gap:12px;flex-wrap:wrap;">
+              <span style="background:#1D4ED8;color:#fff;padding:4px 12px;border-radius:6px;font-size:14px;font-weight:700;">Division 3</span>
+              <span style="background:#1D4ED8;color:#fff;padding:4px 12px;border-radius:6px;font-size:14px;font-weight:700;">§§ 300–560</span>
+            </div>
+          </div>
+        </div>
+
+        <h3>Key topics</h3>
+        <ul>
+          <li style="list-style:none;display:flex;align-items:center;gap:10px;"><svg class="lucide mark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg> Dissolution of marriage</li>
+          <li style="list-style:none;display:flex;align-items:center;gap:10px;"><svg class="lucide mark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg> Division of property</li>
+          <li style="list-style:none;display:flex;align-items:center;gap:10px;"><svg class="lucide mark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg> Child custody</li>
+        </ul>
+
+        <p>Sidebar nav icon (rendered as <code>&lt;img&gt;</code>, fixed gray):</p>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg>
+      </div>
+    </div>
+
+    <!-- DARK -->
+    <div class="pane preview-dark">
+      <h3 class="lbl">Dark</h3>
+      <div class="markdown" style="padding:24px;">
+        <h1>California Family Code</h1>
+        <p>Interactive edition with uniform, minimal, monochrome icons.</p>
+
+        <div style="display:flex;align-items:center;gap:24px;padding:24px;background:linear-gradient(135deg,rgba(29,78,216,.05),rgba(96,165,250,.05));border:1px solid #404040;border-radius:12px;margin:24px 0;">
+          <svg class="lucide mark" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#60A5FA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg>
+          <div>
+            <h2 style="margin:0 0 8px;">Marriage</h2>
+            <div style="display:flex;gap:12px;flex-wrap:wrap;">
+              <span style="background:#1D4ED8;color:#fff;padding:4px 12px;border-radius:6px;font-size:14px;font-weight:700;">Division 3</span>
+              <span style="background:#1D4ED8;color:#fff;padding:4px 12px;border-radius:6px;font-size:14px;font-weight:700;">§§ 300–560</span>
+            </div>
+          </div>
+        </div>
+
+        <h3>Key topics</h3>
+        <ul>
+          <li style="list-style:none;display:flex;align-items:center;gap:10px;"><svg class="lucide mark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg> Dissolution of marriage</li>
+          <li style="list-style:none;display:flex;align-items:center;gap:10px;"><svg class="lucide mark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg> Division of property</li>
+          <li style="list-style:none;display:flex;align-items:center;gap:10px;"><svg class="lucide mark" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg> Child custody</li>
+        </ul>
+
+        <p>Sidebar nav icon (rendered as <code>&lt;img&gt;</code>, fixed gray):</p>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/></svg>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

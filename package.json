@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "lucide-react": "^0.460.0"
+  },
   "devDependencies": {
     "mdx-tsx-import-checker": "^0.1.8"
   }

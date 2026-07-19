@@ -1,0 +1,4912 @@
+CHARACTERIZATION
+
+OF MARITAL
+
+not substantial in value taking into account the circumstances
+of the marriage.
+
+might have. Nevertheless, the appellate court instructed the trial
+court to consider the presumption of undue influence on remand.
+In re Marriage of Starkman, 129 Cal.App.4th 659, 28 Cal.Rptr.3d 639
+
+(d) Nothing in this section affects the law governing
+characterization of property in which separate property and
+community property are commingled or otherwise combined.
+(e) This section does not apply to or affect a transmutation
+of property made before January 1, 1985, and the law that
+would otherwise be applicable to that transmutation shall
+
+continue to apply.
+
+(Stats.1992, c. 162 (A.B.2650),
+
+(2005), review denied, holds that, as between
+
+husband
+
+and wife, a
+
+revocable living trust provision stating that all property that is not
+identified as the separate property of the husband or wife is the
+community property of the parties, was not sufficient to work a
+transmutation under this section because there was no unambiguous
+indication that the husband intended thereby to change the character
+of the separate property he placed in the trust into the community
+property of the parties. Compare In re Marriage of Holtemann, 166
+Cal.App.4th 1166, 83 Cal.Rptr.3d 385 (2008), review denied, which
+found a transmutation when a “transmutation agreement” contained
+explicit and unambiguous language of present transmutation, even
+though the agreement was incident to an estate planning trust.
+Accord, In re Marriage of Lund, 174 Cal.App.4th 40, 94 Cal.Rptr.3d 84
+
+§ 10,
+
+operative Jan. 1, 1994.)
+Law Revision Commission Comments
+Enactment
+
+§ 852
+
+PROPERTY
+
+[Revised Comment]
+
+Section 852 continues former Civil Code Section 5110.730 without
+change. See also Section 700 (real property includes leasehold
+interests in real property).
+Section 852 imposes formalities on interspousal transmutations for
+the purpose of increasing certainty in the determination whether a
+transmutation has in fact occurred. Section 852 makes clear that the
+ordinary rules and formalities applicable to real property transfers
+apply also to transmutations of real property between the spouses.
+
+(2009).
+In re Marriage of Leni, 144 Cal.App.4th 1087, 50 Cal.Rptr.3d 886
+(2006), held that a separated couple’s escrow instruction that
+proceeds from the sale of a community property home be split 50-50
+between them did not transmute each spouse’s share of the sale
+proceeds into that spouse’s separate property.
+Also interpreting MacDonald, In re Marriage of Campbell, 74
+Cal.App.4th 1058, 88 Cal.Rptr.2d 580 (1999), review denied November
+
+See Civ. Code §§ 1091, 1624 (statute of frauds), 1213-1217 (effect of
+
+17, 1999, held that the § 852(a) requirement of an express written
+declaration of transmutation bars the use of extrinsic oral evidence to
+estop the promisor from asserting the § 852(a) statute of frauds in
+order to enable the promisee to enforce an oral transmutation
+agreement. Compare § 1611, the statute of frauds requirement for
+premarital agreements. Section 1611 has been interpreted to incorporate the usual exceptions to the statute of frauds, including equitable
+estoppel. When, under § 1611, a promisee has relied to her
+detriment on an oral premarital promise, the promisor is estopped to
+assert the statute of frauds, and thus the promisee may avoid the
+statute of frauds and enforce the oral promise. In re Marriage of
+
+recording). When enacted in 1984 (as former Civil Code Section
+5110.730), this provision overruled case law. See, e.g., Woods v.
+
+Security First Nat'l Bank, 46 Cal.2d 697, 701, 299 P.2d 657, 659
+(1956). It also overruled prior law that permitted oral transmutation
+of personal property; however, transmutation by gift of certain
+personal property was recognized.
+For background on former Civ. Code § 5110.730, see Recommen-
+
+dation Relating to Marital Property Presumptions and Transmutations,
+17 Cal. L. Revision Comm’n Reports 205 (1984); 18 Cal. L. Revision
+Comm’n Reports 68 (1986).
+[23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+Benson, 36 Cal.4th 1096, 116 P.3d 1152, 32 Cal.Rptr.3d 471(2005),
+holds that the usual exceptions to the statute of frauds (see
+Commentary to Section 1611) may not be used to avoid the
+subsection (a) writing requirement.
+In re Marriage of Valli, 58 Cal.4th 1396, 324 P.2d 274, 171
+Cal.Rptr.3d 454 (2014), held that spousal purchases from a third party
+where the character of the purchase funds and the character of the
+asset are claimed to differ are transmutations subject to this Chapter.
+In order to relinquish a property interest that a spouse would
+otherwise have based on the character of the purchase funds, he
+must, under section 852, expressly declare in writing that he is giving
+up any interest he may have in the purchased asset. Thus, when
+Frankie Valli used community property funds to purchase a life
+insurance policy on his life and named his spouse as the owner of the
+policy, the policy remained community property because Frankie did
+not expressly declare in writing that he was giving up any interest he
+had in the policy. Valli overrules In re Summers, 332 F.3d 1240 (9th
+Cir. 2003) and In re Marriage of Brooks & Robinson, 169 Cal.App.4th
+176, 86 Cal.Rptr.3d 624 (2008), to the extent they hold that spousal
+purchases from third parties are not subject to the requirements of
+this Chapter. Valli also holds that the Evidence Code section 662
+presumption arising from the form of title, a common law presumption, is inapplicable when it conflicts with the transmutation statutes.
+Justice Chin’s concurrence in Valli further considers the relationship
+between the Evidence Code section 622 common law title presumption and California community property law.
+
+Commentary
+
+Estate of MacDonald, 51 Cal.3d 262, 264, 272 Cal.Rptr. 153 (1990),
+holds that “a writing is not an ‘express declaration’ for the purposes
+of section [852(a)] unless it contains language which expressly states
+that a change in the characterization or ownership of the property is
+being made.” A purported transfer that does not satisfy the rigorous
+MacDonald “express declaration” requirement and hence fails to
+work a present transmutation, may nevertheless be effective as
+spousal consent to a nonprobate beneficiary designation. Such
+consent remains revocable while both spouses are living. At the death
+of either spouse after January 1, 1993, the consent becomes
+irrevocable. Stats 1992 Ch 51, codified at Family Code Section 853
+and Probate Code Sections 5002-5032.
+Applying MacDonald, In re Marriage of Barneson, 69 Cal.App.4th
+583, 81 Cal.Rptr.2d 726 (1999), holds that a husband’s written order
+to “transfer” stocks to his wife’s name did not satisfy the subsection
+(a) express declaration requirement because the word “transfer”
+does not necessarily imply a change in ownership. Estate of Bibb, 87
+Cal.App.4th 461, 104 Cal.Rptr.2d 415 (2001), review denied May 16,
+2001, holds that a grant deed transferring a husband’s separate
+property to himself and his wife satisfied subsection (a), but that a
+Department of Motor Vehicles registration form indicating a change
+in registration from the husband alone to the husband or wife did not
+satisfy subsection (a).
+In re Marriage of Kushesh & Kushesh-Kaviani, 27 Cal.App.5th 449,
+238 Cal.Rptr.3d 174 (2018), reversing a trial court decision to the
+contrary, held that an interspousal transfer grant deed in which a
+husband granted his wife a condominium unit as her sole and
+separate property, satisfied the transmutation requirements of this
+section. In view of the language of the grant, it was unnecessary to
+further indicate that the husband was relinquishing any interest he
+
+Herrera v. Pons, 2018 WL 2229369 (U.S. Dist. Ct. S.D. Cal. 2018), a
+
+federal bankruptcy appeal, takes Valli one step further. In Valli, the
+wife was
+
+listed as the owner, without further qualification, of an
+
+insurance policy. In Herrera, a husband held recorded legal title to a
+home acquired during marriage in his name “as his separate
+property,” presenting a direct conflict between the community
+property presumption and Evidence Code § 662. Herrera held that
+
+75
+
+§ 852
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+Bucurenciu, 129 Cal.App.4th 825, 28 Cal.Rptr.3d 884 (2005), approves
+a trial court’s finding that the spouses’ marital settlement agreement
+violates the Uniform Fraudulent Transfer Act.
+Reversing the Bankruptcy Court, In re Beverly, 374 B.R. 221 (U.S.
+Bankr. App. Pan., 9th Cir. 2007), held that a divorcing attorney’s
+marital settlement agreement, which transferred nonexempt community property to his wife in exchange for an equivalent amount of his
+exempt community property retirement fund, was a fraudulent
+
+the community property presumption was controlling, the transmutation requirements had to be satisfied, and that a formally adequate
+transmutation (a wife’s quit-claim deed) was ineffective because the
+
+husband could not overcome the presumption of undue influence
+that arose when he gained an advantage and his wife was thereby
+disadvantaged.
+Invoking Valli, In re Marriage of Lafkas, 237 Cal.App.4th 921, 188
+Cal.Rptr.3d
+
+484
+
+(2015),
+
+review
+
+denied,
+
+held
+
+that
+
+the
+
+OBLIGATIONS
+
+husband’s
+
+transfer under California Civil Code § 3439.04(a)(1) and therefore
+under 11 U.S.C. § 544(b). Thus, in the attorney’s involuntary
+bankruptcy proceeding, the Bankruptcy Trustee could avoid the
+transfer and reach the attorney’s community property interest in the
+nonexempt property.
+Although an interspousal transaction satisfies the formal requirements of this section, it may nevertheless be ineffective because it
+violates the fiduciary duty that spouses owe to one another. A
+rebuttable presumption of undue influence arises when one spouse
+gains an advantage over the other in an interspousal transaction. For
+discussion of the presumption, see commentary to Section 721.
+
+separate property interest in a partnership agreement was not
+transmuted to community property despite a modification of the
+agreement, signed by husband, that named husband and wife as
+owners of the partnership interest, because the modification did not
+
+contain an express declaration that the character of ownership was
+being changed.
+Also invoking Valli, a Ninth Circuit Bankruptcy Appellate Panel,
+purporting to apply California community property law, held that a
+married couple’s property held in joint tenancy title was community
+property for purposes of inclusion, in its entirety, in the husband’s
+bankruptcy estate. Characterizing joint tenancy held by spouses in an
+intact marriage, In re Brace, 566 B.R. 13 (B.A.P. 9th Cir. 2017), relied
+
+Research References
+
+on section 760, the case law presumption that property acquired
+during marriage is community property, the section 2581 presumption that, at dissolution, property acquired in joint tenancy title is
+community property, and the transmutation provisions, including
+sections 850 through 852. The reasoning of Brace is ahistorical and
+unpersuasive. Its holding should be treated with circumspection.
+Brace, supra, was appealed to the Ninth Circuit Court of Appeals,
+908 F.3d 531, 534 (2018), which certified the question to the
+California Supreme Court, where it is now pending.
+For further discussion
+
+Forms
+
+Asset Protection: Legal Planning, Strategies and Forms {| 4.04,
+Determining the Character of Property.
+Asset Protection: Legal Planning, Strategies and Forms 1 4.07,
+Marital Agreements.
+Asset Protection: Legal Planning, Strategies and Forms {| 13.01A,
+Charitable Contributions of Ira’s and Other Retirement Plans.
+1 California Transactions Forms--Estate Planning § 1:21, Severing
+Joint Tenancies in Real Property.
+
+of Section 852, see Estate of Petersen 28
+
+Cal.App.4th 1742, 34 Cal.Rptr.2d 449 (1994) (ruling on various
+transmutation issues); In re Marriage of Steinberger, 91 Cal.App.4th
+
+1 California Transactions Forms--Estate Planning § 1:24, Communi-
+
+ty Property Versus Joint Tenancy.
+1 California Transactions Forms--Estate Planning § 1:25, Joint
+Tenancy or Community Property Treatment of Property in
+Revocable Trust.
+
+1449, 111 Cal.Rptr.2d 521 (2001), review denied November 14, 2001
+
+(affirming trial court’s holding that diamond ring worth between
+$13,000 and $14,000 and purchased by spouses with community funds
+as a gift for high-earning wife was, for purposes of subsection (c),
+“substantial in value taking into account the circumstances of the
+marriage”). Also interpreting subsection (c), In re Marriage of
+
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+ty Property.
+2 California
+
+Neighbors, 179 Cal.App.4th 1170, 102 Cal.Rptr.3d 387 (2009), held
+that an automobile is not “a tangible article of a personal nature”
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 10:7,
+
+Joint
+
+Tenancy.
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+within the meaning of that subsection.
+Note that the writing requirement of Section 852 applies only to
+transmutations made on or after January 1, 1985. Transmutations
+before that date are regulated by more generous case law, which
+
+ties Required.
+2 California
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 10:19,
+
+Joint
+
+Tenancy Property.
+2 California Transactions Forms--Estate Planning § 11:34, Agreement Entered Into Before January 1, 1985.
+2 California Transactions Forms--Estate Planning § 11:35, Agree-
+
+recognizes oral and even implied-in-fact transmutation on the theory
+that married persons are likely to engage in informal transactions.
+See, for example, Estate of Nelson, 224 Cal.App.2d 138, 36 Cal.Rptr.
+352 (1964) and Estate of Raphael, 91 Cal.App.2d 931, 206 P.2d 391
+(1949). Compare In re Marriage of Jafeman, 29 Cal.App.3d 244, 105
+Cal.Rptr. 483 (1972). Although prior case law applied the usual
+“preponderance of the evidence” standard to pre-1985 oral transmutation, In re Marriage of Weaver, 224 Cal.App.3d 478, 273 Cal.Rptr.
+696 (1990), holds that Evidence Code Section 662 applies to pre—
+1985 oral transmutation. Evidence Code Section 662 provides: “The
+owner of the legal title to property is presumed to be the owner of
+the full beneficial title. This presumption may be rebutted only by
+clear and convincing proof.” See also Tannehill v.. Finch, 188
+Cal.App.3d 224, 232 Cal.Rptr. 749 (1986), review denied 3/11/87
+(applying Section 662 in a Marvin cohabitation action). But see Jn re
+Marriage of Haines, 33 Cal.App.4th 277, 39 Cal.Rptr.2d 673 (1995),
+which holds that Evidence Code Section 662 does not apply in family
+law proceedings insofar as its application would be inconsistent with
+the presumption of undue influence that arises from the Family Code
+Section 721 principle that the spouses have a confidential relationship in their transactions with each other.
+
+ment Entered Into on or After
+
+January 1, 1985.
+
+2 California Transactions Forms--Estate Planning § 11:36, Family
+Code § 852 Transmutations and Rules Governing Fiduciary
+Relationships.
+2 California Transactions Forms--Estate Planning § 11:59, Matters
+
+to Include in Transmutation Agreement.
+3 California Transactions Forms--Estate Planning § 13:21, Transmu-
+
+tation.
+4 California Transactions Forms--Estate Planning § 19:17, Separate
+Property.
+4 California Transactions Forms--Estate Planning § 19:70, Characterization of Property.
+jou
+1 California
+
+ment
+
+Transactions
+
+of Separate
+
+Forms--Family
+
+Property
+
+1 California Transactions
+
+Law
+
+Contribution
+
+Forms--Family
+
+Law
+
+§ 2:18, Reimburse-
+
+[Fam
+
+C § 2640].
+
+§ 2:42, Excess Tax
+
+Payments.
+West’s California Code Forms, Family § 850, Comment
+
+Overview-
+
+Transmutation by Agreement or Transfer.
+Treatises and Practice Aids
+
+Mejia v. Reed, 31 Cal.4th 657, 74 P.3d 166, 3 Cal.Rptr.3d 390 (2003),
+holds that the Uniform Fraudulent Transfer Act (Civil Code
+§§ 3439-3439.12) applies to marital settlement agreements. Filip v.
+
+11 Witkin, California
+
+(2018), In General.
+
+76
+
+Summary
+
+10th Community
+
+Property
+
+§ 158
+
+LIABILITY
+
+OF MARITAL
+
+11 Witkin, California Summary 10th Community Property § 159
+(2018), Express Statement of Change is Required.
+11 Witkin, California Summary 10th Community Property § 160
+(2018), Extrinsic Evidence is Not Admissible.
+11 Witkin, California Summary 10th Community Property § 161
+(2018), Estate Planning Transactions.
+11 Witkin, California Summary 10th Community Property § 231
+(2018), Statutory Rule.
+14 Witkin, California Summary 10th Wills and Probate § 336 (2018),
+Transmutation of Community Property Distinguished.
+
+§ 900
+
+PROPERTY
+
+proving an agreement between decedent and stepmother to trans-
+
+mute joint tenancy property to community property.
+This section does not by its terms apply to inter vivos trusts.
+However, In re Marriage of Starkman, 129 Cal.App.4th 659, 28
+Cal. Rptr.3d 639 (2005), review denied, holds that, as between a living
+husband and wife, a revocable living trust provision stating that all
+property that is not identified as the separate property of the
+husband or wife is the community property of the parties, was not
+sufficient to work a transmutation under Section 852 because there
+was no unambiguous indication that the husband intended thereby to
+change the character of the separate property he placed into the trust
+into the community property of the parties. Compare In re Marriage
+of Holtemann, 166 Cal.App.4th 1166, 83 Cal.Rptr.3d 385 (2008),
+
+§ 853. Characterization of property in will; admissibility
+in proceedings commenced before death of testator;
+waiver of right to joint and survivor annuity or survivor’s benefits; written joinders or consents to nonprobate
+transfers of community property
+
+review denied, which found a transmutation when a “transmutation
+
+agreement” contained explicit and unambiguous language of present
+transmutation, even though the agreement was incident to an estate
+planning trust. Accord, In re Marriage of Lund, 174 Cal.App.4th 40, 94
+Cal. Rptr.3d 84 (2009).
+
+(a) A statement in a will of the character of property is not
+admissible as evidence of a transmutation of the property in a
+proceeding commenced before the death of the person who
+made the will.
+
+Research References
+Forms
+
+(b) A waiver of a right to a joint and survivor annuity or
+survivor’s benefits under the federal Retirement Equity Act
+of 1984 (Public Law 98-397) | is not a transmutation of the
+community property rights of the person executing the
+waiver.
+
+2 California Transactions Forms--Estate Planning § 11:35, Agreement Entered Into on or After January 1, 1985.
+4 California Transactions Forms--Estate Planning § 19:57, Maintain-
+
+ing Confidentiality.
+4 California Transactions Forms--Estate
+
+Planning § 19:70, Charac-
+
+terization of Property.
+
+(c) A written joinder or written consent to a nonprobate
+transfer of community property on death that satisfies Section
+852 is a transmutation and is governed by the law applicable
+to transmutations and not by Chapter 2 (commencing with
+Section 5010) of Part 1 of Division 5 of the Probate Code.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.
+
+1 California Transactions Forms--Family Law § 2:46, No Transmutation.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Estate Planning Transactions.
+
+Property § 161
+
+Amended by Stats.1993, c. 219 (A.B.1500), § 100.)
+1See Short Title of 1984 Amendment
+§ 1001 for classifications of the Act.
+
+note under
+
+29 U.S.C.A.
+
+Part 3
+LIABILITY
+
+Law Revision Commission Comments
+
+Enactment
+
+PROPERTY
+
+naneaie.
+
+barony
+
+Chapter
+
+[Revised Comment]
+
+Section 853 continues former Civil Code Section 5110.740 without
+substantive change. When enacted in 1984 (as former Civil Code
+Section 5110.740), subdivision (a) of this provision reversed the caselaw rule that a declaration made in a will as to the character of
+property may be an effective transmutation of the property before
+the death of the declarant.
+
+OF MARITAL
+
+Section
+
+1.
+
+Definitions ami:
+
+oat is.
+
+etic 900
+
+2.
+
+General Rules of Liability .......................
+
+3°
+4.
+
+“Reimbursement st) 208 ee Poe Seer BY. 920
+Transitional Provisions ......................... 930
+
+910
+
+5.
+
+Liability for Death or Injury ....................
+
+1000
+
+See, e.g., In re Marriage of Lotz, 120
+
+Cal.App.3d 379, 174 Cal.Rptr. 618 (1981); Estate of Wilson, 64
+Cal.App.3d 786, 134 Cal.Rptr. 749 (1976). Section 853 is consistent
+with the general concepts that a will is ambulatory and subject to
+subsequent revocation or modification and does not speak until the
+testator’s death.
+
+CHAPTER 1.
+
+DEFINITIONS
+
+Section
+900. Construction of part.
+902. Debt.
+
+For background on former Civ. Code § 5110.740, see Recommendation Relating to Marital Property Presumptions and Transmutations,
+17 Cal. L. Revision Comm’n Reports 205 (1984); Nonprobate
+Transfers of Community Property, 21 Cal. L. Revision Comm’n
+Reports 163 (1991).
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+903.
+
+Time debt is incurred.
+
+§ 900.
+
+Construction of part
+
+Unless the provision or context otherwise requires, the
+definitions in this chapter govern the construction of this part.
+
+Commentary
+
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+In re Marriage of Weaver, 224 Cal.App.3d 478, 489, 273 Cal.Rptr. 696
+(1990), holds that subsection (a) applies in any action brought after
+the statute’s effective date (January 1, 1985), without regard to the
+date of the purported transmutation or the date of the will. Compare
+Section 852, which applies only to post—1984 transmutation.
+Relying in part on Family Code Section 853, Estate of Gallio, 33
+Cal. App.4th 592, 39 Cal.Rptr.2d 470 (1995), holds that a stepmother’s
+will is not discoverable by decedent’s children for the purpose of
+
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 900 continues former Civil Code Section 5120.010 without
+substantive change.
+For background on former Civ. Code
+§ 5120.010, see Recommendation Relating to Liability of Marital
+Property for Debts, 17 Cal. L. Revision Comm’n Reports 1 (1984).
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+77
+
+§ 900
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+OBLIGATIONS
+Research References
+
+Research References
+Forms
+
+Forms
+
+West’s California Code Forms, Family § 781, Comment
+
+Asset
+
+Overview-
+
+Damages for Injuries to Married Person.
+
+Protection: Legal Planning,
+Community Property.
+
+Strategies
+
+and Forms 1 4.03,
+
+Treatises and Practice Aids
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Nature and Scope of Revision.
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 2-A,
+Deciding Whether to File Bankruptcy and Initial Filing Considerations.
+11 Witkin, California Summary 10th Community Property § 181
+(2018), Nature and Scope of Revision.
+11 Witkin, California Summary 10th Community Property § 188
+(2018), Reimbursement.
+
+§ 902.
+
+CHAPTER 2.
+
+“Debt” means an obligation incurred by a married person
+
+913.
+914.
+
+before or during marriage, whether based on contract, tort, or
+otherwise. (Stats.1992, c. 162 (A.B.2650), § 10, operative Jan.
+1, 1994.)
+
+915.
+
+Enactment
+
+916.
+
+Comments
+
+Separate property of married person; liability for debt.
+Personal liability for debts incurred by spouse; separate
+property applied to satisfaction of debt; statute of
+limitations.
+Child or spousal support obligation not arising out of
+marriage; reimbursement of community.
+Division of property; subsequent liability; right of
+reimbursement, interest and attorney’s fees.
+
+[Revised Comment]
+
+§ 910.
+
+Section 902 continues former Civil Code Section 5120.030 without
+change.
+For background on former Civ. Code § 5120.030, see
+Recommendation Relating to Liability of Marital Property for Debts, 17
+Cal. L. Revision Comm’n Reports 1 (1984). [23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Nature and Scope of Revision.
+
+Community estate; liability for debts
+
+(a) Except as otherwise expressly provided by statute, the
+community estate is liable for a debt incurred by either
+spouse before or during marriage, regardless of which spouse
+has the management and control of the property and
+regardless of whether one or both spouses are parties to the
+debt or to a judgment for the debt.
+(b) “During marriage” for purposes of this section does
+not include the period after the date of separation, as defined
+in Section 70, and before a judgment of dissolution of
+marriage or legal separation of the parties. (Stats.1992, c.
+162 (A.B.2650), § 10, operative Jan. 1, 1994. Amended by
+Stats.2016, c. 114 (S.B.1255), § 3, eff. Jan. 1, 2017.)
+
+Research References
+
+§ 903.
+
+GENERAL RULES OF LIABILITY
+
+Section
+910. Community estate; liability for debts.
+911. Earnings of married persons; liability for premarital
+debts; earnings held in deposit accounts.
+912. Quasi-community property; treatment.
+
+Debt
+
+Law Revision Commission
+
+Property § 181
+
+Property § 181
+
+Time debt is incurred
+
+A debt is “incurred” at the following time:
+Law Revision Commission Comments
+
+(a) In the case of a contract, at the time the contract is
+made.
+
+Enactment
+
+(b) In the case of a tort, at the time the tort occurs.
+
+(c) In other cases, at the time the obligation arises.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 910 continues former Civil Code Section 5120.110(a) and
+(c) without substantive change. The term “community estate” has
+been substituted for “community property.” This is not a substantive
+change. See Section 63 (“community estate” defined) & Comment.
+In subdivision (b), the definition of “during marriage” has been
+limited in application to this section. This is not a substantive
+change. See Section 911 Comment.
+Section 910 makes clear that the community estate is liable for the
+prenuptial contracts of the spouses. But see Section 911 (liability of
+earnings of the nondebtor spouse). The nondebtor spouse need not
+be made a party for the purpose of enforcing a judgment out of the
+community estate.
+However, special procedural provisions may
+apply. See, e.g., Codé Civ. Proc. § 706.109 (issuance of earnings
+withholding order against spouse of judgment debtor). For rules
+governing liability after division of the community estate, see Section
+916. See also Code Civ. Proc. § 371 (right of married person to
+defend suit for spouse’s right).
+The introductory and concluding clauses of subdivision (a) make
+clear that the community estate is liable for all debts of either spouse
+absent an express statutory exception. Thus, community property
+under the management and control of one spouse pursuant to
+Section 1100(d) (spouse operating or managing business), Financial
+Code Section 851 (one-spouse bank account), or Probate Code
+
+[Revised Comment]
+
+Section 903 continues former Civil Code Section 5120.040 without
+change.
+For background on former Civ. Code § 5120.040, see
+
+Recommendation Relating to Liability of Marital Property for Debts, 17
+Cal. L. Revision Comm’n Reports 1 (1984). [23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+Commentary
+
+Applying the literal language of subsection (a), In re Marriage of
+Feldner, 40 Cal.App.4th 617, 47 Cal.Rptr.2d 312 (1995), holds that
+
+damages caused the husband’s breach of a contract, which breach
+occurred after the parties’ final separation, gave rise to. a community
+debt because the underlying contract was made by the husband
+before the parties separated.
+
+78
+
+LIABILITY
+
+OF MARITAL
+
+Section 3051 (conservatorship) remains liable for the debts of the
+other spouse. For an express statutory exception from liability of a
+community estate, see Section 911 (liability of earnings of nondebtor
+spouse). See also Welf. & Inst. Code §§ 14006.1-14006.6 (eligibility
+for Medi-Cal).
+Section 915 provides that a child or spousal support obligation that
+does not arise out of the marriage is to be treated as a debt incurred
+
+To
+
+§ 911
+
+PROPERTY
+similar
+
+effect, see Babb
+
+v. Schmidt,
+
+496 F.2d
+
+957,
+
+959
+
+(9th
+
+Cir.1974) (relying on § 910(a) to conclude that a tax debtor has a
+“right to property” sufficient to allow the Internal Revenue Service
+to levy, under 26 USC § 6331(a), on all the community property to
+satisfy that spouse’s delinquent tax obligations). Relying on subsection (a) of this section, United States v. Berger, 574 F.3d 1202 (9th Cir.
+2009), holds that the portion of community property that would
+potentially be awarded upon dissolution of marriage to a spouse who
+was not involved in criminal activity is available to satisfy a restitution
+judgment obtained against a criminally liable spouse under the
+Mandatory Victim Restitution Act (18 U.S.C. § 3663(a)).
+When a landlord brings an action against a husband who has
+personally guaranteed obligations under a lease, the landlord has no
+cause of action against the defendant’s wife based solely on the
+liability of community property under this section. 11601 Wilshire
+Associates v. Grebow, 64 Cal.App.4th 453, 74 Cal.Rptr.2d 912 (1998),
+review denied August 19, 1998.
+When a debt for which community property is liable under this
+section, was not assigned, under section 916(a)(2), to the non-debtor
+spouse in the judgment of dissolution, Litke O’Farrell, LLC v. Tipton,
+204 Cal.App.4th 1178, 139 Cal.Rptr.3d 548 (2012), held that a marital
+settlement agreement (MSA) dividing the community property,
+assigning the debt solely to husband, providing that the court would
+be requested to incorporate the MSA in the judgment of dissolution,
+but that the MSA was enforceable whether or not it was incorporated
+into a final judgment, became effective on the date it was signed by
+the parties. Thus, a motion to charge interests served by the
+husband’s creditors after the MSA was executed but before the
+judgment of dissolution was entered did not attach to the property
+received by the wife in the MSA.
+
+before marriage. Hence, such an obligation is governed by the
+provisions of Sections 910 and 911. If property sought to be applied
+to the satisfaction of a judgment for child support is liable for the
+payment of the judgment but is shown to be exempt, in determining
+under Code of Civil Procedure Section 703.070 the extent to which
+the exempt property nevertheless shall be applied to the satisfaction
+of the support judgment, the court shall take into account, among
+other relevant circumstances, all of the other property of the spouses,
+including the separate property of each and the earnings that are not
+liable for child support under Sections 910 and 911. Although Code
+of Civil Procedure Section 703.070 requires the court to take into
+account property that is not liable under Section 911, Section 703.070
+does not make the property described in Section 911 liable for
+payment of the support judgment. Nothing in Section 911 limits or
+affects the payment under Article 8 (commencing with Section
+708.710) of Chapter 6 of Division 2 of the Code of Civil Procedure of
+a claim based on a judgment for child support, whether the money to
+be applied to the claim is owed to the judgment debtor alone or to
+the judgment debtor and the spouse of the judgment debtor. This is
+clear because the protection for earnings after payment extends only
+to earnings deposited in a deposit account that meets the requirements of Section 911.
+For background on former Civ. Code § 5120.110, see Recommendation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+Reports 56-57 (1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Research References
+Forms
+
+Commentary
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms 1 4.03,
+Community Property.
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+In re Marriage of Marshall, 23 Cal.App.5th 477, 232 Cal.Rptr.3d 819
+(2018), held that a trial court did not err when it concluded that a
+capital gains tax liability was a community debt despite an “innocent
+
+ties Required.
+3 California Transactions Forms--Estate Planning
+Effect of Retention of Community Character.
+
+spouse” determination the wife had obtained, under 26 USC § 6015,
+
+from the Internal Revenue Service.
+For treatment of California community property ownership and
+debt liability rules in the context of federal law, compare United
+
+§ 13:19, Legal
+
+Treatises and Practice Aids
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 5(I)A, Commencing Voluntary Bankruptcy Proceedings.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 17-O,
+Claim Distribution.
+11 Witkin, California Summary 10th Community Property § 157
+(2018), Authority to Transmute.
+11 Witkin, California Summary 10th Community Property § 182
+(2018), General Rule.
+
+States v. Lester, 85 F.3d 1409 (9th Cir. 1996) with U.S. v. Hooper, 229
+
+F.3d 818 (9th Cir. 2000), and In re Soderling, 998 F.2d 730, 733 (9th
+Cir. 1993). Lester holds that the federal Comprehensive Drug Abuse
+
+Prevention and Control Act substitute property forfeiture section
+(“substitute property” is that property not used in the commission of
+a crime but taken instead because property used in commission of the
+crime is unavailable) looks to state law only for the purpose of
+determining property ownership (Family Code Section 751), and not
+for the purpose of determining debt liability (Family Code Section
+910(a)). Thus an innocent wife’s one-half interest in the community
+property cannot be reached on account of her husband’s criminal
+behavior. Distinguishing Lester, which applied to “substitute property,” Hooper held that the federal criminal statute governing forfeiture
+of property derived from illicit drug sale (21 USC § 853) allows
+forfeiture of an innocent spouse’s community property interest in the
+illicit sale proceeds or property purchased with those proceeds.
+Soderling determined that, for purposes of dischargeability in bankTuptcy, a criminal restitution order is a “debt” under California law
+and federal bankruptcy law, and hence may be satisfied, according to
+state law, from community property assets. See also McIntyre v.
+United States, 222 F.3d 655 (9th Cir. 2000). Reading 29 USC §§ 1056
+(d) and 1144 (d) together with California Family Code § 910 (a),
+McIntyre holds that the Internal Revenue Service may levy, under 26
+USC § 6331 (a), on the entire contents of a spouse’s ERISAregulated pension plan, including the other spouse’s California
+community property interest, in order to satisfy the spouse’s tax debt.
+
+13 Witkin, California Summary
+
+10th Trusts § 230 (2018), Trust of
+
+Community Property.
+
+§ 911. Earnings of married persons; liability for premarital debts; earnings held in deposit accounts
+
+(a) The earnings of a married person during marriage are
+not liable for a debt incurred by the person’s spouse before
+marriage. After the earnings of the married person are paid,
+they remain not liable so long as they are held in a deposit
+account in which the person’s spouse has no right of
+withdrawal and are uncommingled with other property in the
+community estate, except property insignificant in amount.
+(b) As used in this section:
+(1) “Deposit account” has the meaning prescribed in
+paragraph (29) of subdivision (a) of Section 9102 of the
+Commercial Code.
+
+79
+
+§ 911
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+property as separate property rather than community property for
+purposes of liability for debts. This change in the law was necessary
+to effectuate the public policy of the state to achieve sharing of
+
+(2) “Earnings” means compensation for personal services
+performed, whether as an employee or otherwise.
+(Stats.
+1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994. Amended by Stats.1999, c. 991 (S.B.45), § 42.5, operative July 1,
+
+marital assets and liabilities, to promote
+
+Enactment
+
+For background on former Civ. Code § 5120.120, see Recommendation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984). [23 Cal.L.Rev.Comm. Reports
+
+Comments
+
+[Revised Comment]
+
+Section 911 continues former Civil Code Section 5120.110(b)
+without substantive change. The term “community estate” has been
+substituted for “community property.” This is not a substantive
+change. See Section 63 (“community estate” defined) & Comment.
+The definition of “during marriage” in former Civil Code Section
+5120.110(c) is not continued in this section because it was not
+intended to apply to the rule in this section. See also Section 910
+Comment.
+When enacted in 1984 (as former Civil Code Section 5120.110),
+the second sentence of subdivision (a) codified the rule that, for
+purposes of liability, earnings may not be traced through changes in
+form. See, e.g., Pfunder v. Goodwin, 83 Cal.App. 551, 257 P. 119
+
+1 (1993)].
+Commentary
+
+This provision is of questionable constitutionality. See Addison v.
+Addison, 62 Cal.2d 558, 43 Cal.Rptr. 97 (1965), which holds constitutional, at death and divorce, the application of California quasicommunity property law to property acquired in common-law states
+by persons who later become domiciled in California. Addison
+constitutionally justifies such treatment in terms of the state’s power
+to alter property ownership at death and divorce. The state has no
+similar power or interest in altering property ownership to enlarge
+creditor access to a spouse’s property. The Law Revision Commission’s effort to justify the statute, supra, is not persuasive. The
+promotion of equal spousal access to credit is hardly served by a
+statutory scheme that gives the nonowner spouse no rights in the
+quasi-community property during marriage and hence does not allow
+the nonowner spouse to manage or pledge the quasi-community
+property in order to establish credit.
+
+(1927).
+The second sentence of subdivision (a) also makes clear the extent
+to which paid earnings remain not liable. The effect of the sentence
+is to protect a deposit account only where the nonobligor spouse has
+an account into which only his or her earnings and separate property
+or property of a third person are deposited (unless the amount of
+other community estate property deposited in the account is insignificant). In such a situation, it is clear that the nonobligor spouse has
+carefully set aside his or her earnings and separate property and it is
+appropriate to continue the protection given the earnings. Where
+the account is commingled with any significant amount of other
+
+Research References
+Treatises and Practice Aids
+
+property in the community estate (such as the earnings of the other
+
+spouse or income from other property in the community estate), the
+intent to segregate the earnings and separate property is not clear,
+and hence the protection is not continued. The same reasoning
+justifies not protecting the account where the obligor spouse has a
+right to withdraw funds from the account.
+
+and
+
+Forms
+
+{ 4.03,
+
+liability for
+
+(2) The joinder or consent of a married person to an
+encumbrance of community estate property to secure payment of a debt incurred by the person’s spouse does not
+subject the person’s separate property to liability for the debt
+unless the person also incurred the debt. (Stats.1992, c. 162
+(A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 183
+(2018), Exception for Earnings.
+10 Witkin, California Summary 10th Parent and Child § 444 (2018),
+Liability of Stepparent.
+
+§ 912.
+
+§ 913. Separate property of married person;
+debt
+
+(1) The separate property of a married person is not liable
+for a debt incurred by the person’s spouse before or during
+marriage.
+
+Forms
+
+Strategies
+
+Property § 181
+
+(b) Except as otherwise provided by statute:
+
+Research References
+
+Protection: Legal Planning,
+Community Property.
+
+11 Witkin, California Summary 10th Community
+(2018), Nature and Scope of Revision.
+
+(a) The separate property of a married person is liable for
+a debt incurred by the person before or during marriage.
+
+For background on former Civ. Code § 5120.110, see Recommen-
+
+dation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+Reports 56-57 (1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Asset
+
+Law Revision Commission Comments
+
+Quasi-community property; treatment
+
+For the purposes of this part, quasi-community property is
+
+Enactment
+
+liable to the same extent, and shall be treated the same in all
+
+other respects, as community property.
+(A.B.2650), § 10, operative Jan. 1, 1994.)
+
+[Revised Comment]
+
+Section 913 continues former Civil Code Section 5120.130 without
+substantive change. The term “community estate” has been substituted for “community property.” This is not a substantive change.
+See Section 63 (“community estate” defined) & Comment. For an
+exception to the rule of subdivision (b), see Section 914 (liability for
+necessaries).
+
+(Stats.1992, c. 162
+
+Law Revision Commission Comments
+Enactment
+
+equal access to credit for
+
+both spouses, to treat all residents of the state equally, and to protect
+the interests of California creditors.
+
+2001.)
+Law Revision Commission
+
+OBLIGATIONS
+
+[Revised Comment]
+
+Section 912 continues former Civil Code Section 5120.120 without
+substantive change.
+
+For background on former Civ. Code § 5120.130, see Recommendation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+
+When enacted in 1984 (as former Civil Code Section 5120.120),
+this provision reversed existing law which treated quasi-community
+
+Reports 57 (1986).
+
+80
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+LIABILITY
+
+OF MARITAL
+
+Section 914 is an exception to the rule of Section 913 that the
+separate property of a spouse is not liable for a debt of the other
+spouse incurred during marriage. The separate property of a spouse
+may not be subjected to process by necessaries creditors of the other
+spouse unless the spouse is made a party for the purpose of enforcing
+the liability. See, e.g., Evans v. Noonan, 20 Cal.App. 288, 128 P. 794
+(1912); Credit Bureau of Santa Monica Bay Dist. v. Terranova, 15
+
+Research References
+Forms
+
+Asset Protection: Legal Planning,
+Community Property.
+
+Strategies
+
+and
+
+Forms
+
+{ 4.03,
+
+Treatises and Practice Aids
+
+Cal.App.3d 854, 93 Cal.Rptr. 538 (1971).
+Subdivision (a)(1) is consistent with Section 4301 (use of separate
+property for support while living together), but does not require
+exhaustion of community estate property before separate property of
+a nondebtor spouse can be reached.
+But see subdivision (b)
+(reimbursement). For general provisions governing reimbursement,
+see Section 920.
+Subdivision (a)(2) applies where the spouses are living separate
+not by agreement, as where one spouse leaves without an agreement
+between the spouses to live separate and apart. Compare Section
+4302, which abrogates the obligation of support between spouses
+living separate by agreement, unless support is stipulated in the
+agreement. Nothing in subdivision (a)(2) should be deemed to limit
+the obligation of a spouse for support pursuant to a court order
+pendente lite or in a judgment of legal separation of the spouses. A
+spouse who desires to limit the liability pursuant to subdivision
+(a)(2), or a spouse who desires a greater support obligation than
+provided in subdivision (a)(2), may seek a support order, which
+supersedes liability under subdivision (a)(2).
+When enacted in 1984 (as former Civil Code Section 5120.140),
+subdivision (a)(2) abolished the “station in life” test in determining
+what is a necessary of life. See, e.g., Wisnom v. McCarthy, 48
+Cal.App. 697, 192 P. 337 (1920) (maid necessary because of
+economic and social position of spouses). The separate property of
+the nondebtor spouse is liable only for debts for the “common”
+necessaries of life of the other spouse while living separate and apart.
+Cf. Ratzlaff v. Portillo, 14 Cal.App.3d 1013, 92 Cal.Rptr. 722 (1971)
+(“common” necessary is that required to sustain life).
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 2-A,
+Deciding Whether to File Bankruptcy and Initial Filing Considerations.
+11 Witkin, California Summary 10th Community Property § 184
+(2018), Debt Incurred Before or During Marriage.
+11 Witkin, California Summary 10th Community Property § 185
+(2018), Personal Liability for Debts for Spouse’s Necessaries.
+
+§ 914. Personal liability for debts incurred by spouse;
+separate property applied to satisfaction of debt; statute
+of limitations
+
+(a) Notwithstanding Section 913, a married person is
+personally liable for the following debts incurred by the
+person’s spouse during marriage:
+(1) A debt incurred for necessaries of life of the person’s
+spouse before the date of separation of the spouses.
+(2) Except as provided in Section 4302, a debt incurred for
+common necessaries of life of the person’s spouse after the
+date of separation of the spouses.
+(b) The separate property of a married person may be
+applied to the satisfaction of a debt for which the person is
+personally liable pursuant to this section. If separate property is so applied at a time when nonexempt property in the
+community estate or separate property of the person’s spouse
+is available but is not applied to the satisfaction of the debt,
+the married person is entitled to reimbursement to the extent
+such property was available.
+(c)(1) Except as provided in paragraph (2), the statute of
+limitations set forth in Section 366.2 of the Code of Civil
+Procedure shall apply if the spouse for whom the married
+person is personally liable dies.
+(2) If the surviving spouse had actual knowledge of the
+debt prior to expiration of the period set forth in Section
+366.2 of the Code of Civil Procedure and the personal
+representative of the deceased spouse’s estate failed to
+provide the creditor asserting the claim under this section
+with a timely written notice of the probate administration of
+the estate in the manner provided for pursuant to Section
+
+For background on former Civ. Code § 5120.140, see Recommen-
+
+dation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+Reports 58-59 (1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Commentary
+
+The next to the last paragraph of the Law Revision Commission
+Comment, supra, is confusing and inconsistent with the plain
+language of the statute. Subsection (a)(2) does not abolish “the
+station in life test in determining what is a necessary of life.” Instead,
+it merely prescribes the lesser standard of “common necessaries of
+life’ when the parties are living separately. Subsection (a)(1)
+provides that a married person is personally liable for a debt incurred
+for the necessaries of life of the person’s spouse when the spouses are
+living together. Necessaries are living costs consistent with the parties’
+station in life. See Wisnom v. McCarthy, 48 Cal.App. 697, 701, 192 P.
+337 (1920). When the parties are living separately, subsection (a)(2)
+provides instead that a spouse is personally liable only for debts
+incurred for the common necessaries of the person’s spouse. Common
+necessaries are “such things as are ordinarily required for the
+sustenance of all men.” Ratzlaff v. Portillo, 14 Cal.App.3d 1013, 1015,
+92 Cal.Rptr. 722 (1971).
+Direct Capital Corporation v. Brooks, 14 Cal.App.5th 1168, 222
+Cal.Rptr.3d 601 (2017), held that a preseparation debt incurred by an
+attorney to purchase office computers was a subsection (a) debt
+incurred for the necessaries of life because the law practice generated
+community income and the computers were required for the practice
+of law. Thus the debtor could reach the separate property of the
+attorney’s spouse to satisfy the debt.
+Although under this section a person is personally liable for a
+spouse’s necessaries, under section 916 a non-debtor spouse is liable
+for debts incurred by a former spouse during their marriage only if
+the debt was assigned to the non-debtor spouse by the judgment of
+
+9050 of the Probate Code, the statute of limitations set forth
+in Section 337 or 339 of the Code of Civil Procedure, as
+
+applicable, shall apply.
+
+(d) For purposes of this section, “date of separation” has
+the same meaning as set forth in Section 70. (Stats.1992, c.
+162 (A.B.2650), § 10, operative Jan. 1, 1994. Amended by
+
+Stats.1993, c. 219 (A.B.1500), § 100.4; Stats.2001, c. 702
+(A.B.539), § 1; Stats.2014, c. 71 (S.B.1304), § 53, eff. Jan. 1,
+2015; Stats.2016, c. 114 (S.B.1255), § 4, eff. Jan. 1, 2017.)
+Law Revision Commission Comments
+Enactment
+
+§ 914
+
+PROPERTY
+
+[Revised Comment]
+
+Section 914 continues former Civil Code Section 5120.140 without
+substantive change. The term “community estate” has been substituted for “community property.” This is not a substantive change.
+See Section 63 (“community estate” defined) & Comment.
+
+81
+
+§ 914
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+property of the obligor spouse and the community estate of the
+marriage is liable for the support obligation, other than the earnings
+of the non-obligor spouse. See Sections 910 (liability of community
+estate), 911 (liability of married person’s earnings for premarital debt
+of spouse), 913 (liability of separate property). Subdivision (a) also
+applies to an extramarital support obligation of a spouse that arises
+during the marriage.
+
+dissolution. CMRE Financial Services, Inc. v. Parton, 184 Cal.App.4th
+263, 109 Cal.Rptr.3d 139 (2010), review denied, held that a former wife
+
+was not liable for fees for common necessaries incurred by her
+husband after separation but before dissolution, because liability for
+the debt was not assigned to her in the judgment of dissolution. The
+court relied on the “notwithstanding any other provision of this
+chapter” language of section 916. Effectively, the judgment of
+dissolution relieved the wife of liability under this section.
+
+When
+
+Strategies
+
+and
+
+Forms
+
+1 4.02,
+
+Strategies
+
+and
+
+Forms
+
+1 4.08,
+
+557, 432 P.2d 709, 63 Cal.Rptr. 13 (1967), that the community is
+entitled to reimbursement, but prescribed a fixed measure for the
+community reimbursement based on the separate income of the
+obligor spouse. See also Bare v. Bare, 256 Cal.App.2d 684, 64
+Cal.Rptr. 335 (1967); In re Marriage of Smaltz, 82 Cal.App.3d 568,
+147 Cal.Rptr. 154 (1978).
+Subdivision (c) makes clear that, despite the general rule that
+earnings of the non-obligor spouse are not liable for the support
+obligation, the earnings of the spouses of both parties may be taken
+into account by the court in setting the amount of the support
+obligation. When enacted in 1984 (as former Civil Code Section
+5120.150), subdivision (c) codified prior case law. See, e.g., In ré
+Marriage of Havens, 125 Cal.App.3d 1012, 178 Cal.Rptr. 477 (1981).
+For background on former Civ. Code § 5120.150, see Recommendation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+Reports 59 (1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Treatises and Practice Aids
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 2-A,
+Deciding Whether to File Bankruptcy and Initial Filing Considerations.
+11 Witkin, California Summary 10th Community Property § 184
+(2018), Debt Incurred Before or During Marriage.
+11 Witkin, California Summary 10th Community Property § 185
+(2018), Personal Liability for Debts for Spouse’s Necessaries.
+11 Witkin, California Summary 10th Husband and Wife § 60 (2018),
+
+Mutual Obligations.
+14 Witkin, California Summary 10th Wills and Probate § 555 (2018),
+In General.
+15 Witkin, California Summary 10th Wills and Probate § 871 (2018),
+Debts of Deceased Spouse.
+
+Commentary
+
+In re Marriage of Leni, 144 Cal.App.4th 1087, 50 Cal.Rpir.3d 886
+(2006), held that a spouse’s use of community funds to care for his
+ailing mother was not a gift for purposes of section 1100(b) because
+section 4400 imposes upon an adult child a legal duty to support a
+parent who is in need and is unable to maintain herself by work.
+Moreover, the community has no right of reimbursement under this
+section because it creates a right of reimbursement only for “a child
+or spousal support obligation that does not arise out of the
+marriage.”
+
+§ 915. Child or spousal support obligation not arising out
+of marriage; reimbursement of community
+
+(a) For the purpose of this part, a child or spousal support
+obligation of a married person that does not arise out of the
+marriage shall be treated as a debt incurred before marriage,
+regardless of whether a court order for support is made or
+modified before or during marriage and regardless of whether any installment payment on the obligation accrues before
+or during marriage.
+(b) If property in the community estate is applied to the
+satisfaction of a child or spousal support obligation of a
+married person that does not arise out of the marriage, at a
+time when nonexempt separate income of the person is
+available but is not applied to the satisfaction of the
+obligation, the community estate is entitled to reimbursement
+from the person in the amount of the separate income, not
+exceeding the property in the community estate so applied.
+(c) Nothing in this section limits the matters a court may
+take into consideration in determining or modifying the
+
+Research References
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 186
+(2018), Child or Spousal Support Obligations.
+10 Witkin, California Summary 10th Parent and Child § 444 (2018),
+Liability of Stepparent.
+
+§ 916.
+
+Division of property;
+
+subsequent liability; right of
+
+reimbursement, interest and attorney’s fees
+
+(a) Notwithstanding any other provision of this chapter,
+after division of community and quasi-community property
+pursuant to Division 7 (commencing with Section 2500):
+(1) The separate property owned by a married person at
+the time of the division and the property received by the
+person in the division is liable for a debt incurred by the
+person before or during marriage and the person is personally
+liable for the debt, whether or not the debt was assigned for
+payment by the person’s spouse in the division.
+(2) The separate property owned by a married person at
+the time of the division and the property received by the
+person in the division is not liable for a debt incurred by the
+person’s spouse before or during marriage, and the person is
+not personally liable for the debt, unless the debt was
+assigned for payment by the person in the division of the
+property. Nothing in this paragraph affects the liability of
+property for the satisfaction of a lien on the property.
+
+amount of a support order, including, but not limited to, the
+
+earnings of the spouses of the parties.
+(A.B.2650), § 10, operative Jan. 1, 1994.
+1993, c. 219 (A.B.1500), § 100.5.)
+
+enacted in 1984 (as former Civil Code Section 5120.150),
+
+subdivision (b) codified the rule of Weinberg v. Weinberg, 67 Cal.2d
+
+Research References
+Forms
+Asset Protection: Legal Planning,
+Common Law.
+Asset Protection: Legal Planning,
+Implications of Divorce.
+
+OBLIGATIONS
+
+(Stats.1992, c. 162
+Amended by Stats.
+
+Law Revision Commission Comments
+
+Enactment [Revised Comment]
+Section 915 continues former Civil Code Section 5120.150 without
+substantive change. The term “community estate” has been substituted for “community property.” This is not a substantive change.
+See Section 63 (“community estate” defined) & Comment.
+Subdivision (a) makes clear that a support obligation that arises
+before the marriage is a prenuptial debt for purposes of liability of
+marital property. As a result, the general rule is that the separate
+
+82
+
+LIABILITY
+
+OF MARITAL
+
+(3) The separate property owned by a married person at
+the time of the division and the property received by the
+person in the division is liable for a debt incurred by the
+person’s spouse before or during marriage, and the person is
+personally liable for the debt, if the debt was assigned for
+payment by the person in the division of the property. Ifa
+money judgment for the debt is entered after the division, the
+property is not subject to enforcement of the judgment and
+the judgment may not be enforced against the married
+person, unless the person is made a party to the judgment for
+the purpose of this paragraph.
+
+married
+
+person’s spouse.
+Cf. In re Marriage
+Cal.App.3d 737, 184 Cal.Rptr. 756 (1982).
+
+134
+
+For background on former Civ. Code § 5120.160, see Recommen-
+
+Commentary
+
+Mejia v. Reed, 31 Cal.4th 657, 74 P.3d 166, 3 Cal.Rptr.3d 390 (2003),
+holds that the Uniform Fraudulent Transfer Act (Civil Code
+§§ 3439-3439.12) applies to marital settlement agreements. Filip v.
+Bucurenciu, 129 Cal.App.4th 825, 28 Cal.Rptr.3d 884 (2005), approves
+a trial court’s finding that the spouses’ marital settlement agreement
+violates the Uniform Fraudulent Transfer Act.
+Reversing the Bankruptcy Court, In re Beverly, 374 B.R. 221 (U.S.
+Bankr. App. Pan., 9th Cir. 2007), held that a divorcing attorney’s
+marital settlement agreement, which transferred nonexempt community property to his wife in exchange for an equivalent amount of his
+exempt community property retirement fund, was a fraudulent
+transfer under California Civil Code § 3439.04(a)(1) and therefore
+under 11 U.S.C. § 544(b). Thus, in the attorney’s involuntary
+bankruptcy proceeding, the Bankruptcy Trustee could avoid the
+transfer and reach the attorney’s community property interest in the
+nonexempt property.
+Although under section 914 a person is personally liable for a
+spouse’s necessaries, under this section a non-debtor spouse is liable
+for debts incurred by a former spouse during their marriage only if
+the debt was assigned to the non-debtor spouse by the judgment of
+dissolution. CMRE Financial Services, Inc. v. Parton, 184 Cal.App.4th
+
+tive Jan. 1, 1994.)
+Law Revision Commission Comments
+
+[Revised Comment]
+
+Section 916 continues former Civil Code Section 5120.160 without
+substantive change. In subdivision (a), a reference to Division 7 has
+been substituted for the narrower reference to former Civil Code
+Section 4800. This is not a substantive change, since all of the
+former section is included in Division 7. See also Sections 26202627 (division of debts and liabilities).
+Section 916 prescribes rules of liability of former community,
+quasi-community, or community estate property and former separate
+property following a division of the property pursuant to a court
+judgment of separation, dissolution, or later division.
+Subdivision (a)(1) states the rule that the rights of a creditor
+against the property of a debtor are not affected by assignment of the
+debt to the other spouse for payment pursuant to a property division.
+A creditor who is not paid may seek to satisfy the debt out of
+property of the debtor. The debtor in such a case will have a right of
+reimbursement against the former spouse pursuant to subdivision
+
+263, 109 Cal.Rptr.3d 139 (2010), review denied, held that a former wife
+
+was not liable for fees for common necessaries incurred by her
+husband after separation but before dissolution, because liability for
+the debt was not assigned to her in the judgment of dissolution. The
+court relied on the “notwithstanding any other provision of this
+chapter” language of this section. Effectively, the judgment of
+dissolution relieved the wife of liability under section 914.
+When a debt for which community property is liable under section
+910 was not assigned to the non-debtor spouse in the judgment of
+dissolution, Litke O’Farrell, LLC v. Tipton, 204 Cal.App.4th 1178, 139
+Cal.Rptr.3d 548 (2012), held that a marital settlement agreement
+(MSA) dividing the community property, assigning the debt solely to
+husband, providing that the court would be requested to incorporate
+the MSA in the judgment of dissolution, but that the MSA was
+enforceable whether or not it was incorporated into a final judgment,
+became effective on the date it was signed by the parties. Thus, a
+motion to charge interests served by the husband’s creditors after the
+MSA was executed but before the judgment of dissolution was
+entered did not attach to the property received by the wife in the
+
+(b).
+When enacted in 1984 (as former Civil Code Section 5120.160),
+subdivisions (a)(2)-(3) reversed the former case law rule that a
+creditor may seek enforcement of a money judgment against the
+former community property in the hands of a nondebtor spouse after
+dissolution of the marriage. See, e.g., Bank of America N.T. & S.A.
+v. Mantz, 4 Cal.2d 322, 49 P.2d 279 (1935).
+Subdivision (a)(2) makes clear that former community estate
+property received by the nondebtor spouse at division is liable only if
+the nondebtor spouse is assigned the debt in division. In the case of
+a judgment entered after the division of property, the nondebtor
+spouse must be made a party for due process reasons.
+If the
+property division calls for the one spouse to pay the debt and the
+creditor satisfies the judgment out of property of the other spouse,
+the other spouse will have a right of reimbursement pursuant to
+subdivision (b). Subdivision (a)(2) does not affect enforceability of
+liens on the property.
+
+of Clements,
+
+dation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+Reports 59-60 (1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+(b) If property of a married person is applied to the
+satisfaction of a money judgment pursuant to subdivision (a)
+for a debt incurred by the person that is assigned for payment
+by the person’s spouse, the person has a right of reimbursement from the person’s spouse to the extent of the property
+applied, with interest at the legal rate, and may recover
+reasonable attorney’s fees incurred in enforcing the right of
+reimbursement.
+(Stats.1992, c. 162 (A.B.2650), § 10, opera-
+
+Enactment
+
+PROPERTY
+
+MSA.
+An Internal Revenue Service determination that a wife was an
+“innocent spouse” for purposes of the couple’s tax liability (26 USC
+§ 6015) did not bar a trial court from characterizing the liability as a
+community property debt in a dissolution proceeding. In re Marriage
+of Marshall, 23 Cal.App.5th 477, 232 Cal.Rptr.3d 819 (2018).
+Research References
+Forms
+
+Asset Protection: Legal Planning, Strategies and Forms 1 4.08,
+Implications of Divorce.
+3 California Transactions Forms--Estate Planning § 13:19, Legal
+Effect of Retention of Community Character.
+
+See, e.g., Kinney v. Vallentyne, 15 Cal.3d 475,
+
+541 P.2d 537, 124 Cal.Rptr. 897 (1975).
+Subdivision (b) states the rule as to reimbursement where a debt is
+satisfied out of the property of a spouse other than the spouse to
+_ whom the debt was assigned pursuant to a property division. For
+general provisions governing reimbursement, see Section 920. This
+subdivision is not intended to authorize reimbursement if reimbursement is precluded under Title 11 of the United States Code
+(Bankruptcy) by discharge of the debt in a case concerning the
+
+Treatises and Practice Aids
+
+11. Witkin, California Summary 10th Community Property § 187
+(2018), Property Owned or Received at Division.
+
+CHAPTER 3.
+
+REIMBURSEMENT
+
+Section
+920. Conditions governing right of reimbursement.
+
+83
+
+§ 920
+
+MARRIAGE
+
+§ 920.
+
+Conditions governing right of reimbursement
+
+RIGHTS
+
+AND
+
+11 Witkin, California Summary
+
+CHAPTER 4.
+
+(a) The right arises regardless of which spouse applies the
+property to the satisfaction of the debt, regardless of whether
+the property is applied to the satisfaction of the debt
+voluntarily or involuntarily, and regardless of whether the
+debt to which the property is applied is satisfied in whole or
+in part. The right is subject to an express written waiver of
+the right by the spouse in whose favor the right arises.
+
+§ 930.
+
+(1) Within three years after the spouse in whose favor the
+right arises has actual knowledge of the application of the
+property to the satisfaction of the debt.
+
+Enactment
+
+[Revised Comment]
+
+Section 920 continues former Civil Code Section 5120.210 without
+
+For background on former Civ. Code §§ 5120.310 and 5120.320,
+
+In subdivision (a), a reference to Division 7 has
+
+see Recommendation Relating to Liability of Marital Property for Debts,
+17 Cal. L. Revision Comm’n Reports 1 (1984). [23 Cal.L.Rev.
+Comm. Reports 1 (1993)].
+
+reference to former Civil Code
+
+This is not a substantive change, since all of the
+
+former section is included in Division 7.
+
+Research References
+
+Section 920 limits reimbursement rights to a three-year enforceability period after discovery of the application of the property to the
+
+Forms
+
+satisfaction of the debt, or less if a dissolution occurs before the end
+
+Asset
+
+of the three-year period.
+
+Contrast Weinberg v. Weinberg, 67 Cal.2d
+557, 432 P.2d 709, 63 Cal.Rptr. 13 (1967) (community property
+applied to support payments entitled to reimbursement at dissolution); Jn re Marriage of Walter, 57 Cal.App.3d 802, 129 Cal.Rptr.
+351 (1976) (community property applied to separate tax and mortgage debts entitled to reimbursement at dissolution). Under Section
+920, the reimbursement right applies even though the spouse seeking
+reimbursement may have satisfied or consented to satisfaction of the
+debt out of a particular type of property, unless the spouse expressly
+waived in writing the reimbursement right. Contrast In re Marriage
+of Smaltz, 82 Cal.App.3d 568, 147 Cal.Rptr. 154 (1978) (no
+reimbursement where community property applied to support payand
+
+no
+
+separate
+
+property
+
+available
+
+to make
+
+§ 931.
+
+and
+
+1 4.08,
+
+Property § 181
+
+Application of provisions governing reimbursement
+
+Law Revision Commission
+Enactment
+
+Comments
+
+[Revised Comment]
+
+Section 931 continues without substantive change former Civil
+Code Section 5120.330(a) and former Civil Code Section 5120.310
+(operative date). Section 931 makes clear that reimbursement rights
+provided in this part apply to debts satisfied before as well as after
+January 1, 1985.
+Former Civil Code Section 5120.330(b), which dealt with retroactive application of the former section, has been omitted as obsolete.
+
+{ 4.08,
+
+For background on former Civ. Code § 5120.330, see Recommenda-
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), Reimbursement.
+
+Forms
+
+operative Jan. 1, 1994.)
+
+payments).
+
+Forms
+
+and
+
+The provisions of this part that govern reimbursement
+apply to all debts, regardless of whether satisfied before, on,
+or after January 1, 1985. (Stats.1992, c. 162 (A.B.2650), § 10,
+
+Research References
+
+Strategies
+
+Strategies
+
+11 Witkin, California Summary 10th Community
+(2018), Nature and Scope of Revision.
+
+Forms
+
+Protection: Legal Planning,
+Implications of Divorce.
+
+Protection: Legal Planning,
+Implications of Divorce.
+
+Treatises and Practice Aids
+
+For background on former Civ. Code § 5120.210, see Recommendation Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n
+Reports 60-61 (1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Asset
+
+Comments
+
+[Revised Comment]
+
+Section 930 continues without substantive change former Civil
+Code Section 5120.320 and former Civil Code Section 5120.310
+(operative date). The term “community estate” has been substituted
+for “community property.” This is not a substantive change. See
+Section 63 (“community estate” defined) & Comment.
+Section 930 states the general rule that this part applies to all debts
+enforced on or after January 1, 1985, regardless of the time they were
+incurred. For an exception to the general rule, see Section 931
+(reimbursement rights).
+
+Law Revision Commission Comments
+
+ments
+
+Liability for debts enforced on or after Jan. 1, 1985
+
+Law Revision Commission
+
+(2) In proceedings for division of community and quasicommunity property pursuant to Division 7 (commencing
+with Section 2500) or in proceedings upon the death of a
+spouse. (Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1,
+1994.)
+
+Section 4800.
+
+TRANSITIONAL PROVISIONS
+
+Except as otherwise provided by statute, this part governs
+the liability of separate property and property in the community estate and the personal liability of a married person for a
+debt enforced on or after January 1, 1985, regardless of
+whether the debt was incurred before, on, or after that date.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.
+Amended by Stats.1993, c. 219 (A.B.1500), § 100.6.)
+
+(c) The right shall be exercised not later than the earlier of
+the following times:
+
+been substituted for the narrower
+
+Property § 189
+
+Section
+930. Liability for debts enforced on or after Jan. 1, 1985.
+931. Application of provisions governing reimbursement.
+
+(b) The measure of reimbursement is the value of the
+property or interest in property at the time the right arises.
+
+substantive change.
+
+10th Community
+
+(2018), In General.
+
+A right of reimbursement provided by this part is subject to
+the following provisions:
+
+Enactment
+
+OBLIGATIONS
+
+10th Community
+
+tion Relating to Liability of Marital Property for Debts, 17 Cal. L.
+Revision Comm’n Reports 1 (1984). [23 Cal.L.Rev.Comm. Reports
+1 (1993)].
+
+Property § 188
+
+84
+
+MANAGEMENT
+
+AND
+
+CONTROL
+
+Treatises and Practice Aids
+
+CHAPTER 5.
+
+Property § 181
+
+Commentary
+
+Note that Section 1000 creates only an order of satisfaction.
+Ultimately, it insulates neither the community property nor a married
+person’s separate property from liability for that person’s torts. The
+basic liability rules are laid out in Sections 902-913. Nor does Section
+1000 define the spouses’ rights against each other arising from either
+spouse’s tort liabilities to third parties. The limited scope of Section
+1000 is addressed by In re Marriage of Hirsch, 211 Cal.App.3d 104,
+110-111, 259 Cal.Rptr. 39 (1989), review denied 8/17/89. But compare
+In re Marriage of Stitt, 147 Cal.App.3d 579, 195 Cal.Rptr. 172 (1983).
+For further discussion of Hirsch and Stitt, see In re Marriage of
+Seaman, I Cal.App.4th 1489, 1500, 2 Cal.Rptr.2d 690 (1991), review
+
+LIABILITY FOR DEATH OR INJURY
+
+Section
+1000. Liability for injury or damage caused by spouse;
+property subject to satisfaction of liability; satisfaction out of insurance proceeds; limitation on exercise of reimbursement right.
+
+§ 1000. Liability for injury or damage caused by spouse;
+property subject to satisfaction of liability; satisfaction
+out of insurance proceeds; limitation on exercise of
+reimbursement right
+
+denied 3/26/92, and Section 2602, Commentary.
+
+See also Oyakawa vy. Gillett, 8 Cal.App.4th 628, 10 Cal.Rptr.2d 469
+(1992), which holds that even though the community property is
+liable for a tort obligation incurred by either spouse during marriage,
+a wife may not subsequently be added as an additional judgment
+debtor to a tort judgment previously obtained against the husband
+when she was not named as a party, no claim was made against her
+personally, and she had no opportunity to defend.
+
+(a) A married person is not liable for any injury or damage
+caused by the other spouse except in cases where the married
+person would be liable therefor if the marriage did not exist.
+
+(b) The liability of a married person for death or injury to
+person or property shall be satisfied as follows:
+(1) If the liability of the married person is based upon an
+act or omission which occurred while the married person was
+performing an activity for the benefit of the community, the
+liability shall first be satisfied from the community estate and
+second from the separate property of the married person.
+(2) If the liability of the married person is not based upon
+an act or omission which occurred while the married person
+was performing an activity for the benefit of the community,
+the liability shall first be satisfied from the separate property
+of the married person and second from the community estate.
+(c) This section does not apply to the extent the liability is
+satisfied out of proceeds of insurance for the liability, whether
+the proceeds are from property in the community estate or
+from separate property. Notwithstanding Section 920, no
+right of reimbursement under this section shall be exercised
+more than seven years after the spouse in whose favor the
+right arises has actual knowledge of the application of the
+property to the satisfaction of the debt. (Stats.1992, c. 162
+(A.B.2650), § 10, operative Jan. 1, 1994. Amended by Stats.
+1993, c. 219 (A.B.1500), § 100.7.)
+
+Research References
+Forms
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms {| 4.03,
+Community Property.
+West’s California Code Forms, Family § 781, Comment OverviewDamages for Injuries to Married Person.
+
+Treatises and Practice Aids
+
+.
+
+11. Witkin, California Summary 10th Community Property § 189
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 190
+(2018), Illustrations.
+11 Witkin, California Summary 10th Community Property § 211
+(2018), Other Exceptions.
+11 Witkin, California Summary 10th Husband and Wife § 30 (2018),
+In General.
+5 Witkin, California Summary 10th Torts § 28 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1371 (2018), Circumstances Justifying Vicarious Liability.
+
+Part 4
+
+MANAGEMENT AND CONTROL
+OF MARITAL PROPERTY
+
+Law Revision Commission Comments
+Enactment
+
+§ 1100
+
+PROPERTY
+
+Comm’n Reports 1 (1984); 18 Cal. L. Revision Comm’n Reports 61
+(1986). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Research References
+
+11 Witkin, California Summary 10th Community
+(2018), Nature and Scope of Revision.
+
+OF MARITAL
+
+[Revised Comment]
+
+Section
+1100. Community personal property; management and control; restrictions on disposition.
+1101. Claim for breach of fiduciary duty; court ordered
+
+Section 1000 continues former Civil Code Section 5122 without
+substantive change. The term “community estate” has been substituted for “community property.” This is not a substantive change,
+since former Civil Code Section 5120.020 (which formerly applied to
+this section) defined community property to include quasi-community property.
+See Section 63 (“community estate” defined) &
+Comment.
+Subdivision (c) limits the order of satisfaction requirement to
+liabilities not covered by insurance. Subdivision (c) also imposes a
+seven-year limitation period on any reimbursement right implied by
+the order of satisfaction requirement. Cf In re Marriage of Stitt, 147
+Cal.App.3d 579, 195 Cal.Rptr. 172 (1983).
+See also Section 2627 (assignment of tort liability upon division of
+property).
+For background on former Civ. Code § 5122, see Recommendation
+Relating to Liability of Marital Property for Debts, 17 Cal. L. Revision
+
+1102.
+
+accounting; addition of name of spouse to community property; limitation of action; consent of spouse
+not required; remedies.
+Community real property; spouse’s joinder in conveyances;
+
+1103.
+
+application of section;
+
+limitation of actions.
+
+Management and control of community property; one
+or both spouses having conservator of estate or
+lacking legal capacity.
+
+§ 1100. Community personal property;
+control; restrictions on disposition
+
+management
+
+and
+
+(a) Except as provided in subdivisions (b), (c), and (d) and
+Sections 761 and 1103, either spouse has the management
+
+85
+
+§ 1100
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+OBLIGATIONS
+
+(b) A spouse may not make a gift of community personal
+property, or dispose of community personal property for less
+
+also Section 700 (personal property does not include a leasehold
+interest in real property); Prob. Code §§ 3057 (protection of rights
+of spouse who lacks legal capacity), 5100-5407 (multiple-party
+account held by financial institution).
+For background on former Civ. Code § 5125, see Tentative
+Recommendation Proposing the Enforcement of Judgments Law, 15
+Cal. L. Revision Comm’n Reports 2001 (1980); 16 Cal. L. Revision
+
+than fair and reasonable value, without the written consent of
+
+Comm’n
+
+the other spouse. This subdivision does not apply to gifts
+mutually given by both spouses to third parties and to gifts
+given by one spouse to the other spouse.
+(c) A spouse may not sell, convey, or encumber community
+personal property used as the family dwelling, or the furni-
+
+Technical Revisions in the Trust Law,
+
+and control of the community personal property, whether
+acquired prior to or on or after January 1, 1975, with like
+absolute power of disposition, other than testamentary, as the
+spouse has of the separate estate of the spouse.
+
+Reports
+
+Or, after
+
+1 (1993)].
+
+the
+
+donor
+
+spouse’s
+
+death,
+
+one-half
+
+its value
+
+may
+
+be
+
+recovered from the donor spouse’s estate. Fields y. Michael, 91
+Cal.App.2d 443, 205 P.2d 402 (1949). Even though the nondonor
+spouse has not acted during her lifetime, her estate may avoid the gift
+to the extent of her one-half interest. Harris v. Harris, 57 Cal.2d 367,
+
+19 Cal.Rptr. 793 (1962). In a dissolution proceeding, when one spouse
+claims that the other spouse has made a subsection (b) unauthorized
+gift of community funds, the putative donee may be joined in the
+dissolution action. Babcock v. Superior Court, 29 Cal.App.4th 721, 35
+Cal.Rptr.2d 462 (1994).
+Subsection (c) has been broadly interpreted to protect the
+community’s interest in household furnishings and family clothing.
+During marriage, a spouse may revoke any transfer to which he or
+she did not consent. Matthews v. Hamburger, 36 Cal.App.2d 182, 97
+
+the
+
+P.2d 465 (1939). Even after the death of the transferor spouse, the
+
+nonconsenting survivor may set aside the entire transfer. Dynan v.
+Gallinatti, 87 Cal.App.2d 553, 557, 197 P.2d 391 (1948). Compare
+
+the value and character of those assets and debts, upon
+
+postdeath gift revocation under subsection (b), supra.
+Subsection (e) has been much rewritten in recent years. See also
+Family Code Sections 721 and 1101 which, together with subsection
+
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1,
+
+Amended by Stats.1993, c. 219 (A.B.1500), § 100.8.)
+
+(e), were amended by Stats 1991, Ch 1026, in order to strengthen the
+
+Law Revision Commission Comments
+Enactment
+
+Reports
+
+rized subsection (b) gift may be revoked in its entirety by the
+nonconsenting spouse, but after one spouse’s death, it may be
+revoked only to the extent of the nonconsenting spouse’s one-half
+interest. After the donor’s death, the unauthorized gift is effectively
+treated as a testamentary transfer of the deceased donor’s one-half
+interest. Dargie v. Patterson, 176 Cal. 714, 169 P. 360 (1917). An
+unauthorized gift may be recovered from the donee. Dargie, supra.
+
+access to all information, records, and books that pertain to
+
+request.
+
+[23 Cal.L.Rev.Comm.
+
+172 Cal. 775, 158 P. 537 (1916). During the marriage, an unautho-
+
+community has or may have an interest and debts for which
+the community is or may be liable, and to provide equal
+
+1994.
+
+Relating to
+
+18 Cal. L. Revision Comm’n
+
+account ... in the name of a married person shall be held for the
+exclusive right and benefit of the person [and] shall be free from the
+control or lien of any other person except a creditor.”
+In re Marriage of Leni, 144 Cal.App.4th 1087, 50 Cal.Rptr.3d 886
+(2006), held that a spouse’s use of community funds to care for his
+ailing mother was not a gift for purposes of subsection (b) because
+section 4400 imposes upon an adult child a legal duty to support a
+parent who is in need and is unable to maintain herself by work.
+Moreover, the community has no right of reimbursement under
+section 915, because it creates a right of reimbursement only for “a
+child or spousal support obligation that does not arise out of the
+marriage.”
+Even though a spouse did not initially consent to a subsection (b)
+gift, she may ratify the gift in a later writing. Spreckels v. Spreckels,
+
+Section 721, until such time as the assets and liabilities have
+
+in which
+
+Recommendation
+
+example, Financial Code Section 851, which provides that a “bank
+
+been divided by the parties or by a court. This duty includes
+the obligation to make full disclosure to the other spouse of
+all material facts and information regarding the existence,
+of all assets
+
+1823 (1986).
+
+(1982);
+
+alone, may manage, with absolute power of disposition, all the
+community personal property. Nevertheless, absent a judicial proceeding (see Section 1101(c)), the nonearner’s right to manage the
+community property may be more abstract than real. See, for
+
+wearing apparel of the other spouse or minor children which
+is community personal property, without the written consent
+of the other spouse.
+(d) Except as provided in subdivisions (b) and (c), and in
+Section 1102, a spouse who is operating or managing a
+business or an interest in a business that is all or substantially
+all community personal property has the primary management and control of the business or interest.
+Primary
+management and control means that the managing spouse
+may act alone in all transactions but shall give prior written
+notice to the other spouse of any sale, lease, exchange,
+encumbrance, or other disposition of all or substantially all of
+the personal property used in the operation of the business
+(including personal property used for agricultural purposes),
+whether or not title to that property is held in the name of
+only one spouse. Written notice is not, however, required
+when prohibited by the law otherwise applicable to the
+transaction.
+Remedies for the failure by a managing spouse to give
+prior written notice as required by this subdivision are only as
+specified in Section 1101. A failure to give prior written
+notice shall not adversely affect the validity of a transaction
+nor of any interest transferred.
+(e) Each spouse shall act with respect to the other spouse
+in the management and control of the community assets and
+liabilities in accordance with the general rules governing
+fiduciary relationships which control the actions of persons
+having relationships of personal confidence as specified in
+
+and valuation
+
+1784-85
+
+Commentary
+Subsection (a) states the general rule that either spouse, acting
+
+ture, furnishings, or fittings of the home, or the clothing or
+
+characterization,
+
+Reports
+
+position of the nonmanaging spouse, particularly at divorce. Although the full meaning of the amended provisions has not yet been
+illuminated by case law, they were intended to reverse a good deal of
+pre-1991 case law, which did not hold the managing spouse to a high
+standard in divorce negotiations. See, for example, Jn re Marriage of
+Connolly, 23 Cal.3d 590, 153 Cal.Rptr. 423 (1979); Boeseke v. Boeseke,
+10 Cal.3d 844, 112 Cal.Rptr. 401 (1974); In re Marriage of Alexander,
+
+[Revised Comment]
+
+Section 1100 continues former Civil Code Section 5125 without
+change, except that section references have been adjusted.
+In
+subdivision (e), references to community “property” have been
+replaced by more specific references to community “assets and
+liabilities.” These changes are technical and nonsubstantive. See
+
+86
+
+MANAGEMENT
+
+AND
+
+CONTROL
+
+212 Cal.App.3d 677, 261 Cal.Rptr. 9 (1989). Thus pre-1991 case law
+must be evaluated in light of the 1991 amendments. See additionally
+
+Sections 2100-2129, added in 1992. Sections 2100-2113
+proceedings commenced
+
+OF MARITAL
+
+§ 1100
+
+PROPERTY
+
+In re Marriage of Mathews, 133 Cal.App.4th 624, 35 Cal.Rptr.3d 1
+(2005), concluded that a husband rebutted the presumption of undue
+influence with evidence that a wife with a poor credit rating “freely
+and voluntarily” quitclaimed her interest in what otherwise would
+have been a community property home, even though she did so solely
+for the purpose of obtaining a lower interest rate and both husband
+and wife continued to believe during marriage that the home was
+community property.
+
+apply to
+
+on or after January 1, 1993, and Sections
+
+2120-2129 apply to judgments entered on or after January 1, 1993.
+For discussion of the current Section 1100(e) fiduciary standard and
+the Section 2100-2133 disclosure provisions, see In re Marriage of
+Reuling, 23 Cal.App.4th 1428, 28 Cal.Rptr.2d 726 (1994). The Section
+1100(e) fiduciary duty does not require a spouse to disclose “insider”
+information about community property stock shares and options
+when such disclosure is prohibited by federal law. Reuling, supra.
+Reuling also states, in dictum, that the recently amended heightened
+fiduciary standard of Section 1100(e) should not be applied to
+conduct that occurred before the statute was amended. 23 Cal.
+App.4th at 1439.
+In re Marriage of Duffy, 91 Cal_App.4th 923, 111 Cal.Rptr.2d 160
+(2001), holds that the fiduciary duty imposed by § 721 and subsection
+(e) of this section does not encompass the “prudent investor” rule. A
+managing spouse is not held to the standard of a trustee. So long as a
+managing spouse acts in good faith, he has not breached the fiduciary
+duty even though he makes unwise or improvident investments.
+However, see Commentary to Family Code section 721.
+
+Similarly, In re Marriage of Brooks & Robinson, 169 Cal-App.4th
+176, 86 Cal. Rptr.3d 624 (2008), held that a husband who agreed that
+his wife would take title to the family home acquired during marriage
+in her name alone solely for the purpose of obtaining a lower interest
+rate, thereby gave up all ownership interest in the home. Brooks &
+Robinson reached this conclusion by applying Evidence Code section
+662, which creates a presumption that the owner of legal title is also
+the owner of beneficial title, and then requiring a contrary agreement
+of the parties to overcome the presumption. The husband’s claim to
+an ownership interest failed because although it was undisputed that
+the husband agreed to take title in the wife’s name solely to obtain a
+lower interest rate, the wife never agreed that he would have an
+ownership interest in the home.
+Matthews and Brooks & Robinson were narrowly distinguished by
+Starr v. Starr, 189 Cal.App.4th 277, 116 Cal.Rptr.3d 813 (2010), and In
+re Marriage of Fossum, 192 Cal.App.4th 336, 121 Cal.Rptr.3d 195
+
+Interpreting subsection 11 U.S.C. § 523 (a)(4), the Ninth Circuit
+Bankruptcy Appellate Panel held that a former husband’s debt to his
+wife for pension benefits, which were received by him prior to the
+decree dividing the parties’ community property, was nondischargeable in bankruptcy because, under subsection (e) of this section,
+California imposes a fiduciary duty on each spouse with respect to
+the other in the management of community property. In re Stanifer,
+236 B.R. 709 (1999). Stanifer distinguished on two grounds In re
+Teichman, 774 F.2d 1395 (9th Cir. 1985), in which the Court of
+Appeals held that the § 523 (a)(4) exception to bankruptcy discharge
+does not apply to obligations created by a dissolution decree with
+respect to post-decretal pension benefits. First, the property in
+Stanifer was still community property when it was received; the
+property in Teichman was no longer community property for the
+marriage had already been dissolved and the community property
+
+(2011), review denied. In each case, a realtor recommended
+
+title in
+
+one spouse’s name alone and further recommended that the other
+spouse sign a quit-claim deed relinquishing all interest in the home.
+The spouses complied with the realtors’ suggestions in order to
+obtain a beneficial interest rate. Each case followed Brooks &
+Robinson in applying the Evidence Code section 662 presumption.
+However, in each case, the quit-claim deed was set aside and the
+home was held to be community property on the ground that the
+titled spouse exercised undue influence (breached his fiduciary duty).
+Because the titled spouse promised to re-convey the property into
+joint title after financing was obtained and did not do so, the nontitled spouse’s consent to title in the other spouse’s name alone and
+the supplementary quit-claim deed was not “voluntary.” In Brooks &
+Robinson and Matthews, by contrast, the titled spouse did not promise
+to re-convey.
+
+distributed. Second, since Teichman, the California legislature has
+
+upgraded the “good faith” duty between spouses to a “fiduciary
+duty.” (In addition to this section, see Family Code §§ 721, 1101, and
+
+2102.)
+Schnabel v. Superior Court, 5 Cal.4th 704, 21 Cal.Rptr.2d 200
+(1993), holds that the wife’s right of access to records that pertain to
+the value of community assets extends to records of a close
+corporation of which the husband is a 30% stockholder so long as
+such records are reasonably related to the dissolution proceeding.
+Schnabel further holds that tax information about third-party employees is not absolutely privileged from discovery, but that the request
+for inspection must be adequately justified, thus disapproving Rifkind
+v. Superior Court, 123 Cal.App.3d 1045, 177 Cal.Rptr. 82 (1981), which
+held that all such tax returns were absolutely privileged.
+Subsection (e) incorporates by reference the § 721 fiduciary duty.
+Under § 721, a rebuttable presumption of undue influence arises
+when one spouses gains an advantage over another in a community
+property transaction. The spouse who obtained the advantage bears
+the burden of rebutting the presumption. Jn re Marriage of Haines, 33
+Cal.App.4th 277, 39 Cal.Rptr.2d 673 (1995). In re Marriage of Lange,
+102 Cal.App.4th 360, 125 Cal.Rptr.2d 379 (2002), held that a
+husband’s promissory note for a wife’s separate property contributions to the acquisition of the family home and the deed of trust on
+the home securing the note were unenforceable under § 721 because
+they gave the wife an advantage and thus gave rise to a presumption
+
+In re Marriage of Burkle, 139 Cal.App.4th 712, 43 Cal.Rptr.3d 181
+(2006), review denied, states in dictum that the presumption of
+undue influence does not arise unless a spouse obtains an “unfair
+advantage.” This would effectively shift the burden of proof to the
+spouse who is disadvantaged to show that the disadvantage was
+unfair.
+In re, Marriage of Kieturakis, 138 Cal_App.4th 56, 41 Cal.Rptr.3d 119
+(2006), review denied, held that the presumption of undue influence
+is not applicable to mediated settlement agreements. To the same
+effect, see In re Marriage of Woolsey, 220 Cal.App.4th 881, 163
+Cal.Rptr.3d 551 (2013), review denied.
+
+In re Marriage of Margulis, 198 Cal.App.4th 1252, 130 Cal.Rptr.3d
+327 (2011), relying in part on subsection (e), held that in a marriage
+dissolution proceeding a managing spouse has the burden of proof to
+account for missing assets when the nonmanaging spouse has made a
+prima facie showing of the existence and value of community assets
+that have disappeared after separation while controlled by the
+managing spouse. The managing spouse must either rebut the
+showing or prove the proper disposition or lesser value of the assets.
+If the managing spouse fails to do so, the court should charge the
+managing spouse with the prima facie value of the assets. Margulis
+interprets this section, along with Family Code sections 721, 1101,
+
+of undue influence, which the wife failed to rebut. However, the wife
+
+2100, and 2107, to impose upon a managing spouse a duty to disclose
+
+remained entitled to § 2640 reimbursement of her separate property
+contributions to the acquisition of community property because the
+unenforceable instruments did not constitute a written waiver of that
+right.
+
+and
+
+account
+
+for the existence,
+
+valuation,
+
+and
+
+distribution
+
+of all
+
+community assets from the date of separation to the final property
+distribution.
+
+87
+
+§ 1100
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 3(V)-E, Remedies.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 22-C,
+Nondischargeable Debts (Exceptions to Discharge).
+11 Witkin, California Summary 10th Community Property § 3
+(2018), Property Rights During Marriage.
+11 Witkin, California Summary 10th Community Property § 132
+(2018), Former Law.
+11 Witkin, California Summary 10th Community Property § 135
+(2018), Current Law: Control by Either Spouse.
+11 Witkin, California Summary 10th Community Property § 136
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 138
+(2018), Action for Breach of Duty.
+11 Witkin, California Summary 10th Community Property § 139
+(2018), Spouse Operating Business.
+11 Witkin, California Summary 10th Community Property § 140
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 141
+(2018), Statutory Limitation.
+11 Witkin, California Summary 10th Community Property § 142
+(2018), Permissible Transactions.
+11 Witkin, California Summary 10th Community Property § 150
+(2018), Personal Property.
+iLil Witkin, California Summary 10th Community Property § 163
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 164
+
+Research References
+Forms
+
+7 Am. Jur. Pl. & Pr, Forms Community Property § 64, Introductory
+Comments.
+Asset Protection: Legal Planning, Strategies and Forms 1 4.07,
+Marital Agreements.
+California Practice Guide: Rutter Family Law Forms Form 9:2,
+Marital Agreement.
+
+California Practice Guide: Rutter Family Law Forms Form 9:3,
+Marital Settlement Agreement.
+4 California Transactions Forms--Business Entities § 19:82, Consent
+of Spouse.
+3 California
+
+Transactions
+
+Forms--Business
+
+Spouses.
+1 California Transactions
+
+Transactions
+
+§ 18:14,
+
+Forms--Estate
+
+Planning § 7:2, Types of
+
+Forms--Estate
+
+Planning
+
+Gifts.
+1 California
+
+Transactions
+
+§ 7:14,
+
+Grant
+
+Deed Making Gift of Real Property.
+1 California Transactions
+
+Forms--Estate
+
+Planning § 7:20, Declara-
+
+tion of Gift in View of Impending Death.
+1 California Transactions Forms--Estate Planning § 7:26, Consent of
+
+Spouse to Gift.
+1 California Transactions Forms--Estate Planning § 7:33, Restricted
+Endowment to Charitable Organization.
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+ty Property.
+2 California
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 10:21,
+
+Life
+
+(2018), Management, Control, and Disposition.
+
+Insurance Generally.
+
+11 Witkin, California Summary
+
+10th Community Property
+(2018), Substitute for Joinder or Consent.
+11 Witkin, California Summary 10th Community Property
+(2018), Securities Fraud Laws Do Not Apply.
+11 Witkin, California Summary 10th Community Property
+(2018), Family Business.
+11 Witkin, California Summary 10th Husband and Wife
+(2018), Approval of Court.
+
+2 California Transactions Forms--Estate Planning § 11:49, Introduction and Definition [Prob C § 140].
+1 California Transactions Forms--Family Law § 1:99, Waiver of
+
+Management and Control of Property.
+1 California Transactions Forms--Family Law § 2:3, Comprehensive
+
+Drafting.
+1 California Transactions Forms--Family Law § 2:4, Fiduciary Duty.
+1 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+ment Agreement.
+West’s California Code Forms, Family § 781, Comment
+
+Overview-
+
+Community Personal Property.
+West’s California Code Forms, Family § 1100 Form
+
+1, Consent of
+
+Spouse
+
+of Community
+§ 1500
+
+Personal
+
+Code
+
+Forms,
+
+Family
+
+Form
+
+1, Marital
+
+West’s California
+Agreement.
+
+Code
+
+Forms,
+
+Family § 2338 Form
+
+8, Marital
+
+West’s
+
+Code
+
+Forms,
+
+Family
+
+Agreement.
+
+California
+
+§ 2338
+
+Form
+
+9, Marital
+
+§ 2550
+
+Form
+
+3, Marital
+
+Agreement-Both Spouses Employed.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Family
+
+§ 336
+
+breach of the fiduciary duty that results in impairment to the
+claimant spouse’s present undivided one-half interest in the
+community estate, including, but not limited to, a single
+transaction or a pattern or series of transactions, which
+transaction or transactions have caused or will cause a
+detrimental impact to the claimant spouse’s undivided onehalf interest in the community estate.
+(b) A court may order an accounting of the property and
+obligations of the parties to a marriage and may determine
+the rights of ownership in, the beneficial enjoyment of, or
+access to, community property, and the classification of all
+property of the parties to a marriage.
+(c) A court may order that the name of a spouse shall be
+added to community property held in the name of the other
+
+West’s California Code Forms, Family § 1100, Comment Overview-
+
+California
+
+§ 218
+
+(a) A spouse has a claim against the other spouse for any
+
+Damages for Injuries to Married Person.
+
+West’s
+
+§ 208
+
+§ 1101.
+Claim for breach of fiduciary duty; court ordered
+accounting; addition of name of spouse to community
+property; limitation of action; consent of spouse not
+required; remedies
+
+1 California Transactions Forms--Family Law § 2:30, Overview.
+1 California Transactions Forms--Family Law § 2:88, Marital Settle-
+
+by Other
+
+§ 165
+
+§ 2:5, Disclosure
+
+Requirements.
+
+Spouse to Gift
+Property.
+
+OBLIGATIONS
+
+Agreement.
+West’s California Code Forms, Family § 2550 Form 4, Division of
+
+Property Clauses in Dissolution Settlement Agreement.
+West’s California Code Forms, Probate § 3080 Form 1, Petition for
+
+spouse alone or that the title of community property held in
+some other title form shall be reformed to reflect its
+community character, except with respect to any of the
+following:
+(1) A partnership interest held by the other spouse as a
+general partner.
+(2) An interest in a professional corporation or professional association.
+
+Support; for Injunctive Orders; for Determination of the Character of Property; for an Accounting; for Employment of
+Counsel; and for Attorney Fees and Costs.
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 3(V)-B, Elements of Claim.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 3(V)-D, Statute of Limitations.
+
+88
+
+MANAGEMENT
+
+AND
+
+CONTROL
+
+(3) An asset of an unincorporated business if the other
+spouse is the only spouse involved in operating and managing
+the business.
+
+OF MARITAL
+
+§ 1101
+
+PROPERTY
+
+Law Revision Commission
+Enactment
+
+Comments
+
+[Revised Comment]
+
+Section 1101 continues former Civil Code Section 5125.1 without
+change, except that (1) section references have been adjusted and (2)
+“community estate” has been substituted for “community interest” in
+subdivision (a) for internal consistency. ‘These are technical, nonsubstantive changes. See Section 63 (“community estate” defined) &
+Comment.
+See also Prob. Code §§ 3057 (protection of rights of
+spouse who lacks legal capacity), 3101 (proceeding for court order to
+authorize particular transaction). [23 Cal.L.Rev.Comm. Reports 1
+
+(4) Any other property, if the revision would adversely
+affect the rights of a third person.
+(d)(1) Except as provided in paragraph (2), any action
+under subdivision (a) shall be commenced within three years
+of the date a petitioning spouse had actual knowledge that
+the transaction or event for which the remedy is being sought
+occurred.
+
+(1993)].
+Commentary
+
+(2) An action may be commenced under this section upon
+the death of a spouse or in conjunction with an action for
+legal separation, dissolution of marriage, or nullity without
+regard to the time limitations set forth in paragraph (1).
+
+Yeh v. Tai, 18 Cal.App.5th 227, 27 Cal.Rptr.3d 275 (2017). The
+Code of Civil Procedure section 366.2 one-year statute of limitations
+for actions against a decedent has no application to claims brought by
+a spouse for a decedent spouse’s breach of fiduciary duty subject to
+subsection (d)(2) of this section, which does not impose any time
+limit when the action is brought after the spouse’s death or incident
+
+(3) The defense of laches may be raised in any action
+brought under this section.
+
+to divorce.
+In re Marriage of Margulis, 198 Cal.App.4th 1252, 130 Cal.Rptr.3d
+327 (2011), relying in part on this section, held that in a marriage
+
+(4) Except as to actions authorized by paragraph (2),
+remedies under subdivision (a) apply only to transactions or
+events occurring on or after July 1, 1987.
+
+dissolution proceeding a managing spouse has the burden of proof to
+account for missing assets when the nonmanaging spouse has made a
+prima facie showing of the existence and value of community assets
+that have disappeared after separation while controlled by the
+managing spouse. The managing spouse must either rebut the
+showing or prove the proper disposition or lesser value of the assets.
+If the managing spouse fails to do so, the court should charge the
+Managing spouse with the prima facie value of the assets. Margulis
+interprets this section, along with Family Code sections 721, 1100,
+2100, and 2107, to impose upon a managing spouse a duty to disclose
+
+(e) In any transaction affecting community property in
+which the consent of both spouses is required, the court may,
+upon the motion of a spouse, dispense with the requirement
+of the other spouse’s consent if both of the following
+requirements are met:
+
+(1) The proposed transaction is in the best interest of the
+community.
+
+and
+
+account
+
+for the existence,
+
+valuation,
+
+and
+
+distribution
+
+of all
+
+community assets from the date of separation to the final property
+distribution.
+In re Marriage of Kamgar, 18 Cal.App.5th 136, 226 Cal.Rptr.3d 234
+(2017), affirmed a judgment ordering a husband to pay his wife
+almost two million dollars for breach of his spousal fiduciary duty in
+failing to disclose to her that he risked eight million dollars more
+community funds in options trading than the amount of community
+assets she agreed he could trade, and lost half that amount. Kamgar
+relies on several theories. The husband violated his section 721(b)
+fiduciary duty as well as his section 1100(e) duty to “make full
+disclosure to the other spouse of all material facts and information
+regarding the existence, characterization, and valuation of all assets
+in which the community has an interest....’ The section 721(b)
+fiduciary duty was amended in 2002 to incorporate by reference
+
+(2) Consent has been arbitrarily refused or cannot be
+obtained due to the physical incapacity, mental incapacity, or
+prolonged absence of the nonconsenting spouse.
+(f) Any action may be brought under this section without
+filing an action for dissolution of marriage, legal separation,
+or nullity, or may be brought in conjunction with the action or
+upon the death of a spouse.
+
+(g) Remedies for breach of the fiduciary duty by one
+spouse, including those set out in Sections 721 and 1100, shall
+include, but not be limited to, an award to the other spouse of
+
+50 percent, or an amount equal to 50 percent, of any asset
+undisclosed or transferred in breach of the fiduciary duty plus
+attorney’s fees and court costs. The value of the asset shall
+be determined to be its highest value at the date of the breach
+of the fiduciary duty, the date of the sale or disposition of the
+asset, or the date of the award by the court.
+
+Corporations Code sections 16403, 16404 and 16503, concerning the
+
+duties of business partners. Section 16403(c)(1) requires each partner
+to furnish the other “[w]ithout demand, any information concerning
+the partnership’s business and affairs reasonably required for the
+proper exercise of the partner’s rights....” Alternatively, directly
+treating the spouses’ agreement as a partnership agreement, the
+husband violated his Corporations Code section 16403(c)(1) duty of
+disclosure of “any information concerning the partner’s rights or
+duties under the partnership agreement.”
+In re Marriage of Georgiou and Leslie, 218 Cal.App.4th 561, 160
+Cal.Rptr.3d 254 (2013) review denied, holds that this section does not
+permit a postjudgment action for breach of the fiduciary duty of
+disclosure when the asset was adjudicated and divided in the
+dissolution proceeding. In such case, the former spouse’s remedy is
+an action to set aside the judgment under Family Code section 2122.
+Some rights provided by this section are available in the absence of
+any breach of fiduciary duty. The legislative history of Section 1101
+indicates that the first three subsections provide independent claims
+and remedies. A subsection (b) accounting and a subsection (c) adda-name remedy are available without any showing of a subsection (a)
+
+(h) Remedies for the breach of the fiduciary duty by one
+spouse, as set forth in Sections 721 and 1100, when the breach
+
+falls within the ambit of Section 3294 of the Civil Code shall
+include, but not be limited to, an award to the other spouse of
+100 percent, or an amount equal to 100 percent, of any asset
+undisclosed or transferred in breach of the fiduciary duty.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.
+
+Amended by Stats.2001, c. 703 (A.B.583), § 1.)
+Application
+
+For application of Stats.2001, c. 703
+(A.B.583), see § 8 of that act.
+
+89
+
+§ 1101
+
+MARRIAGE
+
+breach of fiduciary duty. Assembly Judiciary Committee
+
+RIGHTS
+
+AND
+
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+Analysis,
+
+ty Property.
+
+Senate Bill 1071, July 1, 1986; Letter from Senator Bill Lockyer to
+
+2 California Transactions Forms--Estate
+Insurance Generally.
+1 California Transactions Forms--Family
+Management and Control of Property.
+
+Assembly Member Elihu Harris, July 8, 1986.
+When a spouse violated a Section 2040 (a)(2) automatic restraining order by selling community securities without a court order or the
+other spouse’s consent, the trial court, under subsections (a) and (g)
+
+1 California Transactions
+
+of this section, properly awarded the wronged spouse one-half of the
+lost profits, that is, the appreciation of the securities between the
+date of sale and the subsequent divorce. In re Marriage of McTiernan
+& Dubrow, 133 Cal.App.4th 1090, 35 Cal.Rptr.3d 287 (2005), review
+denied.
+In re Marriage of Hokanson, 68 Cal.App.4th 987, 80 Cal.Rptr.2d 699
+
+1 California
+
+§ 10:21,
+
+Life
+
+§ 1:99, Waiver
+
+of
+
+Law § 2:9, Remedies
+
+for
+
+Law
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 2:81,
+
+Potential
+
+Community Assets and Obligations.
+West’s California Code Forms, Family § 1100, Comment Overview-
+
+Community Personal Property.
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 3(V)-D, Statute of Limitations.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 3(V)-E, Remedies.
+11 Witkin, California Summary 10th Community Property § 138
+(2018), Action for Breach of Duty.
+11 Witkin, California Summary 10th Community Property § 139
+(2018), Spouse Operating Business.
+13 Witkin, California Summary 10th Equity § 17 (2018), Nature of
+Defense.
+
+injured party. Going even further than Hokanson, In re Marriage of
+Fossum, 192 Cal.App.4th 336, 121 Cal.Rptr.3d 195 (2011), review
+denied, holds that the court must award attorney’s fees to the injured
+party even if that party did not request them.
+Subsection (h) incorporates Civil Code Section 3294, which
+provides for exemplary, or punitive, damages when “it is proven by
+clear and convincing evidence that the defendant has been guilty of
+oppression, fraud, or malice.”
+Applying subsection (h), In re
+Marriage of Rossi, 90 Cal.App.4th 34, 108 Cal.Rptr.2d 270 (2001),
+holds that a spouse’s intentional concealment of community property
+lottery winnings constituted fraud under Civil Code § 3294 (c)(3)
+and justified a trial court award of 100 percent of the winnings to the
+other spouse. Rossi also holds that subsection (h), unlike subsection
+(g), does not require the imposition of attorney’s fees and court costs
+on the breaching party.
+In re Marriage of Simmons, 215 Cal.App.4th 584, 155 Cal.Rptr.3d
+685 (2013), holds that the subsection (h) value-of-the-asset remedy
+does not apply to a spouse’s nondisclosure of his separate property.
+Marriage of Schleich, 8 Cal.App.5th 267, 213 Cal.Rptr.3d 665 (2017),
+review denied, held that the subsection (g) and (h) remedies for a
+spouse’s breach of fiduciary duty do not apply to (1) a spouse’s
+failure to disclose separate property in dissolution proceedings or (2)
+a spouse’s failure to disclose community property received preseparation when that property was spent for community purposes prior
+to separation. Schleich additionally held that a spouse who receives
+50 percent or 100 percent of the value of an asset under subsections
+(g) or (h) is not additionally entitled to receive 50 percent of the
+value of the asset in the division of community property; instead the
+aggrieved spouse’s remedy for nondisclosure during dissolution lies
+in section 2107(c) money sanctions for failure to comply with
+disclosure rules.
+A spouse may be criminally liable for intentionally causing harm to
+property in which the other spouse has a community or separate
+interest, even though that harm occurs in the marital home and the
+parties are cohabiting as husband and wife. In People v. Wallace, 123
+Cal.App.4th 144, 19 Cal.Rptr.3d 790 (2004), review denied, a husband
+was convicted of felony vandalism for causing more than $15,000 of
+damages to his wife’s house and belongings. Although burglary and
+trespass cannot be committed against one’s own home, vandalism can
+be.
+Michaely v. Michaely, 150 Cal.App.4th 802, 59 Cal.Rptr.3d 56
+
+§ 1102. Community real property;
+spouse’s joinder in
+conveyances; application of section; limitation of actions
+
+(a) Except as provided in Sections 761 and 1103, either
+spouse has the management and control of the community
+real property, whether acquired prior to, or on or after
+January 1, 1975, but both spouses, either personally or by a
+duly authorized agent, * * * are required to join in executing
+an instrument by which that community real property or an
+interest therein is leased for a longer period than one year, or
+is sold, conveyed, or encumbered.
+(b) * * * This section * * * does not apply to a lease,
+mortgage, conveyance, or transfer of real property, or of an
+interest in real property, between spouses.
+(c) Notwithstanding subdivision (b), both of the following
+
+shall apply:
+(1) The sole lease, contract, mortgage, or deed of the
+husband, holding the record title to community real property,
+to a lessee, purchaser, or encumbrancer, in good faith without
+
+knowledge of the marriage relation, shall be presumed to be
+valid if executed prior to January 1, 1975.
+(2) The sole lease, contract, mortgage, or deed of either
+spouse, holding the record title to community real property to
+a lessee, purchaser, or encumbrancer, in good faith without
+
+knowledge of the marriage relation, shall be presumed to be
+valid if executed on or after January 1, 1975.
+(d) An action to avoid an instrument mentioned in this
+section, affecting any property standing of record in the name
+of either spouse alone, executed by the spouse alone, shall
+not be commenced after the expiration of one year from the
+filing for record of that instrument in the recorder’s office in
+the county in which the land is situated.
+
+(2007), review denied July 25, 2007, held that the remedies provided in
+
+this section for breach of fiduciary duty are applicable to a spouse
+whose intentional and obstreperous behavior during a deposition
+effectively deprived his wife of meaningful discovery. In Michaely, the
+trial court awarded the wife all the community property, pursuant to
+subsection (h).
+
+(ec) * * * This section * * * does not preclude either
+
+Research References
+
+spouse from encumbering * * * that spouse’s interest in
+community real property, as provided in Section 2033, to pay
+reasonable attorney’s fees in order to retain or maintain legal
+counsel in a proceeding for dissolution of marriage, for nullity
+
+Forms
+
+Strategies
+
+Forms--Family
+
+Planning
+
+False Disclosure.
+
+(1998), holds that once a court finds a breach of fiduciary duty,
+subsection (g) requires that the court award attorney’s fees to the
+
+Asset Protection: Legal Planning,
+Implications of Divorce.
+
+OBLIGATIONS
+
+and
+
+Forms
+
+{1 4.08,
+
+90
+
+MANAGEMENT
+
+AND
+
+CONTROL
+
+of marriage, or for legal separation of the parties.
+
+(Stats.
+
+1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.
+
+Amend-
+
+Enactment
+
+3 California
+
+Comments
+
+Forms--Business
+
+Transactions
+
+§ 18:14,
+
+West’s California Code Forms, Family § 1100, Comment Overview-
+
+Community Personal Property.
+
+Section 1102 continues former Civil Code Section 5127 without
+substantive change. The section has been divided into subdivisions
+
+West’s California Code Forms, Family § 2033 Form 2, Trust Deed
+
+Creating Attorney’s Lien.
+
+and some minor, nonsubstantive wording changes have been made,
+
+such as changing “situate” to “situated” in subdivision (d). In
+subdivision (e), the phrase. “proceeding for dissolution of marriage,
+nullity of marriage, or legal separation of the parties” has been
+substituted for “action under this part,” which referred to the former
+Family Law Act (former Part 5 (commencing with former Section
+4000) of Division 4 of the Civil Code). [23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial Statutes of
+Limitations Ch. 4-C, Actions Involving Real Property.
+11 Witkin, California Summary 10th Community Property § 3
+(2018), Property Rights During Marriage:
+11 Witkin, California. Summary 10th Community Property § 135
+(2018), Current Law: Control by Either Spouse.
+11 Witkin, California Summary 10th Community Property § 139
+(2018), Spouse Operating Business.
+11 Witkin, California Summary 10th.Community Property § 140
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 141
+(2018), Statutory Limitation.
+11 Witkin, California Summary 10th Community Property § 151
+(2018), Requirement of Spouse’s Consent.
+11 Witkin, California Summary 10th Community Property § 152
+(2018), General Lien on Community Realty.
+iil Witkin, California Summary 10th Community Property § 153
+
+Commentary
+
+Subsection (c) gives presumptive validity to real property purchases, leases, and encumbrances from one spouse alone when the
+
+alone and the third-party
+
+purchaser, lessee, or encumbrancer takes in good faith without notice
+
+of the marriage relationship. The presumption may be rebutted by
+evidence that the nonconsenting spouse did not know of or participate in the transfer she seeks to avoid. Bush v. Rogers, 42 Cal.App.2d
+477, 109 P.2d 379 (1941). Even when the nonconsenting spouse
+rebuts the presumption, she may also have to tender back the
+purchase price. Mark v. Title Guarantee & Trust Company, 122
+Cal.App. 301, 9 P.2d 839 (1932).
+The subsection (d) one-year statute of limitations “only protects
+bona fide transferees with no knowledge of the marital relation who
+have no reason to suspect another signature is necessary.” Byrd v.
+Blanton, 149 Cal.App.3d 987, 993, 197 Cal.Rptr. 190 (1983).
+Subsection (e) was added in 1992 to limit the holding of Droeger v.
+
+(2018), Family Law Attorney’se Lien on Community Realty.
+Property § 154
+
+11 Witkin, California Summary 10th Community
+(2018), Bona Fide Purchasers.
+11 Witkin, California Summary 10th Community
+(2018), In General.
+11 Witkin, California Summary 10th Community
+(2018), Substitute for Joinder or Consent.
+
+Friedman, Sloan & Ross, 54 Cal.3d 26, 812 P.2d 931, 283 Cal.Rptr. 584
+
+Property § 163
+Property § 165
+
+§ 1103. Management and control of community property;
+one or both spouses having conservator of estate or
+lacking legal capacity
+
+(1991). Stats 1992, Ch 356 (AB 3399). See also Family Code Section
+2033, providing for a “family law attorney’s real property lien.”
+Droeger held that a subsection (a) encumbrance made without the
+consent of a spouse may be avoided in its entirety by the nonconsenting spouse during the parties’ marriage. Compare Hyatt v. Mabie, 24
+Cal.App.4th 541, 29 Cal.Rptr.2d 447 (1994) (when community realty
+has been encumbered during marriage without one spouse’s consent,
+after the spouses are divorced the nonconsenting spouse may
+invalidate the encumbrance only to the extent of her one-half
+interest).
+With Droeger, supra, compare Lezine v. Security Pacific Financial
+Services, 14 Cal.4th 56, 925 P.2d 1002, 58 Cal.Rptr.2d 756 (1996). In
+Lezine, the husband forged the wife’s signature on a quit claim deed
+to the family home and then, as security for a loan, executed two trust
+deeds on the home. At the wife’s request, the trial court voided the
+trust deeds on the ground that encumbrances of community realty
+require the consent of both spouses. The trial court also awarded the
+lender money judgments against the debtor, which the lender then
+
+(a) Where one or both of the spouses either has a
+conservator of the estate or lacks legal capacity to manage
+and control community property, the procedure for management and control (which includes disposition) of the community property is that prescribed in Part 6 (commencing with
+Section 3000) of Division 4 of the Probate Code.
+(b) Where one or both spouses either has a conservator of
+the estate or lacks legal capacity to give consent to a gift of
+community personal property or a disposition of community
+personal property without a valuable consideration as required by Section 1100 or to a sale, conveyance, or encumbrance of community personal property for which a consent is
+required by Section 1100, the procedure for that gift,
+disposition, sale, conveyance, or encumbrance is that prescribed in Part 6 (commencing with Section 3000) of Division
+4 of the Probate Code.
+
+recorded. Later, at divorce, the family home was awarded to the wife
+
+and the debts to the husband. The California Supreme Court held
+that the judgment lien attached to all of the couple’s community
+
+property, and that the wife took the home
+
+Transactions
+
+Spouses.
+2 California Transactions Forms--Estate Planning § 10:4, Community Property.
+
+[Revised Comment]
+
+property is titled in that spouse’s name
+
+§ 1103
+
+PROPERTY
+
+California Practice Guide: Rutter Family Law Forms Form 1:20, Ex
+Parte Application and Request for Order Re Objection to
+Family Law Attorney’s Real Property Lien and Request to Stay
+Recordation.
+
+ed by Stats.1993, c. 219 (A.B.1500), .§ 101; Stats.2014, c. 82
+(S.B.1306), § 18, eff. Jan. 1, 2015; Stats.2019, c.. 115 (A.B.
+1817), § 11, eff: Jan. 1, 2020.)
+Law Revision Commission
+
+OF MARITAL
+
+subject to the lien.
+
+(c) Where one or both spouses either has a conservator of
+the estate or lacks legal capacity to join in executing a lease,
+sale, conveyance, or encumbrance of community real property or any interest therein as required by Section 1102, the
+procedure for that lease, sale, conveyance, or encumbrance is
+that prescribed in Part 6 (commencing with Section 3000) of
+
+Research References
+Forms
+
+7 Am. Jur. Pl. & Pr. Forms Community Property § 17, Introductory
+Comments.
+
+91
+
+§ 1103
+
+MARRIAGE
+
+Division 4 of the Probate Code.
+2650), § 10, operative Jan. 1, 1994.)
+
+AND
+
+OBLIGATIONS
+
+(Stats.1992, c. 162 (A.B.
+
+Law Revision Commission
+Enactment
+
+RIGHTS
+
+Law Revision Commission Comments
+
+Enactment
+
+[Revised Comment]
+
+Section 1500 continues former Civil Code Section 5200 without
+change.
+See also Sections 1600-1617 (premarital agreements);
+
+Comments
+
+[Revised Comment]
+
+Section 1103 continues former Civil Code Section 5128 without
+
+Prob. Code §§ 140-147 (surviving spouse’s waiver of rights).
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+change, except that section references have been adjusted and “that”
+
+has been substituted for “such” in subdivisions (b) and (c).
+
+[23
+
+Research References
+Forms
+
+This section makes provisions of the Probate Code applicable in
+two situations:
+(1) Where one or both spouses have a conservator of the estate or
+lack legal capacity to manage and control community property (which
+includes the disposition of community property). See, e.g., Prob.
+
+Code § 3051.
+(2) Where one or both spouses have a conservator of the estate or
+lack legal capacity for a transaction requiring joinder or consent
+under Section 1100(b)-(c) or 1102. See, e.g., Prob. Code §§ 3012
+(legal capacity), 3071 (substitute for joinder or consent).
+[23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms {1 4.07,
+Marital Agreements.
+2 California Transactions Forms--Estate Planning § 11:39, General
+Considerations.
+2 California Transactions Forms--Estate Planning § 11:45, Introduction.
+1 California Transactions Forms--Family Law § 1:71, Binding Agreement With Specific Family Code Waivers.
+West’s California Code Forms, Family § 1500, Comment
+
+Overview-
+
+Marital Agreements and Premarital Agreements.
+Treatises and Practice Aids
+
+11 Witkin,
+
+Research References
+Forms
+
+7 Am. Jur. Pl. & Pr. Forms Community Property § 64, Introductory
+Comments.
+West’s California Code Forms, Family § 781, Comment
+
+Overview-
+
+Damages for Injuries to Married Person.
+
+California Summary 10th Community Property § 24
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 157
+(2018), Authority to Transmute.
+11 Witkin, California Summary 10th Husband and Wife § 63 (2018),
+In General.
+
+§ 1501.
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 140
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 151
+(2018), Requirement of Spouse’s Consent.
+11 Witkin, California Summary 10th Community Property § 163
+(2018), In General.
+
+Agreements by minors
+A minor may make a valid premarital agreement or other
+marital property agreement if the minor is emancipated, is
+otherwise capable of contracting marriage pursuant to Section 302 or 303, or has entered or is entering a marriage that
+is valid in the jurisdiction where the marriage is solemnized.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.
+Amended
+
+by Stats.2018,
+
+c. 660
+
+(S.B.273),
+
+$ 7, eff. Jan.
+
+1,
+
+2019.)
+Part 5
+
+Law Revision Commission Comments
+
+MARITAL AGREEMENTS
+
+Section 1501 continues former Civil Code Section 5201 without
+
+Enactment
+
+Chapter
+Section
+1.” General Provisions:
+3000 sot cite se ieee
+are: 1500
+2. Uniform Premarital Agreement Act.............. 1600
+3. Agreements Between Spouses ................... 1620
+
+CHAPTER
+
+1.
+
+GENERAL
+
+PROVISIONS
+
+Section
+
+1500.
+
+Effect of premarital
+
+agreements
+
+and other marital
+
+property agreements.
+
+1501.
+1502.
+1503.
+
+Agreements by minors.
+Recording of agreements.
+Law applicable to preexisting premarital agreements.
+
+§ 1500. Effect of premarital agreements and other marital
+property agreements
+
+The property rights of spouses prescribed by statute may be
+altered by a premarital agreement or other marital property
+agreement.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative
+Jan. 1, 1994. Amended by Stats.2014, c. 82 (S.B.1306), § 19,
+eff: Jan. 1, 2015.)
+
+change.
+
+[Revised Comment]
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Research References
+
+Forms
+
+2 California Transactions Forms--Estate Planning § 11:39, General
+Considerations.
+West’s California Code Forms, Family § 1500, Comment Overview-
+
+Marital Agreements and Premarital Agreements.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Requisites of Premarital Agreement.
+
+§ 1502.
+
+Property
+
+§ 25
+
+Recording of agreements
+
+(a) A premarital agreement or other marital property
+agreement that is executed and acknowledged or proved in
+the manner that a grant of real property is required to be
+executed and acknowledged or proved may be recorded in
+the office of the recorder of each county in which real
+property affected by the agreement is situated.
+(b) Recording or nonrecording of a premarital agreement
+or other marital property agreement has the same effect as
+
+MARITAL
+
+recording or nonrecording of a grant of real property.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+§ 1600.
+
+Short title
+
+This chapter may be cited as the Uniform Premarital
+Agreement Act. (Stats.1992, c. 162 (A.B.2650), § 10, opera-
+
+Law Revision Commission Comments
+Enactment
+
+tive Jan. 1, 1994.)
+
+[Revised Comment]
+
+Law Revision Commission
+
+Section 1502 continues former Civil Code Section 5202 without
+change.
+See also Section 700 (real property includes leasehold
+
+interests in real property).
+
+§ 1601
+
+AGREEMENTS
+
+Enactment
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Research References
+
+Strategies
+
+and
+
+Forms
+
+1 4.07,
+
+2 California Transactions Forms--Estate Planning § 11:39, General
+
+Research References
+
+Considerations.
+2 California Transactions Forms--Estate Planning § 11:45, Introduction.
+
+Forms
+
+1 California Transactions Forms--Estate Planning § 6:28, Exceptions
+to Omitted Spouse Statute.
+1 California Transactions Forms--Estate Planning § 6:99, Omitted
+Spouse Made Valid Agreement Waiving Right to Share in
+Decedent’s Estate.
+
+1 California Transactions Forms--Family Law § 1:8, Acknowledgment and Recordation.
+West’s California Code Forms, Family § 1500, Comment Overview-
+
+Marital Agreements and Premarital Agreements.
+
+2 California Transactions Forms--Estate Planning § 11:37, Introduc-
+
+Treatises and Practice Aids
+
+tion.
+
+11 Witkin, California Summary 10th Community
+(2018), Requisites of Premarital Agreement.
+
+§ 1503.
+
+Law
+
+applicable
+
+Property
+
+1 California
+
+§ 25
+
+to preexisting premarital
+
+Forms--Family
+
+Law
+
+§ 1:2, Nature
+
+and
+
+1 California Transactions Forms--Family Law § 1:5, Governing Law,
+Form, and Execution.
+
+agree-
+
+1 California
+
+Transactions
+
+Forms--Family
+
+Law § 4:7,
+
+Effect
+
+of
+
+Subsequent Marriage Between Cohabitants.
+West’s California Code Forms, Family § 1500, Comment OverviewMarital Agreements and Premarital Agreements.
+
+Nothing in this chapter affects the validity or effect of
+premarital agreements made before January 1, 1986, and the
+validity and effect of those agreements shall continue to be
+determined by the law applicable to the agreements before
+January 1, 1986. (Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Treatises and Practice Aids
+
+11 Witkin,
+
+California Summary 10th Community Property § 24
+(2018), In General.
+1 Witkin, California Summary 10th Contracts § 256 (2018), Premarital Agreements.
+1 Witkin, California Summary 10th Contracts § 400 (2018), Marital
+and Premarital Agreements.
+1 Witkin, California Summary 10th Contracts § 644 (2018), Other
+Agreements.
+14 Witkin, California Summary 10th Wills and Probate § 356 (2018),
+
+Law Revision Commission Comments
+Enactment
+
+Transactions
+
+Advantages of Agreement.
+
+ments
+
+[Revised Comment]
+
+Section 1503 continues former Civil Code Section 5203 without
+
+substantive change.
+
+[Revised Comment]
+
+Section 1600 continues former Civil Code Section 5300 without
+substantive change. Section 1600 is the same as Section 10 of the
+Uniform Premarital Agreement Act (1983). See also Sections 3
+(construction of provision drawn from uniform act), 14 (severability
+of provisions). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Forms
+
+Asset Protection: Legal Planning,
+Marital Agreements.
+
+Comments
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Research References
+
+Enforcement.
+
+Forms
+
+§ 1601.
+
+1 California Transactions Forms--Family Law § 1:5, Governing Law,
+Form, and Execution.
+
+Effective date of chapter
+
+This chapter is effective on and after January 1, 1986, and
+applies to any premarital agreement executed on or after that
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), In General.
+
+10th Community
+
+date.
+
+Property § 24
+
+(Stats.1992, c. 162 (A.B.2650),
+
+Law Revision Commission
+
+CHAPTER 2.
+
+UNIFORM PREMARITAL
+
+AGREEMENT
+Article
+1. Preliminary Provisions
+2. Premarital Agreements
+
+ARTICLE 1.
+
+$ 10, operative Jan. 1,
+
+1994.)
+
+Enactment
+
+ACT
+
+Comments
+
+[Revised Comment]
+
+Section 1601 continues former Civil Code Section 5302 without
+change. Section 1601 is the same as Section 12 of the Uniform
+Premarital Agreement Act (1983). See also Section 1503 (law
+applicable to premarital agreements made before January 1, 1986).
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Section
+......................,- 1600
+........................ 1610
+
+Research References
+
+PRELIMINARY PROVISIONS
+Forms
+
+Section
+1600. Short title.
+1601. Effective date of chapter.
+
+2 California Transactions Forms--Estate Planning § 11:41, Formalities.
+
+93
+
+§ 1601
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+2 California Transactions Forms--Estate Planning § 11:41, Formalities.
+1 California Transactions Forms--Family Law § 1:2, Nature and
+Advantages of Agreement.
+1 California Transactions Forms--Family Law § 1:6, Subject Matter;
+Altering Rights.
+
+1 California Transactions Forms--Family Law § 1:5, Governing Law,
+Form, and Execution.
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), In General.
+
+10th
+
+Community
+
+Property
+
+OBLIGATIONS
+
+§ 24
+
+1 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 1:27,
+
+Complete
+
+Agreement.
+
+ARTICLE 2.
+
+1 California Transactions Forms--Family Law § 1:37, Agreement in
+Contemplation and Consideration of Marriage; Complex Provision.
+
+PREMARITAL AGREEMENTS
+
+Section
+1610. Definitions.
+1611. Form and execution of agreement; consideration.
+1612. Subject matter of premarital agreements.
+1613. Effective date of agreements.
+1614. Amendment or revocation of agreements.
+1615. Unenforceable agreements; unconscionability; voluntariness.
+1616. Void marriage, effect on agreement.
+1617. Limitation of actions; equitable defenses including
+
+1 California
+
+Law
+
+§ 4:7,
+
+Effect
+
+of
+
+§ 4:9, Rights
+
+to
+
+Overview-
+
+Premarital Agreements.
+West’s California Code
+
+Forms, Family § 1611 Form
+
+1, Premarital
+
+Agreement.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 24
+(2018), In General.
+1 Witkin, California Summary 10th Contracts § 400 (2018), Marital
+and Premarital Agreements.
+1 Witkin, California Summary 10th Contracts § 644 (2018), Other
+Agreements.
+
+Definitions
+
+As used in this chapter:
+(a) “Premarital agreement” means an agreement between
+prospective spouses made in contemplation of marriage and
+to be effective upon marriage.
+(b) “Property” means an interest, present or future, legal
+or equitable, vested or contingent, in real or personal
+property, including income and earnings. (Stats.1992, c. 162
+
+§ 1611.
+
+Form
+
+and execution of agreement;
+
+consideration
+
+A premarital agreement shali be in writing and signed by
+both parties. It is enforceable without consideration. (Stats.
+1992,
+
+(A.B.2650), § 10, operative Jan. I, 1994.)
+
+c.
+
+162
+
+(A.B.2650),
+
+§ 10,
+
+operative
+
+Jan.
+
+1, 1994.)
+
+Law Revision Commission Comments
+
+Law Revision Commission Comments
+Enactment
+
+Forms--Family
+
+West’s California Code Forms, Family § 1611, Comment
+
+laches and estoppel.
+
+§ 1610.
+
+Transactions
+
+Subsequent Marriage Between Cohabitants.
+1 California Transactions Forms--Family Law
+Income.
+
+Enactment
+
+[Revised Comment]
+
+[Revised Comment]
+
+Section 1611 continues former Civil Code Section 5311 without
+change. Section 1611 is the same as Section 2 of the Uniform
+Premarital Agreement Act (1983). See also Sections 1501 (agreements by minors), 1502 (recording of agreements). [23 Cal.L.Rev.
+Comm. Reports 1 (1993)].
+
+Section 1610 continues former Civil Code Section 5310 without
+change. Section 1610 is the same as Section 1 of the Uniform
+Premarital Agreement Act (1983). [23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+Commentary
+
+Commentary
+
+Estate of Wilson, 211 Cal.App.4th 1284, 150 Cal.Rptr.3d 699 (2012),
+
+A waiver of death rights contained in an antenuptial agreement
+that satisfies the requirements of Family Code Sections 1600 et seq.
+(the Uniform Premarital Agreement Act) is enforceable even though
+the agreement does not satisfy the requirements of Probate Code
+Sections 140 et seq. Estate of Gagnier, 21 Cal.App.4th 124, 26
+Cal.Rptr.2d 128 (1993) (upholding wife’s waiver of death rights in
+antenuptial agreement despite lack of Probate Code Section 143
+representation by independent counsel).
+This section of the Uniform Premarital Agreement Act recodifies
+the long-standing California requirement that premarital agreements
+satisfy the statute of frauds. The current recodification has been
+interpreted to preserve pre-existing case law exceptions to the statute
+of frauds. Hall v. Hall, 222 Cal.App.3d 578, 587, 271 Cal.Rptr. 773
+(1990), review denied. The California courts have long recognized two
+exceptions to the statute of frauds: execution and detrimental
+reliance. An oral premarital agreement is enforceable when the
+promisor has executed his promise. In re Marriage of Garrity &
+Bishton, 181 Cal.App.3d 675, 685, 226 Cal.Rptr. 485 (1986); Freitas v.
+Freitas, 31 Cal.App. 16, 159 P. 611 (1916). When one spouse has
+relied to her detriment upon the other’s oral promise, the promisor
+may be estopped to assert the statute of frauds. Detrimental reliance
+may consist of affirmative action or mere forbearance to act. Estate of
+Sheldon, 75 Cal.App.3d 364, 142 Cal.Rptr. 119 (1977). Yet marriage
+alone does not work an estoppel. Hall, supra at 586. For further
+discussion of equitable estoppel to assert the statute of frauds, see
+
+review denied, held that domestic partnership agreements that satisfy
+the requirements of sections 1600-1617 and were made after the
+enactment of statutes that provided domestic partners with essentially the same property rights as spouses are not automatically
+invalidated by the partners’ subsequent same-sex marriage. Thus, a
+pre-registration California domestic partnership agreement in which
+the parties waived any interest. in each other’s estate and that
+required a signed writing to terminate the agreement, was not
+revoked by the parties’ subsequent same-sex marriage. Although the
+surviving spouse was an omitted spouse for purposes of Probate
+
+Code section 21610, under section 21611(c) he waived his right to any
+interest in the decedent spouse’s estate in the domestic partnership
+agreement.
+Research References
+Forms
+
+California Practice Guide: Rutter Family Law Forms Form 9:1,
+Premarital Agreement.
+1 California Transactions Forms--Estate Planning § 6:28, Exceptions
+to Omitted Spouse Statute.
+2 California Transactions Forms--Estate Planning § 11:37, Introduction.
+2 California Transactions Forms--Estate Planning § 11:39, General
+
+Considerations.
+
+94
+
+MARITAL
+Juran
+
+vy. Epstein, 23 Cal.App.4th 882, 28 Cal.Rptr.2d 588 (1994)
+(Probate Code Section 150(a)(3), which requires a writing in order to
+
+(7) Any other matter, including their personal rights and
+obligations, not in violation of public policy or a statute
+imposing a criminal penalty.
+(b) The right of a child to support may not be adversely
+affected by a premarital agreement.
+(c) Any provision in a premarital agreement regarding
+spousal support, including, but not limited to, a waiver of it, is
+not enforceable if the party against whom enforcement of the
+spousal support provision is sought was not represented by
+independent counsel at the time the agreement containing
+the provision was signed, or if the provision regarding spousal
+support is unconscionable at the time of enforcement. An
+otherwise unenforceable provision in a premarital agreement
+regarding spousal support may not become enforceable solely
+because the party against whom enforcement is sought was
+represented by independent counsel.
+(Stats.1992, c. 162
+
+enforce a contract not to revoke a will, does not abolish use of the
+
+doctrine of equitable estoppel to enforce an oral agreement not to
+revoke a will). See also equitable estoppel cases cited in Civil Code
+Section 683, Commentary.
+But compare judicial interpretation of Family Code § 852(a),
+which governs transmutation of property during marriage. In re
+Marriage of Benson, 36 Cal.4th 1096, 116 P.3d 1152, 32 Cal.Rptr.3d
+471 (2005), holds that the usual exceptions to the statute of frauds
+(see Commentary to Section 1611) may not be used to avoid the
+subsection (a) writing requirement.
+In re Marriage of Shaban, 88 Cal.App.4th 398, 105 Cal.Rptr.2d 863
+
+(2001), review denied July 11, 2001, holds that parol evidence is
+inadmissible to establish the terms of an Islamic marriage contract
+when the writing fails to state with reasonable certainty the terms and
+conditions of the contract. Shaban reasons that, in the context of the
+
+statute of frauds, the limited purpose of the parol evidence rule is to
+illuminate the meaning of specific words of the contract, but not to
+create missing terms of the contract.
+
+(A.B.2650), § 10, operative Jan. 1, 1994.
+Law Revision Commission
+Enactment
+
+Forms
+
+by Stats.
+
+Comments
+
+[Revised Comment]
+
+Section 1612 continues former Civil Code Section 5312 without
+change. Section 1612 is the same as Section 3 of the Uniform
+Premarital Agreement Act (1983), except that Section 1612 omits the
+provision of the uniform act providing that the parties to a premarital
+agreement may contract with respect to “the modification or
+elimination of spousal support.” See also Prob. Code §§ 140-147
+(surviving spouse’s waiver of rights), 150 (contracts concerning will or
+succession). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+1 California Transactions Forms--Estate Planning § 6:28, Exceptions
+to Omitted Spouse Statute.
+2 California Transactions Forms--Estate Planning § 11:41, Formalities.
+
+1 California Transactions Forms--Family Law § 1:5, Governing Law,
+Form, and Execution.
+1 California Transactions Forms--Family Law § 1:8, Acknowledgment and Recordation.
+1 California Transactions Forms--Family Law § 1:19, Consideration.
+West’s California Code Forms, Family § 1611, Comment Overview-
+
+Commentary
+
+For contracts made before January 1, 1986 (see Sections 1503 and
+1601), the public policy against promoting divorce is also violated by
+premarital contract clauses providing for property transfer at divorce.
+Hence such clauses are also unenforceable. See In re Marriage of
+Noghrey, 169 Cal.App.3d 326, 215 Cal.Rptr. 153 (1985) and In re
+Marriage of Dajani, 204 Cal.App.3d 1387, 251 Cal.Rptr. 871 (1988). It
+is uncertain whether, with respect to post-1985 contracts, this caselaw rule survives enactment of the Uniform Act. Compare subsections (a)(3) and (a)(7).
+In re Marriage of Bellio, 105 Cal.App.4th 630, 129 Cal.Rptr.2d 556
+(2003), purports to apply the public policy restriction of Noghrey and
+Dajani to a premarital contract entered after the effective date of the
+
+Premarital Agreements.
+
+Treatises and Practice Aids
+11 Witkin, California Summary 10th Community Property § 25
+(2018), Requisites of Premarital Agreement.
+1 Witkin, California Summary 10th Contracts § 256 (2018), Premarital Agreements.
+1 Witkin, California Summary 10th Contracts § 400 (2018), Marital
+and Premarital Agreements.
+
+Subject matter of premarital agreements
+
+(a) Parties to a premarital agreement may contract with
+respect to all of the following:
+
+Uniform
+
+Act, but nevertheless
+
+concludes
+
+that the contract
+
+term
+
+providing for payment of $100,000 to the wife in the event of divorce
+did not violate public policy because the term, in light of the reason
+for the payment, would not promote dissolution of a viable marriage.
+In re Marriage of Weiss, 42 Cal.App.4th 106, 49 Cal.Rptr.2d 339
+
+(1) The rights and obligations of each of the parties in any
+of the property of either or both of them whenever and
+wherever acquired or located.
+
+(1996), review denied May 1, 1996, declined to enforce the parties’
+
+formal antenuptial agreement that any children of the marriage
+would be reared in the Jewish faith on the ground that enforcement
+would infringe the free exercise rights of the breaching parent.
+On October 13, 2004, the California Supreme Court granted
+review to In re Marriage of Rosendale, 15 Cal.Rptr.3d 137 (2004), in
+which the depublished opinion of the court of appeal purported to
+hold that whether a spousal support waiver in a premarital agreement
+was executed before or after the effective date of the 2001 enactment
+of subsection (c), a support waiver is unenforceable if at the time
+enforcement is sought, enforcement would be unconscionable. The
+court reasoned that the effective date of the amendment was
+immaterial because the statutory amendment codified existing common law, citing In re Marriage of Pendleton & Fireman, 24 Cal.4th 39,
+
+(2) The right to buy, sell, use, transfer, exchange, abandon,
+lease, consume, expend, assign, create a security interest in,
+mortgage, encumber, dispose of, or otherwise manage and
+
+control property.
+(3) The disposition of property upon separation, marital
+dissolution, death, or the occurrence or nonoccurrence of any
+other event.
+
+(4) The making of a will, trust, or other arrangement to
+carry out the provisions of the agreement.
+_
+
+Amended
+
+2001, c. 286 (S.B.78), § 1.)
+
+Research References
+
+§ 1612.
+
+§ 1612
+
+AGREEMENTS
+
+(5) The ownership rights in and disposition of the death
+benefit from a life insurance policy.
+
+99 Cal.Rptr.2d 278, 5 P.3d 839 (2000), which held that premarital
+
+(6) The choice of law governing the construction of the
+agreement.
+
+spousal support waivers were not per se unenforceable, but declined
+to expressly decide “whether circumstances existing at the time
+
+95
+
+§ 1612
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+OBLIGATIONS
+
+2 California Transactions Forms--Estate Planning § 11:42, Scope of
+Statutory Framework.
+2 California Transactions Forms--Estate Planning § 11:48, Governing Contractual Provisions [CC §§ 1550 et seq., Fam C
+
+enforcement of a waiver of spousal support is sought might make
+enforcement unjust.” 24 Cal.4th at 53. On July 13, 2005, the Supreme
+Court, under California Rules of Court, Rule 29.3b, dismissed review
+
+of Rosendale, citing subsection (c) of this section and Section 4(c),
+which provides that amendments to the Family Code apply to all
+matters governed by those amendments without regard to when the
+operative events occurred. Thus, the Supreme Court would seem to
+be taking the view that subsection (c) of this section applies
+retroactively to all premarital spousal support waivers, subject only to
+Section 4(h) and due process requirements. Rosendale remains
+depublished because the Supreme Court did not specifically order
+
+§ 721(B)].
+2 California Transactions Forms--Estate Planning § 11:60, Matters
+to be Included in Premarital Agreement.
+2 California Transactions Forms--Estate Planning § 11:69, Premari-
+
+tal Agreement.
+1 California Transactions Forms--Family
+Advantages of Agreement.
+
+Law § 1:2, Nature
+
+and
+
+otherwise when it dismissed review. California Rules of Court, Rule
+
+1 California Transactions Forms--Family Law § 1:6, Subject Matter;
+
+8.528 (renumbered from 29.3b in 2007).
+However, In re Marriage of Howell, 195 Cal.App.4th 1062, 126
+Cal. Rptr.3d 539 (2011), declined to retroactively apply Family Code
+section 1612(c), which is a 2002 amendment, insofar as it would
+invalidate a 1999 spousal support waiver because the party resisting
+enforcement was not represented by counsel. Howell concluded that
+retroactive application of the attorney-representation requirement
+would violate Family Code section 4(f) by making the party seeking
+enforcement “liable for an action taken before the operative date
+that was proper at the time...even if the action would be improper if
+taken on or after the operative date,” reasoning that the party
+seeking enforcement became “liable” for failing to make sure that
+the other party was represented by counsel.
+In re Marriage of Melissa, 212 Cal.App.4th 598, 151 Cal.Rptr.3d 608
+(2013), review denied, holds that a spousal support waiver in a
+premarital agreement executed before 1986, that is, before the
+Uniform Premarital Agreement Act became effective, is unenforceable, because when the agreement was executed spousal support
+waivers were entirely unenforceable under California case law.
+By contrast, In re Marriage of Facter, 212 Cal.App.4th 967, 152
+Cal.Rptr.3d 79 (2013), review denied, states that a premarital spousal
+support waiver executed in 1994 was not per se unenforceable under
+Pendleton, decided in 2000 and interpreting an earlier version of this
+section of the Uniform Premarital Agreement Act. Subsection (c) of
+this section, added in 2002, did not apply because its application
+would be impermissibly retroactive, citing Howell. However, Facter
+
+Altering Rights.
+1 California Transactions Forms--Family Law § 1:105, Spousal
+Support.
+1 California Transactions Forms--Family Law § 4:67, Agreement
+Becoming Prenuptial Agreement.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 26
+(2018), Subjects of Premarital Agreement.
+11 Witkin, California Summary 10th Community Property § 29
+(2018), Lack of Independent Counsel.
+11 Witkin, California Summary 10th Community Property § 32
+(2018), Agreement Violating Public Policy.
+1 Witkin, California Summary 10th Contracts § 644 (2018), Other
+Agreements.
+
+§ 1613.
+
+A premarital agreement becomes effective upon marriage.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+Law Revision Commission Comments
+
+Enactment
+
+concluded that, under Pendleton, enforcement would be unconsciona-
+
+executed
+
+before
+
+its effective
+
+date,
+
+January
+
+[Revised Comment]
+
+Section 1613 continues former Civil Code Section 5313 without
+change. Section 1613 is the same as Section 4 of the Uniform
+Premarital Agreement Act (1983). [23 Cal.L.Rev.Comm. Reports 1
+
+(1993)].
+
+ble at the time of divorce in light of the great disparity in the parties’
+income and the inability of the wife to achieve the marital standard of
+living. Effectively, Facter applied dictum of Pendleton, which promised a result that could not be achieved under the UPAA at the time
+Pendleton was decided (enforcement of support waiver would be
+unconscionable), in order to apply the substance of subsection (c),
+enacted in 2002. Facter may also be read to find that the support
+waiver also was unconscionable at the time of execution. While the
+agreement’s support waiver was unenforceable, its property provisions were severable and enforceable.
+In re Marriage of Miotke, 35 Cal.App.5th 849, Cal.Rptr.3d (2019),
+held that a subsection (c) finding that a waiver of spousal support is
+unconscionable at the time of enforcement cannot be based on
+circumstances arising after the time of enforcement. Miotke additionally states, in dictum, that subsection (c) may not be applied to
+agreements
+
+Effective date of agreements
+
+Research References
+
+Forms
+
+1 California Transactions Forms--Family Law § 1:5, Governing Law,
+Form, and Execution.
+West’s California Code Forms, Family § 1611, Comment Overview-
+
+Premarital Agreements.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Requisites of Premarital Agreement.
+§ 1614.
+
+1, 2002.
+
+Property § 25
+
+Amendment or revocation of agreements
+
+After marriage, a premarital agreement may be amended
+or revoked only by a written agreement signed by the parties.
+The amended agreement or the revocation is enforceable
+without consideration. (Stats.1992, c. 162 (A.B.2650), § 10,
+operative Jan. 1, 1994.)
+
+For further discussion of retroactive application of amendments to
+the Family Code, see the Commentary to Family Code sections 4 and
+1615.
+Research References
+Forms
+
+Law Revision Commission Comments
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms { 4.07,
+Marital Agreements.
+California Practice Guide: Rutter Family Law Forms Form 9:1,
+Premarital Agreement.
+
+Enactment [Revised Comment]
+
+Section 1614 continues former Civil Code Section 5314 without
+change. Section 1614 is the same as Section 5 of the Uniform
+Premarital Agreement Act (1983). [23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+2 California Transactions Forms--Estate Planning § 11:37, Introduc-
+
+tion.
+
+96
+
+MARITAL
+Commentary
+
+at least seven
+signed.
+
+Estate of Wilson, 211 Cal.App.4th 1284, 150 Cal.Rptr.3d 699 (2012),
+
+review denied, held that a pre-registration California domestic partnership agreement in which the parties waived any interest in each
+other’s estate and required a signed writing to terminate the
+agreement, remained valid after the parties subsequently married.
+Thus, the surviving spouse was not entitled to claim an omitted
+spouse’s share of decedent spouse’s estate.
+
+ment or Revocation After Marriage.
+
+B)
+
+2 California Transactions Forms--Estate Planning § 11:48, Governing Contractual Provisions [CC §§ 1550 et seq., Fam C
+
+§ 721(B)].
+1 California Transactions Forms--Family Law § 1:5, Governing Law,
+Form, and Execution.
+West’s California Code Forms, Family § 1611, Comment Overview-
+
+Premarital Agreements.
+
+§ 25
+
+1 Witkin, California Summary 10th Contracts § 256 (2018), Premarital Agreements.
+1 Witkin, California Summary 10th Contracts § 400 (2018), Marital
+and Premarital Agreements.
+
+unconscionability;
+
+(a) A premarital agreement is not enforceable if the party
+against whom enforcement is sought proves either of the
+following:
+(1) That party did not execute the agreement voluntarily.
+(2) The agreement was unconscionable when it was exeof the agreement,
+
+executed
+
+on or after January
+
+1,
+
+(3) The party against whom enforcement is sought, if
+unrepresented by legal counsel, was fully informed of the
+terms and basic effect of the agreement as well as the rights
+and obligations * * * the party was giving up by signing the
+agreement, and was proficient in the language in which the
+explanation of the party’s rights was conducted and in which
+the agreement was written. The explanation of the rights
+and obligations relinquished shall be memorialized in writing
+and delivered to the party prior fo signing the agreement.
+The unrepresented party shall, on or before the signing of the
+premarital agreement, execute a document declaring that
+* * * the party received the information required by this
+paragraph and indicating who provided that information.
+(4) The agreement and the writings executed pursuant to
+paragraphs (1) and (3) were not executed under duress,
+
+Treatises and Practice Aids
+
+execution
+
+For an agreement
+
+2020, the party against whom enforcement issought had not
+less than seven calendar days between the time that party was
+first_presented with the final agreement and the time the
+agreement _was signed, regardless of whether the party is
+represented by legal counsel._This requirement does not
+apply to nonsubstantive amendments that do not change the
+terms of the agreement.
+
+ties.
+
+cuted and, before
+
+is
+
+not apply to nonsubstantive amendments that do not change
+the terms of the agreement.
+
+2 California Transactions Forms--Estate Planning § 11:47, Formali-
+
+agreements;
+
+the final agreement
+
+* * * (A) For an agreement executed between January 1,
+
+2 California Transactions Forms--Estate Planning § 11:43, Amend-
+
+§ 1615. Unenforceable
+voluntariness
+
+days before
+
+2002, and January 1, 2020, the party against whom enforcement is sought had not less than seven calendar days between
+the time that party was first presented with the final
+agreement and advised to seek independent legal counsel and
+the time the agreement was signed. This requirement does
+
+Research References
+
+Property
+
+calendar
+
+(2) One of the following:
+
+Forms
+
+11 Witkin, California Summary 10th Community
+(2018), Requisites of Premarital Agreement.
+
+§ 1615
+
+AGREEMENTS
+
+fraud,
+
+or undue
+
+influence,
+
+and
+
+the parties
+
+did not lack
+
+capacity to enter into the agreement.
+(5) Any other factors the court deems relevant.
+
+all of the
+
+following applied to that party:
+(A) That party was not provided a fair, reasonable, and
+full disclosure of the property or financial obligations of the
+other party.
+(B) That party did not voluntarily and expressly waive, in
+writing, any right to disclosure of the property or financial
+obligations of the other party beyond the disclosure provided.
+(C) That party did not have, or reasonably could not have
+had, an adequate knowledge of the property or financial
+obligations of the other party.
+(b) An issue of unconscionability of a premarital agreement shall be decided by the court as a matter of law.
+(c) For the purposes of subdivision (a), it shall be deemed
+that a premarital agreement was not executed voluntarily
+unless the court finds in writing or on the record all of the
+following:
+(1) The party against whom enforcement is sought was
+represented by independent legal counsel at the time of
+Signing the agreement or, after being advised to seek
+independent legal counsel, expressly waived, in a separate
+writing, representation by independent legal counsel. The
+
+1992, c.
+
+162 (A.B.2650), § 10, operative Jan. 1, 1994.
+
+(Stats.
+Amend-
+
+ed by Stats.2001, c. 286 (S.B.78), § 2; Stats.2019, c. 115
+(A.B.1817), § 12, eff. Jan. 1, 2020; Stats.2019, c. 193 (A.B.
+1380), § 1, eff. Jan. I, 2020.)
+Law Revision Commission
+Enactment
+
+Comments
+
+[Revised Comment]
+
+Section 1615 continues former Civil Code Section 5315 without
+substantive change. Section 1615 is the same as Section 6(a) and (c)
+of the Uniform Premarital Agreement Act (1983). Section 6(b) of
+
+the uniform act was omitted since it applies to a premarital
+agreement that modifies or eliminates spousal support. The uniform
+provision allowing for modification or elimination of spousal support
+by premarital agreement was also omitted. See Section 912 Comment.
+
+rights).
+
+See also Prob. Code §§ 140-147 (surviving spouse’s waiver of
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Commentary
+
+Subsection (a) codifies prior law with respect to the burden of
+proof: The party attacking the validity of the premarital agreement
+has the burden of proof on the issue of the validity of the contract. Jn
+re Marriage of Iverson, 11 Cal.App.4th 1495, 15 Cal.Rptr.2d 70 (1992).
+The California Supreme Court declined to reverse the burden of
+proof when one party was not represented by counsel in the
+
+advisement to seek independent legal counsel shall be made
+
+97
+
+§ 1615
+
+MARRIAGE
+
+RIGHTS
+
+AND
+
+OBLIGATIONS
+
+2 California Transactions Forms--Estate Planning § 11:44, Enforceability.
+1 California Transactions Forms--Family Law § 1:7, Unenforceable
+Agreements; Severability.
+1 California Transactions Forms--Family Law § 1:71, Binding Agreement With Specific Family Code Waivers.
+
+negotiation of the agreement. In re Marriage of Bonds, 5 P.3d 815, 99
+Cal.Rptr.2d 252 (2000) (rejecting “strict scrutiny” standard of review
+formulated by court of appeal for cases in which a party represented
+by counsel seeks to enforce the agreement against a party who was
+not represented by counsel; and finding that the consent of the party
+resisting enforcement was “voluntary’’). However, subsection (c),
+added in 2001 in response to the holding of Bonds, effectively
+imposes upon the party seeking enforcement of the agreement the
+burden of showing that the other party’s execution of the agreement
+was “voluntary” within the meaning of subsection (c).
+In re Marriage of Cadwell-Faso & Faso, 191 Cal.App.4th 945, 119
+Cal.Rptr.3d 818 (2011), review denied, holds that the subsection (c)
+requirement of a seven-day waiting period is inapplicable when the
+party against whom enforcement is sought was represented by
+counsel from the beginning of the protracted negotiation that
+resulted in the agreement.
+Applying subsection (c)(2), In re Clarke & Akel, 19 Cal_App.5th 914,
+228 Cal.Rptr.3d 483 (2018), held that even though a premarital
+agreement was drafted by an unrepresented party, when that party
+was not provided with a seven-day period for review after amendments had been added at the request of the other party, the
+agreement’s recitation that the seven-day requirement was satisfied
+was not binding. Additionally, the agreement was unenforceable
+under subsection (c)(3) because the unrepresented party did not
+receive written notice of his rights nor did he waive those rights in
+writing. With respect to the agreement’s seven-day recitation, Clark
+concluded that Evidence Code § 622 (“the facts recited in a written
+instrument are conclusively presumed to be as between the parties
+thereto”) has no application when the contract itself is invalid or the
+parties did not engage in arms-length negotiations.
+In re Marriage of Hill and Dittmer, 202 Cal.App.4th 1046, 136
+Cal.Rptr.3d 700 (2011), held that a pre-2002 premarital agreement
+
+West’s California Code Forms, Family § 1611, Comment Overview-
+
+Premarital Agreements.
+Treatises and Practice Aids
+
+11 Witkin,
+
+California Summary 10th Community Property § 26
+(2018), Subjects of Premarital Agreement.
+11 Witkin, California Summary 10th Community Property § 28
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 29
+(2018), Lack of Independent Counsel.
+14 Witkin, California Summary 10th Wills and Probate § 356 (2018),
+Enforcement.
+§ 1616.
+
+Void marriage, effect on agreement
+
+If a marriage is determined to be void, an agreement that
+would otherwise have been a premarital agreement is enforceable only to the extent necessary to avoid an inequitable
+result. (Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. I,
+1994.)
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 1616 continues former Civil Code Section 5316 without
+change. Section 1616 is the same as Section 7 of the Uniform
+Premarital Agreement Act (1983). [23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+was enforceable when the wife was a successful business woman, was
+
+represented by counsel and voluntarily waived disclosure. Hill and
+Dittmer declined to retroactively apply the 2002 amendment to this
+
+section, which added subsection (c), on the ground it materially
+changed the law and therefore could not be retroactively applied.
+For further discussion of retroactive application of amendments to
+the Family Code, see the Commentary to Family Code sections 4 and
+1612.
+A waiver of death rights contained in an antenuptial agreement
+that satisfies the requirements of Family Code sections 1600 et seq.
+(the Uniform Premarital Agreement Act) is enforceable even though
+it does not satisfy the requirements of Probate Code Sections 140 et
+seq. Estate of Gagnier, 21 Cal.App.4th 124, 26 Cal.Rptr.2d 128 (1993)
+(upholding wife’s waiver of death rights in antenuptial agreement
+despite lack of Probate Code Section 143 representation by independent counsel).
+
+Research References
+Forms
+
+2 California Transactions Forms--Estate Planning § 11:44, Enforce-
+
+ability.
+1 California Transactions Forms--Family Law § 1:9, Effect of Void
+
+Marriage;
+
+Limitations
+
+1 California Transactions
+
+of Actions
+Forms--Family
+
+and Equitable Defenses.
+Law § 1:34, Waiver of
+
+Family Code § 1616 Provisions.
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), Void Marriage.
+
+In re Estate of Will, 170 Cal.App.4th 902, 88 Cal. Rptr.3d 502 (2009),
+review denied, held that although a premarital agreement did not
+satisfy current subsection (c), it was independently enforceable as a
+waiver of inheritance rights when it satisfied Probate Code sections
+140-147, which set out the Probate Code requirements for an
+enforceable surviving spouse’s waiver of death rights. Thus a
+surviving wife who married decedent-husband after he had written
+his final will, was barred from claiming that she was an “omitted
+
+10th Community
+
+Property § 30
+
+§ 1617. Limitation of actions; equitable defenses including
+laches and estoppel
+
+Any statute of limitations applicable to an action asserting
+a claim for relief under a premarital agreement is tolled
+during the marriage of the parties to the agreement. However, equitable defenses limiting the time for enforcement,
+including laches and estoppel, are available to either party.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+spouse” under Probate Code § 21611(c).
+Research References
+Forms
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms { 4.07,
+Marital Agreements.
+1 California Transactions Forms--Estate Planning § 6:28, Exceptions
+to Omitted Spouse Statute.
+1 California Transactions Forms--Estate Planning § 6:99, Omitted
+Spouse Made Valid Agreement Waiving Right to Share in
+Decedent’s Estate.
+
+Law Revision Commission Comments
+
+Enactment [Revised Comment]
+
+Section 1617 continues former Civil Code Section 5317 without
+change. Section 1617 is the same as Section 8 of the Uniform
+Premarital Agreement Act (1983). [23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+98
+
+MARITAL
+
+spousal support), 4337 (unless otherwise agreed by parties in writing,
+support obligation terminates upon death of either party or remarriage of supported party).
+See also Prob. Code §§ 140-147 (requirements for waiver, agreement, or property settlement affecting certain rights of surviving
+spouse on death of other spouse). See also Section 11 (reference to
+married person includes formerly married person). [23 Cal.L.Rev.
+Comm. Reports 1 (1993)].
+
+Research References
+
+Forms
+
+1 California Transactions Forms--Estate Planning § 6:28, Exceptions
+to Omitted Spouse Statute.
+1 California Transactions
+
+Forms--Estate
+
+Spouse Made Valid Agreement
+Decedent’s Estate.
+
+Planning § 6:99, Omitted
+
+Waiving
+
+Right to Share
+
+§ 1620
+
+AGREEMENTS
+
+in
+
+2 California Transactions Forms--Estate Planning § 11:44, Enforce-
+
+ability.
+
+Commentary
+
+1 California Transactions Forms--Family Law § 1:9, Effect of Void
+
+For a recent application of this venerable principle, see Borelli v.
+
+Marriage; Limitations of Actions and Equitable Defenses.
+1 California Transactions Forms--Family Law § 1:71, Binding Agreement With Specific Family Code Waivers.
+1 California Transactions Forms--Family Law § 4:7, Effect of
+Subsequent Marriage Between Cohabitants.
+
+Brusseau, 12 Cal.App.4th 647, 654, 16 Cal.Rptr.2d 16 (1993), review
+
+denied 4/1/93. Borelli holds that a wife’s personal nursing care of her
+invalid husband is a personal nondelegable duty required of the wife
+by the marriage contract and thus does not provide consideration for
+the husband’s marital promise to leave property to his wife in
+exchange for the nursing care. See also Jn re Marriage of Mathiasen,
+268 Cal.Rptr. 895, 897 (1990), review denied and depublished 7/25/90
+(holding the spouses’ household expense reimbursement agreement
+unenforceable because it altered the statutory obligation of mutual
+support).
+Cf. In re Marriage of Dargan, 118 Cal.App.4th 1167, 13 Cal.Rptr.3d
+522 (2004), review denied, holding that an agreement made pursuant
+to a married couple’s reconciliation, which provided that the wife
+would receive all of husband’s interest in certain community property
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property
+(2018), Statute of Limitations and Equitable Defenses.
+
+CHAPTER 3.
+
+AGREEMENTS
+
+BETWEEN
+
+§ 31
+
+SPOUSES
+
+Section
+1620. Contracts altering legal relations of spouses;
+tions.
+
+restric-
+
+if he resumed the use of illicit drugs, was unenforceable because it
+
+_re-
+
+violated the public policy favoring no-fault divorce. To similar effect,
+see Diosdado v. Diosdado, 97 Cal.App.4th 470, 118 Cal.Rptr.2d 494
+
+Except as otherwise provided by law, spouses cannot, by a
+
+providing for $50,000 liquidated damages to be paid at divorce if
+either spouse were unfaithful to the other.
+
+§ 1620. Contracts altering legal relations of spouses;
+strictions
+
+(2002), which, on the same ground, declined to enforce an agreement
+
+contract with each other, alter their legal relations, except as
+to property. (Stats.1992, c. 162 (A.B.2650), § 10, operative
+Jan. 1, 1994. Amended by Stats.2014, c. 82 (S.B.1306), § 21,
+eff. Jan. 1, 2015.)
+
+*
+
+Research References
+Forms
+2 California Transactions Forms--Estate Planning § 11:39, General
+Considerations.
+
+Law Revision Commission Comments
+
+Enactment
+
+2 California Transactions Forms--Estate Planning § 11:45, Introduc-
+
+[Revised Comment]
+
+tion.
+2 California Transactions Forms--Estate Planning § 11:48, Govern-
+
+Section 1620 continues the first part of former Civil Code Section
+4802 without substantive change. The phrase “[e]xcept as otherwise
+provided by law” has been substituted for specific references to
+former Civil Code Sections 4801(b) and 4811, since the former
+specific references were no longer a complete listing of exceptions to
+this rule. Section 1620 does not purport to limit the statutory and
+case-law exceptions to the rule stated in this section. A more
+extensive list of exceptions to this rule includes, for example, Sections
+2550 (agreement concerning division of community estate), 2641
+(agreement concerning community contributions and loans for
+education or training of spouse), 3580-3592 (support agreements),
+3651 (modification or termination of support order if agreement
+between parties on support), 4302 (spouse living separate by
+agreement), 4323 (agreement regarding effect of cohabitation on
+
+ing Contractual
+§ 721(B)].
+
+Provisions
+
+[CC
+
+§§ 1550
+
+et seq.
+
+Fam
+
+C
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 24
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 33
+(2018), Restrictions on Alteration of Spouses’ Legal Relations.
+1 Witkin, California Summary 10th Contracts § 641 (2018), Separation and Property Agreements.
+11 Witkin, California Summary 10th Husband and Wife § 64 (2018),
+Agreements Altering Spouses’ Legal Relations.
+
+99
+
+

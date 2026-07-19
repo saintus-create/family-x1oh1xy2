@@ -1,0 +1,4626 @@
+OBLIGATIONS
+
+prejudice, may enforce
+(Enacted in 1872.)
+
+it against
+
+the fraudulent
+
+party.
+
+(B) The parties thereto by means of a prior or subsequent
+written contract, have agreed to be bound by the terms of the
+qualified financial contract from the time they reached
+agreement (by telephone, by exchange of electronic messages, or otherwise) on those terms.
+(2) For purposes of this subdivision, a “qualified financial
+contract” means an agreement as to which each party thereto
+is other than a natural person and that is any of the following:
+(A) For the purchase and sale of foreign exchange, foreign
+
+Research References
+
+Forms
+7AM
+
+1 Am. Jur. Pl. & Pr. Forms Contracts § 6, Complaint, Petition,
+
+or Declaration-Allegation-Enforceability of Oral Contract Due
+to Defendant’s Fraud.
+1 California Transactions Forms--Business Transactions § 6:42, Con-
+
+tracts Required to be in Writing.
+§ 1624.
+
+currency, bullion, coin, or precious metals on a forward, spot,
+
+Statute of frauds
+
+next-day value or other basis.
+(B) A contract (other than a contract for the purchase of a
+commodity for future delivery on, or subject to the rules of, a
+contract market or board of trade) for the purchase, sale, or
+transfer of any commodity or any similar good, article,
+service, right, or interest that is presently or in the future
+becomes the subject of a dealing in the forward contract
+trade, or any product or byproduct thereof, with a maturity
+date more than two days after the date the contract is entered
+into.
+(C) For the purchase and sale of currency, or interbank
+deposits denominated in United States dollars.
+(D) For a currency option, currency swap, or cross-
+
+(a) The following contracts are invalid, unless they, or
+some
+
+note
+
+or memorandum
+
+§ 1624
+
+thereof,
+
+are
+
+in writing
+
+and
+
+subscribed by the party to be charged or by the party’s agent:
+(1) An agreement that by its terms is not to be performed
+within a year from the making thereof.
+(2) A special promise to answer for the debt, default, or
+miscarriage of another, except in the cases provided for in
+Section 2794.
+(3) An agreement for the leasing for a longer period than
+one year, or for the sale of real property, or of an interest
+therein; such an agreement, if made by an agent of the party
+sought to be charged, is invalid, unless the authority of the
+agent is in writing, subscribed by the party sought to be
+charged.
+(4) An agreement authorizing or employing an agent,
+broker, or any other person to purchase or sell real estate, or
+to lease real estate for a longer period than one year, or to
+procure, introduce, or find a purchaser or seller of real estate
+or a lessee or lessor of real estate where the lease is for a
+longer period than one year, for compensation or a commission.
+(5) An agreement that by its terms is not to be performed
+during the lifetime of the promisor.
+(6) An agreement by a purchaser of real property to pay
+an indebtedness secured by a mortgage or deed of trust upon
+the property purchased, unless assumption of the indebtedness by the purchaser is specifically provided for in the
+conveyance of the property.
+(7) A contract, promise, undertaking, or commitment to
+loan money or to grant or extend credit, in an amount greater
+than one hundred thousand dollars ($100,000), not primarily
+for personal, family, or household purposes, made by a
+person engaged in the business of lending or arranging for
+the lending of money or extending credit. For purposes of
+
+currency rate swap.
+
+(E) For a commodity swap or a commodity option (other
+than an option contract traded on, or subject to the rules of, a
+contract market or board of trade). *
+(F) For a rate swap, basis swap, forward rate transaction,
+or an interest rate option.
+(G) For a security-index swap or option, or a security or
+securities price swap or option.
+(H) An agreement that involves any other similar transaction relating to a price or index (including, without limitation,
+any transaction or agreement involving any combination of
+the foregoing, any cap, floor, collar, or similar transaction
+with respect to a rate, commodity price, commodity index,
+security or securities price, security index, other price index,
+or loan price).
+(I) An option with respect to any of the foregoing.
+(3) There is sufficient evidence that a contract has been
+made in any of the following circumstances:
+(A) There is evidence of an electronic communication
+(including, without limitation, the recording of a telephone
+call or the tangible written text produced by computer
+retrieval), admissible in evidence under the laws of this state,
+
+this section, a contract, promise, undertaking, or commitment
+
+sufficient to indicate that in the communication a contract
+was made between the parties.
+(B) A confirmation in writing sufficient to indicate that a
+contract has been made between the parties and sufficient
+against the sender is received by the party against whom
+enforcement is sought no later than the fifth business day
+after the contract is made (or any other period of time that
+the parties may agree in writing) and the sender does not
+receive, on or before the third business day after receipt (or
+the other period of time that the parties may agree in
+writing), written objection to a material term of the confirmation. For purposes of this subparagraph, a confirmation or
+an objection thereto is received at the time there has been an
+
+to loan money secured solely by residential property consisting of one to four dwelling units shall be deemed to be for
+personal, family, or household purposes.
+(b) Notwithstanding paragraph (1) of subdivision (a):
+(1) An agreement or contract that is valid in other respects
+and is otherwise enforceable is not invalid for lack of a note,
+
+memorandum, or other writing and is enforceable by way of
+
+action or defense, provided that the agreement or contract is
+a qualified financial contract as defined in paragraph (2) and
+one of the following apply:
+(A) There is, as provided in paragraph (3), sufficient
+evidence to indicate that a contract has been made.
+
+775
+
+§ 1624
+
+CIVIL CODE
+
+actual receipt by an individual responsible for the transaction
+
+Law Revision Commission
+
+or, if earlier, at the time there has been constructive receipt,
+
+1983 Amendment
+
+which is the time actual receipt by that individual would have
+occurred if the receiving party, as an organization, had
+exercised reasonable diligence. For the purposes of this
+subparagraph, a “business day” is a day on which both parties
+are open and transacting business of the kind involved in that
+qualified financial contract that is the subject of confirmation.
+(C) The party against whom enforcement is sought admits
+in its pleading, testimony, or otherwise in court that a
+contract was made.
+
+(D) There is a note, memorandum, or other writing
+sufficient to indicate that a contract has been made, signed by
+the party against whom enforcement is sought or by its
+authorized agent or broker.
+For purposes of this paragraph, evidence of an electronic
+communication indicating the making in that communication
+of a contract, or a confirmation, admission, note, memoran-
+
+dum, or writing is not insufficient because it omits or
+incorrectly states one or more material terms agreed upon, as
+long as the evidence provides a reasonable basis for concluding that a contract was made.
+(4) For. purposes of this subdivision, the tangible written
+text produced by telex, telefacsimile, computer retrieval, or
+other process by which electronic signals are transmitted by
+telephone or otherwise shall constitute a writing, and any
+symbol executed or adopted by a party with the present
+intention to authenticate a writing shall constitute a signing.
+The confirmation and notice of objection referred to in
+subparagraph (B) of paragraph (3) may be communicated by
+means
+
+of telex, telefacsimile,
+
+computer,
+
+or other
+
+similar
+
+process by which electronic signals are transmitted by telephone or otherwise, provided that a party claiming to have
+communicated in that manner shall, unless the parties have
+otherwise agreed in writing, have the burden of establishing
+actual or constructive receipt by the other party as set forth in
+subparagraph (B) of paragraph (3).
+(c) This section does not apply to leases subject to Division
+10 (commencing with Section 10101) of the Commercial
+Code.
+(d) An electronic message of an ephemeral nature that is
+not designed to be retained or to create a permanent record,
+including, but not limited to, a text message or instant
+message format communication, is insufficient under this title
+
+to constitute a contract to convey real property, in the
+absence of a written confirmation that conforms to the
+requirements of subparagraph (B) of paragraph (3) of
+subdivision (b). (Enacted in 1872.
+Amended by Code
+Am, 1873-74, c. 612, p. 241, § 190; Code Am.1877-78, c. 165,
+p. 86, § 1; Stats.1905, c. 451, p. 610, § 1; Stats.1931, c. 1070,
+p. 2260, § 9; Stats.1937, c. 316, p. 695, § 2; Stats,1963, c. 814,
+p. 1843, § 1; Stats.1967, c. 52, p. 953, § 1; Stats.1983, c. 842,
+§ 6, operative Jan. 1, 1985; Stats.1985, c. 1315,-§ 1; Stats.
+1988, c. 1096, § 1; Stats.1988, c. 1368, § 1.5, operative Jan. 1,
+
+1990; Stats.1998, c. 78 (S.B.1865), § 1; -Stats.2014, c. 107
+(A.B.2136), § 2, eff. Jan. 1, 2015.)
+
+Comments
+
+Section 1624 is amended to delete the last portion of subdivision 6
+(agreement to devise or bequeath property or to make any provision
+by will) which is superseded by Probate Code Section 150. [16
+Cal.L.Rev.Comm.Reports 2301 (1982)].
+Research References
+Forms
+
+1A California Real Estate Forms (Miller & Starr) § 1:32 (2d ed.),
+Hotel Purchase and Sale Agreement With Escrow Instructions.
+1A California Real Estate Forms (Miller & Starr) § 1:33 (2d ed.),
+Real Estate Purchase Contract and Receipt for Deposit-Income
+Property.
+1A California Real Estate Forms (Miller & Starr) § 1:34 (2d ed.),
+Installment Land Sale Contract With Power of Sale.
+1A California Real Estate Forms (Miller & Starr) § 1:35 (2d ed.),
+Purchase and Sale Agreement-Partially Constructed Project.
+1A California Real Estate Forms (Miller & Starr) § 1:35.50 (2d ed.),
+Agreement of Purchase and Sale and Joint Escrow InstructionsStrip Shopping Center Without Anchor.
+1A California Real Estate Forms (Miller & Starr) § 1:35.60 (2d ed.),
+Sale-Leaseback Agreement.
+1A California Real Estate Forms (Miller & Starr) § 1:94 (2d ed.),
+California Residential Purchase Agreement and Joint Escrow
+Instructions.
+= California
+Real Estate Forms (Miller & Starr) § 1:17 (2d ed.),
+Purchase and Sale Agreement-Unimproved Real Property-With
+Escrow Instructions.
+Real Estate Forms (Miller & Starr) § 1:18 (2d ed.),
+— California
+Purchase and Sale Agreement-Raw Land.
+Real Estate Forms (Miller & Starr) § 1:19 (2d ed};
+= California
+Agreement for Purchase and Sale of Realty-Build-To-Suit.
+— California
+Real Estate Forms (Miller & Starr) § 1:20 (2d ed.),
+Purchase and Sale Agreement-Small Commercial Properties
+Subject to Tenant Leases.
+= California
+Real Estate Forms (Miller & Starr) § 1:21 (2d ed.),
+Purchase and Sale Agreement-Commercial Property Subject to
+Tenant Leases.
+California Real Estate Forms (Miller & Starr) § 1:22 (2d ed.),
+Agreement of Purchase and Sale-Multi-Property.
+—=
+California Real Estate Forms (Miller & Starr) § 1:23 (2d ed.),
+Purchase and Sale Agreement-Residential Project.
+= California
+Real Estate Forms (Miller & Starr) § 1:24 (2d ed.),
+Combination Purchase and Option Agreement-Residential Lots
+Being Acquired from a Bankrupt Seller.
+— California
+Real Estate Forms (Miller & Starr) § 1:25 (2d ed.),
+Purchase and Sale Agreement-Multi-Tenant Residential Property (With Lease-Back).
+= California
+Real Estate Forms (Miller & Starr) § 1:26 (2d ed.),
+Purchase and Sale Agreement-Seller-Oriented Short Form.
+1 California Real Estate Forms (Miller & Starr) § 1:26.50 (2d ed.),
+Purchase and Sale Agreement-Seller Oriented-Shopping Center.
+nr California Real
+Estate Forms (Miller & Starr) § 1:27 (2d ed.),
+Purchase and Sale Agreement-Multitenant Residential Property.
+= California
+Real Estate Forms (Miller & Starr) § 1:28 (2d ed.),
+Purchase and Sale Agreement-Hotel.
+— California
+Real Estate Forms (Miller & Starr) § 1:29 (2d ed.),
+Purchase and Sale Agreement-Seller Oriented With Seller
+Financing.
+= California Real Estate Forms
+(Miller & Starr) § 1:30 (2d ed.),
+Planned Development Deposit Receipt and Agreement.of Sale.
+—y California
+Real Estate Forms (Miller & Starr) § 1:31 (2d ed.),
+Condominium Deposit Receipt and Agreement of Sale.
+1 California Transactions Forms--Business er atpaceios § 3:4, Methods of Transfer.
+
+§ 1624.5
+
+OBLIGATIONS
+
+3 Witkin, California Summary 10th Agency and Employment § 246
+
+1 California Transactions Forms--Business Transactions § 6:42, Con-
+
+(2018), In General.
+
+tracts Required to be in Writing.
+
+1 Witkin, California Summary 10th Contracts § 201 (2018), Waiver
+of Defect in Acceptance.
+1 Witkin, California Summary 10th Contracts § 344 (2018), California Codes.
+1 Witkin, California Summary 10th Contracts § 345 (2018), Defense
+Waived If Not Asserted.
+1 Witkin, California Summary 10th Contracts § 355 (2018), California Cases.
+1 Witkin, California Summary 10th Contracts § 360 (2018), Who is
+Party to be Charged.
+1 Witkin, California Summary 10th Contracts § 361 (2018), Signature Need Not be at End of Document.
+1 Witkin, California Summary 10th Contracts § 364 (2018), In
+General.
+
+1 California Transactions Forms--Business Transactions § 6:43, Suf-
+
+ficiency of the Writing and Subscription.
+2 California Transactions Forms--Business Transactions § 8:3, Stat-
+
+ute of Frauds.
+2 California Transactions Forms--Business Transactions § 8:4, Overview.
+2 California Transactions Forms--Business Transactions § 8:7, Mat-
+
+ters to Consider in Making Agreements
+Communications.
+California Transactions
+Oral Contracts.
+California Transactions
+
+Through
+
+Electronic
+
+Forms--Business
+
+Transactions
+
+§ 12:25,
+
+Forms--Business
+
+Transactions
+
+§ 17:95,
+
+Modification of Written Contracts [Civ. Code, § 1697].
+California
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 18:9,
+
+Transactions
+
+§ 19:12,
+
+Forms--Business
+
+Transactions
+
+§ 21:12,
+
+Forms--Business
+
+Transactions
+
+§ 21:22,
+
+Forms--Business
+
+Transactions
+
+§ 24:84,
+
+Forms--Business
+
+Transactions
+
+§ 24:85,
+
+California Transactions Forms--Business
+Contracts Between Merchants.
+California Transactions Forms--Business
+
+Transactions
+
+§ 24:86,
+
+Transactions
+
+§ 24:91,
+
+Written or Oral Agreement.
+California
+
+Transactions
+
+Forms--Business
+
+1 Witkin, California Summary
+
+Overview of Suretyship Defenses.
+California Transactions
+Bailment Contracts.
+California. Transactions
+
+1 Witkin, California Summary 10th Contracts § 372 (2018), Contract
+
+Not to be Performed During Promisor’s Lifetime.
+1 Witkin, California Summary 10th Contracts § 373 (2018), Scope of
+Statute.
+1 Witkin, California Summary 10th Contracts § 384 (2018), Qualified
+Financial Contract.
+1 Witkin, California Summary 10th Contracts § 386 (2018), Scope of
+Statute.
+1 Witkin, California Summary 10th Contracts § 389 (2018), Equal
+Dignities Rule.
+1 Witkin, California Summary 10th Contracts § 392 (2018), Liability
+of Principal to Agent.
+
+Bailment Contract; Long Form.
+California
+
+Transactions
+
+Price Requirement.
+California
+
+Transactions
+
+Writing.
+
+Other Exceptions.
+
+1 Witkin, California Summary 10th Contracts § 393 (2018), Nature
+
+and Effect of Statute.
+1 Witkin, California Summary 10th Contracts § 394 (2018), Oral
+Agreement to Lease.
+1 Witkin, California Summary 10th Contracts § 396 (2018), Oral
+Finders Agreement.
+1 Witkin, California Summary 10th Contracts § 398 (2018), Distinctions.
+1 Witkin, California Summary 10th Contracts § 399 (2018), Contract
+to Loan Money or Extend Credit.
+1 Witkin, California Summary 10th Contracts § 400 (2018), Marital
+and Premarital Agreements.
+1 Witkin, California Summary 10th Contracts § 401 (2018), Miscellaneous Provisions.
+
+4 California Transactions Forms--Business Transactions § 29:36,
+Statute of Frauds.
+2 California Transactions Forms--Estate Planning § 11:2, Formalities
+
+for Establishing Contract Concerning Will or Devise Made on or
+After January 1, 1985.
+2 California Transactions Forms--Estate Planning § 11:40, Premari-
+
+tal Agreements Entered Into Before January 1, 1986.
+2 California Transactions Forms--Estate Planning § 11:47, Formalities.
+1 California Transactions Forms--Family Law § 4:22, Statute of
+
+Frauds.
+West’s California Code Forms, Civil § 1624 Form 1, Affirmative
+Defense-Statute of Frauds.
+West’s California Code Forms, Civil § 1698 Form 1, Agreement-
+
+1 Witkin,
+
+California
+
+Summary
+
+10th Contracts
+
+§ 415 (2018), Real
+
+Estate Broker’s Authorization.
+1 Witkin, California Summary 10th Contracts § 418 (2018), Qualified
+Financial Contract.
+1 Witkin, California Summary 10th Contracts § 419 (2018), Personal
+Property Leases.
+12 Witkin, California Summary 10th Real Property § 543 (2018),
+Execution and Delivery.
+4 Witkin, California Summary 10th Security Transactions in Real
+Property § 114 (2018), Manner and Requisites of Assumption.
+5 Witkin, California Summary 10th Torts § 906 (2018), Representations Concerning Credit.
+
+Modifying Written Agreement.
+West’s California Code Forms, Civil § 2307 Form 2, Ratification of
+
+Agency.
+West’s California Code Forms, Commercial
+ment, Statute of Frauds.
+
+10th Contracts § 365 (2018), Com-
+
+mencement and Computation of Period.
+
+§ 2201 General Com-
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 9(I)-C, Particular Defenses.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 11(VI)-C, Particular Defenses.
+California Practice Guide: Employment Litigation Ch. 4—B, Agreements Limiting At-Will Termination.
+California Practice Guide: Employment Litigation Ch. 16-K, Settlements and Releases.
+California Practice Guide--Pass-Through Entities Ch. 3-A, General
+Considerations.
+California Practice Guide--Pass-Through Entities Ch. 3-E, Relations
+of Partners to Persons Dealing With Partnership.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+4-G, Concluding and Enforcing Settlement.
+3 Witkin, California Summary 10th Agency and Employment § 82
+(2018), In General.
+
+§ 1624.5. Written contract; sale of personal property exceeding $5000; exceptions
+
+(a) Except in the cases described in subdivision (b), a
+contract for the sale of personal property is not enforceable
+by way of action or defense beyond five thousand dollars
+($5,000) in amount or value of remedy unless there is some
+record, as defined in subdivision (m) of Section 1633.2, but
+solely to the extent permitted by applicable law, that indicates
+that a contract for sale has been made between the parties at
+a defined or stated price, reasonably identifies the subject
+
+rie
+
+§ 1624.5
+
+CIVIL CODE
+Research References
+
+matter, and is signed, including by way of electronic signature, as defined
+
+in subdivision
+
+(h) of Section
+
+1633.2, but
+
+Forms
+
+solely to the extent permitted by applicable law, by the party
+against whom enforcement is sought or by his or her
+authorized agent.
+(b) Subdivision (a) does not apply to contracts governed by
+the Commercial Code, including contracts for the sale of
+goods (Section 2201 of the Commercial Code), contracts for
+the sale of securities (Section 8113 of the Commercial Code),
+and security agreements (Sections 9201 and 9203 of the
+Commercial Code).
+(c) Subdivision (a) does not apply to a qualified financial
+contract as that term is defined in paragraph (2) of subdivision (b) of Section 1624 if either of the following exists:
+(1) There is, as provided in paragraph (3) of subdivision
+(b) of Section 1624, sufficient evidence to indicate that a
+contract has been made.
+(2) The parties thereto, by means of a prior or subsequent
+written contract, have agreed to be bound by the terms of the
+qualified financial contract from the time they reach agreement (by telephone, by exchange of electronic messages, or
+otherwise) on those terms.
+(Added by Stats.2006, c. 254
+(S.B.1481), $ 1.)
+
+1 California Transactions Forms--Business Transactions § 6:42, Con-
+
+tracts Required to be in Writing.
+Treatises and Practice Aids
+2 Witkin,
+
+California
+
+UNLAWFUL
+
+1670.5.
+
+§ 1667.
+Research References
+
+1.
+
+1 California Transactions Forms--Business Transactions § 6:42, Con-
+
+tracts Required to be in Writing.
+Transactions
+
+§ 30:20,
+
+Unconscionable contract or clause of contract;
+
+(Enacted in 1872.)
+
+3 California Real Estate Forms (Miller & Starr) § 3:37. (2d ed.),
+Continuing Guaranty.
+3 California Real Estate Forms (Miller & Starr) § 3:38 (2d ed.),
+Completion Guaranty.
+3 California Real Estate Forms (Miller & Starr) § 3:57 (2d:ed.),
+Loan Purchase and Sale Agreement.
+4 California Real Estate Forms (Miller & Starr) § 4:5 (2d ed.),
+Construction Agreement-Cost Plus a Percentage Fee With a
+Guaranteed Maximum Price.
+4 California Real Estate Forms (Miller & Starr) § 4:6 (2d ed.),
+Construction Contract-Commercial Project-Fixed Price.
+
+effect on negotiations or stipu-
+
+Research References
+
+1 California Transactions Forms--Business Transactions § 6:8, Void,
+Voidable, and Unenforceable.
+1 California Transactions Forms--Business Transactions § 6:45, Ille-
+
+Forms
+
+1 California Transactions Forms--Business Transactions § 6:42, Con-
+
+tracts Required to be in Writing.
+Law
+
+Otherwise contrary to good morals.
+Research References
+
+The execution of a contract in writing, whether the law
+requires it to be written or not, supersedes all the negotiations or stipulations concerning its matter which preceded or
+accompanied the execution of the instrument. (Enacted in
+1872. Amended by Stats.1905, c. 451, p. 611, § 2.)
+
+gality.
+
+§ 2:2, Contractual
+
+3 California
+
+Nature.
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 17:21,
+
+Unlawfulness of Contract [Civ. Code, § 1667].
+
+Treatises and Practice Aids
+
+2 Witkin, California Summary
+
+“Unlawfulness” defined
+
+Forms
+
+10th Sales § 32 (2018), Statute of
+
+Forms--Family
+
+find-
+
+Contrary to an express provision of law;
+
+3.
+
+1 Witkin, California Summary 10th Contracts § 385 (2018), Sale of
+Personal Property Worth $5,000 or More.
+
+Transactions
+
+CONTRACTS
+
+2. Contrary to the policy of express law, though not
+expressly prohibited; or,
+
+Treatises and Practice Aids
+
+1 California
+
+In
+
+That is not lawful which is:
+
+Forms
+
+§ 1625. Written contracts;
+lations
+
+(2018),
+
+ing as matter of law; remedies.
+
+that act.
+
+Summary
+
+§ 61
+
+ney enforcement; deposit to State Children’s Trust
+Fund.
+1669.7. Contract for consideration for providing information
+obtained as a result of witnessing a crime; validity;
+civil actions.
+1670. | Construction contract with public agency; disputes;
+resolution.
+
+or bailments that arise before Jan. 1, 2007, see § 81 of
+
+4 Witkin, California
+Frauds.
+
+Insurance
+
+Section
+1667.
+“Unlawfulness” defined.
+1668.
+Contracts contrary to policy of law.
+1669. _—_‘Restraint of marriage.
+1669.5. Minor victim of unlawful sex act; payment of money
+or other consideration; application; district attor-
+
+Application
+
+Forms--Business
+
+10th
+
+Title 4
+
+For provision relating to application of Stats.2006,
+c. 254 (S.B.1481) to documents of title that are issued
+
+5 California Transactions
+Statute of Frauds.
+
+Summary
+
+General.
+
+West’s California
+
+Code
+
+Forms,
+
+Civil § 1667 Form
+
+1, Affirmative
+
+Defense-Unlawful Contract.
+
+10th Insurance § 47 (2018), Oral
+
+Contracts.
+Treatises and Practice Aids
+
+§ 1626.
+
+Written contracts;
+
+effective upon delivery
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 9(1)-B, Elements of Claim.
+11 Witkin, California Summary 10th Community Property § 32
+(2018), Agreement Violating Public Policy.
+
+A contract in writing takes effect upon its delivery to the
+party in whose favor it is made, or to his agent. (Enacted in
+1872.)
+
+778
+
+§ 1669.5
+
+OBLIGATIONS
+1 Witkin, California Summary 10th Contracts § 427 (2018), Loan to
+Gambler.
+1 Witkin, California Summary 10th Contracts § 452 (2018), In
+General.
+11 Witkin, California Summary 10th Husband and Wife § 70 (2018),
+Fault Theory Eliminated for Dissolution.
+2 Witkin, California Summary 10th Insurance § 63 (2018), In
+General.
+
+§ 1668.
+All
+
+1 Witkin, California Summary 10th Contracts § 691 (2018), Distinction: "Any Negligent Act" Does Not Include Gross Negligence.
+1 Witkin, California Summary 10th Contracts § 692 (2018), Meaning
+of Term "Negligent" in C.C. 1668.
+1 Witkin, California Summary 10th Contracts § 695 (2018), "Sole
+Remedy" Provision in Employment Contract.
+13 Witkin, California Summary 10th Equity § 133 (2018), Contractual Releases.
+2 Witkin, California Summary 10th Insurance § 143 (2018), In
+General.
+2 Witkin, California Summary 10th Insurance § 327 (2018), In
+General.
+2 Witkin, California Summary 10th Insurance § 465 (2018), Representation of Coverage.
+4 Witkin, California Summary 10th Sales § 95 (2018), Where
+Warranty is Fraudulent.
+5 Witkin, California Summary 10th Torts § 277 (2018), Insurance
+Coverage.
+5 Witkin, California Summary 10th Torts § 883 (2018), In General.
+5 Witkin, California Summary 10th Torts § 934 (2018), Illustrations.
+
+Contracts contrary to policy of law
+contracts
+
+which
+
+have
+
+for
+
+their
+
+object,
+
+directly
+
+or
+
+indirectly, to exempt anyone from responsibility for his own
+fraud, or willful injury to the person or property of another,
+or violation of law, whether willful or negligent, are against
+the policy of the law. (Enacted in 1872.)
+Research References
+Forms
+
+1 California Transactions Forms--Business Transactions § 6:45, Ille-
+
+gality.
+3 California Transactions Forms--Business Transactions
+Unlawfulness of Contract [Civ. Code, § 1667].
+3 California Transactions Forms--Business Transactions
+
+§ 1669.
+
+§ 17:21,
+
+Restraint of marriage
+
+Every contract in restraint of the marriage of any person,
+
+§ 20:12,
+
+other than a minor, is void.
+
+Validity of Indemnity Agreements Providing for Indemnification
+for Indemnitee’s Own Negligence.
+
+(Added by Stats.1977, c. 198, p.
+
+718, § 1, operative July 1, 1978.)
+
+3 California Transactions Forms--Business Transactions § 21:9, Con-
+
+Law Revision Commission Comments
+
+tractual Limits on Bailee’s Liability.
+
+1977 Addition
+
+West’s California Code Forms, Civil § 1667 Form 1, Affirmative
+Defense-Unlawful Contract.
+West’s California Code Forms, Commercial § 2316 Form 13, Liqui-
+
+Section 1669 continues without change former Section 1676.
+Cal.L.Rev.Comm. Reports 1735 (1976)]. «
+
+dation of Damages for Breach of Warranty.
+West’s California Code Forms, Commercial § 2719 Form 3, Alternate Form of Contractual Modification or Limitation of Remedies.
+West’s California Code Forms, Commercial § 2719 General Comment, Modification or Limitation of Noncontractual Remedies.
+
+[13
+
+Research References
+Forms
+
+1 California Transactions Forms--Business Transactions § 6:45, Ille-
+
+gality.
+
+Treatises and Practice Aids
+
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 5(I)-B,
+Wrongful Discharge in Violation of Public Policy (Tameny
+Claims).
+California Practice Guide: Employment Litigation Ch. 5(I)-E, Defamation.
+California Practice Guide: Employment Litigation Ch. 16-K, Settlements and Releases.
+California Practice Guide--Pass-Through Entities Ch. 6-B, Formation.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+3-D, Mitigating Factors in Reduction of Damages.
+1 Witkin, California Summary 10th Contracts § 305 (2018), Representations Made by Party.
+1 Witkin, California Summary 10th Contracts § 423 (2018), Liberal
+Rule of Severability.
+1 Witkin, California Summary 10th Contracts § 679 (2018), California Law.
+1 Witkin, California Summary 10th Contracts § 681 (2018), Medicine.
+1 Witkin, California Summary 10th Contracts § 682 (2018), Automobiles.
+1 Witkin, California Summary 10th Contracts § 683 (2018), Employ-
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 9(I)-B, Elements of Claim.
+1 Witkin, California Summary 10th Contracts § 634 (2018), Contract
+
+Restraining Marriage.
+
+§ 1669.5. Minor victim of unlawful sex act; payment of
+money or other consideration; application; district
+attorney enforcement; deposit to State Children’s Trust
+Fund
+
+(a) Any contract for the payment of money or other
+consideration to a minor who has been alleged to be the
+victim of an unlawful sex act, or to his or her legal
+representative, by the alleged perpetrator of that unlawful sex
+act, or his or her legal representative, entered into on or after
+the time of the alleged unlawful sex act, and providing for any
+payments to be made more than one year after the date of
+the execution of the contract, is void as contrary to public
+policy. A district attorney may bring an action or intervene
+in any action to enjoin enforcement of any contract which is
+in violation of this section.
+(b) This section does not apply after the date of the final
+judgment in a criminal case against the alleged perpetrator
+for the unlawful sex act described in subdivision (a).
+(c) This section does not apply to a contract for the
+payment of money or other consideration made from a
+nonrevocable trust established for the benefit of the minor if
+
+ment.
+
+1 Witkin, California Summary 10th Contracts § 684 (2018), Other
+’ Areas.
+1 Witkin, California Summary 10th Contracts § 685 (2018), Statutory
+Prohibitions.
+1. Witkin, California Summary 10th Contracts § 690 (2018), Valid
+Despite C.C. 1668,
+
+779
+
+§ 1669.5
+
+CIVIL CODE
+3 California Real Estate Forms (Miller & Starr) § 3:78 (2d ed.),
+Promissory Note-Line of Credit.
+
+the alleged perpetrator has no direct or indirect access to, or
+control over, the trust.
+
+(d) This section does not apply to an alleged perpetrator
+of an unlawful sex act against a minor to the extent he or she
+agrees to pay, or is required by court order to pay, child
+support for that minor upon a dissolution or legal separation.
+
+Treatises and Practice Aids
+
+1 Witkin, California Summary 10th Contracts § 979 (2018), Routine
+Waiver is Invalid.
+1 Witkin, California Summary 10th Contracts § 1030 (2018), California Law.
+
+(e) For purposes of this section, “unlawful sex act,” means
+a felony sex offense committed against a minor.
+
+§ 1670.5.
+Unconscionable contract or clause of contract;
+finding as matter of law; remedies
+
+(f) Notwithstanding subdivision (a), any contract declared
+void as contrary to public policy under this section may still
+be enforced by a district attorney against the payor, and the
+proceeds thereof shall be deposited in the State Children’s
+Trust Fund pursuant to Section 18969 of the Welfare and
+Institutions Code.
+
+(a) If the court as a matter of law finds the contract or any
+clause of the contract to have been unconscionable at the
+time it was made the court may refuse to enforce the
+contract, or it may enforce the remainder
+
+(S.B.35), § 1, eff. Nov. 30, 1994.)
+Research References
+
+(b) When it is claimed or appears to the court that the
+contract or any clause thereof may be unconscionable the
+parties shall be afforded a reasonable opportunity to present
+evidence as to its commercial setting, purpose, and effect to
+aid the court in making the determination...
+(Added by
+Stats.1979, c. 819, p. 2827, § 3, eff: Sept. 19, 1979.)
+
+Treatises and Practice Aids
+
+1 Witkin, California Summary 10th Contracts § 656 (2018), Contract
+to Pay Child Sex Victim.
+
+§ 1669.7. Contract for consideration for providing information obtained as a result of witnessing a crime; validity;
+civil actions
+
+Research References
+Forms
+
+A contract for the payment of money or other consideration in violation of Section 132.5 of the Penal Code is void as
+contrary to public policy. The Attorney General or the
+district attorney of the county in which a violation of Section
+132.5 of the Penal Code occurs may bring a civil action, or
+intervene in any civil action, to enjoin the enforcement of a
+contract that violates that section.
+
+of the contract
+
+without the unconscionable clause, or it may so limit the
+application of any unconscionable clause as to avoid: any
+unconscionable result.
+
+(Added by Stats.1993-94, Ist Ex.Sess., c. 54
+
+1 California Transactions. Forms--Business Transactions § 1:72,
+Trend Toward Balance and Conciliation Between Parties.
+1 California Transactions Forms--Business. Transactions § 6:46, Un-
+
+conscionability.
+2, California
+
+Transactions
+
+Forms--Business.
+
+Transactions
+
+§ 12:21,
+
+Transactions
+
+§ 12:51,
+
+Employment Contracts Generally.
+
+(Added by Stats.1994, c.
+
+2 California
+
+869 (S.B.1999), § 1.)
+
+Transactions
+
+Forms--Business
+
+Disputes Included and Excluded from Arbitration.
+West’s California Code Forms, Commercial
+
+dards of Good
+
+Research References
+
+§ 1304 Form 3, Stan-
+
+by Agents or Employees.
+
+West’s California Code Forms, Commercial § 2302 General Comment, Unconscionable Contract or Clause.
+
+Treatises and Practice Aids
+
+1 Witkin, California Summary
+tracts Involving Evidence.
+
+§ 1670. Construction
+putes; resolution
+
+Faith—Statements
+
+West’s California Code Forms, Commercial § 2714 Form 3, Clause
+
+10th Contracts § 651 (2018), Con-
+
+contract
+
+Limiting Remedy for Breach of Warranty.
+West’s California Code Forms, Commercial § 2715 Form 2, Clauses
+
+with
+
+public
+
+agency;
+
+Excluding Incidental and Consequential
+
+dis-
+
+West’s California Code Forms, Commercial
+
+Damages
+
+of Buyer.
+
+§ 2719 Form 3, Alter-
+
+nate Form of Contractual Modification or Limitation of Remedies.
+
+Any dispute arising from a construction contract with a
+public agency, which contract contains a provision that one
+party to the contract or one party’s agent or employee shall
+decide any disputes arising under that contract, shall be
+resolved by submitting the dispute to independent arbitration, if mutually agreeable, otherwise by litigation in a court
+of competent jurisdiction. (Added by Stats.1978, c. 1374, p.
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 9(I)-C, Particular Defenses.
+California Practice Guide: Employment Litigation Ch. 18—-C, Contractual Arbitration.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+3-D, Mitigating Factors in Reduction of Damages.
+1 Witkin, California Summary 10th Contracts § 323 (2018), Alternate Approaches.
+1 Witkin, California Summary 10th Contracts § 331 (2018), Commercial Code and California Statute.
+1 Witkin, California Summary 10th Contracts § 333 (2018), In
+General.
+1 Witkin, California Summary 10th Contracts § 340 (2018), Bank
+Depositor’s Signature Card. |
+1 Witkin, California Summary 10th Contracts § 342 (2018), Employment Contract Terminating Commissions.
+
+4556, § 1.)
+Research References
+Forms
+
+3 California Real Estate, Forms (Miller & Starr) § 3:7 (2d ed.),
+Promissory Note.
+3 California Real Estate Forms (Miller & Starr) § 3:13 (2d ed.),
+Promissory Note Secured by Construction Deed of Trust.
+3 California Real Estate Forms (Miller & Starr) § 3:20 (2d ed.),
+Promissory Note-Conduit Loan.
+
+780
+
+§ 1708.6
+
+OBLIGATIONS
+1 Witkin, California Summary 10th Contracts § 546 (2018), Fees
+Against Credit Card Customers.
+1 Witkin, California Summary 10th Contracts § 852 (2018), Excuse
+of Condition or Equitable Relief.
+13 Witkin, California Summary 10th Equity § 42 (2018), Unconscionable Contract.
+4 Witkin, California Summary 10th Sales § 7 (2018), Adoption in
+California.
+4 Witkin, California Summary 10th Sales § 92 (2018), Strict Construction.
+4 Witkin, California Summary 10th Sales § 208 (2018), Agreement
+Limiting Consequential Damages.
+4 Witkin, California Summary 10th Sales § 300 (2018), Unconscionability.
+
+5 Witkin, California Summary 10th Torts § 457 (2018), Nature of
+Defense.
+§ 1708.6..
+
+(1) The infliction of injury upon the plaintiff resulting
+from abuse, as defined in subdivision (a) of Section 13700 of
+the Penal Code.
+(2) The abuse was committed by the defendant, a person
+having a relationship with the plaintiff as defined in subdivision (b) of Section 13700 of the Penal Code.
+(b) A person who commits an act of domestic violence
+upon another is liable to that person for damages, including,
+
+Part 3
+
+OBLIGATIONS
+Section
+1708.5.5.
+
+Liability for tort of domestic violence
+
+(a) A person is liable for the tort of domestic violence if
+the plaintiff proves both of the following elements:
+
+but not limited to, general damages, special damages, and
+
+punitive damages pursuant to Section 3294.
+
+IMPOSED BY LAW
+
+(c) The court, in an action pursuant to this section, may
+grant to a prevailing plaintiff equitable relief, an injunction,
+costs, and any other relief that the court deems proper,
+including reasonable attorney’s fees.
+
+Sexual battery by adult in position of authority over
+minor; consent as defense.
+
+1708.6.
+1708.9.
+
+_ Liability for tort of domestic violence.
+Interference with persons attempting to enter or
+exit school grounds or health facility prohibited;
+exception for parents or guardians; injunctive
+relief, damages, and civil penalties; constitutionally protected activities.
+1714.4.
+Knowingly assisting child support obligor escape,
+evade, or avoid paying court-ordered or courtapproved child support; application to financial
+institutions.
+1714.41.
+Knowingly assisting a child support obligor to
+escape, evade, or avoid paying child support;
+included actions.
+
+(d). The rights and remedies provided in this section are in
+addition to any other rights and remedies provided by law.
+(e) The time for commencement of an action under this
+section is governed by Section 340.15 of the Code of Civil
+Procedure. (Added by Stats.2002, c. 193 (A.B.1933), $ 2.)
+Commentary
+When a complaint alleged a continuing course of domestic
+violence throughout a long marriage, Pugliese v. Superior Court, 146
+Cal.App.4th 1444, 53 Cal.Rptr.3d 681 (2007), review denied April 11,
+
+2007, held that the trial court erred in interpreting the three-year
+statute of limitations of section 340.15 of the Code of Civil Procedure
+to bar damages for incidents of domestic violence occurring more
+than three years prior to timely filing of a complaint. Relying on the
+language subsection (a)(1) of section 340.15, the court reasoned that
+the three-year limitation runs from the Jast act of domestic violence
+and included all acts of continuing domestic violence. The court
+additionally relied upon the doctrine of “continuing tort’ and the
+history of the enactment of this section.
+
+§ 1708.5.5.
+Sexual battery by adult in position of authority
+over minor; consent as defense
+
+(a) Notwithstanding Section 3515, consent shall not be a
+defense in any civil action under Section 1708.5 if the person
+who commits the sexual battery is an adult who is in a
+position of authority over the minor.
+
+(b) For purposes of this section, an adult is in a “position
+of authority” if he or she, by reason of that position, is able to
+exercise undue influence over a minor. A “position of
+
+Research References
+Forms
+
+West’s California Code Forms, Civil § 1708.6 Form
+Domestic Violence.
+
+authority” includes, but is not limited to, a natural parent,
+
+stepparent, foster parent, relative, partner of any such parent
+or relative, caretaker, youth leader, recreational. director,
+athletic manager, coach, teacher, counselor, therapist, reli-
+
+1, Complaint-
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+gious leader, doctor, employee of one of those aforementioned persons, or coworker.
+
+Defenses Ch. 2(I)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(II)-D, Statute of Limitations.
+
+(c) For purposes of this section, “undue influence” has the
+same meaning as in Section 15610.70 of the Welfare and
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Institutions Code.
+eff. Jan. 1, 2016.)
+
+California: Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(II)-E, Remedies.
+
+(Added by Stats.2015, c. 128 (S.B.14), § 1,
+
+Defenses Ch. 2(VI)-A, Introduction.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(VI)-B, Elements of Claim.
+
+Research References
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Treatises and Practice Aids
+
+Defenses Ch. 2(VI)-C, Particular Defenses.
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 2(II)-C, Particular Defenses.
+5 Witkin, California Summary 10th Torts § 453 (2018), Statutory
+Actions.
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(VI)-D, Statute of Limitations.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(VI)-E, Remedies,
+
+781
+
+§ 1708.6
+
+CIVIL CODE
+
+dollars ($25,000) for a second or subsequent violation. The
+civil penalty for a violation of paragraph (2) of subdivision (a)
+shall not exceed five thousand dollars ($5,000), or twenty-five
+thousand dollars ($25,000) for a second or subsequent
+violation.
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 2(VII)-A, Introduction.
+California Practice Guide Civil Procedure before Trial Statutes of
+Limitations Ch. 4-B, Actions Involving Personal Rights.
+11 Witkin, California Summary 10th Husband and Wife § 370
+(2018), Civil Remedies.
+
+5 Witkin, California Summary 10th Torts § 23 (2018), In General.
+5 Witkin, California Summary 10th Torts § 547 (2018), Domestic
+Violence.
+
+(e) This section shall not be construed to impair the right
+to engage in any constitutionally protected activity, including,
+but not limited to, speech, protest, or assembly.
+
+§ 1708.9.
+Interference with persons attempting to enter or
+exit school grounds or health facility prohibited; exception for parents or guardians; injunctive relief, damages, and civil penalties; constitutionally protected
+activities
+
+(f) The adoption of the act that added this section is an
+exercise of the police power of the state for purposes of
+protecting the health, safety, and welfare of the people of
+California, and this section shall be liberally construed to
+effectuate that purpose.
+
+(a) It is unlawful for any person, except a parent or
+guardian acting toward his or her minor child, to commit any
+of the following acts:
+(1) By force, threat of force, or physical obstruction that is
+a
+
+crime
+
+of violence,
+
+to
+
+intentionally
+
+injure,
+
+(g) This section shall not be construed to restrict, inhibit,
+prevent, or bring a chilling effect upon any actions by a
+person that are reasonable under the circumstances to
+protect, secure, provide safety to, or prevent illness in any
+child or adult in a facility. (Added by Stats.2014, c. 852
+(A.B.1256), § 2, eff: Jan. 1, 2015.)
+
+intimidate,
+
+interfere with, or attempt to injure, intimidate, or interfere
+with, any person attempting to enter or exit a facility.
+(2) By nonviolent physical obstruction, to intentionally
+
+Research References
+
+injure, intimidate, interfere with, or attempt to injure, intimi-
+
+Treatises and Practice Aids
+
+date, or interfere with, any person attempting to enter or exit
+a facility.
+(b) For purposes of this section:
+(1) “Facility” means any public or private school grounds,
+as described in subdivision (a) of Section 626.8 of the Penal
+Code, or any health facility, as described in Section 1250 of
+the Health and Safety Code.
+(2) To “interfere” means to restrict a person’s freedom of
+
+5 Witkin, California Summary 10th Torts § 543 (2018), Interference
+With Access to School Grounds or Health Facility.
+
+§ 1714.4. Knowingly assisting child support obligor escape,
+evade, or avoid paying court-ordered or court-approved
+child support; application to financial institutions
+
+(a) Any person or business entity that knowingly assists a
+child support obligor who has an unpaid child support
+obligation to escape, evade, or avoid paying court-ordered or
+court-approved child support shall be liable for three times
+the value of the assistance provided, such as the fair market
+value of the obligor’s assets transferred or hidden. The
+maximum liability imposed by this section shall not exceed
+the entire child support obligation due. Any funds or assets
+collected pursuant to this section shall be paid to the child
+support obligee, and shall not reduce the amount of the
+unpaid child support obligation. Upon the satisfaction of the
+unpaid child support obligation, this section shall not apply.
+
+movement.
+(3) To “intimidate” means to place a person in reasonable
+apprehension of bodily harm to himself, herself, or another
+
+person.
+(4) “Nonviolent” means conduct that would not constitute
+a crime of violence.
+(5) “Physical obstruction” means rendering ingress to or
+egress from a facility impassable to another person, or
+rendering passage to or from a facility unreasonably difficult
+or hazardous to another person.
+(c) A person aggrieved by a violation of subdivision (a)
+
+(b) For purposes of this section, actions taken to knowingly assist a child support obligor to escape, evade, or avoid
+paying court-ordered or court-approved child support include, with actual knowledge of the child support obligation,
+helping to hide or transfer assets of the child support obligor.
+
+may bring a civil action to enjoin the violation, for compensatory and punitive damages, for injunctive relief, and for the
+cost of suit and reasonable attorney’s and expert witness’ fees.
+With respect to compensatory damages, the plaintiff may
+elect, at any time prior to the rendering of a final judgment,
+to recover, in lieu of actual damages, an award of statutory
+
+(c) This section shall not apply to a financial institution
+unless the financial institution has actual knowledge of the
+child support obligation and, with that knowledge, knowingly
+assists the obligor to escape, evade, or avoid paying the child
+support obligation. However, a financial institution with
+knowledge of an asset transfer has no duty to inquire into the
+rightfulness of the transaction, nor shall it be deemed to have
+knowingly assisted an obligor to escape, evade, or avoid
+paying the child support obligation if that assistance is
+provided by an employee or agent of the financial institution
+acting outside the terms and conditions of employment or
+agency without the actual knowledge of the financial institution. (Added by Stats.2006, c. 820 (A.B.2440), § 2.)
+
+damages in the amount of five thousand dollars ($5,000) per
+violation of paragraph (1) of subdivision (a), and) one
+thousand dollars ($1,000) per violation of paragraph (2) of
+subdivision (a).
+(d) The Attorney General, a district attorney, or a city
+attorney may bring a civil action to enjoin a violation of
+subdivision (a), for compensatory damages to persons or
+entities aggrieved by the violation, and for the imposition of a
+civil penalty against each respondent. The civil penalty for a
+violation of paragraph (1) of subdivision (a) shall not exceed
+fifteen thousand dollars ($15,000), or twenty-five thousand
+
+782
+
+§ 1798.99.1
+
+OBLIGATIONS
+Commentary
+
+Research References
+
+Cabral v. Martins, 177 Cal.App.4th 471, 99 Cal.Rptr.3d 394 (2009),
+review denied, held that a custodial parent’s child-support-evasion
+cause of action against a support obligor’s attorneys was predicated
+on protected activity under Code of Civil Procedure § 425.16, the
+anti-SLAPP
+strike.
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 445 (2018),
+Liability of Person Assisting Evasion.
+
+‘statute, and thus was subject to a special motion to
+
+Part 4
+Research References
+
+OBLIGATIONS ARISING FROM PARTICULAR
+TRANSACTIONS
+
+Treatises and Practice Aids
+
+10: Witkin, California Summary 10th Parent and Child § 445 (2018),
+Liability of Person Assisting Evasion.
+6 Witkin, California Summary 10th Torts § 1629 (2018), Firearms
+and Ammunition.
+
+Title 1.81.45
+THE PARENT’S ACCOUNTABILITY
+CHILD PROTECTION ACT
+
+§ 1714.41. Knowingly assisting a child support obligor to
+escape, evade, or avoid paying child support; included
+actions
+
+Section
+1798.99.1._
+
+(a) Any person or business entity that knowingly assists a
+child support obligor who has an unpaid child support
+obligation to escape, evade, or avoid paying court-ordered or
+court-approved child support shall be liable for three times
+the value of the assistance provided, such as the fair market
+
+AND.
+
+Age verification when selling products that are
+illegal to sell to minor; reasonable steps; products requiring age verification; penalties; application of section.
+
+§ 1798.99.1.
+Age verification when selling products that are
+illegal to sell to minor; reasonable steps; products
+requiring age verification; penalties; application of
+section
+
+value of the assets transferred or hidden, or the amount of
+
+the wages or other compensation paid to the child support
+obligor but not reported. The maximum liability imposed by
+this section shall not exceed the entire child support obligation due. Any funds or assets. collected pursuant to this
+section shall be paid to the child support obligee, and shall
+not reduce the amount of the unpaid child support obligation.
+Upon the satisfaction of the unpaid child support obligation,
+this section shall not apply.
+
+(a)(1) A person or business that conducts business in
+California, and that seeks to sell ariy product or service in or
+into California that is illegal under state law to sell to a
+minor, as described in subdivisions (b) and (c), shall, notwith-
+
+standing any general term or condition, take reasonable steps
+to ensure that the purchaser is of legal age at the time of
+purchase or delivery, including, but not limited to, verifying
+the age of the purchaser.
+
+(b) For purposes of this section, actions taken to knowingly assist a child support obligor to escape, evade, or avoid
+paying court-ordered or court-approved child support include, but are not limited to, any of the following actions
+taken when the individual or entity knew or should have
+known of the child support obligation:
+(1) Hiring or employing the child support obligor as an
+employee in a trade or business and failing to timely file a
+report of new employees with the California New Employee
+Registry maintained by the Employment Development Department.
+(2) Engaging the child support obligor as a service provider and failing to timely file a report with the Employment
+Development Department as required by Section 1088.8 of
+the Unemployment Insurance Code.
+(3) When engaged in a trade or business, paying wages or
+other forms of compensation for services rendered by a child
+support obligor that are not reported to the Employment
+Development Department as required, including, but not
+limited to, payment in cash or via barter or trade. (Added by
+Stats.2006, c. 820 (A.B.2440), § 3.)
+
+(2) Reasonable steps as used in paragraph (1) for the
+purchase of items described in subdivision (b) include, but
+are not limited to, any of the following:
+(A) Requiring the purchaser or recipient to input, scan,
+provide, or display a government-issued identification, provided that the person or business complies with all laws
+governing the retention, use, and disclosure of personally
+identifiable information, including, but not limited to, subdi-
+
+vision (a) of Section 1749.65, paragraphs (3) to (7), inclusive,
+of subdivision (b) of, and subdivisions (c) to (f), inclusive, of,
+
+Section 1798.90, paragraph (1) of subdivision (a) of Section
+1798.90.1, Sections 1798.29, 1798.81.5, and 1798.82, and
+Sections
+
+22575
+
+to 22579,
+
+inclusive,
+
+of the
+
+Business
+
+and
+
+Professions Code.
+(B) Requiring the purchaser to use a nonprepaid credit
+card for an online purchase.
+(C) Implementing a system that restricts individuals with
+accounts designated as minor accounts from purchasing the
+products listed in subdivision (b).
+
+Commentary
+
+(D) Shipping the product or service to an individual who is
+of legal age.
+
+Cabral v. Martins, 177 Cal.App.4th 471, 99 Cal.Rptr.3d 394 (2009),
+
+review denied, held that a custodial parent’s child-support-evasion
+cause of action against a support obligor’s attorneys was predicated
+on protected activity under Code of Civil Procedure § 425.16, the
+anti-SLAPP statute, = thus was subject to a special motion to
+
+(3) Reasonable steps as used in paragraph (1) for the
+purchase of items described in subdivision (c) include, but are
+not limited to, any of the following:
+
+strike.
+
+783
+
+§ 1798.99.1
+
+CIVIL CODE
+
+substance, as referenced in Division 8.5 (commencing with
+Section 22950) of the Business and Professions Code, and
+
+(A) Requiring the purchaser or recipient to input, scan,
+provide, or display a government-issued identification, provided that the person or business complies with all laws
+governing the retention, use, and disclosure of personally
+
+Sections
+
+identifiable information, including, but not limited to, subdi-
+
+vision (a) of Section 1749.65, paragraphs (3) to (7), inclusive,
+of subdivision (b) of, and subdivisions (c) to (f), inclusive, of,
+Section 1798.90, paragraph (1) of subdivision (a) of Section
+1798.90.1, Sections 1798.29, 1798.81.5, and 1798.82, and
+Sections
+
+22575
+
+to 22579,
+
+inclusive,
+
+of the
+
+Business
+
+308, 308.1, 308.2, and 308.3 of the Penal
+
+Code.
+
+(5) Electronic cigarettes, as referenced in Section 119406
+of the Health and Safety Code.
+(6) A less lethal weapon, as referenced in Sections 16780
+and 19405 of the Penal Code.
+(d) In an action brought by a public prosecutor, a business
+or person that violates this section shall be subject to a civil
+penalty not exceeding seven thousand five hundred dollars
+
+and
+
+Professions Code.
+(B) Shipping the product or service to an individual who is
+of legal age.
+(4) Reasonable steps as used in paragraph (1) shall not
+include consent obtained through the minor.
+(5) A seller’s reasonable and good faith reliance on bona
+fide evidence of the purchaser or recipient’s age shall
+constitute an affirmative defense to any action under this
+subdivision.
+(6) A person or business required to comply with this
+
+($7,500) for each violation.
+
+(e) The provisions of this section do not apply to a
+business that is regulated by state or federal law providing
+greater protection to personal information or requiring
+greater age verification than provided by this section in
+regard to the subjects addressed by this section. Compliance
+with state or federal law shall be deemed compliance with this
+section with regard to those subjects. This subdivision does
+not relieve a business from a duty to comply with any other
+requirements of other state and federal law regarding the
+protection and privacy of personal information or age verification.
+(f) For purposes of this section, a government-issued
+identification means any of the following:
+(1) A document issued by a federal, state, county, or
+municipal government, or subdivision or agency thereof,
+
+section shall not retain, use, or disclose any information it
+
+receives from a purchaser or recipient in an effort to verify
+age pursuant to this section for any purpose other than as
+required to comply with, or as needed to demonstrate
+compliance with, this section, California law, or a state or
+
+federal court order.
+(b) Products or services that are illegal to sell to a minor
+under state law that are subject to subdivision (a) include all
+of the following:
+(1) An aerosol container of paint that is capable of
+defacing property, as referenced in Section 594.1 of the Penal
+Code.
+(2) Etching cream that is capable of defacing property, as
+referenced in Section 594.1 of the Penal Code.
+(3) Dangerous fireworks, as referenced in Sections 12505
+and 12689 of the Health and Safety Code.
+(4) Tanning in an ultraviolet tanning device, as referenced
+
+including, but not limited to, an identification card or a valid
+
+motor vehicle operator’s license, including licenses issued
+pursuant to Section 12801.9 of the Vehicle Code, that
+contains the name, date of birth, description, and picture of
+
+the person.
+(2) A valid passport issued by the United States or by a
+foreign government.
+(3) A valid identification card issued to a member of the
+United States Armed Forces that includes the date of birth
+and picture of the person.
+
+(4) A valid consular identification document.
+(5) An identification card issued by a federally recognized
+tribal government.
+(g) This section shall become operative on January 1,
+2020. (Added by Stats.2018, c. 872 (A.B.2511), § 1, eff. Jan. 1,
+
+in Sections 22702 and 22706 of the Business and Professions
+Code.
+
+(5) Dietary supplement products containing ephedrine
+group alkaloids, as referenced in Section 110423.2 of the
+Health and Safety Code.
+(6) Body branding, as referenced in Sections 119301 and
+119302 of the Health and Safety Code.
+(c) Products or services that are illegal to sell to a minor
+under state law that are subject to subdivision (a) include all
+of the following:
+(1) Firearms or handguns, as referenced in Sections 16520,
+
+2019, operative Jan. 1, 2020.)
+
+Title 1.81.48
+DATA BROKER REGISTRATION
+Section
+
+16640, and 27505 of the Penal Code.
+
+(2) A BB device, as referenced in Sections 16250 and
+19910 of the Penal Code.
+(3) Ammunition or reloaded ammunition, as referenced in
+Sections 16150 and 30300 of the Penal Code.
+(4) Any tobacco, cigarette, cigarette papers, blunt wraps,
+any other preparation of tobacco, any other instrument or
+paraphernalia that is designed for the smoking or ingestion of
+tobacco, products prepared from tobacco, or any controlled
+
+1798.99.80.
+
+Definitions.
+
+1798.99.82.
+
+Registration;
+deadline;
+quired; penalties.
+
+1798.99.84.
+
+Posting on internet website.
+
+1798.99.88.
+
+Construction of title.
+
+§ 1798.99.80.
+
+fee;
+
+information
+
+re-
+
+Definitions
+
+For purposes of this title:
+(a) “Business” has the meaning provided in subdivision (c)
+of Section 1798.140.
+
+784
+
+§ 1812.30
+
+OBLIGATIONS
+
+(b) “Collect” and “collected” have the meaning provided
+in subdivision (e) of Section 1798.140.
+
+(C) Expenses incurred by the Attorney General in the
+investigation and prosecution of the action as the court
+deems appropriate.
+
+(c) “Consumer” has the meaning provided in subdivision
+(g) of Section 1798.140.
+
+(2) Any penalties, fees, and expenses recovered in an
+action prosecuted under this section shall be deposited in the
+Consumer Privacy Fund, created within the General Fund
+pursuant to subdivision (a) of Section 1798.160, with the
+intent that they be used to fully offset costs incurred by the
+state courts and the Attorney General in connection with this
+title. (Added by Stats.2019, c. 753 (A.B.1202), § 2, eff: Jan. 1,
+2020.)
+
+(d) “Data broker” means a business that knowingly collects and sells to third parties the personal information of a
+consumer with whom the business does not have a direct
+relationship. “Data broker” does not include any of the
+following:
+(1) A consumer reporting agency to the.extent that it is
+covered by the federal Fair Credit Reporting Act (15 U.S.C.
+Sec. 1681 et seq.).
+(2) A financial institution to the extent that it is covered by
+the Gramm-Leach-Bliley Act (Public Law 106-102)! and
+implementing regulations.
+(3) An entity to the extent that it is covered by the
+Insurance Information and Privacy Protection Act (Article
+6.6 (commencing with Section 1791) of Chapter 1 of Part 2 of
+Division 1 of the Insurance Code).
+(e) “Personal information” has the meaning provided in
+subdivision (0) of Section 1798.140.
+(f) “Sale” or “sold” have the meaning provided in subdivision (t) of Section 1798.140.
+(g) “Third party” has the meaning provided in subdivision
+(w) of Section 1798.140.
+(Added by Stats.2019, c. 753
+(A.B.1202), § 2, eff: Jan. 1, 2020.)
+
+§ 1798.99.84.
+
+§ 1798.99.88.
+
+deadline;
+
+Construction of title
+
+Nothing in this title shall be construed to supersede or
+interfere with the operation of the California Consumer
+Privacy Act of 2018 (Title 1.81.5 (commencing with Section
+
+1798.100)). (Added by Stats.2019, c. 753 (A:B.1202), § 2, eff.
+Jan. I, 2020.)
+Title 2 ;
+
+CREDIT
+
+! For public law sections classified to the U.S.C.A., see USCATables.
+
+§ 1798.99.82.
+Registration;
+quired; penalties
+
+Posting on internet website
+
+The Attorney General shall create a page on its internet
+website where the information provided by data brokers
+under this title shall be accessible to the public. (Added by
+Stats.2019, c. 753 (A.B.1202), § 2, eff. Jan. 1, 2020.)
+
+SALES
+
+CHAPTER 2. CREDIT TRANSACTIONS
+REGARDING WOMEN
+
+fee; information re-
+
+Section
+1812.30.
+
+(a) On or before January 31 following each year in which a
+business meets the definition of data broker as provided in
+this title, the business shall register with the Attorney General
+pursuant to the requirements of this section.
+(b) In registering with the Attorney General, as described
+in subdivision (a), a data broker shall do all of the following:
+(1) Pay a registration fee in an amount determined by the
+Attorney General, not to exceed the reasonable costs of
+establishing and maintaining the informational internet website described in Section 1798.99.84.
+(2) Provide the following information:
+(A) The name of the data broker and its primary physical,
+
+1812.31.
+
+Denial of credit to person regardless of marital
+status; prohibition; conditions; reporting agency.
+Right of action; damages;
+
+individual and class suits.
+
+1812.32. .Injunction.
+1812.33. Civil penalties; precedence of action;
+of proceeds.
+1812.34.
+Costs and attorney fees.
+1812.35.
+
+distribution
+
+Commencement of action; limitations.
+
+§ 1812.30.
+Denial of credit to person regardless of marital
+status; prohibition; conditions; reporting agency
+
+(a) No person, regardless of marital status, shall be denied
+credit in his or her own name if the earnings and other
+property over which he or she has management and control
+are such that a person of the opposite sex managing and
+controlling the same amount of earnings and other property
+would receive credit.
+
+email, and internet website addresses.
+
+(B) Any additional information or explanation the data
+broker chooses to provide concerning its data collection
+practices.
+(c)(1) A data broker that fails to register as required by
+this section is subject to injunction and is liable for civil
+
+(b) No person, regardless of marital status, managing and
+controlling earnings and other property shall be offered
+credit on terms less favorable than those offered to a person
+of the opposite sex seeking the same type of credit and
+managing and controlling the same amount of earnings and
+other property.
+
+penalties, fees, and costs in an action brought in the name of
+
+the people of the State of California by the Attorney General
+as follows:
+(A) A civil penaltyof one hundred dollars ($100) for each
+day the data broker fails to register as required by this
+section.
+(B) An amount equal to the fees that were due during the
+period it failed to register.
+
+(c) No unmarried person shall be denied credit if his or
+her earnings and other property are such that a married
+person managing and controlling the same amount of earnings and other property would receive credit.
+
+785
+
+§ 1812.30
+
+CIVIL CODE
+
+their sex or marital status. For the purpose of this subdivision, the fact that an applicant is of childbearing age is not a
+relevant factor.
+(j) Credit applications for the obtainment of money,
+goods, labor, or services shall clearly specify that the applicant, if married, may apply for a separate account. (Added by
+
+(d) No unmarried person shall be offered credit on terms
+less favorable than those offered to a married person
+managing and controlling the same amount of earnings and
+other property.
+(e) For accounts established after January 1, 1977 or for
+
+accounts in existence on January 1, 1977 where information
+on that account is received after January 1, 1977, a credit
+reporting agency which in its normal course of business
+receives information on joint credit accounts identifying the
+persons responsible for such accounts, or receives information which reflects the participation of both spouses, shall:
+(1) at the time such information is received file such
+information separately under the names of each person or
+spouse, or file such information
+
+in another manner
+
+Stats.1973, c. 999, p. 1987, § 1.
+
+Amended
+
+by Stats.1975, c.
+
+332, p. 778, § 1; Stats.1976, c. 1361, p. 6203, § 1; Stats.1992,
+c. 163 (A.B.2641), § 11, operative Jan. 1, 1994.)
+Law Revision Commission
+
+Comments
+
+1992 Amendment
+
+Section 1812.30 is amended to add a reference to “family” support
+in subdivision (h) and to replace the reference to the former Civil
+Code provisions in subdivision (i) with a reference to the Family
+Code. [22 Cal.L.Rev.Comm.Reports 1 (1992)].
+
+which
+
+would enable either person or spouse to automatically gain
+access to the credit history without having in any way to list or
+refer to the name of the other person, and (2) provide access
+to all information about the account in the name of each
+person or spouse.
+(f) For all accounts established prior to January 1, 1977, a
+credit reporting agency shall at any time upon the written or
+personal request of a person who is or has been married,
+verify the contractual liability, liability by operation of law, or
+authorized use by such person, of joint credit accounts
+appearing in the file of the person’s spouse or former spouse,
+and, if applicable, shall file such information separately and
+thereafter continue to do so under the names of each person
+responsible for the joint account or in another manner which
+would enable either person responsible for the joint account
+to automatically gain access to the credit history without
+having in any way to list or refer to the name of the other
+person.
+(g) For the purposes of this chapter “credit” means
+obtainment of money, property, labor, or services on a
+deferred-payment basis.
+(h) For the purposes of this chapter, earnings shall in-
+
+Research References
+Forms
+
+West’s California Code Forms, Civil § 1812.31 Form 1, Complaint-
+
+Wrongful Denial of Credit.
+27A West’s Legal Forms § 11:30, Charge Account and Installment
+
+Credit Agreements—State Notice Requirements.
+Treatises and Practice Aids
+
+8 Witkin, California Summary 10th Constitutional Law § 993 (2018),
+Other Discrimination Statutes.
+11 Witkin, California Summary 10th Husband and Wife § 34 (2018),
+Statutory Prohibitions.
+11 Witkin, California Summary 10th Husband and Wife § 35 (2018),
+Remedies and Penalties.
+11 Witkin, California Summary 10th Husband and Wife § 36 (2018),
+Permissible Evaluations and Credit Reports.
+
+§ 1812.31.
+suits
+
+Right of action; damages;
+
+individual and class
+
+(a) Whoever violates Section 1812.30 shall be liable to the
+aggrieved person in an amount equal to the sum of any actual
+damages sustained by such person acting either in an
+individual capacity or as a representative of a class.
+
+clude, but not be limited to, spousal, family, and child support
+
+payments, pensions, social security, disability or survivorship
+benefits. Spousal, family, and child support payments shall
+be considered in the same manner as earnings from salary,
+wages, or other sources where the payments are received
+pursuant to a written agreement or court decree to the extent
+that the reliability of such payments is established.
+The
+factors which a creditor may consider in evaluating the
+reliability of such payments are the length of time payments
+have been received; the regularity of receipt; and whether
+full or partial payments have been made.
+(i) Nothing in this chapter shall be construed to prohibit a
+person from: (1) utilizing an evaluation of the reliability of
+earnings provided that such an evaluation is applied to
+persons without regard to their sex or marital status; or (2)
+inquiring into and utilizing an evaluation of the obligations
+for which community property is liable pursuant to the
+Family Code for the sole purpose of determining the
+creditor’s rights and remedies with respect to the particular
+extension of credit, provided that such is done with respect to
+all applicants without regard to their sex; or (3) utilizing any
+other relevant factors or methods in determining whether to
+extend credit to an applicant provided that such factors or
+methods are applicable to all applicants without regard to
+
+(b) Whoever violates Section 1812.30 shall be liable to the
+aggrieved person for punitive damages in an amount not
+greater than ten thousand dollars ($10,000), as determined by
+the court, in addition to any actual damages provided in
+subdivision (a); provided, however, that in pursuing the
+recovery allowed under this subdivision, the aggrieved person
+may proceed only in an individual capacity and not as a
+representative of a class.
+(c) Notwithstanding subdivision (b), whoever violates Section 1812.30 may be liable for punitive damages in the case of
+a class action in such amount as the court may allow, except
+that as to each member of the class no minimum recovery
+shall be applicable, and the total recovery in such action shall
+not exceed the lesser of one hundred thousand dollars
+
+($100,000) or one percent (1%) of the net worth of the
+creditor. In determining the amount of the award in any
+class action, the court shall consider, among other relevant
+factors, the amount of any actual damages awarded, the
+frequency and persistence of violations, the resources of the
+creditor, the number of persons adversely affected, and the
+extent to which the creditor’s violation was intentional.
+
+786
+
+§ 1941.5
+
+OBLIGATIONS
+(Added by Stats.1973, c. 999, p. 1987, § 1.
+Stats.1975, c. 332, p. 779, § 2.)
+
+Amended
+
+by
+
+Research References
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Husband and Wife § 35 (2018),
+Remedies and Penalties.
+
+Research References
+Forms.
+
+§ 1812.34.
+
+Costs and attorney fees
+Any person denied credit or offered credit, in violation of
+Section 1812.30 who brings an action pursuant to Section
+1812.31 or 1812.32 of this code may petition the court for
+award of costs and reasonable attorney’s fees which the court
+shall award if the action is successful. (Added by Stats.1975,
+
+West’s California Code Forms, Civil § 1812.31 Form 1, Complaint-
+
+Wrongful! Denial of Credit.
+Treatises and Practice Aids
+11 Witkin, California Summary 10th Husband and Wife § 35 (2018),
+Remedies and Penalties.
+
+Cudted Din/ Ol Stn)
+
+§ 1812.32.
+
+Injunction
+
+Research References
+
+Any person, corporation, firm, partnership, joint stock
+company, or any other association or organization which
+violates or proposes to violate this chapter may be enjoined
+by any court of competent jurisdiction. Actions for injunction under this section may be prosecuted by the Attorney
+General or any district attorney, county counsel, city attorney,
+or city prosecutor in this state in the name of the people of
+the State of California or by any person denied credit or
+offered credit in violation of Section 1812.30. (Added by
+Stats.1975, c. 332, p. 780, § 3.)
+
+Forms
+
+West’s California Code Forms, Civil § 1812.31 Form 1, Complaint-
+
+Wrongful Denial of Credit.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Husband and Wife § 35 (2018),
+
+Remedies and Penalties.
+§ 1812.35.
+
+Commencement of action; limitations
+
+Any action commenced pursuant to Section 1812.31 shall
+be commenced within two years from the date on which the
+person is denied credit or is offered credit in violation of
+Section 1812.30. (Added by Stats.1975, c. 332, p. 781, § 6.)
+
+Research References
+
+Forms
+
+West’s California Code Forms, Civil § 1812.31 Form 1, Complaint-
+
+Research Referénces
+
+Wrongful Denial of Credit.
+
+Forms
+
+West’s California Code Forms, Civil § 1812.31 Form 1, ComplaintWrongful Denial of Credit.
+
+Treatises and Practice Aids
+11 Witkin, California Summary 10th Husband and Wife § 35 (2018),
+Remedies and Penalties.
+
+§ 1812.33.
+Civil penalties;
+tion of proceeds
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial Statutes of
+Limitations Ch. 4-G, Consumer Protection Actions.
+
+precedence of action; distribu-
+
+11 Witkin, California Summary 10th Husband and Wife § 35 (2018),
+
+(a) Any person who intentionally violates any injunction
+issued pursuant to this chapter shall be liable for a civil
+penalty not to exceed two thousand five hundred _ dollars
+($2,500) for each day that such person violates the injunction.
+
+Remedies and Penalties.
+
+Title 5
+
+HIRING
+
+(b) The civil penalty prescribed by this section shall be
+assessed and recovered in a civil action brought in the name
+of the people of the State of California by the Attorney
+General or by any district attorney, county counsel, or city
+attorney in any court of competent jurisdiction. An action
+brought pursuant to this section to recover such civil penalties
+shall take special precedence over all civil matters on the
+calendar of the court except those matters to which equal
+precedence on the calendar is granted by law.
+
+CHAPTER
+
+2.
+
+HIRING
+
+OF REAL PROPERTY
+
+Section
+
+1941.5.
+
+Tenant protected by restraining order against nontenant;
+
+1941.6.
+
+(c) If such an action is brought by the Attorney General,
+one-half of the penalty collected pursuant to this section shall
+be paid to the treasurer of the county in which the judgment
+was entered, and one-half to the State Treasurer. If brought
+by a district attorney or county counsel, the entire amount of
+the penalty collected shall be paid to the treasurer of the
+county in which the judgment was entered. If brought by a
+city attorney or city prosecutor, one-half of the penalty shall
+be paid to the treasurer of the county in which the judgment
+was entered and one-half to the city. (Added by Stats.1975, c.
+332, p. 780, § 4.)
+
+1941.7.
+
+change of locks on dwelling unit;
+
+defini-
+
+tions.
+Tenant protected by restraining order against another
+tenant; change of locks on dwelling unit; liability
+regarding person excluded; definitions.
+Obligation of lessor to repair dilapidation relating to
+presence
+
+of mold;
+
+notice;
+
+authority
+
+to
+
+enter
+
+dwelling unit for repair.
+
+§ 1941.5. Tenant protected by restraining order against
+non-tenant; change of locks on dwelling unit; definitions
+
+(a) This section shall apply if a person who is restrained
+from contact with the protected tenant under a court order or
+is named in a police report is not a tenant of the same
+dwelling unit as the protected tenant.
+
+787
+
+§ 1941.5
+
+CIVIL CODE
+
+dwelling unit the restrained person referred to in subdivision
+(a). The landlord shall give the protected tenant a key to the
+new locks.
+(c)(1) If a landlord fails to change the locks within 24
+hours, the protected tenant may change the locks without the
+landlord’s permission, notwithstanding any provision in the
+lease to the contrary.
+(2) If the protected tenant changes the locks pursuant to
+this subdivision, the protected tenant shall do all of the
+following:
+(A) Change the locks in a workmanlike manner with locks
+of similar or better quality than the original lock.
+(B) Notify the landlord within 24 hours that the locks have
+been changed.
+(C) Provide the landlord with a key by any reasonable
+method agreed upon by the landlord and protected tenant.
+(3) This subdivision shall apply to leases executed on or
+
+(b) A landlord shall change the locks of a protected
+tenant’s dwelling unit upon written request of the protected
+tenant not later than 24 hours after the protected tenant gives
+the landlord a copy of a court order or police report, and
+shall give the protected tenant a key to the new locks.
+(c)(1) If a landlord fails to change the locks within 24
+hours, the protected tenant may change the locks without the
+landlord’s permission, notwithstanding any provision in the
+lease to the contrary.
+(2) If the protected tenant changes the locks pursuant to
+this subdivision, the protected tenant shall do all of the
+following:
+(A) Change the locks in a workmanlike manner with locks
+of similar or better quality than the original lock.
+(B) Notify the landlord within 24 hours that the locks have
+been changed.
+(C) Provide the landlord with a key by any reasonable
+method agreed upon by the landlord and protected tenant.
+(3) This subdivision shall apply to leases executed on or
+after the date the act that added this section takes effect.
+(d) For the purposes of this section, the following definitions shall apply:
+(1) “Court order” means a court order lawfully issued
+within the last 180 days pursuant to Section 527.6 of the Code
+of Civil Procedure, Part 3 (commencing with Section 6240),
+Part 4 (commencing with Section 6300), or Part 5 (commencing with Section 6400) of Division 10 of the Family Code,
+Section 136.2 of the Penal Code, or Section 213.5 of the
+Welfare and Institutions Code.
+(2) “Locks” means any exterior lock that provides access
+to the dwelling.
+(3) “Police report” means a written report, written within
+the last 180 days, by a peace officer employed by a state or
+local law enforcement agency acting in his or her official
+capacity, stating that the protected tenant or a household
+member has filed a report alleging that the protected tenant
+or the household member is a victim of domestic violence,
+sexual assault, or stalking.
+(4) “Protected tenant” means a tenant who has obtained a
+court order or has a copy of a police report.
+(5) “Tenant” means tenant, subtenant, lessee, or sublessee. (Added by Stats.2010, c. 626 (S.B.782), § 2.)
+
+after the date the act that added this section takes effect.
+
+(d) Notwithstanding Section 789.3, if the locks are
+changed pursuant to this section, the landlord is not liable to
+a person excluded from the dwelling unit pursuant to this
+section.
+(e) A person who has been excluded from a dwelling unit
+under this section remains liable under the lease with all
+other tenants of the dwelling unit for rent as provided in the
+lease.
+(f) For the purposes of this section, the following definitions shall apply:
+(1) “Court order” means a court order lawfully issued
+within the last 180 days pursuant to Section 527.6 of the Code
+of Civil Procedure, Part 3 (commencing with Section 6240),
+Part 4 (commencing with Section 6300), or Part 5 (commencing with Section 6400) of Division 10 of the Family Code,
+Section
+
+136.2 of the Penal Code, or Section 213.5 of the
+
+Welfare and Institutions Code.
+(2) “Locks” means any exterior lock that provides access
+to the dwelling.
+(3) “Protected tenant” means a tenant who has obtained a
+court order.
+(4) “Tenant” means tenant, subtenant, lessee, or sublessee. (Added by Stats.2010, c. 626 (S.B.782), § 3.)
+Research References
+
+Research References
+
+Treatises and Practice Aids
+
+Treatises and Practice Aids
+
+12 Witkin, California Summary
+Nature of Duty.
+
+12 Witkin, California Summary
+Nature of Duty.
+
+10th Real Property § 645 (2018),
+
+10th Real Property § 645 (2018),
+
+§ 1941.7. Obligation of lessor to repair dilapidation relating to presence of mold; notice; authority to enter
+dwelling unit for repair
+
+§ 1941.6. Tenant protected by restraining order against
+another tenant; change of locks on dwelling unit;
+liability regarding person excluded; definitions
+
+(a) An obligation shall not arise under Section 1941 or
+1942 to repair a dilapidation relating to the presence of mold
+pursuant to paragraph (13) of subdivision (a) of Section
+17920.3 of the Health and Safety Code until the lessor has
+notice of the dilapidation or if the tenant is in violation of
+Section 1941.2.
+(b) A landlord may enter a dwelling unit to repair a
+dilapidation relating to the presence of mold pursuant to
+
+(a) This section shall apply if a person who is restrained
+from contact with a protected tenant under a court order is a
+tenant of the same dwelling unit as the protected tenant.
+(b) A landlord shall change the locks of a protected
+tenant’s dwelling unit upon written request of the protected
+tenant not later than 24 hours after the protected tenant gives
+the landlord a copy of a court order that excludes from the
+
+788
+
+GENERAL
+
+§ 3294
+
+PROVISIONS
+
+paragraph (13) of subdivision (a) of Section 17920.3 of the
+Health and Safety Code provided the landlord complies with
+the provisions of Section 1954. (Added by Stats.2015, c. 720
+(S.B.655), § 1, eff: Jan. 1, 2016.)
+
+Research References
+
+Treatises and Practice Aids
+
+12 Witkin, California Summary
+Nature of Duty.
+
+10th Real Property § 645 (2018),
+
+Division 4
+
+GENERAL PROVISIONS
+Part 1
+
+377.10) of Title 3 of Part 2 of the Code.of Civil Procedure
+based upon a death which resulted from a homicide for which
+
+RELIEF
+
+the defendant has been convicted of a felony, whether or not
+
+the decedent died instantly or survived the fatal injury for
+some period of time.
+The procedures for joinder and
+consolidation contained in Section 377.62 of the Code of Civil
+Procedure shall apply to prevent multiple recoveries of
+punitive or exemplary damages based upon the same wrongful act.
+
+Title*2
+COMPENSATORY
+
+RELIEF
+
+CHAPTER
+
+1.
+
+DAMAGES
+
+IN GENERAL
+
+ARTICLE
+
+3.
+
+EXEMPLARY
+
+(e) The amendments to this section made by Chapter 1498
+of the Statutes of 1987 apply to all actions in which the initial
+
+DAMAGES
+
+Section
+3294. Exemplary damages; when allowable; definitions:
+
+§ 3294.
+
+Exemplary damages;
+
+when allowable;
+
+trial has not commenced prior to January 1, 1988. (Enacted
+in 1872.
+Amended by Stats.1905, c. 463, p. 621, § 1;
+Stats.1980, c. 1242, p. 4217, § 1; Stats.1982, c. 174, § 1;
+
+definitions
+
+Stats.1983, c. 408, § 1; Stats.1987, c. 1498, § 5; Stats.1988, c.
+160, § 17; Stats.1992, c. 178 (S.B.1496), § 5.)
+
+(a) In an action for the breach of an obligation not arising
+from contract, where it is proven by clear and convincing
+evidence that the defendant has been guilty of oppression,
+fraud,
+
+or malice,
+
+the plaintiff, in addition
+
+e
+
+Law Revision Commission Comments
+
+to the actual
+
+1992 Amendment
+
+damages, may recover damages for the sake of example and
+by way of punishing the defendant.
+(b) An employer shall not be liable for damages pursuant
+to subdivision (a), based upon acts of an employee of the
+employer, unless the employer had advance knowledge of the
+unfitness of the employee and employed him or her with a
+conscious disregard of the rights or safety of others or
+authorized or ratified the wrongful conduct for which the
+damages are awarded or was personally guilty of oppression,
+fraud, or malice. With respect to a corporate employer, the
+advance knowledge
+
+Section 3294 is amended to revise section references.
+revisions
+are
+technical,
+nonsubstantive
+changes.
+Cal.L.Rev.Comm.Reports 895 (1992)].
+
+or
+
+Applying Family Code § 1101 (h), In re Marriage of Rossi, 90
+Cal.App.4th 34, 108 Cal.Rptr.2d 270 (2001), holds that a spouse’s
+intentional concealment of community property lottery winnings
+constituted fraud under subsection (c)(3) and justified a trial court
+award of 100 percent of the winnings to the other spouse.
+
+and conscious disregard, authorization,
+
+concealment
+
+of a material
+
+fact
+
+known
+
+to
+
+[22
+
+Commentary
+
+Research References
+
+ratification or act of oppression, fraud, or malice must be on
+the part of an officer, director, or managing agent of the
+corporation,
+(c) As used in this section, the following definitions shall
+apply:
+(1) “Malice” means conduct which is intended by the
+defendant to cause injury to the plaintiff or despicable
+conduct which is carried on by the defendant with a willful
+and conscious disregard of the rights or safety of others.
+(2) “Oppression” means despicable conduct that subjects a
+person to cruel and unjust hardship in conscious disregard of
+that person’s rights.
+(3) “Fraud” means an intentional misrepresentation, deceit,
+
+These
+
+Forms
+
+1 California Transactions Forms--Family Law § 2:9, Remedies
+
+False Disclosure.
+1 California Transactions Forms--Family
+Community Assets and Obligations.
+
+Law
+
+§ 2:81,
+
+for
+
+Potential
+
+West’s California Code Forms, Civil § 798.86 Form 1, Allegation of
+
+Statutory Penalty-Mobile Home Residency Law.
+West’s California Code Forms, Civil § 3294 Form
+
+1, Allegation in
+
+Complaint-Exemplary Damages.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 128.5
+
+Form
+
+4,
+
+Frivolous Actions or Delaying Tactics—Notice of Motion for
+Order Assessing Punitive Damages.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 128.5 Form
+
+5,
+
+Frivolous Actions or Delaying Tactics—Declaration for Order
+Assessing Punitive Damages.
+
+the
+
+West’s California Code Forms, Civil Procedure
+
+defendant with the intention on the part of the defendant of
+thereby depriving a person of property or legal rights or
+otherwise causing injury.
+(d), Damages may be recovered pursuant to this section in
+an action pursuant to Chapter 4 (commencing with Section
+
+§ 425.13 Form
+
+1,
+
+Pleadings—Notice of Motion to Add Claim for Punitive Damages—Professional Negligence of Health Care Provider.
+West’s California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 425.13 Form
+
+Pleadings—Claim for Punitive Damages—Professional
+gence of Health Care Provider.
+
+789
+
+2,
+
+Negli-
+
+§ 3294
+West’s
+
+California
+
+CIVIL CODE
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 425.13 Form
+
+California Practice Guide Civil Procedure
+Defenses Ch. 7(I)-E, Remedies.
+California Practice Guide Civil Procedure
+Defenses Ch. 7(II)-E, Remedies.
+California Practice Guide Civil Procedure
+Defenses Ch. 7(III)-E, Remedies.
+California Practice Guide Civil Procedure
+Defenses Ch. 8(1)-E, Remedies.
+California Practice Guide Civil Procedure
+Defenses Ch. 8(II)-E, Remedies.
+California Practice Guide Civil Procedure
+
+3,
+
+Pleadings—Order Allowing Claim for Punitive Damages—Professional Negligence of Health Care Provider.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+Pleadings—Order Allowing Claim
+Against Religious Corporation.
+
+for
+
+§ 425.14 Form
+
+Punitive
+
+1,
+
+Damages
+
+West’s California Code Forms, Family § 1100, Comment Overview-
+
+Community Personal Property.
+West’s California Code Forms, Insurance
+
+§ 790.03 Form
+
+1, Com-
+
+plaint for Unreasonably and in Bad Faith Withholding Payment.
+2B West’s Federal Forms
+
+§ 8:23, Answer
+
+before Trial - Claims and
+before Trial - Claims and
+before Trial - Claims and
+before Trial - Claims and
+before Trial - Claims and
+
+before Trial - Claims and
+Defenses Ch. 8(III)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 9(III)-A, Introduction.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 9(III)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 10(II)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 11(II)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 11(III)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 11(IV)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 11(VI)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 12(I)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 12(II)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 13(I.1)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 13(IV)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 13(V)-E, Remedies.
+California Practice Guide: Employment Litigation Ch. 3—-B, Liability
+Insurance—General Considerations.
+California Practice Guide: Employment Litigation Ch. 10-D, Employer Liability for Workplace Harassment.
+California Practice Guide: Employment Litigation Ch. 14-B, Breach
+of Fiduciary Duty (Corporate Officers, Directors).
+California Practice Guide: Employment Litigation Ch. 17—B, Contract Damages.
+California Practice Guide: Employment Litigation Ch. 17—D, Punitive Damages.
+California Practice Guide: Employment Litigation Ch. 19-N, Evidence Issues.
+California Practice Guide: Employment Litigation Ch. 19-O, Burdens and Standards of Proof.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 22-C,
+Nondischargeable Debts (Exceptions to Discharge).
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+2(I)-B, General Investigation Tactics.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+2(II)-A, Vicarious Liability.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+to Complaint for Patent
+
+Infringement and Unfair Competition.
+7 West’s Federal Forms § 11125, Complaint-Sale of Vessel.
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(I)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(II)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(III)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(IV)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(IX)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(V)-B, Elements of Claim.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(V)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(VI)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(VII)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(VIII)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 2(XI)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 3(I)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 3(II)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 3(IV)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 3(V)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(I)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(II)-F, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(IV)-B, Elements of Claim.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(IV)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(V)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(VI)-E, Remedies.
+
+3-A, Introduction.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+3-C, Specific Items of Compensatory Damages.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 4(VII)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 4(X)-E, Remedies.
+
+3-E, Punitive Damages.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+3-G, Independent Damages Claims.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+5-E, Selected Pleading Issues.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(I)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 6(II)-E, Remedies.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 6(III)-E, Remedies.
+
+6-A, Scope of Discovery and Limitations.
+
+790
+
+GENERAL
+
+PROVISIONS
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+5 Witkin, California Summary 10th Torts § 771 (2018), Capturing
+Impression of Personal or Familial Activity.
+6 Witkin, California Summary 10th Torts § 1085 (2018), Punitive
+Damages.
+6 Witkin, California Summary 10th Torts § 1169 (2018), Financial
+Injury.
+6 Witkin, California Summary 10th Torts § 1174 (2018), Fear of
+Contracting Disease.
+
+9-L, Motions to Terminate Trial Before Verdict.
+Rutter Group = Civil California Practice Guide, Motions in Limine,
+
+The § 10:194, Motion Summary.
+Rutter Group - Civil California Practice Guide, Motions in Limine,
+
+The § 10:201,
+Cases.
+
+Supporting
+
+Authorities—Punitive
+
+Damages
+
+Rutter Group - Civil California Practice Guide, Motions in Limine,
+
+The § 10:205, Opposing Authorities—Relevant
+Necessary to Support Punitive Damages Claim.
+
+6 Witkin, California Summary 10th Torts § 1717 (2018), No Double
+
+to Issues—
+
+Recovery.
+6 Witkin, California Summary 10th Torts § 1728 (2018), Statutory
+Authorization.
+6 Witkin, California Summary 10th Torts § 1742 (2018), Recovery of
+Both Penalty and Punitive Damages.
+6 Witkin, California Summary 10th Torts § 1743 (2018), Requirement of Actual Malice.
+6 Witkin, California Summary 10th Torts § 1745 (2018), Nature of
+Problem and Earlier Cases.
+6 Witkin, California Summary 10th Torts § 1747 (2018), Rule is
+Retroactive.
+6 Witkin, California Summary 10th Torts § 1749 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1750 (2018), Recovery by
+Public Entities.
+6 Witkin, California Summary 10th Torts § 1752 (2018), General
+Rule of Nonliability.
+6 Witkin, California Summary 10th Torts § 1753 (2018), Definition
+of Managing Agent.
+6 Witkin, California Summary 10th Torts § 1754 (2018), Act
+Authorized or Ratified.
+6 Witkin, California Summary 10th Torts § 1757 (2018), Personal
+Torts.
+6 Witkin, California Summary 10th Torts § 1763 (2018), Breach by
+Surety.
+b
+6 Witkin, California Summary 10th Torts § 1764 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1767 (2018), Job
+Discrimination Action.
+6 Witkin, California Summary 10th Torts § 1770 (2018), Alternative
+Contract or Tort Actions.
+6 Witkin, California Summary 10th Torts § 1771 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1774 (2018), Substantial
+Probability that Plaintiff Will Prevail.
+6 Witkin, California Summary 10th Torts § 1777 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1780 (2018), Nature of
+Requirement.
+6 Witkin, California Summary 10th Torts § 1788 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1791 (2018), Discovery of
+Financial Condition.
+6 Witkin, California Summary 10th Torts § 1867 (2018), In General.
+6 Witkin, California Summary 10th Torts § 1871 (2018), Jury
+Instructions.
+6 Witkin, California Summary 10th Torts § 1896 (2018), QuasiContractual Recovery.
+14 Witkin, California Summary 10th Wills and Probate § 391 (2018),
+Order.
+
+Rutter Group - Civil California Practice Guide, Motions in Limine,
+
+The § 10:242, Supporting Authorities—Punitive Damages.
+Rutter Group - Civil California Practice Guide, Motions in Limine,
+
+The § 10:251, Opposing Authorities—Exceptions to Statutory
+Restrictions [CC §3333.4]—Punitive Damages.
+Rutter Group - Civil California Practice Guide, Motions in Limine,
+The § 10:269, Motion to Exclude Evidence of Defendant’s
+
+Financial Status.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 1, Getting
+
+Started.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 5, Elderly
+
+or Frail Victims.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 7, Actions
+for Abduction.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 8,
+Financial Abuse.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 9, Elder
+Neglect and Physical Abuse.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 10, Skilled
+Nursing Facility Liability.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 11,
+Nursing Facility Administrator Liability.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 16, Statute
+of Limitations.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 19, Trial of
+Elder Abuse Case Based on Neglect or Physical Abuse.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 20,
+Settlement.
+Rutter Group Practice Guide: Elder Abuse Litigation
+Plaintiffs Motion in Limine Re Pen.C. § 368 and
+
+Form
+Welf.
+
+3,
+&
+
+Inst.C.§ 15656.
+Rutter Group Practice Guide: Elder Abuse Litigation Form 7,
+Motion in Limine to Exclude Evidence and Preclude Reference
+to Size Profits or Financial
+
+Condition
+
+of Defendants,
+
+and to
+
+Bifurcate Plaintiffs’ Claims for Punitive Damages.
+
+Rutter Group Practice Guide: Elder Abuse Litigation Form 8,
+Motion in Limine to Bifurcate Trial to Try Issues of Liability and
+Punitive Damages Separately, Memorandum of Points and
+Authorities.
+11 Witkin, California Summary 10th Community Property § 138
+(2018), Action for Breach of Duty.
+1 Witkin, California Summary 10th Contracts § 901 (2018), No
+Award in Contract Case.
+13 Witkin, California Summary 10th Equity § 65 (2018), In General.
+2 Witkin, California Summary 10th Insurance § 342 (2018), Tort and
+Contract Remedies.
+2 Witkin, California Summary 10th Insurance § 343 (2018), Punitive
+
+Part 2
+
+SPECIAL RELATIONS OF DEBTOR
+AND CREDITOR
+
+Damages.
+2 Witkin, California Summary 10th Insurance § 362 (2018), Abrogation of Royal Globe in Moradi-Shalal.
+12 Witkin, California Summary 10th Real Property § 748 (2018),
+Tenant’s Remedies.
+12 Witkin, California Summary 10th Real Property § 827 (2018),
+Actions and Penalties.
+5 Witkin, California Summary 10th Torts § 89 (2018), Report of
+Threat of Violence on School Grounds.
+
+Title 2
+VOID AND VOIDABLE TRANSFERS
+AND UNDERTAKINGS
+CHAPTER 1. UNIFORM VOIDABLE
+TRANSACTIONS ACT
+
+5 Witkin, California Summary 10th Torts § 276 (2018), Distinction:
+
+Enhanced
+
+Damages
+
+for Elder
+
+or Dependent
+
+Adult
+
+Section
+
+Abuse.
+
+3439,
+
+791
+
+Short title.
+
+CIVIL CODE
+West’s California Code Forms, Family § 850, Comment
+
+Section
+3439.01.
+3439.02.
+3439.03.
+3439.04.
+3439.05.
+3439.06.
+3439.07.
+
+Definitions.
+Insolvency.
+Value.
+Transfers voidable as to present and future creditors; factors to determining intent.
+Transfers voidable as to present creditors.
+When transfer is made or obligation is incurred.
+Remedies of creditors.
+
+3439.08.
+
+Defenses,
+
+3439.09.
+3439.10.
+3439.12.
+3439.13.
+3439.14.
+
+burden of proof.
+Extinguishment of cause of action.
+Governing law.
+Supplementary provisions.
+Uniformity of application and construction.
+Application; prior provisions; construction.
+
+§ 3439.
+
+This
+
+liability,
+
+and
+
+protection
+
+West’s California Code Forms, Probate § 9653 Form 1, Petition by
+
+Creditor for Order Directing Personal Representative to Commence Action for Recovery of Property Wrongfully Transferred
+by Decedent.
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+of transferee;
+
+Defenses Ch. 5(III)-A, Introduction.
+California Practice Guide Civil Procedure before Trial Statutes of
+Limitations Ch. 4-C, Actions Involving Real Property.
+California Practice Guide Civil Procedure before Trial Statutes of
+Limitations Ch. 4-D, Actions Involving Personal Property (Including Intangibles).
+California Practice Guide--Pass-Through Entities Ch. 5-J, Dissenters’
+Rights.
+California Practice Guide--Pass-Through Entities Ch. 6-C, Members.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 2-A,
+Deciding Whether to File Bankruptcy and Initial Filing Considerations.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance Power as Successor to Actual Unsecured
+Creditors (11 U.S.C.A. § 544(B)).
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 8,
+Financial Abuse.
+1 Witkin, California Summary 10th Contracts § 295 (2018), In
+General.
+1 Witkin, California Summary 10th Contracts § 731 (2018), Conformity With Federal Statutes.
+9 Witkin, California Summary 10th Corporations § 196 (2018),
+Unlawful Dividends or Purchases of Shares.
+9 Witkin, California Summary 10th Corporations § 303 (2018),
+Distributions to Members Are Prohibited.
+
+Short title
+
+chapter
+
+may
+
+be cited
+
+as the Uniform
+
+Voidable
+
+Transactions Act.
+
+(Added by Stats.1986, c. 383, § 2. Amend-
+
+ed by Stats.2015,
+
+c. 44 (S.B.161),
+
+§ 3, eff. Jan. 1, 2016.)
+
+Research References
+Forms
+
+12B
+
+Am. Jur. Pl. & Pr. Forms
+Introductory Comments.
+
+1 California
+
+Transactions
+
+Fraudulent
+
+Forms--Business
+
+Conveyances
+
+Entities
+
+§ 1,
+
+§ 3:27, Agree-
+
+ment to Incorporate Partnership.
+3 California Transactions Forms--Business Entities § 13:68, Contin-
+
+ued Existence of Dissolved Corporation.
+3 California Transactions Forms--Business Entities § 16:19, Liability
+for Contributions.
+4 California Transactions Forms--Business Entities § 18:119, Notice
+
+to Limited Partners of Approval
+Uniform Limited Partnership Act.
+
+9 Witkin, California Summary 10th Partnership § 1 (2018), Statutes
+Affecting Partnerships and Limited Liability Companies.
+9 Witkin, California Summary 10th Partnership § 121 (2018), Rights
+and Privileges of Dissenting Limited Partners.
+9 Witkin, California Summary 10th Partnership § 161 (2018),
+Contributions.
+9 Witkin, California Summary 10th Partnership § 186 (2018), Causes
+of Action Against Dissolved Company.
+12 Witkin, California Summary 10th Real Property § 2 (2018),
+Uniform Laws.
+12 Witkin, California Summary 10th Real Property § 178 (2018),
+Creditors of Powerholder.
+4 Witkin, California Summary 10th Sales § 215 (2018), In General.
+4 Witkin, California Summary 10th Sales § 229 (2018), Applicability
+of Fraudulent Transfer Act.
+6 Witkin, California Summary 10th Torts § 1780 (2018), Nature of
+Requirement.
+14 Witkin, California Summary 10th Wills and Probate § 365 (2018),
+Right to Disclaim and Waiver.
+
+of Merger or Conversion-
+
+4 California Transactions Forms--Business Entities § 21:24, Fraudulent Transfers.
+4 California Transactions Forms--Business Entities § 21:36, Check-
+
+list of Matters
+
+to Consider
+
+in Drafting
+
+LLP
+
+Agreement.
+
+5 California Transactions Forms--Business Entities § 23:137, Distri-
+
+bution Defined; Distributions of Public Benefit and Religious
+Corporations Assets.
+5 California Transactions Forms--Business Entities § 23:138, Distri-
+
+bution of Mutual Benefit Corporation Assets.
+1 California Transactions Forms--Business Transactions § 3:21,
+Overview.
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+1 California Transactions Forms--Business Transactions § 6:26,
+
+Fraud and Misrepresentation.
+5 California Transactions
+Fraudulent Transfers.
+
+Forms--Business
+
+Transactions
+
+§ 30:147,
+
+14 Witkin, California Summary 10th Wills and Probate § 517 (2018),
+
+1 California Transactions Forms--Estate Planning § 6:42, Right to
+Disclaim and Waiver of Right.
+2 California Transactions Forms--Estate Planning § 11:35, Agreement Entered Into on or After January 1, 1985.
+
+§ 3439.01.
+
+Definitions
+
+3 California Transactions Forms--Estate Planning § 18:6, Fraudulent
+and Other Invalid Trusts.
+West’s California Code Forms, Civil § 3439.07 Form 1, Complaint-
+
+As used
+applicable:
+
+in this chapter
+
+Duty to Recover Property.
+
+Set Aside Fraudulent Conveyance.
+
+Reason
+
+for Lessor’s
+
+Retention
+
+of Leased
+
+the following
+
+definitions
+
+are
+
+(a) “Asset” means property of a debtor, but the term does
+not include the following:
+
+West’s California Code Forms, Commercial Div. 6 Intro., Division 6
+Bulk Sales.
+West’s California Code Forms, Commercial § 10308 Form 1, Clause
+
+Reciting
+
+Overview-
+
+Transmutation by Agreement or Transfer.
+
+(1) Property to the extent it is encumbered by a valid lien.
+
+Goods.
+
+(2) Property to the extent it is generally exempt under
+nonbankruptcy law.
+
+West’s California Code Forms, Corporations § 500 Form 1, Resolu-
+
+tion of Directors-Declaring Cash Dividend on Common Stock.
+
+792
+
+GENERAL
+
+(3) An interest in property held in tenancy by the entireties to the extent it is not subject to process by a creditor
+holding a claim against only one tenant.
+
+Insurance Company v. Schroeder, 179 Cal.App.4th 834, 101 Cal.Rptr.3d
+
+854 (2009).
+Mejia v. Reed, 31 Cal.4th 657, 74 P.3d 166, 3 Cal.Rptr.3d 390 (2003),
+holds that the Uniform Fraudulent Transfer Act applies to property
+transfers made pursuant to marital settlement agreements. Thus a
+plaintiff in a pending paternity suit against a former husband could
+challenge, under this act, a transfer of property to his former wife
+under their marital settlement agreement.
+
+(b) “Claim,” except as used in “claim for relief,” means a
+right to payment, whether or not the right is reduced to
+judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed,
+secured, or unsecured.
+
+undisputed,
+
+legal,
+
+equitable,
+
+Research References
+
+(c) “Creditor” means a person that has a claim, and
+includes an assignee of a general assignment for the benefit
+
+Forms
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms 1 4.07,
+Marital Agreements.
+Asset Protection: Legal Planning, Strategies and Forms 1 A.05,
+Appendix A.05 California (Opt Out State).
+3 California Real Estate Forms (Miller & Starr) § 3:37 (2d ed.),
+Continuing Guaranty.
+3 California Real Estate Forms (Miller & Starr) § 3:38 (2d ed.),
+Completion Guaranty.
+3 California Real Estate Forms (Miller & Starr) § 3:38.50 (2d ed.),
+"Bad Boy" Guaranty.
+3 California Real Estate Forms (Miller & Starr) § 3:38.75 (2d ed.),
+Limited Guaranty.
+
+of creditors, as defined in Section 493.010 of the Code of
+Civil Procedure, of a debtor.
+
+(d) “Debt” means liability on a claim.
+(e) “Debtor” means a person that is liable on a claim.
+(f) “Electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or
+
+similar capabilities.
+(g) “Lien” means a charge against or an interest in
+property to secure payment of a debt or performance of an
+obligation, and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or
+proceedings, a common-law lien, or a statutory lien.
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-B, Elements of Claim.
+
+(h) “Organization” means a person other than an individual.
+(i) “Person” means an individual, partnership, corporation, limited liability company, association, government or
+governmental subdivision, instrumentality or agency, business
+
+§ 3439.02.
+
+entity.
+
+(j) “Property” means anything that may be the subject of
+ownership.
+(k) “Record” means information that is inscribed on a
+tangible medium or that is stored in an electronic or other
+medium and is retrievable in perceivable form.
+(J) “Sign” means, with present intent to authenticate or
+adopt a record, to either (1) execute or adopt a tangible
+symbol, or (2) attach to or logically associate with the record
+
+has been transferred, concealed, or removed with intent to
+hinder, delay, or defraud creditors or that has been trans-
+
+ferred in a manner making the transfer voidable under this
+chapter.
+(d) Debts under this section do not include an obligation
+to the extent it is secured by a valid lien on property of the
+
+an electronic symbol, sound, or process.
+
+(m) “Transfer” means every mode, direct or indirect,
+absolute or conditional, voluntary or involuntary, of disposing
+of or parting with an asset or an interest in an asset, and
+payment
+
+of money,
+
+release,
+
+lease,
+
+license,
+
+Insolvency
+
+(a) A debtor is insolvent if, at a fair valuation, the sum of
+the debtor’s debts is greater than the sum of the debtor’s
+assets.
+(b) A debtor that is generally not paying the debtor’s debts
+as they become due other than as a result of a bona fide
+dispute is presumed to be insolvent.
+The presumption
+imposes on the party against which the presumption is
+directed the burden of proving that the nonexistence of
+insolvency is more probable than its existence.
+(c) Assets under this section do not include property that
+
+trust, estate, trust, business or nonprofit entity, or other legal
+
+includes
+
+§ 3439.03
+
+PROVISIONS
+
+debtor not included as an asset. (Added by Stats.1986, c. 383,
+§ 2. Amended by Stats.2015, c. 44 (S.B.161), $ 5, eff: Jan. 1,
+
+and
+
+2016.)
+
+creation of a lien or other encumbrance.
+(n) “Valid lien” means a lien that is effective against the
+holder of a judicial lien subsequently obtained by legal or
+equitable process or proceedings. (Added by Stats.1986, c.
+383, § 2. Amended by Stats.1994, c. 1010 (S.B.2053), § 55;
+Stats.2015, c. 44 (S.B.161), § 4, eff. Jan. 1, 2016.)
+
+Research References
+
+Treatises and Practice Aids
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-B, Elements of Claim.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance
+
+Commentary
+
+Power as Successor to Actual Unsecured
+
+Creditors (11 U.S.C.A. § 544(B)).
+
+When the Uniform Fraudulent Transfer Act is inapplicable
+because a transferred property interest does not satisfy the subsection
+(a) definition of “asset” in that it has no value given its encumbrance
+by lien and by the amount of the homestead exemption, nevertheless
+a creditor may impose a resulting trust on the transferred property
+when the transferee was intended to have only a legal interest and the
+
+§ 3439.03. Value
+Value is given for a transfer or an obligation if, in exchange
+for the transfer or obligation, property is transferred or an
+antecedent debt is secured or satisfied, but value does not
+
+include an unperformed promise made otherwise than in the
+ordinary course of the promisor’s business to furnish support
+
+transferor intended to retain the beneficial interest. In such case, the
+
+resulting trust attaches to the entire property. Fidelity National Title
+
+793
+
+§ 3439.03
+
+CIVIL CODE
+
+to the debtor or another person.
+383, $ 2.)
+
+Commentary
+
+(Added by Stats.1986, c.
+
+Reversing the Bankruptcy Court, In re Beverly, 374 B.R. 221 (U.S.
+Bankr. App. Pan., 9th Cir. 2007), held that a divorcing attorney’s
+marital settlement agreement, which transferred nonexempt community property to his wife in exchange for an equivalent amount of his
+exempt community property retirement fund, was a fraudulent
+transfer under California Civil Code § 3439.04(a)(1) and therefore
+under 11 U.S.C. § 544(b). Thus, in the attorney’s involuntary
+bankruptcy proceeding, the Bankruptcy Trustee could avoid the
+transfer and reach the attorney’s community property interest in the
+nonexempt property.
+
+Research References
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-B, Elements of Claim.
+§ 3439.04.
+
+Transfers
+
+voidable
+
+as
+
+to present
+
+and
+
+future
+
+creditors; factors to determining intent
+
+(a) A transfer made or obligation incurred by a debtor is
+voidable as to a creditor, whether the creditor’s claim arose
+before or after the transfer was made or the obligation was
+incurred,
+
+if the debtor
+
+made
+
+the transfer or incurred
+
+Research References
+Forms
+
+the
+
+obligation as follows:
+
+4 California Transactions Forms--Business Entities § 21:24, Fraudulent Transfers.
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+West’s California Code Forms, Civil § 3439.07 Form 1, Complaint-
+
+(1) With actual intent to hinder, delay, or defraud any
+creditor of the debtor.
+(2) Without receiving a reasonably equivalent value in
+exchange for the transfer or obligation, and the debtor either:
+
+Set Aside Fraudulent Conveyance.
+
+(A) Was engaged or was about to engage in a business or a
+transaction for which the remaining assets of the debtor were
+unreasonably small in relation to the business or transaction.
+
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims ea
+Defenses Ch. 5(III)-B, Elements of Claim.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance Power as Successor to Actual Unsecured
+Creditors (11 U.S.C.A. § 544(B)).
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 8,
+Financial Abuse.
+11 Witkin, California Summary 10th Community Property § 157
+(2018), Authority to Transmute.
+
+(B) Intended to incur, or believed or reasonably should
+have believed that the debtor would incur, debts beyond the
+debtor’s ability to pay as they became due.
+(b) In determining actual intent under paragraph (1) of
+subdivision (a), consideration may be given, among other
+factors, to any or all of the following:
+(1) Whether the transfer or obligation was to an insider.
+(2) Whether the debtor retained possession or control of
+the property transferred after the transfer.
+
+§ 3439.05.
+
+(a) A transfer made or obligation incurred by a debtor is
+voidable as to a creditor whose claim arose before the
+transfer was made or the obligation was incurred if the debtor
+made the transfer or incurred the obligation without receiving
+a reasonably equivalent value in exchange for the transfer or
+obligation and the debtor was insolvent at that time or the
+debtor became insolvent as a result of the transfer or
+obligation.
+
+(3) Whether the transfer or obligation was disclosed or
+concealed.
+(4) Whether before the transfer was made or obligation
+was incurred, the debtor had been sued or threatened with
+suit.
+
+(5) Whether
+debtor’s assets.
+
+the transfer
+
+was
+
+of substantially
+
+all the
+
+(6) Whether the debtor absconded.
+(7) Whether the debtor removed or concealed assets.
+(8) Whether the value of the consideration received by the
+debtor was reasonably equivalent to the value of the asset
+transferred or the amount of the obligation incurred.
+(9) Whether the debtor was insolvent or became insolvent
+shortly after the transfer was made or the. obligation was
+incurred.
+(10) Whether the transfer occurred shortly before or
+shortly after a substantial debt was incurred.
+(11) Whether the debtor transferred the essential assets of
+the business to a lienor that transferred
+insider of the debtor.
+
+the assets
+
+Transfers voidable as to present creditors
+
+(b) A creditor making a claim for relief under subdivision
+(a) has the burden of proving the elements of the claim for
+relief by a preponderance of the evidence.
+(Added by
+Stats. 1986, c. 383, $ 2.
+
+Amended
+
+by Stats.2015, c. 44 (S.B.
+
+161), § 7, eff. Jan. 1, 2016.)
+Commentary
+
+|
+
+Mejia v. Reed, 31 Cal.4th 657, 74 P.3d 166, 3 Cal.Rptr.3d 390 (2003),
+held that in determining whether a defendant is insolvent under this
+section, his future child support obligation may not be included as a
+debt to be weighed against his assets. The court reasoned that
+support payments are usually paid from present earnings, not
+liquidation of preexisting assets, and the amount of the child support
+
+to an
+
+obligation is based on actual or imputed earnings.
+
+(c) A creditor making a claim for relief under subdivision
+(a) has the burden of proving the elements of the claim for
+relief by a preponderance of the evidence.
+(Added by
+Stats.1986, c. 383, § 2. Amended by Stats.2004, c. 50 (S.B.
+1408), § 1; Stats.2015, c. 44 (S.B.161), § 6, eff. Jan. 1, 2016.)
+
+Research References
+Forms
+
+4 California Transactions Forms--Business Entities § 21:24, Fraudulent Transfers.
+
+794
+
+GENERAL
+
+mencing with Section 481.010) of Part 2 of the Code of Civil
+Procedure, or as may otherwise be available under applicable
+law.
+
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+Treatises and Practice Aids
+
+(3) Subject to applicable principles of equity and in
+accordance with applicable rules of civil procedure, the
+following:
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-B, Elements of Claim.
+§ 3439.06.
+
+When transfer is made or obligation is incurred
+
+(A) An injunction against further disposition by the debtor
+
+For the purposes of this chapter:
+
+or a transferee, or both, of the asset transferred
+
+or other
+
+property of the transferee.
+
+(a) A transfer is made:
+(1) With respect to an asset that is real property other than
+a fixture, but including the interest of a seller or purchaser
+
+(B) Appointment of a receiver to take charge of the asset
+transferred or other property of the transferee.
+
+under a contract for the sale of the asset, when the transfer is
+
+(C) Any other relief the circumstances may require.
+
+so far perfected that a good faith purchaser of the asset from
+the debtor against which applicable law permits the transfer
+to be perfected cannot acquire an interest in the asset that is
+superior to the interest of the transferee; and
+(2) With respect to an asset that is not real property or
+that is a fixture, when the transfer is so far perfected that a
+creditor on a simple contract cannot acquire a judicial lien
+otherwise than under this chapter that is superior to the
+interest of the transferee.
+(b) If applicable law permits the transfer to be perfected as
+provided in subdivision (a) and the transfer is not so
+perfected before the commencement of an action for relief
+under this chapter, the transfer is deemed made immediately
+before the commencement of the action.
+(c) If applicable law does not permit the transfer to be
+perfected as provided in subdivision (a), the transfer is made
+when it becomes effective between the debtor and the
+transferee.
+(d) A transfer is not made until the debtor has acquired
+rights in the asset transferred.
+(e) An obligation is incurred:
+(1) If oral, when it becomes effective between the parties;
+
+(b) If a creditor has commenced an action on a claim
+against the debtor, the creditor may attach the asset transferred or other property of the transferee if the remedy of
+attachment is available in the action under applicable law and
+the property is subject to attachment in the hands of the
+transferee under applicable law.
+(c) If a creditor has obtained a judgment on a claim
+against the debtor, the creditor may levy execution on the
+asset transferred or its proceeds.
+(d) A creditor who is an assignee of a general assignment
+for the benefit of creditors, as defined in Section 493.010 of
+
+the Code of Civil Procedure, may exercise any and all of the
+rights and remedies specified in this section if they are
+available to any one or more creditors of the assignor who are
+beneficiaries of the assignment, and, in that event (1) only to
+the extent the rights or remedies are so available and (2) only
+for the benefit of those creditors whose rights are asserted by
+the assignee. (Added by Stats.1986, c. 383, § 2. Amended by
+Stats.2015, c. 44 (S.B.161), § 9, eff. Jan. 1, 2016.)
+Research References
+Forms
+
+or
+
+Asset Protection:
+
+Legal Planning, Strategies and Forms
+
+1 3.04B,
+
+Statute of Limitations.
+
+(2) If evidenced by a record, when the record signed by the
+obligor is delivered to or for the benefit of the obligee.
+
+Asset
+
+Protection:
+
+Legal Planning,
+
+Strategies
+
+and Forms
+
+1 3.06,
+
+Statute of Limitations.
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+3 California Transactions Forms--Business Transactions § 16:66,
+
+(Added by Stats.1986, c. 383, § 2. Amended by Stats.2015, c.
+
+44 (S.B.161), § 8, eff. Jan. 1, 2016.)
+Research References
+
+Debtor’s Right to Transfer Property by Assignment.
+West’s California Code Forms, Civil § 3439.07 Form 1, Complaint-
+
+Forms
+
+Asset Protection: Legal Planning,
+Marital Agreements.
+
+Strategies
+
+and Forms
+
+Set Aside Fraudulent Conveyance.
+
+{ 4.07,
+
+Treatises and Practice Aids
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Authority to Transmute.
+§ 3439.07.
+
+§ 3439.08
+
+PROVISIONS
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-B, Elements of Claim.
+
+Property § 157
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-D, Remedies.
+Rutter Group Practice Guide: Elder
+
+Remedies of creditors
+
+Financial Abuse.
+1 Witkin, California Summary
+
+(a) In an action for relief against a transfer or obligation
+under this chapter, a creditor, subject to the limitations in
+
+Abuse
+
+10th Contracts
+
+Litigation
+
+Ch.
+
+8,
+
+§ 731 (2018), Con-
+
+formity With Federal Statutes.
+
+Section 3439.08, may obtain:
+(1) Avoidance of the transfer or obligation to the extent
+necessary to satisfy the creditor’s claim.
+(2) An attachment or other provisional remedy against the
+asset transferred or other property of the transferee in
+accordance with the procedures described in Title 6.5 (com-
+
+§ 3439.08.
+Defenses, liability, and protection of transferee;
+burden of proof
+
+(a) A transfer or obligation is not voidable under paragraph (1) of subdivision (a) of Section 3439.04, against a
+person that took in good faith and for a reasonably equivalent
+
+795
+
+§ 3439.08
+
+CIVIL CODE
+
+(3) The transferee has the burden of proving the applicability to the transferee of subparagraph (B) of paragraph (1)
+of subdivision (b).
+(4) A party that seeks adjustment under subdivision (c) has
+the burden of proving the adjustment.
+(g) The standard of proof required to establish matters
+referred to in this section is preponderance of the evidence.
+
+value given the debtor or against any subsequent transferee
+or obligee.
+(b) To the extent a transfer is avoidable in an action by a
+creditor under paragraph (1) of subdivision (a) of Section
+3439.07, the following rules apply:
+
+(1) Except as otherwise provided in this section, the
+creditor may recover judgment for the value of the asset
+transferred, as adjusted under subdivision (c), or the amount
+necessary to satisfy the creditor’s claim, whichever is less.
+The judgment may be entered against the following:
+
+(Added by Stats.1986, c. 383, § 2. Amended by Stats. 1987, c.
+
+40, § 1, eff. June 8, 1987; Stats.1999, c. 991 (S.B.45), § 9,
+operative July 1, 2001; Stats.2005, c. 34 (A.B.248), § 1, eff: July
+
+7, 2005; Stats.2015, c. 44 (S.B.161), § 10, eff: Jan. 1, 2016.)
+
+(A) The first. transferee of the asset or the person for
+whose benefit the transfer was made.
+(B) An immediate or mediate transferee of the first
+transferee, other than either of the following:
+(i) A good faith transferee that took for value.
+(ii) An immediate or mediate good faith transferee of a
+person described in clause (i).
+(2) Recovery pursuant to paragraph (1) of subdivision (a),
+or subdivision (b), or subdivision (c) of Section 3439.07 of or
+from the asset transferred or its proceeds, or other property
+of the transferee, as applicable, by levy or otherwise, is
+available only against a person described in subparagraph (A)
+or (B) of paragraph (1).
+(c) If the judgment under subdivision (b) is based upon the
+value of the asset. transferred, the judgment shall be for an
+amount equal to the value of the asset at the time of the
+transfer, subject to adjustment as the equities may require.
+(d) Notwithstanding voidability of a transfer or an obligation under this chapter, a good faith transferee or obligee is
+entitled, to the extent of the value given the debtor for the
+transfer or obligation, to the following:
+(1) A lien on or a right to retain an interest in the asset
+transferred.
+(2) Enforcement of an obligation incurred.
+(3) A reduction in the amount of the liability on the
+judgment.
+(e) A transfer is not voidable under paragraph (2) of
+subdivision (a) of Section 3439.04 or Section 3439.05 if the
+transfer results from either of the following:
+(1) Termination of a lease upon default by the debtor
+when the termination is pursuant to the lease and applicable
+law.
+
+Research References
+Forms
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms
+Appendix A.05 California (Opt Out State).
+
+1 A.05,
+
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-B, Elements of Claim.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(IIT)-C, Particular Defenses.
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Defenses Ch. 5(III)-D, Remedies.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance Power as Successor to Actual Unsecured
+Creditors (11 U.S.C.A. § 544(B)).
+
+§ 3439.09.
+
+Extinguishment of cause of action
+
+A cause of action with respect to a transfer or obligation
+under this chapter is extinguished unless action is brought
+pursuant to subdivision (a) of Section 3439.07 or levy made as
+provided in subdivision (b) or (c) of Section 3439.07:
+(a) Under paragraph (1) of subdivision (a) of Section
+3439.04, not later than four years after the transfer was made
+or the obligation was incurred or, if later, not later than one
+year after the transfer or obligation was or could reasonably
+have been discovered by the claimant.
+
+(b) Under paragraph (2) of subdivision (a) of Section
+3439.04 or Section 3439.05, not later than four years after the
+transfer was made or the obligation was incurred.
+(c) Notwithstanding any other provision of law, a cause of
+action under this chapter with respect to a transfer or
+obligation is extinguished if no action is brought or levy made
+within seven years after the transfer was made or the
+obligation was incurred. (Added by Stats:1986, c. 383, § 2.
+
+(2) Enforcement of a lien in a noncollusive manner and in
+compliance with applicable law, including Division 9 (commencing with Section 9101) of the Commercial Code, other
+than a retention of collateral under Sections 9620 and 9621 of
+the Commercial Code and other than a voluntary transfer of
+the collateral by the debtor to the lienor in satisfaction of all
+or part of the secured obligation.
+(f) The following rules determine the burden of proving
+matters referred to in this section:
+(1) A party that seeks to invoke subdivision (a), (d), or (e)
+has the burden of proving the applicability of that subdivision.
+(2) Except as otherwise provided in paragraph (3) or (4),
+the creditor has the burden of proving each applicable
+element of subdivision (b) or (c).
+
+Amended by Stats.2005, c. 34 (A.B.248), § 2, eff. July 7, 2005;
+
+Stats.2015, c. 44 (S.B.161), § 11, eff: Jan. 1, 2016.)
+Research References
+
+Forms
+
+Asset Protection: Legal Planning, Strategies and Forms { 3.04B,
+Statute of Limitations.
+Asset Protection: Legal Planning, Strategies and Forms 1 3.06,
+Statute of Limitations.
+Asset Protection: Legal Planning, Strategies and Forms 1 A.05,
+Appendix A.05 California (Opt Out State).
+4 California Transactions Forms--Business Entities § 21:24, Fraudu-
+
+lent Transfers.
+
+796
+
+GENERAL
+
+§ 3439.14
+
+PROVISIONS
+
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+
+West’s California Code Forms, Civil § 3439.07 Form 1, Complaint-
+
+Set Aside Fraudulent Conveyance.
+West’s California Code Forms, Commercial Div. 6 Intro., Division 6
+
+Treatises and Practice Aids
+
+Bulk Sales.
+West’s California Code Forms, Commercial § 10308 Form 1, Clause
+
+California Practice Guide Civil Procedure before Trial - Claims and
+
+Reciting Reason for Lessor’s Retention of Leased Goods.
+West’s California Code Forms, Corporations § 500 Form 1, Resolution of Directors-Declaring Cash Dividend on Common Stock.
+West’s California Code Forms, Family § 850, Comment OverviewTransmutation by Agreement or Transfer.
+
+Defenses Ch. 5(III)-E, Statute of Limitations.
+California Practice Guide Civil Procedure
+
+before Trial Statutes of
+
+Limitations Ch. 4-C, Actions Involving Real Property.
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance
+
+Power as Successor to Actual Unsecured
+
+Creditors (11 U.S.C.A. § 544(B)).
+Treatises and Practice Aids
+
+§ 3439.10.
+
+Governing law
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance Power as Successor to Actual Unsecured
+Creditors (11 U.S.C.A. § 544(B)).
+
+(a) In this section, the following rules determine a debtor’s
+location:
+(1) A debtor who is an individual is located at the
+individual’s principal residence.
+(2) A debtor that is an organization and has only one place
+of business is located at its place of business.
+(3) A debtor that is an organization and has more than
+one place of business is located at its chief executive office.
+(b) A claim in the nature of a claim under this chapter is
+governed by the local law of the jurisdiction in which the
+debtor is located when the transfer is made or the obligation
+is incurred. (Added by Stats.2015, c. 44 (S.B.161), § 13, eff.
+Jan. 1, 2016.)
+
+§ 3439.13.
+
+This chapter shall be applied and construed to effectuate
+its general purpose to make uniform the law with respect to
+the subject of this chapter among states enacting it. (Formerly $ 3439.11, added by Stats.1986, c. 383, § 2. Renumbered
+§ 3439.13 and amended by Stats.2015, c. 44 (S.B.161), § 14,
+
+eff. Jan. 1, 2016.)
+§ 3439.14.
+
+Application;. prior provisions; construction
+
+(a) The changes to this chapter made by the act adding
+this subdivision apply only to a right of action that accrued,
+transfer made, or obligation incurred, on or after the effective
+
+Research References
+
+date of that act.
+
+Forms
+
+;
+
+(b) This chapter, and the other changes in the law made by
+Chapter 383 of the Statutes of 1986, apply only to transfers
+made or obligations incurred before the effective date of the
+act that added subdivision (a) and on or after January 1, 1987.
+As to transfers made or obligations incurred prior to January
+
+Asset Protection: Legal Planning, Strategies and Forms {| 3.04B,
+Statute of Limitations.
+Asset Protection: Legal Planning, Strategies and Forms { 3.06,
+Statute of Limitations.
+
+1, 1987, the law in effect at the time the transfer was made or
+
+§ 3439.12.
+
+Supplementary provisions
+Unless displaced by the provisions of this chapter, the
+principles of law and equity, including the law merchant and
+the law relating to principal and agent, estoppel, laches,
+
+the obligation was incurred shall apply.
+
+(c). Section 3439.06 shall determine the date that a transfer
+was made or obligation incurred.
+
+fraud, misrepresentation, duress, coercion, mistake, insolven-
+
+(d) The provisions of this chapter, insofar as they are
+substantially the same as the provisions of this chapter in
+
+cy, or other validating or invalidating cause, supplement its
+provisions.
+
+Uniformity of application and construction
+
+(Formerly § 3439.10, added by Stats.1986, c. 383,
+
+§ 2. Renumbered § 3439.12 and amended by Stats.2015, c. 44
+(S.B.161), § 12, eff. Jan. 1, 2016.)
+
+effect on December 31, 2015, shall be construed as restatements and continuations, and not as new enactments.
+(Formerly § 3439.12, added by Stats.1987, c. 40, § 2, eff: June 8,
+
+Research References
+
+1987. _Renumbered § 3439.14 and amended by Stats.2015, c.
+44 (S.B.161), § 15, eff. Jan. 1, 2016.)
+
+Forms
+
+Asset Protection:
+
+Legal Planning, Strategies and Forms
+Appendix A.05 California (Opt Out State).
+
+{| A.05,
+
+Research References
+Treatises and Practice Aids
+
+1 California Transactions Forms--Business Transactions § 3:21,
+» Overview.
+,
+1 California Transactions Forms--Business Transactions § 3:23, Uniform Voidable Transactions Act.
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 21-E,
+Trustee’s Avoidance Power as Successor to Actual Unsecured
+Creditors (11 U.S.C.A. § 544(B)).
+
+797
+
+CODE
+
+OF CIVIL PROCEDURE
+Part
+
+OF COURTS
+
+1
+
+OF JUSTICE
+(f) Upon the granting of such a motion for preference, the
+court shall set the matter for trial not more than 120 days
+from that date and there shall be no continuance beyond 120
+days from the granting of the motion for preference except
+for physical disability of a party or a party’s attorney, or upon
+a showing of good cause stated in the record. Any continuance shall be for no more than 15 days and no more than one
+continuance for physical disability may be granted to any
+
+Title 1
+ORGANIZATION AND JURISDICTION
+CHAPTER
+
+1.
+
+COURTS
+
+OF JUSTICE IN GENERAL
+
+Section
+36.
+Motion for preference; party over 70 years of age;
+party under 14 years of age; medical reasons; inter-
+
+party.
+
+ests of justice; time of trial.
+
+36.5.
+37.
+
+Motion for preference; affidavit.
+Preference; action for damages incurred during felony;
+time.
+Judicial district.
+
+(g) Upon the granting of a motion for preference pursuant
+to subdivision (b), a party in an action based upon a health
+provider’s alleged professional negligence, as defined in
+
+Motion for preference; party over 70 years of age;
+party under 14 years of age; medical reasons; interests
+of justice; time of trial
+
+months and not later than nine months from the date that the
+motion is granted. (Added by Stats.1979, c. 151, p. 348, § 2.
+Amended by Stats.1981, c. 215, § 1; Stats.1988, c. 1237, § 1;
+Stats.1989, c. 913, § 1; Stats.1990, c. 428 (A.B.3811), § 1;
+Stats.2008, c. 218 (A.B.1949), § 1.)
+
+38.
+
+Section 364, shall receive
+
+§ 36.
+
+(a) A party to a civil action who is over 70 years of age may
+petition the court for a preference, which the court shall grant
+if the court makes both of the following findings:
+(1) The party has a substantial interest in the action as a
+whole.
+(2) The health of the party is such that a preference is
+necessary to prevent prejudicing the party’s interest in the
+litigation.
+(b) A civil action to recover damages for wrongful death or
+personal injury shall be entitled to preference upon the
+motion of any party to the action who is under 14 years of age
+unless the court finds that the party does not have a
+substantial interest in the case as a whole. A civil action
+subject to subdivision (a) shall be given preference over a
+case subject to this subdivision.
+(c) Unless the court otherwise orders:
+(1) A party may file and serve a motion for preference
+supported by a declaration of the moving party that all
+essential parties have been served ‘with process or have
+appeared.
+(2) At any time during the pendency of the action, a party
+who reaches 70 years of age may file and serve a motion for
+preference.
+(d) In its discretion, the court may also grant a motion for
+preference that is accompanied by clear and convincing
+medical documentation that concludes that one of the parties
+suffers from an illness or condition raising substantial medical
+doubt of survival of that party beyond six months, and that
+satisfies the court that the interests of justice will be served by
+granting the preference.
+(e) Notwithstanding any other provision of law, the court
+may in its discretion grant a motion for preference that is
+supported by a showing that satisfies the court that the
+interests of justice will be served by granting this preference.
+
+a trial date not sooner
+
+than six
+
+Research References
+Forms
+
+West’s California Code Forms, Civil Procedure § 36(a) Form 1,
+Preferences—Civil Cases—Notice of Motion for Preference by
+Party Exceeding Age 70.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 36(a) Form
+
+3,
+
+Preferences—Civil Cases—Order Granting Preference—Party
+Exceeding Age 70.
+West’s California Code Forms, Civil Procedure § 36(e) Form 1,
+Preferences—Civil Cases—Order Denying Preference.
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+3-E, Punitive Damages.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+7-C, Actions Subject to Judicial Arbitration.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+8-A, Case Management.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+9-A, Assignment to Trial.
+7 Witkin, California Summary 10th Constitutional Law § 648 (2018),
+Discovery of Medical Patient’s Records.
+6 Witkin, California Summary 10th Torts: § 1775 (2018), Time
+Limits.
+15 Witkin, California Summary 10th Wills and Probate § 623 (2018),
+Trial.
+
+§ 36.5.
+
+Motion for preference; affidavit
+
+An affidavit submitted in support of a motion for preference under subdivision (a) of Section 36 may be signed by the
+attorney for the party seeking preference based upon information and belief as to the medical diagnosis and prognosis
+of any party. The affidavit is not admissible for any purpose
+
+798
+
+COURTS
+
+§ 128
+
+OF JUSTICE
+
+other than a motion for preference under subdivision (a) of
+Section 36. (Added by Stats.1990, c. 1232 (A.B.3820), § 1.)
+
+(A.B.3532), § 10, operative July 1, 1991;
+(A.B.2641), § 12, operative Jan. 1, 1994.)
+
+Research References
+
+Law Revision Commission
+
+Treatises and Practice Aids
+
+Preference;
+felony; time
+
+c. 163
+
+Comments
+
+1992 Amendment
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+8-A, Case Management.
+§ 37.
+
+Stats.1992,
+
+action
+
+for damages
+
+incurred
+
+during
+
+Section 124 is amended to substitute a reference to Family Code
+Section 214 for the former Civil Code references. Family Code
+Section 214 gives the court general authority to direct that the trial of
+any issue of fact joined in a proceeding under the Family Code be
+private and to exclude all persons except the officers of the court, the
+parties, their witnesses, and counsel. Section 124 also recognizes
+that other provisions of law may qualify the rule stated in Section 124
+or provide a contrary rule.
+Other provisions of the Family Code may provide more restrictive
+rules that prevail over the rule stated in Family Code Section 214 or
+may provide special rules concerning exclusion of the public from
+hearings under the Family Code that prevail over the general rule
+
+(a) A civil action shall be entitled to preference, if the
+action is one in which the plaintiff is seeking damages which
+were alleged to have been caused by the defendant during the
+commission of a felony offense for which the defendant has
+been criminally convicted.
+(b) The court shall endeavor to try the action within 120
+days of the grant of preference. (Added by Stats.1982, c. 514,
+
+stated
+
+p. 2297, § 1. Amended by Stats.1983, c. 938, § 1, eff: Sept. 20,
+
+Cal.L.Rev.Comm.Reports 1 (1992)].
+
+1983.)
+
+in Section
+
+214.
+
+See
+
+Fam.
+
+Code
+
+§ 214
+
+Comment.
+
+[22
+
+Research References
+Research References
+
+Treatises and Practice Aids
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+8-A, Case Management.
+§ 38.
+
+Judicial district
+
+Unless the provision or context otherwise requires, a
+reference in a statute to a judicial district means:
+(a) As it relates to a court of appeal, the court of appeal
+district.
+(b) As it relates to a superior court, the county. (Added by
+
+Stats.1998,
+Amended
+
+c. 931
+
+(S.B.2139),
+
+by Stats.2018,
+
+7 Witkin, California Summary 10th Constitutional Law § 469 (2018),
+Civil Trial.
+
+7 Witkin, California Summary 10th Constitutional Law § 470 (2018),
+Conservatorship Proceedings.
+
+ARTICLE 2. INCIDENTAL POWERS
+AND DUTIES OF COURTS
+Section
+128.
+
+c. 92 (S.B.1289),
+
+§ 39, eff. Jan.
+
+1,
+
+2019.)
+Law Revision Commission
+
+Comments
+
+128.5.
+128.7.
+
+1998 Addition
+
+Section 38 is intended for drafting convenience. See also Section
+17 (“judicial district” includes city and county). Court of appeal
+districts and municipal court districts are constitutionally mandated.
+See Cal. Const. art. VI, §§ 3, 5. Superior court districts do not exist
+except in Los Angeles County. See Gov't Code §§ 69640-69650.
+By operation of this section, in a county in which the superior and
+municipal courts have unified, a statutory reference to a judicial
+district means the county rather than a former municipal court
+district. This general rule is subject to exceptions. See, e.g., Gov't
+Code 71042.5 (preservation of judicial districts for purpose of
+publication). [28 Cal.L.Rev.Comm. Reports 51 (1998)].
+
+CHAPTER
+
+6.
+
+ARTICLE
+
+GENERAL PROVISIONS RESPECTING
+COURTS OF JUSTICE
+1.
+
+PUBLICITY OF PROCEEDINGS
+
+Section
+124. Public sittings; exceptions.
+
+§ 124.
+
+Public sittings; exceptions
+Except as provided in Section 214 of the Family Code or
+any other provision of law, the sittings of every court shall be
+public.
+
+(Enacted in 1872.
+
+Amended by Code Am.1880, c. 35,
+
+p. 36, § 1; Stats.1971, c. 762, p. 1510, § 2; Stats.1990, c. 1363
+
+Powers
+
+of courts;
+
+sentence;
+
+§ 20, eff. Sept. 28, 1998.
+
+130.
+
+contempt
+
+stay pending
+
+orders;
+
+appeal;
+
+execution
+
+orders
+
+of
+
+affecting
+
+county government.
+Frivolous actions or delaying tactics; order for payment of expenses; punitive damages; sanctions.
+Signature requirement for court papers; certification
+that specified conditions met; violations;
+
+sanctions;
+
+punitive damages.
+| Deceased minor victims of criminal acts;
+autopsy report and associated evidence.
+
+sealing of
+
+§ 128. Powers of courts; contempt orders; execution of
+sentence; stay pending appeal; orders affecting county
+government
+
+(a) Every court shall have the power to do all of the
+following:
+(1) To preserve and enforce order in its immediate
+presence.
+(2) To enforce order in the proceedings before it, or
+before a person or persons empowered to conduct a judicial
+investigation under its authority.
+(3) To provide for the orderly conduct of proceedings
+before it, or its officers.
+
+(4) To compel obedience to its judgments, orders, and
+process, and to the orders of a judge out of court, in an action
+or proceeding pending therein.
+
+(5) To control in furtherance of justice, the conduct of its
+ministerial officers, and of all other persons in any manner
+connected with a judicial proceeding before it, in every
+matter pertaining thereto.
+
+

@@ -8,7 +8,7 @@ instances:
         repo: family-x1oh1xy2
         branch: main
       launch: dashboard
-title: California Family Code | Interactive Edition
+title: California Family Code
 layout:
   searchbar-placement: header
   page-width: full
@@ -16,114 +16,82 @@ layout:
 tabs:
   code:
     display-name: Family Code
-    icon: scale-balanced
-  API Reference:
-    display-name: Family Code API
-    icon: database
+    icon: docs/assets/icon-circle.svg
 navigation:
   - tab: code
     layout:
       - section: Family Code
         contents:
-          - page: Introduction
-            path: docs/pages/intro.mdx
-            icon: fa-solid fa-book-open
+          - page: Home
+            path: docs/pages/home.mdx
+            icon: docs/assets/icon-circle.svg
           - page: Preliminary Provisions
             path: docs/pages/preliminary-provisions.mdx
-            icon: fa-solid fa-scroll
-          - page: Definitions & Indian Children
+            icon: docs/assets/icon-circle.svg
+          - page: Division 1 — Definitions
             path: docs/pages/division-1-definitions.mdx
-            icon: fa-solid fa-book-bookmark
-          - page: General Provisions
-            path: docs/pages/division-2-general.mdx
-            icon: fa-solid fa-gear
-          - page: Domestic Partner Registration
+            icon: docs/assets/icon-circle.svg
+          - page: Division 2 — Marriage
+            path: docs/pages/marriage.mdx
+            icon: docs/assets/icon-circle.svg
+          - page: Division 2.5 — Domestic Partner Registration
             path: docs/pages/division-2.5-domestic-partners.mdx
-            icon: fa-solid fa-heart-circle-check
-          - page: Marriage
+            icon: docs/assets/icon-circle.svg
+          - page: Division 3 — Marriage: Rights and Obligations
             path: docs/pages/division-3-marriage.mdx
-            icon: fa-solid fa-ring
-          - page: Rights During Marriage
+            icon: docs/assets/icon-circle.svg
+          - page: Division 4 — Property Rights
             path: docs/pages/division-4-rights-during-marriage.mdx
-            icon: fa-solid fa-circle-nodes
-          - page: Conciliation Proceedings
+            icon: docs/assets/icon-circle.svg
+          - page: Division 5 — Conciliation Proceedings
             path: docs/pages/division-5-conciliation.mdx
-            icon: fa-solid fa-comments
-          - page: Dissolution
+            icon: docs/assets/icon-circle.svg
+          - page: Division 6 — Dissolution
             path: docs/pages/division-6-dissolution.mdx
-            icon: fa-solid fa-scale-unbalanced
-          - page: Division of Property
+            icon: docs/assets/icon-circle.svg
+          - page: Division 7 — Division of Property
             path: docs/pages/division-7-property.mdx
-            icon: fa-solid fa-building-columns
-          - page: Custody of Children
+            icon: docs/assets/icon-circle.svg
+          - page: Division 8 — Custody
             path: docs/pages/division-8-custody.mdx
-            icon: fa-solid fa-children
-          - page: Support
+            icon: docs/assets/icon-circle.svg
+          - page: Division 9 — Support
             path: docs/pages/division-9-support.mdx
-            icon: fa-solid fa-hand-holding-dollar
-          - page: Prevention of Domestic Violence
+            icon: docs/assets/icon-circle.svg
+          - page: Division 10 — Domestic Violence
             path: docs/pages/division-10-domestic-violence.mdx
-            icon: fa-solid fa-shield-halved
-          - page: Minors
+            icon: docs/assets/icon-circle.svg
+          - page: Division 11 — Minors
             path: docs/pages/division-11-minors.mdx
-            icon: fa-solid fa-child
-          - page: Parent and Child Relationship
+            icon: docs/assets/icon-circle.svg
+          - page: Division 12 — Parent and Child
             path: docs/pages/division-12-parent-child.mdx
-            icon: fa-solid fa-people-roof
-          - page: Adoption
+            icon: docs/assets/icon-circle.svg
+          - page: Division 13 — Adoption
             path: docs/pages/division-13-adoption.mdx
-            icon: fa-solid fa-people-arrows
-          - page: Family Law Facilitator Act
+            icon: docs/assets/icon-circle.svg
+          - page: Division 14 — Family Law Facilitator
             path: docs/pages/division-14-family-law-facilitator.mdx
-            icon: fa-solid fa-headset
-          - page: Support Services
+            icon: docs/assets/icon-circle.svg
+          - page: Division 15 — Conservatorship and Guardianship
+            path: docs/pages/division-15-conservatorship.mdx
+            icon: docs/assets/icon-circle.svg
+          - page: Division 17 — Support Services
             path: docs/pages/division-17-support-services.mdx
-            icon: fa-solid fa-building-columns
-          - page: Pilot Projects
+            icon: docs/assets/icon-circle.svg
+          - page: Division 20 — Pilot Projects
             path: docs/pages/division-20-pilot-projects.mdx
-            icon: fa-solid fa-flask
-          - page: Forms
-            path: docs/pages/forms.mdx
-            icon: fa-solid fa-file-lines
-          - page: Judicial Decisions
-            path: docs/pages/case-law.mdx
-            icon: fa-solid fa-scale-balanced
-      - section: Docs Toolkit
-        contents:
-          - page: Components reference
-            path: docs/pages/components.mdx
-            icon: fa-solid fa-cubes
-          - page: Developer guide
-            path: docs/pages/developer-guide.mdx
-            icon: fa-solid fa-code
-          - page: Support
-            path: docs/pages/support.mdx
-            icon: fa-solid fa-headset
-  - tab: API Reference
-    layout:
-      - section: Overview
-        contents:
-          - page: Family Code API
-            path: docs/pages/api-reference-overview.mdx
-            icon: fa-duotone fa-book
-      - api: Family Code API - OpenAPI 3.1
-        api-name: example-openapi
-      - api: Family Code Realtime
-        api-name: example-asyncapi
-navbar-links:
-  - type: filled
-    text: Read the source
-    url: https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM
+            icon: docs/assets/icon-circle.svg
 colors:
   accent-primary:
-    light: "#1D4ED8"
-    dark: "#60A5FA"
+    light: "#000000"
+    dark: "#ffffff"
   background:
-    light: "#FFFFFF"
-    dark: "#0A0A0A"
+    light: "#ffffff"
+    dark: "#0a0a0a"
   border:
-    light: "#9CA3AF"
-    dark: "#3F3F46"
+    light: "#e5e5e5"
+    dark: "#2a2a2a"
 theme:
   page-actions: toolbar
   footer-nav: minimal
@@ -134,7 +102,6 @@ landing-page:
   slug: /
 css:
   - styles.css
-  - docs/assets/onboarding-theme.css
 typography:
   headingsFont:
     name: Public Sans
