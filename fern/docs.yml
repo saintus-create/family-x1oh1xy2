@@ -114,17 +114,9 @@ typography:
   bodyFont:
     name: Public Sans
     weight: 400
-  fontSize:
-    base: 17px
-    headings:
-      h1: 2.25rem
-      h2: 1.5rem
-      h3: 1.25rem
-  lineHeight:
-    body: 1.7
-    headings: 1.25
-  letterSpacing:
-    headings: 0.01em
+  codeFont:
+    name: Public Sans
+    weight: 400
 ai-search:
   location:
     - docs
