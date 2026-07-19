@@ -1,0 +1,489 @@
+Case-Annotated Compendium of California Domestic Violence Laws 
+2026  
+(Last Updated 6/8/26) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Produced By: 
+Family Violence Appellate Project 
+Office: (510) 858-7358 | Helpline: (510) 380-6243   
+www.fvaplaw.org 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+2 
+INTRODUCTION 
+ 
+This document is only informational and is NOT legal advice. For legal questions, 
+contact an attorney. 
+ 
+This Case-Annotated Compendium of California Domestic Violence Laws is a list 
+of some of the most important civil cases (including family law), with descriptions of 
+their most significant holdings and a list of the statutes, rules, and regulations used or 
+affected by the case.  Since some cases were decided, laws may have changed, 
+including being renumbered; we have done our best to use only the current versions of 
+the laws relied upon by the appellate courts.  This document does not cover criminal 
+cases unless they are relevant to analyzing civil domestic violence cases, federal court 
+cases, or dependency cases not involving DV.  FVAP will strive to continually update 
+this document as more published case law dealing with DV develops from California 
+state courts.  However, please note that laws can change quickly, and FVAP is a small 
+nonprofit with limited staff.  Reliance on this document is not an adequate substitute 
+for legal research. 
+ 
+The list is categorized by the area of law, and some cases touch on multiple areas 
+of law.  Each entry also notes the specific statutes and laws that are being explained in 
+the opinion.  Most statutes covered are part of the Domestic Violence Prevention Act 
+(DVPA; Fam. Code, § 6200 et seq.).  The statutes and rules below are hyperlinked 
+(colored blue and underlined) to access a webpage, and cases are hyperlinked for 
+download.  To access a hyperlink, you may need to press and hold “Ctrl” on your 
+keyboard before clicking.  The Table of Contents is also hyperlinked to the specific 
+sections in this document.  “§” means “section,” and “et seq.” means “and the following.”  
+Many marital and dependency cases begin with the phrase “In re,” which is Latin for “In 
+the matter of.” 
+ 
+We want this Annotated Compendium to, in part, supplement the annual 
+Compendium of DV-related Laws, an annually updated free list of about 600 DV-
+related laws in California put together by FVAP and the California Partnership to End 
+Domestic Violence.  Note that statutes and constitutional provisions can be found for 
+free online—as can California Rules of Court, federal laws and regulations, and local 
+court rules. 
+ 
+FVAP has free online resources that provide information and tips on many of the laws 
+and cases covered in this document.  The resources include trainings, toolkits, and 
+sample court documents you can use. 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+3 
+ 
+ 
+Who We Are:  Family Violence Appellate Project (FVAP) is a California state non-profit legal 
+organization whose mission is to ensure the safety and well-being of survivors of domestic 
+violence and other forms of intimate partner, family, and gender-based abuse by helping 
+them obtain effective appellate representation.  FVAP provides legal assistance to survivors 
+of abuse at the appellate level through direct representation, collaborating with pro bono 
+attorneys, advocating for survivors on important legal issues, and offering training and legal 
+support for legal services providers and domestic violence, sexual assault, and human 
+trafficking counselors. FVAP’s work contributes to a growing body of case law that provides 
+the safeguards necessary for survivors of abuse and their children to obtain relief from abuse 
+through the courts. 
+ 
+Our Mission: By holding courts accountable for the safety and well-being of survivors, 
+we’re making sure the law does what it’s supposed to—keep families safe.  Our goal is 
+to empower survivors through the court system, ensuring they and their children can live 
+free from abuse.  
+ 
+The development of this product was supported in part by funding awarded by the 
+United States Department of Justice, Victims of Crime Act, XL-22 05 1029 through the 
+California Governor’s Office of Emergency Services. 
+ 
+Copyright © Family Violence Appellate Project 2026. 
+ 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+4 
+Table of Contents 
+A. Introduction ........................................................................................................... 6 
+B. Cases ..................................................................................................................... 8 
+II. Issuing DV Restraining Orders .............................................................................. 21 
+A. Introduction ......................................................................................................... 21 
+B. Cases ................................................................................................................... 22 
+1) When is it Appropriate to Issue a Restraining Order and What Can it Do ........ 22 
+2) What or Whom Should or Should Not Be Included as Part of the Restraining 
+Order ................................................................................................................ 30 
+3) Who Can Apply for a Restraining Order ........................................................... 33 
+4) Issuing Restraining Orders, and Continuances ................................................ 36 
+5) Personal Service & Respondent's Right to Appear in DVPA Proceedings ...... 41 
+C. Juvenile Court Domestic Violence Restraining Order Cases .......................... 42 
+III. Mutual Restraining Orders .................................................................................... 44 
+A. Introduction ......................................................................................................... 44 
+B. Cases ................................................................................................................... 44 
+IV. Renewing DV Restraining Orders......................................................................... 49 
+A. Introduction ......................................................................................................... 49 
+B. Cases ................................................................................................................... 50 
+V. Modifying and Terminating Domestic Violence and Civil Harassment 
+Restraining Orders ...................................................................................................... 55 
+A. Introduction ......................................................................................................... 55 
+B. Cases ................................................................................................................... 56 
+VI. DVRO & Firearms ................................................................................................... 58 
+A. 
+Introduction .................................................................................................... 58 
+B. 
+Cases .............................................................................................................. 58 
+VII. Attorney Fees and Costs in Some Family Law Cases ....................................... 59 
+A. Introduction ......................................................................................................... 59 
+B. Cases ................................................................................................................... 60 
+VIII. Vexatious Litigant ................................................................................................ 63 
+A. 
+Introduction .................................................................................................... 63 
+B. 
+Cases .............................................................................................................. 63 
+IX. Custody and Visitation .......................................................................................... 64 
+A. Introduction ......................................................................................................... 64 
+B. Cases ................................................................................................................... 65 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+5 
+1. General Standards for Custody and Visitation Proceedings .............................. 65 
+2. Family Code Section 3044 ................................................................................ 68 
+3. Custody Evaluations.......................................................................................... 76 
+4. Minor’s Counsel Role ........................................................................................ 77 
+5. Custody and Visitation in DVPA Proceedings ................................................... 77 
+6. Sanctions .......................................................................................................... 79 
+7.Uniform Child Custody and Jurisdiction and Enforcement Act (UCCJEA) .......... 79 
+8. Hague Convention on the Civil Aspects of International Child Abduction.......... 80 
+X. Spousal Support and Other Financial Support .................................................... 83 
+A. Introduction ......................................................................................................... 83 
+B. Cases ................................................................................................................... 83 
+1. Spousal Support ................................................................................................ 83 
+2. Other Financial Support .................................................................................... 86 
+XI. DV as a Tort ............................................................................................................ 87 
+A. Introduction ......................................................................................................... 87 
+B. Cases ................................................................................................................... 88 
+XII. Juvenile Dependency ........................................................................................... 90 
+A. 
+Introduction .................................................................................................... 90 
+XIII. Special Immigrant Juvenile Status ................................................................... 100 
+A. Introduction ....................................................................................................... 100 
+B. Cases ................................................................................................................. 101 
+XIV. Other Cases ....................................................................................................... 102 
+A. 
+Anti-SLAPP (Litigation Privilege) Statute and DV ..................................... 103 
+B. 
+Civil Rights ................................................................................................... 105 
+C. 
+Evidence ....................................................................................................... 106 
+D. 
+Housing ........................................................................................................ 107 
+E. 
+Impeaching Witness Credibility .................................................................. 107 
+F. 
+Liability of Mandated Reporters ................................................................. 108 
+G. 
+Marsy’s Law ................................................................................................. 109 
+H. 
+Nullification of Marriage .............................................................................. 109 
+I. 
+Right to a Court Reporter ............................................................................ 110 
+J. 
+Sanctions ...................................................................................................... 111 
+K. 
+Venue (Place of Trial) .................................................................................. 112 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+6 
+I. What Is “Abuse” Under the DVPA? 
+ 
+ 
+A. Introduction 
+ 
+“Abuse is not limited to the actual infliction of physical injury or assault.”  (Fam. Code, § 
+6203, subd. (b).) “Abuse” is defined broadly under Family Code section 6203, 
+subdivision (a) to mean any of the following: 
+ 
+          “(1) To intentionally or recklessly cause or attempt to cause bodily injury. 
+(2) Sexual assault. 
+(3) To place a person in reasonable apprehension of imminent serious 
+bodily injury to that person or to another. 
+(4) To engage in any behavior that has been or could be enjoined pursuant 
+to Section 6320 [provided below].” 
+ 
+Broadly speaking, when a trial court orders someone to not do something in 
+Family Code section 6320, it is “enjoining” them. An “injunction” is basically a 
+court order to not do something.  (See Code Civ. Proc., § 525.) 
+ 
+Family Code section 6320, subdivision (a), in turn, provides that a trial court  
+ 
+“may issue an ex parte order enjoining a party from molesting, attacking, 
+striking, stalking, threatening, sexually assaulting, battering, credibly 
+impersonating as described in Section 528.5 of the Penal Code, falsely 
+personating as described in Section 529 of the Penal Code, harassing, 
+telephoning, including, but not limited to, making annoying telephone calls 
+as described in Section 653m of the Penal Code, destroying personal 
+property, contacting, either directly or indirectly, by mail or otherwise, 
+coming within a specified distance of, or disturbing the peace of the other 
+party, and, in the discretion of the court, on a showing of good cause, of 
+other named family or household members.”  
+ 
+Family Code section 6320, subdivision (b) provides, in relevant part, that a trial court 
+ 
+“may order the respondent to stay away from the [petitioner’s, respondent’s, 
+or child’s] animal and forbid the respondent from taking, transferring, 
+encumbering, concealing, molesting, attacking, striking, threatening, 
+harming, or otherwise disposing of the animal.” 
+ 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+7 
+Family Code section 6320, subdivision (c) defines disturbing the peace further:  
+“disturbing the peace of the other party” refers to conduct that, based on the 
+totality of the circumstances, destroys the mental or emotional calm of the other 
+party.  This conduct may be committed directly or indirectly, including through the 
+use of a third party, and by any method or through any means including, but not 
+limited to, telephone, online accounts, text messages, internet-connected 
+devices, or other electronic technologies.  This conduct includes, but is not 
+limited to, coercive control, which is a pattern of behavior that in purpose or effect 
+unreasonably interferes with a person’s free will and personal liberty. Examples 
+of coercive control include, but are not limited to, unreasonably engaging in any 
+of the following: 
+(1) Isolating the other party from friends, relatives, or other sources of support. 
+(2) Depriving the other party of basic necessities. 
+(3) Controlling, regulating, or monitoring the other party’s movements, 
+communications, daily behavior, finances, economic resources, or access to 
+services. 
+(4) Compelling the other party by force, threat of force, or intimidation, including 
+threats based on actual or suspected immigration status, to engage in conduct 
+from which the other party has a right to abstain or to abstain from conduct in 
+which the other party has a right to engage. 
+(5) Engaging in reproductive coercion, which consists of control over the 
+reproductive autonomy of another through force, threat of force, or intimidation, 
+and may include, but is not limited to, unreasonably pressuring the other party to 
+become pregnant, deliberately interfering with contraception use or access to 
+reproductive health information, or using coercive tactics to control, or attempt to 
+control, pregnancy outcomes.” 
+ 
+Pursuant to subdivision (a)(4) of section 6203 of the Family Code, then, any of the acts 
+listed above in Family Code section 6320, subdivision (a), (b) or (c), could be “abuse” 
+under the DVPA. The cases provided below provide some examples of cases 
+interpreting the various definitions of “abuse.” Only one so far, a criminal case (People 
+v. Kovacich (below)), has applied subdivision (b) of section 6320 of the Family Code, 
+abuse against animals. 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+8 
+ 
+B. Cases 
+ 
+R.R. v. C.R.  (2026) 117 Cal.App.5th 1262 
+R.R.  sought a DVRO against his child’s mother, C.R. In his request, R.R. stated C.R. 
+was stalking him. According to R.R., C.R. sat in her car outside of his house late at 
+night, repeatedly rang his doorbell, refused to leave his house, and followed him when 
+he was driving on the highway. At the hearing, C.R. admitted she went to R.R.’s house 
+many times, refused to leave, and followed him on one occasion. The trial court 
+described C.R.’s behavior as obsessive but denied R.R.’s request for a DVRO.  The 
+court ruled C.R.’s actions was not abuse because they were not meant to threaten or 
+intimidate R.R. 
+ 
+R.R. appealed the decision. The Court of Appeal disagreed with the trial court and 
+ordered the trial court to enter the DVRO.  The Court of Appeal explained that R.R. did 
+not need to show that C.R. intended to threaten or intimidate him to show abuse. The 
+court also explained that R.R. did not need to show that future abuse was likely. 
+Statues used or affected: Family Code sections 6300, 6203, 6301, 6320 
+ 
+Michael K. v. Cho (2025) 113 Cal.App.5th 1 
+In this case, Survivor S.J. K. hired Attorney Cho to represent her in her divorce and 
+DVRO proceedings against her estranged Husband, Michael K.  Survivor used a joint 
+credit card to pay her fees.  Husband contested the charges with the credit card 
+company.  Attorney told the company why the charges were valid, and reiterated to the 
+credit card company the allegations of abuse Survivor had made against Husband.   
+ 
+Husband then sued Attorney for her statements to the credit card company, claiming 
+libel (written defamation) (Civ. Code, §§ 44, 45), negligence, and intentional infliction of 
+emotional distress.  Attorney filed an anti-SLAPP motion to strike Husband’s complaint, 
+arguing Attorney’s statements related to the litigation and so were protected by the 
+statute. Attorney also arguing Husband’s litigation would not prevail on the merits.  The 
+trial court denied Attorney’s anti-SLAPP motion, and Attorney appealed.  
+ 
+The Court of Appeal reversed.  The court held that Attorney’s statements “arose from” a 
+judicial proceeding because the statements were made in relation to Survivor’s ability to 
+pay Attorney’s fees for the divorce and DVRO litigation.  (See Code Civ. Proc., § 
+425.16.)  Notably, the court also confirms, “Depriving a spouse of funds required for 
+basic necessities qualifies as abuse under the” DVPA.  (Fam. Code, § 6320.)  In the 
+unpublished part of the opinion, the court also concluded that Husband “failed to 
+demonstrate any probability of prevailing” on his claims. 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+9 
+Statutes used or affected: Civil Code sections  44, 45 and 47; Code of Civil Procedure 
+section 425.16; Family Code Sections 2030, 2040 and 6320 
+ 
+X.K. v. M.C. (2025) 112 Cal.App.5th 1287 
+In this case, M.C., a U.S. citizen, subjected ex-wife and mother of their child, X.K., an 
+emigrant, to years of physical, sexual, and emotional abuse, including coercive 
+control—both in the U.S. and abroad in China.  X.K. sought a DVRO against M.C. 
+based on this abuse. The trial court denied X.K.’s request after a hearing, noting its 
+belief that the case was more about custody and visitation issues rather than a DVRO, 
+and its question of whether it had the power to consider abuse that occurred in another 
+country.  The appellate court reversed and remanded for a new hearing.  The appellate 
+court explained that abuse is still abuse, even if it occurs or is alleged during a custody 
+or visitation matter, and abuse in other countries must still be considered under the 
+“totality of the circumstances” analysis.  (See Fam. Code, §§ 6301, subd. (d), 6320, 
+subd. (c).)  
+Statutes used or affected:  Family Code sections 6203, 6220, 6221, 6300, 6301, 6320 
+and 6320.5 
+ 
+Bassi v. Bassi (2024) 101 Cal.App.5th 1080  
+In this case, during divorce proceedings, Robert asked for a DVRO against his wife, 
+Susan, because she sent unwanted, harassing, and disturbing emails to Robert.  
+Robert’s business associates and customers were often copied on the emails resulting 
+in harm to Robert’s business and life.  Susan attempted to dismiss the DVRO request 
+early with an anti-SLAPP motion, arguing her emails were protected speech and 
+litigation correspondence because she intended to file a lawsuit against Robert.  The 
+trial court denied Susan’s anti-SLAPP motion; and the Court of Appeal affirmed.  (Code 
+Civ. Proc., § 425.16.)   
+ 
+This case has a few holdings that are quite important:  (1) Survivors don’t have to ask 
+the person who is being abusive to stop the abuse before they can get a DVRO;  (2) 
+Behavior that seems like a “mere annoyance” when it is considered in isolation may 
+actually be abuse when the parties’ history is considered;  (3) Any type of abuse –such 
+as unwanted contacts, harassment, or disturbing the peace–can be enough for a 
+DVRO, even if only one form of abuse was used against the survivor;  (4) Abuse is 
+abuse, even without threats or violence; (5) Curcio v. Pels, discussed in Section I(B)in , 
+should be used in a very limited way, when trying to say conduct isn’t abuse;  (6) the 
+anti-SLAPP law couldn’t prevent the DVRO request here because the few messages 
+that involved litigation were sufficiently abusive, as a prima facie matter, so they were 
+not covered by the law; and  (7) the litigation privilege (Civ. Code, § 47) couldn’t be 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+10
+used to prevent the DVRO request here because many of the emails were not lawsuit-
+related and were sufficiently abusive, as a prima facie matter.   
+Statutes used or affected: Family Code sections 6300, 6301, 6320; Code of Civil 
+Procedure section 425.16; Civil Code section 47   
+ 
+Hatley v. Southard (2023) 94 Cal.App.5th 579  
+In this case, the trial court denied Hatley’s DVRO request against her estranged 
+husband Southard because the court thought her “allegations of a pattern of control and 
+isolation” by Southard, which included “limiting her access to money, communication, 
+and transportation[,] did not fall within the statutory definition of domestic violence or 
+abuse.”  The Court of Appeal reversed, explaining the allegations were abuse and could 
+support a DVRO.  Hatley also alleged other forms of abuse, including physical abuse, 
+but the opinion’s discussion largely focuses on the alleged harassment, disturbing the 
+peace, and coercive control.  The Court also concluded the trial court erred in not 
+allowing Hatley to testify to Southard’s sexual abuse, because Hatley had adequately 
+pled and put Southard on notice of those allegations in one of her supplemental 
+declarations, as discussed in In re Marriage of Davila & Mejia, post.  Further, the Court 
+held the trial court erred by not addressing Hatley’s request for spousal support, which 
+the court has to rule on even if it denies the DVRO request, applying In re Marriage of 
+J.Q. & T.B., post.  
+Statutes used or affected: Family Code sections 6203, 6211, 6300, 6320, 6341; Code of 
+Civil Procedure section 631.8 
+ 
+Jan F. v. Natalie F. (2023) 96 Cal.App.5th 583 
+Natalie sought a DVRO against her children's father, Jan. In her request, Natalie 
+provided evidence that Jan, in a short time frame, made multiple calls for police welfare 
+checks when Natalie had custody of the children. Natalie stated that Jan provided false 
+information to the police and the welfare checks were intended to harass her. The family 
+court denied Natalie’s DVRO request because it did not believe Jan’s actions were 
+abuse under the DVPA and did not want to restrain Jan from contacting the police in the 
+future because he might have sincere concerns about the children’s welfare.  
+ 
+The Court of Appeal disagreed, explaining that calls to law enforcement for welfare 
+checks can be abuse under the DVPA if the calls are not made for a legitimate reason. 
+To determine if calls to the police for welfare checks are legitimate or intended to harass 
+someone, the Court considered several factors – such as the frequency and timing of 
+the calls to the police, and whether a parent immediately contacts law enforcement 
+instead of first contacting the other parent to check on the children’s welfare. 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+11
+Also, the Court held that Jan had no First Amendment right to call the police to conduct 
+welfare checks if his calls were without a legitimate basis and for the purpose of 
+harassing Natalie. If done to harass her, making law enforcement calls was abuse 
+under the DVPA and abuse is not protected speech. The Court sent the case back to 
+family court for an evidentiary hearing so Jan could offer evidence if he had legitimate 
+concerns when he made multiple requests for police welfare checks. 
+Statutes used of affected: Family Code section 6300, 6203, 6320 
+ 
+Parris J. v. Christopher U. (2023) 96 Cal.App.5th 108 
+In this case, Parris got a five-year DVRO against her former husband Christopher, and 
+an award of $200,000 attorney’s fees under the DVPA. The trial court also denied 
+Christopher’s two requests for a Statement of Decision. The Court of Appeal affirmed, 
+concluding the trial court correctly found the evidence showed Christopher had abused 
+Parris in many ways, including financial abuse, threats, coercive control, harassment, 
+and disturbing the peace. Plus, Christopher violated Parris’s TRO by sending 
+disparaging letters to her new employer, trying to get her fired. Further, the Court 
+concluded Christopher’s Statement of Decision requests were improperly made, so 
+properly denied. And since the Court was affirming the DVRO, there was no basis to 
+reverse Parris’s attorney’s fees award. 
+ 
+Importantly, this case has some relatively novel holdings and conclusions. First, this is 
+one of the first cases to discuss “coercive control” in a context without physical abuse—
+here Christopher monitored and controlled Parris’s movements and communications, 
+ran up her debt, and threatened to destroy her property. Second, this case explains 
+courts should focus on the survivor’s perspective and experience- not a “reasonable 
+person” or “objective” standard- when analyzing “disturbing the peace of the other party” 
+and “harassment” under the DVPA.  
+ 
+Third, this is the first case to explain that having a large life insurance policy on 
+someone’s life can “disturb the peace” of that person.  Given the extensive abuse in this 
+case it was proper for the trial court to find that his benefitting from an insurance policy 
+on her life “disturbed Parris’s peace” under the law. Fourth, this is the first case to 
+explain that the trial court could legally order a person who is abusive (Christopher) to 
+change the beneficiary of that insurance policy on the survivor’s (Parris’s) life.   
+Statutes used or affected: Family Code sections 6203, 6218, 6220, 6320, 6322, 6324, 
+6340, 6344, 6360; Code of Civil Procedure sections 632, 634 
+ 
+ 
+ 
+ 
+
+Case-Annotated Compendium of California Domestic Violence Laws 
+Family Violence Appellate Project 
+ 
+ 
+12
+Vinson v. Kinsey (2023) 93 Cal.App.5th 1166 
+Mother asked for a Domestic Violence Restraining Order (DVRO) against Father in April 
+2020, after more than a decade of physical and verbal abuse by Father.  While they 
+were not dating anymore, Mother and Father had ongoing contact because they had 
+children together. In Mother’s request, the most recent incident of abuse was in March 
+2020 when Father took Mother to the grocery store to buy food for the kids.  Father 
+became “irate,” “began threatening to beat [her] face in,” and said he would kill her.  
+Mother submitted as evidence pages of text messages showing Father’s many threats 
+to harm or kill her.  She also submitted sworn statements from family and friends 
+describing incidents of Kinsey physically injuring and verbally attacking Vinson. They 
+described Father punching holes in the wall of Mother’s home. The trial court denied 
+Mother’s request for the DVRO.  The trial court found that Mother did not “act like” 
+Father’s threats of violence were real threats because she continued to have contact 
+with him, even driving him to the grocery store in March despite his past behavior. The 
+trial court also said Mother waited too long to file her request. She filed about 5 weeks 
+after the most recent incident. The trial court said this suggested that Mother was “not 
+particularly concerned” about Father’s threats.  The trial court cited unspecific “issues of 
+credibility” as another reason for denying Mother’s DVRO request. 
+ 
+The Court of Appeal disagreed and sent the case back to the trial court with instructions 
+to have a new hearing. The Court s

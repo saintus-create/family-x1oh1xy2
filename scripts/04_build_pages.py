@@ -140,12 +140,25 @@ def render_division_page(div_key, div_info, secs: list[dict]) -> str:
         "",
         "## Sections",
         "",
+        '<div class="section-list">',
     ]
     for s in secs:
         sec_slug = f"{slug}-section-{s['sectionNumber']}"
-        lines.append(f"- [{s['sectionNumber']}](/{sec_slug})")
-    lines += ["", '<div class="source-note">', "", "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).", ""]
-    lines.append('</div>')
+        lines.append(
+            f'<a class="section-btn" href="/{sec_slug}">'
+            f'<span class="section-btn-icon">⚖️</span>'
+            f'<span>Sec. {s["sectionNumber"]}</span>'
+            f'</a>'
+        )
+    lines += [
+        "</div>",
+        "",
+        '<div class="source-note">',
+        "",
+        "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).",
+        "",
+        "</div>",
+    ]
     return "\n".join(lines)
 
 
