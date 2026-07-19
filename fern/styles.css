@@ -12,14 +12,23 @@
   --space: 1.5rem;
 }
 
+/* Fern toggles dark mode via data-theme; keep OS-pref fallback too */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --color-bg: #0a0a0a;
     --color-text: #fafafa;
     --color-muted: #999999;
     --color-border: #2a2a2a;
     --color-link: #ffffff;
   }
+}
+
+html[data-theme="dark"] {
+  --color-bg: #0a0a0a;
+  --color-text: #fafafa;
+  --color-muted: #999999;
+  --color-border: #2a2a2a;
+  --color-link: #ffffff;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -29,6 +38,8 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+  background: var(--color-bg);
+  color: var(--color-text);
 }
 
 body {
