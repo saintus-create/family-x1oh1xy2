@@ -2,22 +2,15 @@
 """
 04_build_pages.py
 -----------------
-Rebuild the clean Fern docs site from the extracted data:
+Rebuild the Fern docs site from the extracted Family Code data.
 
-  1. Generate one MDX page per Family Code division from
-     family_code_sections.json (verbatim statute text only).
-  2. Inject cross-reference links from fam_cross_references.json
-     into the page bodies (wrapping bare "Section X" / code mentions
-     in <a href="..."> links).
-  3. Regenerate home.mdx with the full division list.
-
-This supersedes generate_pages.py + link_cross_refs.py. It keys section
-detection on "### Section N" headers (not the removed Badge markers), so
-the cleanup no longer breaks linking.
+Emits clean Markdown so Fern's built-in theme handles fonts, spacing,
+TOC sidebar, and responsive layout automatically.
 
 Run:  python3 04_build_pages.py
 """
 from __future__ import annotations
+
 import json
 import re
 from pathlib import Path
@@ -27,7 +20,6 @@ PAGES_DIR = REPO / "fern" / "docs" / "pages"
 SECTIONS_FILE = REPO / "family_code_sections.json"
 XREF_FILE = REPO / "fam_cross_references.json"
 
-# Division -> (title, slug) — official California Family Code divisions.
 DIVISIONS = {
     1: ("Preliminary Provisions and Definitions", "preliminary-provisions"),
     2: ("General Provisions", "marriage"),
@@ -54,8 +46,6 @@ def division_of(section_number: str) -> float:
         n = float(section_number)
     except ValueError:
         return 0.0
-    # California Family Code division boundaries (official, by section number).
-    # Section 1000/1100 -> Div 4; 2000-2452 -> Div 6; 1800-1852 -> Div 5.
     if n < 200:
         return 1
     if n < 297:
@@ -106,11 +96,29 @@ def division_of(section_number: str) -> float:
 def build_pages(sections: list[dict]) -> dict[float, list[dict]]:
     by_div: dict[float, list[dict]] = {}
     for s in sections:
-        div = division_of(s["sectionNumber"])
-        by_div.setdefault(div, []).append(s)
+        by_div.setdefault(division_of(s["sectionNumber"]), []).append(s)
     for div in by_div:
         by_div[div].sort(key=lambda x: float(x["sectionNumber"]))
     return by_div
+
+
+def clean_text(text: str) -> str:
+    """Prepare raw statute text for Markdown rendering.
+
+    - Fix OCR hyphenation artifacts ("communi- ty" -> "community").
+    - Join soft line breaks (PDF extraction artifacts) into sentences.
+    - Collapse multiple blank lines.
+    """
+    text = re.sub(r"\b(\w+)-\s+", r"\1", text)
+    text = re.sub(r"([A-Za-z0-9,;:])\s*\n(?=[A-Za-z0-9])", r"\1 ", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    # Drop bare section-number TOC fragments ("3002." alone on a line) and
+    # the one-line description that follows — index entries leaked from the
+    # annotated source, not statute text.
+    text = re.sub(r"^\s*\d{3,4}\.\s*$\n(?:[A-Z][^\n]*\n)?", "", text, flags=re.M)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def render_page(div_key, div_info, secs: list[dict]) -> str:
@@ -124,18 +132,22 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
         "",
         f"# {title}",
         "",
-        f'<span class="division-label">**Division {div_key}** — California Family Code</span>',
+        f"**Division {div_key}** — California Family Code",
         "",
     ]
     if not secs:
         lines += ["_No sections extracted for this division yet._", ""]
-    else:
-        lines += ["## Sections", ""]
+        return "\n".join(lines)
+
     for s in secs:
+        sec_url = (
+            "https://leginfo.legislature.ca.gov/faces/codes_displaySection"
+            f".xhtml?lawCode=FAM&sectionNum={s['sectionNumber']}."
+        )
         lines += [
-            f"### Section {s['sectionNumber']}",
+            f"### [Section {s['sectionNumber']}]({sec_url})",
             "",
-            s["text"],
+            clean_text(s["text"]),
             "",
             "",
         ]
@@ -143,13 +155,8 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
 
 
 def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -> str:
-    """Wrap bare 'Section X' / code mentions in links (skip already-linked).
-
-    Optimized: collect unique (fragment, url) pairs once, then a single
-    pass per fragment across the whole page.
-    """
-    # Build the set of section numbers actually present in this page.
-    present = {m.group(1) for m in re.finditer(r"^### Section (\S+)", content, re.M)}
+    """Wrap bare 'Section X' mentions with links."""
+    present = {m.group(1) for m in re.finditer(r"^### \[Section (\S+)", content, re.M)}
     if not present:
         return content
 
@@ -170,59 +177,18 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
         pattern = re.compile(
             r"(?<![={\"<])(?<!href=\")\b" + re.escape(frag) + r"\b(?![}>])"
         )
-        content = pattern.sub(lambda mm, u=url: f'<a class="xref" href="{u}">{mm.group(0)}</a>', content)
+        content = pattern.sub(
+            lambda mm, u=url: f'<a href="{u}">{mm.group(0)}</a>', content
+        )
     return content
 
 
 def style_emphasis(content: str) -> str:
-    """Replace Markdown italics with styled spans / callouts.
-
-    - '* * *' (omitted-text marker) -> a callout note block.
-    - remaining inline '*text*' -> colored <span class="em"> (no underline).
-    """
-    # 0) Clean common OCR hyphenation artifacts: a word broken across a line
-    #    with a stray hyphen + space, e.g. "communi- ty" -> "community".
-    content = re.sub(r"\b(\w+)-\s+", r"\1", content)
-    # 1) Omitted-text ellipses: '* * *' on its own line or inline.
-    content = content.replace("* * *", '<aside class="omit-note">[text omitted in source]</aside>')
-
-    # 2) Inline italics: *word(s)* bounded by word chars -> span.em.
-    #    Skip **bold**, links, and the * * * omitted markers (already handled).
-    def _em(m):
-        text = m.group(1).strip()
-        if not text or re.fullmatch(r"[* x]+", text):
-            return m.group(0)
-        return f'<span class="em">{text}</span>'
-
-    content = re.sub(
-        r"(?<!\*)\*([A-Za-z][\w '’\-]*?)\*(?!\*)",
-        _em,
-        content,
+    """Replace '* * *' omitted-text markers with a simple callout."""
+    return content.replace(
+        "* * *",
+        "<aside class=\"omit-note\">[text omitted in source]</aside>",
     )
-    content = content.replace('<span class="em"></span>', "")
-
-    # 3) Prose double-quotes -> colored <span class="quoted">.
-    #    Only wraps word-bounded "..." in body text; URLs/attributes/YAML
-    #    are not emitted as bare quotes by this pipeline, so they're safe.
-    def _quote(m):
-        inner = m.group(1)
-        if not inner.strip():
-            return m.group(0)
-        # Skip URLs / HTML attributes (href=, class=, etc.).
-        if inner.startswith("http") or ":" in inner.split(" ")[0] and inner.split(" ")[0] in (
-            "href", "class", "src", "alt", "title", "rel", "id"
-        ):
-            return m.group(0)
-        return f'<span class="quoted">"{inner}"</span>'
-
-    # Negative lookbehind for '=' so attribute values (href=", class=) are skipped.
-    # Only run on the page BODY (after frontmatter), so the title: "..." value
-    # is never wrapped.
-    parts = content.split("\n---\n", 1)
-    if len(parts) == 2:
-        body = re.sub(r'(?<![=\w])"([A-Za-z][^"]*?)"', _quote, parts[1])
-        content = parts[0] + "\n---\n" + body
-    return content
 
 
 def main() -> None:
@@ -244,11 +210,9 @@ def main() -> None:
         if xrefs:
             content = inject_cross_refs(content, xrefs, div_sections)
         content = style_emphasis(content)
-        slug = div_info[1]
-        out = PAGES_DIR / f"{slug}.mdx"
-        out.write_text(content, encoding="utf-8")
-        generated.append((div_key, slug, len(secs)))
-        print(f"page: {slug}.mdx ({len(secs)} sections)")
+        (PAGES_DIR / f"{div_info[1]}.mdx").write_text(content, encoding="utf-8")
+        generated.append((div_key, div_info[1], len(secs)))
+        print(f"page: {div_info[1]}.mdx ({len(secs)} sections)")
 
     # Home page
     home = [
