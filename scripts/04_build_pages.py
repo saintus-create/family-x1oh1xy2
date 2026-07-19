@@ -162,7 +162,33 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
         pattern = re.compile(
             r"(?<![={\"<])(?<!href=\")\b" + re.escape(frag) + r"\b(?![}>])"
         )
-        content = pattern.sub(lambda mm, u=url: f'<a href="{u}">{mm.group(0)}</a>', content)
+        content = pattern.sub(lambda mm, u=url: f'<a class="xref" href="{u}">{mm.group(0)}</a>', content)
+    return content
+
+
+def style_emphasis(content: str) -> str:
+    """Replace Markdown italics with styled spans / callouts.
+
+    - '* * *' (omitted-text marker) -> a callout note block.
+    - remaining inline '*text*' -> colored <span class="em"> (no underline).
+    """
+    # 1) Omitted-text ellipses: '* * *' on its own line or inline.
+    content = content.replace("* * *", '<aside class="omit-note">[text omitted in source]</aside>')
+
+    # 2) Inline italics: *word(s)* bounded by word chars -> span.em.
+    #    Skip **bold**, links, and the * * * omitted markers (already handled).
+    def _em(m):
+        text = m.group(1).strip()
+        if not text or re.fullmatch(r"[* x]+", text):
+            return m.group(0)
+        return f'<span class="em">{text}</span>'
+
+    content = re.sub(
+        r"(?<!\*)\*([A-Za-z][\w '’\-]*?)\*(?!\*)",
+        _em,
+        content,
+    )
+    content = content.replace('<span class="em"></span>', "")
     return content
 
 
@@ -184,6 +210,7 @@ def main() -> None:
         content = render_page(div_key, div_info, secs)
         if xrefs:
             content = inject_cross_refs(content, xrefs, div_sections)
+        content = style_emphasis(content)
         slug = div_info[1]
         out = PAGES_DIR / f"{slug}.mdx"
         out.write_text(content, encoding="utf-8")
