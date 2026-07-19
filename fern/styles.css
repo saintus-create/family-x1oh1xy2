@@ -12,10 +12,57 @@ a { text-decoration: none; }
   margin: 0.75rem 0;
 }
 .markdown h3 {
-  margin-top: 2.5rem;
+  margin-top: 3rem;
   margin-bottom: 0.75rem;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid var(--border, #e5e5e5);
+}
+
+/* Sticky inline TOC */
+.markdown > h2:first-of-type {
+  position: sticky;
+  top: 0;
+  background: var(--bg, #ffffff);
+  padding: 0.5rem 0;
+  z-index: 10;
+  border-bottom: 1px solid var(--border, #e5e5e5);
+  margin-bottom: 0.5rem;
+}
+.markdown > h2:first-of-type + ul {
+  margin-bottom: 2rem;
+  padding-left: 1.25rem;
+}
+.markdown > h2:first-of-type + ul li {
+  margin-bottom: 0.35rem;
+}
+.markdown > h2:first-of-type + ul li a {
+  color: var(--muted, #6b6b6b);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.markdown > h2:first-of-type + ul li a:hover {
+  color: var(--accent, #000000);
+  text-decoration: underline;
+}
+
+/* Hero landing area */
+.hero {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid var(--border, #e5e5e5);
+  margin-bottom: 2rem;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  margin-bottom: 0.75rem;
+}
+.hero p {
+  font-size: 1.125rem;
+  color: var(--muted, #6b6b6b);
+  max-width: 42rem;
+  line-height: 1.6;
 }
 
 /* Division cards on home page */
@@ -42,10 +89,6 @@ a { text-decoration: none; }
   font-size: 1rem;
   margin-bottom: 0.25rem;
 }
-.division-card-meta {
-  font-size: 0.85rem;
-  color: var(--muted, #6b6b6b);
-}
 
 /* Borderless callout for omitted text */
 .callout {
@@ -55,6 +98,43 @@ a { text-decoration: none; }
   background: color-mix(in srgb, var(--muted, #6b6b6b) 10%, var(--bg, #ffffff));
   color: var(--muted, #6b6b6b);
   border-radius: 4px;
+}
+
+/* Kent paralegal textbook callout */
+.kent-callout {
+  display: block;
+  margin: 1rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--accent, #000000);
+  background: color-mix(in srgb, var(--accent, #000000) 6%, var(--bg, #ffffff));
+  color: var(--fg, #1a1a1a);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.kent-callout strong {
+  font-weight: 700;
+  color: var(--accent, #000000);
+}
+
+/* FVAP Case-Annotated callout */
+.case-callout {
+  display: block;
+  margin: 1.25rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #2563eb;
+  background: color-mix(in srgb, #2563eb 6%, var(--bg, #ffffff));
+  color: var(--fg, #1a1a1a);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.case-callout strong {
+  font-weight: 700;
+  color: #1e40af;
+}
+.case-callout p {
+  margin: 0.5rem 0;
 }
 
 /* Source note footer */

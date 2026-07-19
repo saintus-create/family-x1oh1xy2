@@ -1,0 +1,26 @@
+{
+  "name": "Family Law for Paralegals — George Kent",
+  "chapters": [
+    { "number": 1, "title": "Introduction to the Family Law Office", "divisions": [] },
+    { "number": 2, "title": "Premarital and Cohabitation Agreements", "divisions": [2, 3, 4] },
+    { "number": 3, "title": "Marriage and Cohabitation", "divisions": [2, 3, 4] },
+    { "number": 4, "title": "Divorce, Dissolution, and Annulment", "divisions": [6] },
+    { "number": 5, "title": "Division of Property and Debts", "divisions": [7] },
+    { "number": 6, "title": "Alimony", "divisions": [4] },
+    { "number": 7, "title": "Child Custody and Visitation", "divisions": [8] },
+    { "number": 8, "title": "Child Support and Paternity", "divisions": [9] },
+    { "number": 9, "title": "Preparation for and Filing of Dissolution of Marriage Papers", "divisions": [6] },
+    { "number": 10, "title": "Pretrial/Pendente Lite Motions and Orders", "divisions": [6] },
+    { "number": 11, "title": "Discovery", "divisions": [6] },
+    { "number": 12, "title": "Negotiations, Hearings, and Trials", "divisions": [6] },
+    { "number": 13, "title": "Postjudgment Matters", "divisions": [6] },
+    { "number": 14, "title": "Adoption, In Vitro Fertilization, and Surrogacy", "divisions": [13] }
+  ],
+  "appendixes": [
+    { "letter": "A", "title": "Guide to Locating Legal Information on the Web and Briefing Cases" },
+    { "letter": "B", "title": "Parenting Plan Guidelines" },
+    { "letter": "C", "title": "Sample Forms" }
+  ],
+  "glossary": true,
+  "index": true
+}

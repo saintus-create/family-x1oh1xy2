@@ -2,10 +2,10 @@
 """
 04_build_pages.py
 -----------------
-Rebuild the Fern docs site from the extracted Family Code data.
+Generate one page per section (paginated), plus one index page per division.
 
-Emits clean Markdown so Fern's built-in theme handles fonts, spacing,
-TOC sidebar, and responsive layout automatically.
+Division pages: 17 index pages listing all sections with links
+Section pages: 3420 individual pages, one per section
 
 Run:  python3 04_build_pages.py
 """
@@ -19,6 +19,7 @@ REPO = Path.cwd()
 PAGES_DIR = REPO / "fern" / "docs" / "pages"
 SECTIONS_FILE = REPO / "family_code_sections.json"
 XREF_FILE = REPO / "fam_cross_references.json"
+CASE_MAP_FILE = REPO / "_section_case_map.json"
 
 DIVISIONS = {
     1: ("Preliminary Provisions and Definitions", "preliminary-provisions"),
@@ -103,34 +104,30 @@ def build_pages(sections: list[dict]) -> dict[float, list[dict]]:
 
 
 def clean_text(text: str) -> str:
-    """Prepare raw statute text for Markdown rendering.
-
-    - Fix OCR hyphenation artifacts ("communi- ty" -> "community").
-    - Join soft line breaks (PDF extraction artifacts) into sentences.
-    - Strip all-caps OCR artifacts.
-    - Drop bare section-number TOC fragments.
-    - Normalize whitespace.
-    """
     text = re.sub(r"\b(\w+)-\s+", r"\1", text)
     text = re.sub(r"([A-Za-z0-9,;:])\s*\n(?=[A-Za-z0-9])", r"\1 ", text)
-    # Strip all-caps OCR artifacts (e.g. "WELFARE AND INSTITUTIONS CODE").
     text = re.sub(r"\b[A-Z]{3,}(?:\s+[A-Z]{3,})*\b", "", text)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"^\s*\d{3,4}\.\s*$\n(?:[A-Z][^\n]*\n)?", "", text, flags=re.M)
     text = re.sub(r"\n{3,}", "\n\n", text)
-    # Remove Markdown italic artifacts from PDF extraction
-    # ("* *", "* x *", "*.*", "* this section *" etc.).
     text = re.sub(r"\*\s*\*\s*", " ", text)
     text = re.sub(r"\*\s*x\s*\*\s*", "", text)
     text = re.sub(r"\*\.\s*", "", text)
-    # Strip any remaining lone italic markers: *word* or _word_
-    text = re.sub(r"\*([^*\n]+)\*", r"\1", text)
+    # Strip any remaining italic markers: *word*, * * *, _word_, etc.
+    text = re.sub(r"\*{1,3}\s*", "", text)
     text = re.sub(r"_([^_\n]+)_", r"\1", text)
     return text.strip()
 
 
-def render_page(div_key, div_info, secs: list[dict]) -> str:
+def section_url(section_number: str) -> str:
+    return (
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection"
+        f".xhtml?lawCode=FAM&sectionNum={section_number}."
+    )
+
+
+def render_division_page(div_key, div_info, secs: list[dict]) -> str:
     title = div_info[0]
     slug = div_info[1]
     lines = [
@@ -141,47 +138,48 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
         "",
         f"# {title}",
         "",
+        "## Sections",
+        "",
     ]
-    if not secs:
-        lines += ["_No sections extracted for this division yet._", ""]
-        return "\n".join(lines)
-
-    lines += ["## Sections", ""]
-    for s in secs[:50]:  # inline TOC for first 50 sections
-        sec_url = (
-            "https://leginfo.legislature.ca.gov/faces/codes_displaySection"
-            f".xhtml?lawCode=FAM&sectionNum={s['sectionNumber']}."
-        )
-        lines.append(f"- [{s['sectionNumber']}]({sec_url})")
-    if len(secs) > 50:
-        lines.append(f"- ... and {len(secs) - 50} more")
-    lines += ["", "---", ""]
-
     for s in secs:
-        sec_url = (
-            "https://leginfo.legislature.ca.gov/faces/codes_displaySection"
-            f".xhtml?lawCode=FAM&sectionNum={s['sectionNumber']}."
-        )
-        lines += [
-            f"### {s['sectionNumber']}",
-            "",
-            clean_text(s["text"]),
-            "",
-            "",
-        ]
-    lines.append(
-        "<div class=\"source-note\">\n\n"
-        "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition). "
-        "Derived from the [California Legislative Information]"
-        "(https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM) Family Code.\n\n"
-        "</div>"
-    )
+        sec_slug = f"{slug}-section-{s['sectionNumber']}"
+        lines.append(f"- [{s['sectionNumber']}](/{sec_slug})")
+    lines += ["", '<div class="source-note">', "", "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).", ""]
+    lines.append('</div>')
+    return "\n".join(lines)
+
+
+def render_section_page(div_key, div_info, s: dict) -> str:
+    title = div_info[0]
+    slug = div_info[1]
+    sec_slug = f"{slug}-section-{s['sectionNumber']}"
+    sec_url = section_url(s["sectionNumber"])
+    body = clean_text(s["text"])
+    lines = [
+        "---",
+        f'title: "Section {s["sectionNumber"]} — {title}"',
+        f"slug: {sec_slug}",
+        "---",
+        "",
+        f"# {title}",
+        "",
+        f"## Section {s['sectionNumber']}",
+        "",
+        f'<div class="source-note">Back to <a href="/{slug}">Division {div_key}: {title}</a></div>',
+        "",
+        body,
+        "",
+        '<div class="source-note">', "",
+        f"**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition). "
+        f"[View on California Legislative Information]({sec_url}).",
+        "",
+        '</div>',
+    ]
     return "\n".join(lines)
 
 
 def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -> str:
-    """Wrap bare 'Section X' mentions with links."""
-    present = {m.group(1) for m in re.finditer(r"^### (\S+)", content, re.M)}
+    present = {m.group(1) for m in re.finditer(r"^## Section (\S+)", content, re.M)}
     if not present:
         return content
 
@@ -200,7 +198,7 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
         if f'href="{url}"' in content:
             continue
         pattern = re.compile(
-            r"(?<![={\"<])(?<!href=\")(?<!###\s)\b" + re.escape(frag) + r"\b(?![}>])"
+            r"(?<![={\"<])(?<!href=\")(?<!##\s)\b" + re.escape(frag) + r"\b(?![}>])"
         )
         content = pattern.sub(
             lambda mm, u=url: f'<a href="{u}">{mm.group(0)}</a>', content
@@ -209,11 +207,48 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
 
 
 def style_emphasis(content: str) -> str:
-    """Replace '* * *' omitted-text markers with a borderless callout."""
     return content.replace(
         "* * *",
         "<aside class=\"callout\">[text omitted in source]</aside>",
     )
+
+
+def inject_case_callouts(content: str, section_number: str, case_map: dict) -> str:
+    cases = case_map.get(section_number, [])
+    if not cases:
+        return content
+    
+    callouts = []
+    for case in sorted(cases, key=lambda c: c['name']):
+        name = case['name']
+        year = case['year']
+        citation = case['citation']
+        description = case.get('description', '')
+        # Remove case name and citation from description
+        desc = re.sub(r'^' + re.escape(name) + r'\s*\(\d{4}\)\s*' + re.escape(citation) + r'\s*', '', description).strip()
+        desc = re.sub(r'\s+', ' ', desc).strip()
+        if len(desc) > 500:
+            desc = desc[:497] + "..."
+        
+        statutes = case.get('statutes', '')
+        
+        callout = f'<div class="case-callout">\n'
+        callout += f'<strong>Case Annotation: {name} ({year})</strong>\n\n'
+        callout += f'**Citation:** {citation}\n\n'
+        if desc:
+            callout += f'{desc}\n\n'
+        if statutes:
+            callout += f'**Statutes:** {statutes}\n'
+        callout += '</div>\n'
+        callouts.append(callout)
+    
+    # Insert before the source-note div
+    if '<div class="source-note">' in content:
+        content = content.replace('<div class="source-note">', '\n'.join(callouts) + '\n<div class="source-note">')
+    else:
+        content += '\n'.join(callouts)
+    
+    return content
 
 
 def main() -> None:
@@ -226,18 +261,34 @@ def main() -> None:
     if XREF_FILE.exists():
         xrefs = json.loads(XREF_FILE.read_text(encoding="utf-8")).get("cross_references", [])
 
-    generated = []
+    case_map = {}
+    if CASE_MAP_FILE.exists():
+        case_map = json.loads(CASE_MAP_FILE.read_text(encoding="utf-8"))
+
+    generated = 0
     div_sections = {s["sectionNumber"] for s in sections}
 
     for div_key, div_info in DIVISIONS.items():
         secs = by_div.get(float(div_key), [])
-        content = render_page(div_key, div_info, secs)
-        if xrefs:
-            content = inject_cross_refs(content, xrefs, div_sections)
-        content = style_emphasis(content)
-        (PAGES_DIR / f"{div_info[1]}.mdx").write_text(content, encoding="utf-8")
-        generated.append((div_key, div_info[1], len(secs)))
-        print(f"page: {div_info[1]}.mdx ({len(secs)} sections)")
+        if not secs:
+            continue
+
+        # Division index page
+        index_content = render_division_page(div_key, div_info, secs)
+        (PAGES_DIR / f"{div_info[1]}.mdx").write_text(index_content, encoding="utf-8")
+        print(f"index: {div_info[1]}.mdx ({len(secs)} sections)")
+        generated += 1
+
+        # One page per section
+        for s in secs:
+            content = render_section_page(div_key, div_info, s)
+            if xrefs:
+                content = inject_cross_refs(content, xrefs, div_sections)
+            content = style_emphasis(content)
+            content = inject_case_callouts(content, s["sectionNumber"], case_map)
+            sec_slug = f"{div_info[1]}-section-{s['sectionNumber']}"
+            (PAGES_DIR / f"{sec_slug}.mdx").write_text(content, encoding="utf-8")
+            generated += 1
 
     # Home page
     home = [
@@ -248,39 +299,41 @@ def main() -> None:
         "no-image-zoom: true",
         "---",
         "",
+        '<div class="hero">',
+        "",
         "# California Family Code",
         "",
         "The complete California Family Code, presented verbatim.",
+        "",
+        '<div class="search-bridge">',
+        '<input type="search" placeholder="Search sections..." />',
+        "</div>",
+        "",
+        "</div>",
         "",
         '<div class="division-grid">',
         "",
     ]
     for div_key in sorted(DIVISIONS.keys(), key=lambda k: float(k)):
         title, slug = DIVISIONS[div_key]
-        count = len(by_div.get(float(div_key), []))
         home.append(
             f'<a class="division-card" href="/{slug}">\n'
             f'  <div class="division-card-title">{title}</div>\n'
-            f'  <div class="division-card-meta">{count} sections</div>\n'
             f'</a>'
         )
     home += [
         "</div>",
         "",
-        "---",
+        '<div class="source-note">',
         "",
-        "<div class=\"source-note\">\n\n",
-        "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition). "
-        "Derived from the [California Legislative Information]"
-        "(https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM) Family Code.\n\n",
+        "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).",
+        "",
         "</div>",
         "",
     ]
     (PAGES_DIR / "home.mdx").write_text("\n".join(home), encoding="utf-8")
-    print("page: home.mdx")
-
-    total = sum(g[2] for g in generated)
-    print(f"\nDone. {len(generated)} division pages, {total} sections total.")
+    print(f"page: home.mdx")
+    print(f"\nDone. {generated} pages total ({len(DIVISIONS)} division indexes + {sum(len(by_div.get(float(k), [])) for k in DIVISIONS)} sections).")
 
 
 if __name__ == "__main__":
