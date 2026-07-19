@@ -11,7 +11,7 @@ instances:
 title: California Family Code
 layout:
   searchbar-placement: header
-  page-width: full
+  page-width: wide
   tabs-placement: header
 tabs:
   code:

@@ -121,6 +121,8 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
     ]
     if not secs:
         lines += ["_No sections extracted for this division yet._", ""]
+    else:
+        lines += ["## Sections", ""]
     for s in secs:
         lines += [
             f"### Section {s['sectionNumber']}",
