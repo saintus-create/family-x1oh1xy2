@@ -1,0 +1,4701 @@
+GUARDIANSHIP—CONSERVATORSHIP
+Paragraph (3) of subdivision (a) covers the irrevocable transfer of
+ownership of life and endowment insurance policies and annuity
+contracts. It provides for registration with the issuer in the name of
+the custodian (in which case the transferor is eligible to serve as
+
+§ 3910
+
+LAW
+
+Uniform Transfers to Minors Act (1986). See also Communication
+from the California Law Revision Commission Concerning Assembly
+Bill 158, 20 Cal.L.Revision Comm’n Reports 235 (1990).
+For
+background on the provisions of this part, see the Comment to this
+part under the part heading.
+Subdivision (a) of Section 3909 superseded subdivision (a) of
+former Civil Code Section 1156. Paragraph (1) of subdivision (a)
+continued the substance of paragraphs (1) and (2) of subdivision (a)
+of former Section 1156 relating to securities and also permitted a
+transfer of securities in registered form to be accomplished without
+registering the transfer in the name of the custodian. Paragraph (2)
+of subdivision (a) continued the substance of paragraph (3) of
+subdivision (a) of former Civil Code Section 1156 relating to money
+credited to a custodial account. Paragraph (3) of subdivision (a)
+superseded paragraph (4) of subdivision (a) of former Civil Code
+Section 1156. Paragraph (4) of subdivision (a) was a new provision.
+Paragraph (5) of subdivision (a) changed the former law which
+required that the transfer be made “by executing and delivering in
+the appropriate manner a deed, assignment, or similar instrument” to
+the custodian. Former Civil Code § 1156(a)(5). Paragraph (6) of
+subdivision (a) was a new provision. Paragraph (7) of subdivision (a)
+was comparable to paragraph (6) of subdivision (a) of former Civil
+
+custodian) or for an assignment in writing delivered to the custodian
+(in which case the transferor is not eligible to serve as custodian).
+Paragraph (4) of subdivision (a) covers the irrevocable exercise of
+a power of appointment and the irrevocable present assignment of
+future payments rights (such as royalties, interest and principal
+payments under a promissory note, or beneficial interests under life
+or endowment or annuity insurance contracts or benefit plans). The
+payor, issuer, or obligor may require additional formalities such as
+completion of a specific assignment form and an endorsement, but
+the transfer is effective upon delivery of the notification to the payor,
+issuer, or other obligor that the right is transferred to the custodian.
+Compare Section 3903 and the Comment thereto for the procedure
+for revocably “nominating” a future custodian as a beneficiary of a
+power of appointment or such payment rights.
+Paragraph (5) of subdivision (a) provides the exclusive method for
+the transfer of real property, including a disposition made by a will.
+The transfer of an interest in real property must be recorded in the
+name of the custodian in order that the transfer be an effective
+transfer.
+
+Code
+
+Paragraph (6) of subdivision (a) covers the transfer of tangible
+personal property (such as automobiles and aircraft) subject to
+registration of ownership with a state or federal agency. Either
+registration of the transfer in the name of the custodian (in which
+case the transferor is eligible to serve as custodian) or delivery of the
+endorsed certificate in registerable form (in which case the transferor
+is not eligible to serve as custodian) makes the transfer effective.
+Paragraph (7) of subdivision (a) is a residual classification,
+covering all property not otherwise covered in the preceding paragraphs. Examples would include partnership interests and tangible
+personal property not subject to title certificates. The transferor is
+not eligible to be a custodian of property transferred under paragraph (7).
+Execution of the acceptance by the custodian on the form of
+transfer document set forth in subdivision (b) is sufficient to satisfy
+the requirements of subparagraph (B) of paragraph (1) and paragraph (7) of subdivision (a). While such a form of written
+acceptance is not specifically required in the case of registered
+securities under subdivision (a)(1), money under subdivision (a)(2),
+insurance contracts or interests under subdivision (a)(3) or (4), real
+estate under subdivision (a)(5), or titled personal property under
+subdivision (a)(6), it is certainly the better and recommended
+practice to obtain the acknowledgment, consent, and acceptance of
+the designated custodian on the instrument of transfer or otherwise.
+Failure of the transferor to comply with subdivision (c) does not
+affect the validity of a transfer. See Section 3911(a).
+1991 Amendment
+
+Section
+
+1156;
+
+but, unlike
+
+the former
+
+California
+
+law, the
+
+transferor was not eligible to be a custodian of property transferred
+under paragraph (7) of subdivision (a) of Section 3909.
+Former California law did not provide for the form for a transfer
+document such as is provided in subdivision (b) of Section 3909
+except for the gift of a security not in registered form under former
+Civil Code Section 1156(a)(2). [20 Cal.L.Rev.Comm.Reports 1001
+
+(1990)].
+e
+
+Research References
+Forms
+
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 6:78, Devise to
+Custodian for Child Who is Minor at Testator’s Death Under
+California Uniform Transfers to Minors Act.
+
+1 California Transactions Forms--Estate Planning § 7:39, California
+Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate
+
+Planning
+
+§ 7:40,
+
+Form
+
+Drafting Principles.
+1 California Transactions Forms--Estate Planning § 7:42, Matters to
+Consider When Making Transfer Under California Uniform
+Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:44, Transfer of
+
+Certificated or Uncertificated Securities or Tangible Personal
+Property Not Subject to Title Certification to Custodian for
+Minor.
+West’s California Code Forms, Probate § 3909 Form 1, Creation of
+
+Custodial Property.
+
+Subdivision (a)(2) of Section 3909 is amended to make a technical
+revision to fill a gap in the statute. The amendment covers the
+situation where a security held in the name of a broker, financial
+
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 154 (2018),
+Nature and Scope of Act.
+13 Witkin, California Summary 10th Personal Property § 155 (2018),
+In General.
+13 Witkin, California Summary 10th Personal Property § 156 (2018),
+Selection, Removal, and Successor.
+13 Witkin, California Summary 10th Personal Property § 157 (2018),
+Who May Make Transfer.
+13 Witkin, California Summary 10th Personal Property § 158 (2018),
+Manner of Making Transfer.
+
+institution, or its nominee is to be transferred to a broker or financial
+institution for credit to an account in the name of the transferor, an
+
+adult other than the transferor, or a trust company, as custodian for a
+designated minor. [20 Cal.L.Rev.Comm.Reports 2907 (1990)].
+Background on Section 3909 of Repealed Code
+
+Section 3909 was added by 1984 Cal.Stat. ch. 243 § 9 and was
+amended by 1989 Cal.Stat. ch. 544 § 3. Section 3909 provided more
+detailed rules than former Civil Code Section 1156 (repealed by 1984
+Cal.Stat. ch. 243 § 1) concerning the manner of creating custodial
+property and effecting the transfer. The 1989 amendment revised
+the former reference in the introductory clause of subdivision (b) to
+refer to “subparagraph (B)” rather than “subparagraph (A)”; this
+corrected an obvious error and made the provision conform to the
+
+§ 3910. Single custodianship
+A transfer may be made only for one minor, and only one
+
+person may be the custodian.
+
+1125
+
+All custodial property held
+
+§ 3910
+
+PROBATE
+
+(3) Death or incapacity of a person nominated under
+Section 3903 or designated under Section 3909 as custodian,
+or the disclaimer of the office by that person.
+(b) A transfer made pursuant to Section 3909 is irrevocable, and the custodial property is indefeasibly vested in the
+
+under this part by the same custodian for the benefit of the
+same minor constitutes a single custodianship. (Stats.1990, c.
+79 (A.B.759), § 14, operative July 1, 1991.)
+Law Revision Commission
+
+Comments
+
+minor, but the custodian has all the rights, powers, duties,
+
+1990 Enactment
+
+and authority provided in this part, and neither the minor nor
+the minor’s legal representative has any right, power, duty, or
+authority with respect to the custodial property except as
+provided in this part.
+(c) By making a transfer, the transferor incorporates in the
+disposition all the provisions of this part and grants to the
+custodian, and to any third person dealing with a person
+designated as custodian, the respective powers, rights, and
+immunities provided in this part.
+(d) A person is not precluded from being a custodian for a
+minor under this part with respect to some property because
+the person is a conservator of the minor with respect to other
+
+Section 3910 continues Section 3910 of the repealed Probate Code
+without change. This section is the same in substance as Section 10
+of the Uniform Transfers to Minors Act (1986).
+Under
+
+Section 3910, additional
+
+transfers at different times and
+
+from different sources may be made to an existing custodian for the
+minor and do not create multiple custodianships. For the purpose of
+consolidating assets in a single custodianship, an existing custodian
+may be named as successor custodian by another custodian for the
+same minor who resigns under Section 3918. Note, however, that
+these results are limited to transfers made “under this part.” Gifts
+previously made under the California Uniform Gifts to Minors Act
+or under the Uniform Gifts to Minors Act or Uniform Transfers to
+Minors Act of another state must be treated as separate custodianships, even though the same custodian and minor are involved,
+because of possible differences in the age of distribution and
+custodian’s powers under those other Acts. But see Section 3923
+(transfers made before January 1, 1985).
+Even when all transfers to a single custodian are made “under this
+part” and a single custodianship results, custodial property trans-
+
+property.
+
+(e) A person who is the conservator of the minor is not
+precluded from being a custodian for a minor under this part
+because the custodial property has or will be transferred to
+the custodian from the guardianship estate of the minor. In
+such case, for the purposes of Section 3909, the custodian
+shall be deemed to be “an adult other than the transferor.”
+(f) In the cases described in subdivisions (d) and (e), with
+respect to the property transferred to the custodian, this part
+applies to the extent it would apply if the person to whom the
+custodial property is transferred were not and had not been a
+
+ferred under Sections 3906 and 3907 or under Section 3412, 3413,
+
+3602, or 3611 may have to be accounted for separately from property
+transferred under or pursuant to Section 3903, 3904, or 3905 because
+
+the custodianship may terminate sooner with respect to the former
+property. See Sections 3920 and 3920.5 and the Comments thereto.
+Background on Section 3910 of Repealed Code
+Section 3910 was added by 1984 Cal.Stat. ch. 243 § 9.
+
+conservator of the minor.
+operative July I, 1991.)
+
+The first
+
+sentence of Section 3910 continued subdivision (b) of former Civil
+Code Section 1156 (repealed by 1984 Cal.Stat. ch. 243 § 1). The
+second sentence of Section 3910 stated what was implicit in the
+former law. See Report of Senate Committee on Judiciary on
+Assembly Bill 2942, 18 Cal.L.Revision Comm’n Reports 105, 110
+(1986). For background on the provisions of this part, see the
+Comment
+to this part
+under
+the
+part
+heading.
+[20
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+(Stats.1990, c. 79 (A.B.759), § 14,
+
+Law Revision Commission
+
+Comments
+
+1990 Enactment
+
+Section 3911 continues Section 3911 of the repealed Probate Code
+without change. Subdivisions (a), (b), and (c) are the same as
+Section 11 of the Uniform Transfers to Minors Act (1986). The
+transferor’s designation of himself or herself as custodian of property
+for which the transferor is not eligible to serve as custodian under
+subdivision (a) of Section 3909 makes the transfer ineffective. See
+the Comment to Section 3909. For a list of the immunities enjoyed
+by third persons under subdivision (c), see Section 3916 and the
+Comment thereto.
+Subdivisions (d), (e), and (f) are not included in the Uniform
+Transfers to Minors Act. These subdivisions are included in Section
+3911 to make clear that (1) a person serving as guardian of the estate
+of the minor may also serve as custodian under this part and in this
+case the custodial property does not become a part of the guardianship estate and (2) property may be transferred from a guardianship
+estate to the person who serves as guardian to be held by that person
+as custodian under this part and in such case the property is no
+longer a part of the guardianship estate but instead is governed solely
+by this part.
+
+Research References
+Forms
+
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+West’s California Code Forms, Probate § 3909 Form 1, Creation of
+
+Custodial Property.
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 155 (2018),
+In General.
+§ 3911.
+
+CODE
+
+Validity and effect of transfer
+
+(a) The validity of a transfer made in a manner prescribed
+in this part is not affected by any of the following:
+
+Background on Section 3911 of Repealed Code
+Section 3911 was added by 1984 Cal.Stat. ch. 243 § 9. Subdivision
+
+(1) Failure of the transferor to comply with subdivision (c)
+of Section 3909.
+
+(a) of Section 3911 generally continued the substance of the last
+portion of subdivision (c) of former Civil Code Section 1156
+(repealed by 1984 Cal.Stat. ch. 243 § 1). The balance of Section
+3911 generally continued former Civil Code Section 1157 (repealed
+by 1984 Cal.Stat. ch. 243 § 1) with a number of necessary, and
+perhaps significant, changes required by the new kinds of property
+subject to custodianship. Former Civil Code Section 1157 provided
+
+(2) Designation of an ineligible custodian, except designation of the transferor in the case of property for which the
+transferor is ineligible to serve as custodian under subdivision
+(a) of Section 3909.
+
+1126
+
+GUARDIANSHIP—CONSERVATORSHIP
+that a transfer made in accordance with its terms “‘conveys to the
+minor indefeasibly vested legal title to the custodial property.”
+Because:.equitable interests in property may be the subject of a
+transfer under this Act, the reference to “legal title” was deleted, but
+no change concerning the effect or finality of the transfer was
+intended.. However, subdivision (b) of Section 3911 qualified the
+rights of the minor in the property by making them subject to “the
+rights, powers, duties, and authority” of the custodian under this part,
+a concept that may have been implicit and intended in former Civil
+Code Section 1157, but was not expressed. For background on the
+provisions: of this part, see the Comment to this part under the part
+heading. [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+Research References
+Forms
+
+1 California Transactions Forms--Estate Planning § 7:39, California
+
+Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:42, Matters to
+
+Consider When
+
+Making Transfer Under
+
+California Uniform
+
+§ 3912
+
+LAW
+
+est is so identified if the minor’s interest is held as a tenant in
+common and is fixed. Custodial property subject to recordation is so identified if it is recorded, and custodial property
+subject to registration is so identified if it is either registered,
+or held in an account designated, in the name of the
+custodian, followed in substance by the words:
+“as a custodian
+
+for
+(Name of Minor)
+
+under the California Uniform Transfers to Minors Act.”
+
+(e) A custodian shall keep records of all transactions with
+respect to custodial property, including information necessary
+for the preparation of the minor’s tax returns, and shall make
+them available for inspection at reasonable intervals by a
+parent or legal representative of the minor or by the minor if
+the minor has attained the age of 14 years. (Stats.1990, c. 79
+(A.B.759), § 14, operative July 1, 1991.)
+Law Revision Commission
+
+Transfers to Minors Act.
+
+Comments
+
+1990 Enactment
+Treatises and Practice Aids
+
+Section 3912 continues Section 3912 of the repealed Probate Code
+without change. This section is the same in substance as Section 12
+of the Uniform Transfers to Minors Act (1986) except as indicated
+below.
+Subdivision (b) does not include the provision of the Uniform
+Transfers to Minors Act which specifically provides. a slightly higher
+standard for professional fiduciaries. However, in determining what
+constitutes “the standard of care that would be observed by a prudent
+person dealing with the property of another’, under subdivision (b), a
+professional custodian (such as a trust company or the trust
+department of a bank) is held to a greater standard of care based on
+its presumed expertise than a lay custodian. Cf. Estate of Beach, 15
+Cal.3d 623, 542 P.2d 994, 125 Cal.Rptr. 570 (1975) (executor). See
+also the Comments to Sections 2401 (guardian or conservator) and
+16040 (trustee).
+No provision comparable to subdivision (b)(1) is found in the
+Uniform Transfers to Minors Act.
+This provision is included
+because it is likely to reflect the desires of the transferor who makes a
+transfer to a custodian who serves without compensation.
+Subdivision (d) includes a provision of the Uniform Transfers to
+Minors Act requiring that custodial property consisting of an
+undivided interest be held as a'tenant in common. This provision
+permits the custodian to invest custodial property in common trust
+funds, mutual funds, or in a proportional interest in a “jumbo”
+certificate of deposit. Investment in property held in joint tenancy
+with right of survivorship is not permitted, but this does not preclude
+
+13 Witkin, California Summary 10th Personal Property § 153 (2018),
+Transfers to Minors Act.
+13 Witkin, California Summary 10th Personal Property § 155 (2018),
+In General.
+13 Witkin, California Summary 10th Personal Property § 159 (2018),
+Effect of Transfer.
+
+§ 3912.
+
+Duties of custodians;
+
+standard of care; records
+
+(a) A custodian shall do all of the following:
+(1) Take control of custodial property.
+(2) Register or record title to custodial property if appropriate.
+(3) Collect, hold, manage,
+
+invest, and reinvest custodial
+
+property.
+(b) In dealing with custodial property, a custodian shall
+observe the standard of care that would be observed by a
+prudent person dealing with property of another and is not
+limited by any other statute restricting investments by fiduciaries except that:
+(1) If a custodian is not compensated for his or her
+services, the custodian is not liable for losses to custodial
+
+property unless they result from the custodian’s bad faith,
+intentional wrongdoing, or gross negligence, or from the
+custodian’s failure to maintain the standard of prudence in
+investing the custodial property provided in this section:
+(2) A custodian, in the custodian’s discretion and without
+liability to the minor or the minor’s estate, may retain any
+custodial property received from a transferor.
+(c) A custodian may invest in or pay premiums on life
+insurance or endowment policies on (1) the life of the minor
+only if the minor or the minor’s estate is the sole beneficiary
+or (2) the life of another person in whom the minor has an
+insurable interest only to the extent that the minor, the
+
+a transfer of such an interest to a custodian, and the custodian is
+
+authorized under subdivision (b) to retain a joint tenancy interest so
+received.
+Subdivision
+(e) includes the requirement of the Uniform Transfers
+to Minors Act that income tax information be maintained and made
+available for preparation of the minor’s tax returns. Because the
+custodianship is not a separate legal entity or taxpayer, the minor’s
+tax identification number should be used to identify all custodial
+property accounts.
+Background on Section 3912 of Repealed Code
+
+Section 3912 was added by 1984 Cal.Stat. ch. 243 § 9. For
+background on the provisions of this part, see the Comment to this
+part under the part heading. See also Report of Senate Committee
+on Judiciary on, Assembly Bill: 2492, 18 Cal.L.Revision, Comm’n
+
+minor’s estate, or the custodian in the capacity of custodian,
+
+is the irrevocable beneficiary.
+(d) A custodian at all times shall keep custodial property
+separate and distinct from all other property in a manner
+sufficient to identify it clearly as custodial property of the
+minor. Custodial property consisting of an undivided inter-
+
+Reports 105, 110-11 (1986).
+Subdivision (a) expanded subdivision (a) of former Civil Code
+Section 1158 (repealed by 1984 Cal.Stat. ch. 243 § 1) to include the
+duties to take control and appropriately register or record custodial
+property in the name of the custodian.
+
+1127
+
+§ 3912
+
+PROBATE
+
+powers would not be uniform. Instead, this provision grants the
+custodian the very broad and general powers of an unmarried adult
+owner of the property, subject to the prudent person rule and to the
+duties of segregation and record keeping specified in Section 3912.
+(See subdivision (b) of Section 3913). This approach permits the
+Uniform Transfers to Minors Act to be self-contained and more
+readily understandable by volunteer, non-professional fiduciaries,
+who most often serve as custodians. It is intended that the authority
+granted includes the powers most often suggested for custodians,
+
+Subdivision (b) restated and made somewhat stricter the prudent
+man fiduciary standard for the custodian, since Section 3912 cast the
+standard in terms of a prudent person “dealing with property of
+another” rather than one “who is seeking a reasonable income and
+preservation of his capital,” as under subdivision (e) of former Civil
+Code Section 1158. Subdivision (b)(1) of Section 3912 continued
+subdivision (e) of former Civil Code Section 1159 (repealed by 1984
+Cal.Stat. ch. 243 § 1)—a special immunity from liability for the
+custodian for losses to custodial property where the custodian is not
+compensated.
+Subdivision (e) of former Civil Code Section 1158 permitted a
+custodian to retain any security received, without the obligation to
+diversify investment. Subdivision (b)(2) of Section 3912 extended
+that rule to any property received.
+Subdivision (c) of Section 3912 was a new provision.
+Subdivision (d) generally continued subdivision (g) of former Civil
+Code Section 1158, but added the provision requiring that custodial
+property consisting of an undivided interest be held as a tenant in
+
+such as the power to borrow, whether at interest or interest free, the
+
+power to invest in common trust funds, and the power to enter
+contracts that extend beyond the termination of the custodianship.
+Subdivision (a) further specifies that the custodian’s power or
+incidents of ownership in custodial property such as insurance
+policies may be exercised only in the capacity as custodian. This
+provision is intended to prevent the exercise of those powers for the
+direct or indirect benefit of the custodian, so as to avoid as nearly as
+possible the result that a custodian who dies while holding an
+insurance policy on his or her own life for the benefit of a minor will
+have the policy taxed in his estate. See LR.C. § 2042. But compare
+Terriberry v. United States, 517 F.2d 286 (Sth Cir.1975) cert. denied,
+424 U.S. 977 (1976); Rose v. United States, 511 F.2d 259 (Sth
+Cir.1975),
+
+common.
+Subdivision (€) continued subdivision (h) of former Civil Code
+Section 1158, but added the requirement that income tax information
+be maintained and made available for preparation of the minor’s tax
+returns. [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+Background on Section 3913 of Repealed Code
+
+Research References
+
+Section 3913 was added by 1984 Cal.Stat. ch. 243 § 9. Subdivision
+(a) replaced the specific list of custodian’s powers contained in
+subdivisions (f), (i), and (j) of former Civil Code Section 1158
+(repealed by 1984 Cal.Stat. ch. 243 § 1). For background on the
+provisions of this part, see the Comment to this part under the part
+
+Forms
+
+1 California
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 1:29, Options
+
+Involving Gifts to Minors.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+
+heading.
+
+1 California Transactions Forms--Estate Planning § 6:78, Devise to
+Custodian for Child Who is Minor at Testator’s Death Under
+California Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:39, California
+
+[20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+Research References
+
+Forms
+
+1 California Transactions
+
+Uniform Transfers to Minors Act.
+
+Forms--Estate
+
+Planning
+
+§ 1:29, Options
+
+Involving Gifts to Minors.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:39, California
+Uniform Transfers to Minors Act.
+
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 160 (2018),
+Duties and Compensation of Custodian.
+13 Witkin, California Summary 10th Personal Property § 161 (2018),
+Powers of Custodian.
+
+Treatises and Practice Aids
+
+§ 3913.
+Rights, powers, and authority of custodians over
+custodial property; liability
+
+13 Witkin, California Summary 10th Personal Property § 161 (2018),
+Powers of Custodian.
+
+(a) A custodian, acting in a custodial capacity, has all the
+rights, powers, and authority over custodial property that
+unmarried adult owners have over their own property, but a
+custodian may exercise those rights, powers, and authority in
+that capacity only.
+
+§ 3914.
+
+Use of custodial property
+
+(a) A custodian may deliver or pay to the minor or expend
+for the minor’s benefit as much of the custodial property as
+the custodian considers advisable for the use and benefit of
+the minor, without court order and without regard to (1) the
+duty or ability of the custodian personally, or of any other
+person, to support the minor or (2) any other income or
+property of the minor which may be applicable or available
+for that purpose.
+(b) On petition of an interested person or the minor if the
+minor has attained the age of 14 years, the court may order
+the custodian to deliver or pay to the minor or expend for the
+minor’s benefit so much of the custodial property as the court
+considers advisable for the use and benefit of the minor.
+(c) A delivery, payment, or expenditure under this section
+
+(b) This section does not relieve a custodian from liability
+for breach of Section 3912.
+(Stats.1990, c. 79 (A.B.759),
+$ 14, operative July 1, 1991.)
+Law Revision Commission
+
+CODE
+
+Comments
+
+1990 Enactment
+
+Section 3913 continues Section 3913 of the repealed Probate Code
+without change. This section is the same in substance as Section 13
+
+of the Uniform Transfers to Minors Act (1986).
+Subdivision (a) replaces the specific list of custodian’s powers
+contained in the former Uniform Gifts to Minors Act. The Uniform
+Law Commissioners decided not to expand that list to try to deal with
+all forms of property now covered by the Uniform Transfers to
+Minors Act and not to specify all powers that might be appropriate
+for each kind of property, nor to refer to an existing body of state law,
+such as a statutory provision stating powers of a trustee, since such
+
+is in addition to, not in substitution for, and does not affect,
+
+any obligation of a person to support the minor.
+(d) In lieu of the powers and duties described in subdivision (a), a transferor who is also the custodian may elect to
+
+1128
+
+GUARDIANSHIP—CONSERVATORSHIP
+
+govern his or her custodial powers and duties under this
+subdivision.
+
+supporting the child himself or herself, no obligation of support
+exists, whether or not income is actually used for support, at least if
+the child’s resources are adequate.
+See 3 B. Bittker, Federal
+Taxation of Income, Estates and Gifts § 80.4.4 (1981). For this
+reason, subdivision (c) specifies that distributions or expenditures
+may be made for the minor without regard to the duty or ability of
+any other person to support the minor and that distributions or
+expenditures are not in substitution for, and shall not affect, the
+obligation of any person to support the minor.
+Subdivision (d) of Section 3914 is a provision not found in the
+Uniform Transfers to Minors Act. This provision permits a transferor who is also a custodian to elect to eliminate the authority of the
+custodian to distribute property for the minor’s use or benefit except
+pursuant to a court order. The section was added to the California
+statute in an effort to solve the tax problems that may arise when the
+transferor makes a transfer to a minor under the Act and designates
+himself or herself as custodian. For a discussion of the provision, see
+Review of Selected 1965 Code Legislation 52-53 (Cal.Cont.Ed.Bar
+1965).
+
+If such election is made, the custodian shall not
+
+pay over to the minor for expenditure by the minor, and shall
+not expend for the minor’s use or benefit, any part of the
+custodial property for any purpose prior to the time specified
+in Section 3920, except by order of the court upon a showing
+that the expenditure is necessary for the support, maintenance, or education of the minor. When the powers and
+duties of the custodian are governed by this subdivision, the
+transferor-custodian shall file with the clerk of the court a
+declaration in substantially the following form:
+Declaration Under the California Uniform
+Transfers to Minors Act
+
+a
+
+(Name of Transferor-Custodian)
+
+_
+
+as custodian for
+(Name of Minor)
+
+under
+
+the
+
+California
+
+Uniform
+
+Transfers
+
+to Minors
+
+Act,
+
+Background on Section 3914 of Repealed Code
+
+hereby irrevocably elect to be governed under subdivision (d)
+of Section 3914 of the Probate Code in my custodial capacity
+over the following described property
+
+Section 3914 was added by 1984 Cal.Stat. ch. 243 § 9. For
+background on the provisions of this part, see the Comment to this
+part under the part heading.
+Subdivisions (a) and (b) continued subdivisions (b) and (c) of
+former Civil Code Section 1158 (repealed by 1984 Cal.Stat. ch. 243
+§ 1), with two changes. The standard for expenditure of custodial
+property was revised to substitute “for the use and benefit of the
+minor” for the language “for the support, maintenance, education,
+and benefit of the minor” used in former Section 1158. Subdivision
+(b) expanded the authority to file a petition under former Civil Code
+Section 1158 to permit a petition to be filed by “an interested
+person.”
+Subdivision (c) was a new provision. Subdivision (d) continued
+the substance of former Civil Code Section 1158.5 (repealed by 1984
+Cal.Stat. ch. 243 § 1). [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+(Description of Custodial Property)
+
+I declare under penalty of perjury that the foregoing is true
+and correct.
+Dated:
+
+§ 3915
+
+LAW
+
+pilO 154
+(Signature of Transferor-Custodian)
+
+(Stats.1990, c. 79 (A.B.759), § 14, operative July I, 1991.)
+Law Revision Commission Comments
+1990 Enactment
+
+Research References
+
+Section 3914 continues Section 3914 of the repealed Probate Code
+without change. Subdivisions (a), (b), and (c) are the same as
+Section 14 of the Uniform Transfers to Minors Act (1986). Subdivi-
+
+Forms
+
+1 California
+
+sion (d) is not included in the Uniform Act.
+The “use and benefit” standard in subdivisions (a) and (b) is
+intended to avoid the implication that the custodial property can be
+used only for the required support of the minor. The “use and
+benefit” standard permits, for example, payment of the minor’s
+legally enforceable obligations such as tax or child support obligations or tort claims. Custodial property can be reached by levy of
+a judgment creditor in any event, so there is no reason not to permit
+custodian, or court-ordered expenditures for enforceable claims.
+An “interested person” authorized to file a petition under
+subdivision (b) includes not only the parent or conservator or
+guardian of the minor and a transferor or a transferor’s legal
+representative, but also a public agency or official with custody of the
+minor and a third party to whom the minor owes legally enforceable
+debts.
+The Internal Revenue Service has taken the position that the
+income from custodial property, to the extent it is used for the
+support of the minor-donee, is includable in the gross income of any
+person who is legally obligated to support the minor-donee, whether
+or not that person or parent is serving as the custodian. Rev.Rul.
+56-484, 1956-2 C.B. 23; Rev.Rul. 59-357, 1959-2 C.B. 212. However, Treasury Regulation § 1.662(a)—4 (1980) provides that the term
+“legal obligation” includes a legal obligation to support another
+person if, and only if, the obligation is not affected by the adequacy
+of the dependent’s own resources. Thus, if under local law a parent
+may use the resources of a child for the child’s support in lieu of
+
+Transactions
+
+Forms--Estate
+
+Planning § 1:29, Options
+
+Involving Gifts to Minors.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+
+1 California Transactions Forms--Estate Planning § 6:78, Devise to
+Custodian for Child Who is Minor at Testator’s Death Under
+California Uniform Transfers to Minors Act.
+
+1 California Transactions Forms--Estate Planning § 7:47, TransferorCustodian’s
+
+Declaration
+
+of Election
+
+that
+
+Court
+
+Order
+
+be
+
+Required for Payment to or Expenditure for Minor.
+West’s California Code Forms, Probate § 3914 Form 1, Petition for
+
+Order Directing Custodian
+
+to Deliver Custodial
+
+Property to
+
+Minor.
+West’s California Code Forms, Probate § 3914 Form 2, Declaration
+Under the California Uniform Transfers to Minors Act.
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 153 (2018),
+Transfers to Minors Act.
+13 Witkin, California Summary 10th Personal Property § 161 (2018),
+Powers of Custodian.
+
+§ 3915.
+
+Custodian’s expenses, compensation and bond
+
+(a) A custodian is entitled to reimbursement from custodial property for reasonable expenses incurred in the performance of the custodian’s duties.
+
+1129
+
+§ 3915
+
+PROBATE
+
+13 Witkin, California Summary 10th Personal Property § 160 (2018),
+Duties and Compensation of Custodian.
+
+(b) Except for one who is a transferor under Section 3904,
+a custodian has a noncumulative election during each calendar year to charge reasonable compensation for services
+performed during that year.
+
+§ 3916.
+
+(Stats.1990, c. 79 (A.B.759),
+
+Law Revision Commission
+
+Exemption of third person from liability
+
+A third person in good faith and without court order may
+act on the instructions of, or otherwise deal with, any person
+purporting to make a transfer or purporting to act in the
+capacity of a custodian and, in the absence of knowledge, is
+not responsible for determining any of the following:
+
+(c) Except as provided in subdivision (f) of Section 3918, a
+custodian need not give a bond.
+§ 14, operative July 1, 1991.)
+
+CODE
+
+Comments
+
+1990 Enactment
+
+(a) The validity of the purported custodian’s designation.
+
+Section 3915 continues Section 3915 of the repealed Probate Code
+without change. This section is the same as Section 15 of the
+Uniform Transfers to Minors Act (1986)... Compensation may be
+determined by agreement, by a provision in a will (see Section 6345),
+by reference to a statute, or by a court order. To prevent abuse, the
+provision for permissive compensation is denied to a custodian who is
+also the donor of the custodial property.
+The custodian’s election to charge compensation must be exercised
+(although the compensation need not be actually paid) at least
+annually or it lapses and may not be exercised later. This provision is
+intended, to avoid imputed income to the custodian who waives
+compensation, and also to avoid the accumulation of a large
+unanticipated claim for compensation exercisable at termination of
+the custodianship.
+
+(b) The propriety of, or the authority under this part for,
+any act of the purported custodian.
+(c) The validity or propriety under this part of any
+instrument or instructions executed or given either by the
+person purporting to make a transfer or by the purported
+custodian.
+(d) The propriety of the application of any property of the
+minor delivered to the purported custodian. (Stats.1990, c.
+79 (A.B.759), § 14, operative July 1, 1991.)
+Law Revision Commission
+
+Comments
+
+Background on Section 3915 of Repealed Code
+
+1990 Enactment
+
+Section 3915 was added by 1984 Cal.Stat. ch. 243 § 9. Section
+3915 superseded former Civil Code Section 1159 (repealed by 1984
+Cal.Stat. ch. 243 § 1). For background on the provisions of this part,
+see the Comment to this part under the part heading.
+Section 3915 did not continue the statement in the former section
+that a custodian may act without compensation for services, since that
+concept is implied in the provision in Section 3915 that a custodian
+has an “election” to be compensated.
+Section 3915 omits as surplusage the standard contained in
+subdivision (c) of former Civil Code Section 1159 for determining
+
+Section 3916 continues Section 3916 of the repealed Probate Code
+without change. This section is the same as Section 16 of the
+Uniform Transfers to Minors Act (1986).
+
+“reasonable compensation” which included, “in the order stated,” a
+
+company, broker, or other person or financial institution,” as did
+former Civil Code Section 1160. See the definition of “person” in
+Section 3901(/).
+
+Because Section 3916 refers to any custodian, and “custodian” is
+defined to include successor custodians (subdivision (g) of Section
+3901), a successor custodian appointed by the minor is included
+among those upon whom third persons may rely. Similarly, because
+Section 3916 protects any “third person,”’ it is not necessary to specify
+in Section 3916 or in subdivision. (c) of Section 3911 that the
+protection extends to any “issuer, transfer agent, bank, life insurance
+
+direction by the donor, statutes governing compensation of custodians or guardians, or court order. This was an optional provision of
+the Uniform Gifts to Minors Act (1966) and was not continued in the
+Uniform Transfers to Minors Act (1986). While compensation of
+custodians became a more likely occurrence and a more important
+issue under the Uniform Transfers to Minors Act because property
+requiring increased management may be subject to custodianship
+under the Act, compensation can still be determined by agreement,
+by a provision in a will (see Section 6345), by reference to a statute or
+
+Section 3916 does not alter the requirements for bona fide
+purchaser or holder in due course status under other law for persons
+who acquire from a custodial property subject to recordation or
+registration.
+Background on Section 3916 of Repealed Code
+
+by court order, without the need to so state in the Uniform Transfers
+
+to Minors Act.
+
+Section
+
+[20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+Research References
+
+Under Uniform Transfers to Minors Act.
+Forms--Estate
+
+added
+
+by 1984
+
+Cal.Stat.
+
+ch. 243
+
+§ 9.
+
+For
+
+Civil Code Section 1160 (repealed by 1984 Cal.Stat. ch. 243 § 1), with
+no substantive change intended. The former section permitted a 14—
+year old minor to appoint a successor custodian and specifically
+provided that third parties were entitled to rely on the appointment.
+Because Section 3916 referred to any custodian, and “custodian” was
+defined to include successor custodians (subdivision (g) of Section
+3901), a successor custodian appointed by the minor was included
+among those upon whom third parties may rely.
+
+1 California Transactions Forms--Estate Planning § 1:29, Options
+Involving Gifts to Minors.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Transactions
+
+was
+
+Section 3916 carried forward, but shortened and simplified, former
+
+Forms
+
+1 California
+
+3916
+
+background on the provisions of this part, see the Comment to this
+part under the part heading.
+
+Planning
+
+§ 7:40,
+
+Form
+
+Drafting Principles.
+1 California Transactions Forms--Estate Planning § 7:42, Matters to
+Consider When Making Transfer Under California Uniform
+Transfers to Minors Act.
+
+Section 3916 excluded from its protection persons with “knowledge” of the irregularity of a transaction, a concept not expressed but
+probably implied in former Civil Code Section 1160. See, e.g., State
+ex rel. Paden v. Carrel, 597 S.W.2d 167 (Mo.App.1980), disapproving
+the pledge of custodial property to secure a personal loan to the
+custodian. [20 Cal.L.Rev.Comm.Reports 1001 (1990)}.
+
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 155 (2018),
+In General.
+
+1130
+
+GUARDIANSHIP—CONSERVATORSHIP
+Research References
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 161 (2018),
+Powers of Custodian.
+
+§ 3917.
+
+Liability to third persons
+
+(a) A claim based on (1) a contract entered into by a
+custodian acting in a custodial capacity, (2) an obligation
+arising from the ownership or control of custodial property,
+or (3) a tort committed during the custodianship, may be
+asserted against the custodial property by proceeding against
+the custodian in the custodial capacity, whether or not the
+custodian or the minor is personally liable therefor.
+(b) A custodian is not personally liable for either of the
+following:
+(1) On a contract properly entered into in the custodial
+capacity unless the custodian fails to reveal that capacity and
+to identify the custodianship in the contract.
+(2) For an obligation arising from control of custodial
+property or for a tort committed during the custodianship
+unless the custodian is personally at fault.
+(c) A minor is not personally liable for an obligation
+arising from ownership of custodial property or for a tort
+committed during the custodianship unless the minor is
+personally at fault.
+(Stats.1990, c. 79 (A.B.759), § 14,
+operative July 1, 1991.)
+Law Revision Commission
+
+Comments
+
+on
+
+the
+
+other
+
+hand,
+
+incurs
+
+[20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+Research References
+
+Forms
+
+West’s California Code Forms, Probate § 3919 Form 1, Petition for
+
+Accounting.
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 162 (2018),
+Liability to Third Persons.
+§ 3918.
+
+Substitute and successor custodians
+
+(a) A person nominated under Section 3903 or designated
+under Section 3909 as custodian may decline to serve by
+delivering a valid disclaimer under Part 8 (commencing with
+Section 260) of Division 2 to the person who made the
+nomination or to the transferor or the transferor’s legal
+representative. If the event giving rise to a transfer has not
+occurred and no substitute custodian able, willing, and
+eligible to serve
+
+was
+
+nominated
+
+person who made the nomination
+
+under
+
+Section
+
+3903,
+
+the
+
+may ‘nominate a substitute
+
+transferor’s legal representative shall designate a substitute
+
+Section 3917 continues Section 3917 of the repealed Probate Code
+without change. This section is the same as Section 17 of the
+Uniform Transfers to Minors Act (1986) and is based upon Section
+5—428 of the Uniform Probate Code (1987), relating to limitations on
+the liability of conservators.
+Some forms of custodial property can give rise to liabilities as well
+as benefits (e.g., general partnership interests, interests in real estate
+or business proprietorships, automobiles, etc.). Section 3917 is
+included to protect the minor and other assets the minor might have
+or acquire from such liabilities, since the minor is unable to disclaim
+a transfer to a custodian for the minor’s benefit. Similar protection
+for the custodian is necessary so as not to discourage nonprofessional
+or uncompensated persons from accepting the office. Therefore,
+this section generally limits the claims of third parties to recourse
+against the custodial property, as third parties dealing with a trust are
+generally limited to recourse against the trust corpus.
+The custodian incurs personal liability only as provided in subdivision (b) for actual fault or for failure to disclose the custodial
+capacity “in the contract” when contracting with third parties. In
+oral contracts, oral disclosure of the custodial capacity is sufficient.
+minor,
+
+P. 685 (1918). But the provision may have restricted the liability
+under prior law of the custodian who makes a contract in the
+custodial capacity. See Hall v. Jameson, 151 Cal. 606, 91 P. 518
+(1907) (trustee personally liable on contract unless contract stipulates
+trustee not liable). But see Prob. Code § 18000 (unless contract
+otherwise provides, trustee not personally liable on contract properly
+entered into in the trustee’s fiduciary capacity in the course of
+administration of the trust unless the trustee fails to reveal the
+trustee’s representative capacity or identify the trust in the contract).
+
+custodian under Section 3903; otherwise the transferor or the
+
+1990 Enactment
+
+The
+
+§ 3918
+
+LAW
+
+personal
+
+liability under
+
+subdivision (c) only for actual fault.
+When custodial property is subjected to claims of third parties
+under this section, the minor or the minor’s legal representative, if
+not a party to the action by which the claim is successfully
+established, may seek to recover the loss from the custodian in a
+separate action.
+See Section 3919 and the Comment thereto.
+Background on Section 3917 of Repealed Code
+
+Section 3917 was a new provision added by 1984 Cal.Stat. ch. 243
+§ 9. For background on the provisions of this part, see the
+Comment to this part under the part heading. Section 3917 appears
+to have been consistent with prior California law concerning the tort
+liability of a guardian. See Campbell v. Bradbury, 179 Cal. 364, 176
+
+1131
+
+custodian
+
+at the time of the transfer, in either case from
+
+among the persons eligible to serve as custodian for that kind
+of property under subdivision (a) of Section 3909. The
+custodian so designated has the rights of a successor custodian.
+(b) A custodian at any time may designate a trust company
+or an adult other than a transferor under Section 3904 as
+successor custodian by executing and dating an instrument of
+designation before a subscribing witness other than the
+successor. If the instrument of designation does not contain
+or is not accompanied by the resignation of the custodian, the
+designation of the successor does not take effect until the
+custodian resigns, dies, becomes incapacitated, or is removed.
+
+The
+
+transferor
+
+successor
+
+may
+
+designate
+
+one
+
+custodians
+
+to serve,
+
+in the designated
+
+or more
+
+persons
+order
+
+as
+of
+
+priority, in case the custodian originally designated or a prior
+successor custodian is unable, declines, or is ineligible to
+serve or resigns, dies, becomes incapacitated, or is removed.
+
+The designation either (1) shall be made in the same
+transaction and by the same document by which the transfer
+is made or (2) shall be made by executing and dating a
+separate instrument of designation before a subscribing
+witness other than a successor as a part of the same
+transaction and contemporaneously with the execution of the
+document by which the transfer is made. The designation is
+made by setting forth the successor custodian’s name, followed in substance by the words: “is designated [first,
+second, etc., where applicable] successor custodian.” A
+successor custodian designated by the transferor may be a
+trust company or an adult other than a transferor under
+Section 3904. A successor custodian effectively designated
+
+§ 3918
+
+PROBATE
+
+by the transferor has priority over a successor
+designated by a custodian.
+
+Background on Section 3918 of Repealed Code
+
+custodian
+
+Section 3918 was added by 1984 Cal.Stat. ch. 243 § 9 and was
+amended by 1985 Cal.Stat. ch. 90 § 1 and 1988 Cal.Stat. ch. 1199
+
+(c) A custodian may resign at any time by delivering
+written notice to the minor if the minor has attained the age
+of 14 years and to the successor custodian and by delivering
+the custodial property to the successor custodian.
+
+(d) If the transferor
+successor
+
+custodian,
+
+has not
+
+effectively
+
+and a custodian
+
+designated
+
+§ 73.5. For background on the provisions of this part, see the
+Comment to this part under the part heading. Section 3918 tracked
+but condensed former Civil Code Section 1161 (repealed by 1984
+Cal.Stat. ch. 243§ 1).
+Enactment of the Uniform Transfers to Minors Act broadened the
+category of persons the initial custodian may designate as successor
+custodian from an adult member of the minor’s family, the guardian
+of the minor, or a trust company to include any adult other than the
+donor. However, the minor’s designation remained limited to an
+adult member of the minor’s family (expanded to include a spouse
+and a stepparent, see subdivision (j) of Section 3901), the guardian of
+the minor’s estate, or a trust company. Subdivision (g) of Section
+3918 continued subdivision (h) of former Civil Code Section 1161
+(repealed by 1984 Cal.Stat. ch. 243 § 1). See also Sections 3905(c),
+3907(c).
+The 1985 amendment added provisions authorizing the transferor
+to designate a successor custodian.
+The language of the 1985
+amendment was drawn in part from portions of former Civil Code
+Section 1161. For background on this amendment, see 18 Cal.L.Revision Comm’n Reports at 218 (1986).
+The 1988 amendment substituted a reference in subdivision (a) to
+Part 8 of Division 2 in place of the former reference to Division 2.5,
+to reflect a change in the numbering of the provisions to which
+reference was made.
+[20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+a
+
+is ineligible, dies, or
+
+becomes incapacitated without having effectively designated
+a successor and the minor has attained the age of 14 years,
+the minor may designate as successor custodian, in the
+manner prescribed in subdivision (b), an adult member of the
+minor’s
+
+family,
+
+a conservator
+
+of the
+
+minor,
+
+or
+
+a trust
+
+company. If the minor has not attained the age of 14 years
+or fails to act within 60 days after the ineligibility, death, or
+incapacity, the conservator of the minor becomes
+
+successor
+
+custodian. If the minor has no conservator or the conservator declines to act, the transferor, the legal representative of
+the transferor or of the custodian, an adult member of the
+
+minor’s family, or any other interested person may petition
+the court to designate a successor custodian.
+
+(e) A custodian who declines to serve under subdivision
+(a) or resigns under subdivision (c), or the legal representative of a deceased or incapacitated custodian, as soon as
+practicable, shall put the custodial property and records in
+the possession and control of the successor custodian. The
+successor custodian by action may enforce the obligation to
+deliver custodial property and records and becomes responsible for each item as received.
+
+Research References
+Forms
+
+1 California Transactions Forms--Estate Planning § 1:95, Nomination of Successor Custodian.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+
+(f) A transferor, the legal representative of.a transferor, an
+adult member of the minor’s family, a guardian of the person
+
+Under Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:39, California
+
+of the minor, the conservator of the minor, or the minor if the
+minor has attained the age of 14 years, may petition the court
+
+Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:40, Form
+Drafting Principles.
+1 California Transactions Forms--Estate Planning § 7:42, Matters to
+Consider When Making Transfer Under California Unifo
+
+to remove the custodian for cause and to designate a
+successor custodian other than a transferor under Section
+3904 or to require the custodian to give appropriate bond.
+
+Transfers to Minors Act.
+
+(g) At least 15 days before the hearing on a petition under
+subdivision (d) or (f), the petitioner shall deliver notice
+pursuant to Section 1215 to each of the following persons:
+
+“J
+
+1 California Transactions Forms--Estate Planning § 7:45, Custodian’s Resignation and Designation of Successor.
+West’s California Code Forms, Probate § 3909 Form 1, Creation of
+Custodial Property.
+
+(1) The minor.
+
+West’s California Code Forms, Probate § 3918 Form 1, Petition for
+
+Order Designating Successor Custodian.
+
+(2) The parent or parents of the minor.
+
+West’s California Code Forms, Probate § 3918 Form 2, Petition for
+
+(3) The transferor.
+
+Removal of Custodian and Designation of Successor Custodian.
+
+(h) Upon consideration of the petition under subdivision
+(d) or (f), the court may grant the relief that the court finds to
+be in the best interests of the minor.
+(Stats.1990, c. 79
+(A.B.759),
+
+CODE
+
+§ 14, operative July 1, 1991.
+
+Amended
+
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 155 (2018),
+In General.
+13 Witkin, California Summary 10th Personal Property § 156 (2018),
+
+by Stats.
+
+1992, c. 871 (A.B.2975), § 7; Stats.2017, c. 319 (A.B.976),
+§ 62, eff. Jan. 1, 2018.)
+
+Selection, Removal, and Successor.
+
+13 Witkin, California Summary 10th Personal Property § 158 (2018),
+Manner of Making Transfer.
+
+Law Revision Commission Comments
+
+§ 3919.
+
+Petition for accounting; determination of liability
+of custodian; removal of custodian
+
+1990 Enactment
+
+Section 3918 continues Section 3918 of the repealed Probate Code
+without change. This section is the same in substance as Section 18
+of the Uniform Transfers to Minors Act (1986) with the addition of
+subdivision (g) and the addition of provisions authorizing the
+transferor to designate a successor custodian.
+See also Section
+3901(d) (“conservator” includes a guardian).
+
+(a) A minor who has attained the age of 14 years, the
+minor’s guardian of the person or legal representative, an
+adult member of the minor’s family, a transferor, or a
+transferor’s legal representative may petition the court for
+
+any of the following:
+
+1132
+
+GUARDIANSHIP—CONSERVATORSHIP
+
+(1) An accounting by the custodian or the custodian’s legal
+representative.
+
+§ 3920
+
+LAW
+
+West’s California Code Forms, Probate § 3918 Form 2, Petition for
+
+Removal of Custodian and Designation of Successor Custodian.
+West’s California Code Forms, Probate § 3919 Form 1, Petition for
+
+(2) A determination of responsibility, as between the
+custodial property and the custodian personally, for claims
+against the custodial property unless the responsibility has
+been adjudicated in an action under Section 3917 to which
+the minor or the minor’s legal representative was a party.
+
+Accounting.
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 160 (2018),
+Duties and Compensation of Custodian.
+
+(b) A successor custodian may petition the court for an
+accounting by the predecessor custodian.
+
+§ 3920.
+
+(c) The court, in a proceeding under this part or in any
+other proceeding, may require or permit the custodian or the
+custodian’s legal representative to account.
+
+The custodian shall transfer in an appropriate manner the
+custodial property to the minor or to the minor’s estate upon
+the earlier of the following:
+
+(d) If a custodian is removed under subdivision (f) of
+Section 3918, the court shall require an accounting and order
+delivery of the custodial property and records to the successor
+custodian and the execution of all instruments required for
+transfer of the custodial property.
+
+(a) The minor’s attainment of 18 years of age unless the
+time of transfer of the custodial property to the minor is
+delayed under Section 3920.5 to a time after the time the
+minor attains the age of 18 years.
+
+(e) The right to petition for an accounting shall continue
+for one year after the filing of a final accounting by the
+custodian or the custodian’s legal representative and delivery
+of the custodial property to the minor or the minor’s estate.
+
+(b) The time specified in the transfer pursuant to Section
+3909 if the time of transfer of the custodial property to the
+minor is delayed under Section 3920.5 to a time after the time
+the minor attains the age of 18 years.
+
+(Stats.1990,
+
+(c) The minor’s death.
+operative July 1, 1991.)
+
+c. 79 (A.B.759),
+
+$ 14, operative July 1, 1991.)
+
+Law Revision Commission Comments
+
+Termination of custodianship
+
+1990 Enactment
+
+Law Revision Commission
+
+Section 3919 continues Section 3919 of the repealed Probate Code
+without change. This section is the same as Section 19 of the
+Uniform Transfers to Minors Act (1986) with the addition of
+subdivision (e). The introductory clause of subdivision (a) states the
+persons who may require an accounting by the custodian. Subdivision (a) also gives the same parties (other than a successor custodian)
+the right to seek recovery from the custodian for loss or diminution
+of custodial property resulting from successful claims by third persons
+under Section 3917, unless that issue has already been adjudicated in
+an action under that section to which the minor was a party.
+Subdivision (b) authorizes but does not obligate a successor
+custodian to seek an accounting by the predecessor custodian. Since
+the minor and other persons mentioned in subdivision (a) may also
+seek an accounting from the predecessor at any time, it is anticipated
+that the exercise of this right by the successor should be rare.
+Property in a single custodianship may be distributable at different
+times, so separate accounting for custodial property (depending on
+the time of distribution) may be required. See the Comment to
+Section 3910.
+
+1990 Enactment
+
+Background on Section 3920 of Repealed Code
+Section 3920 was added by 1984 Cal.Stat. ch. 243 § 9.
+
+Sections
+
+3920 and 3920.5 superseded subdivision (d) of former Civil Code
+Section 1158 (repealed by 1984 Cal.Stat. ch. 243 § 1). See Report of
+Senate Committee on Judiciary on Assembly Bill 2492, 18 Cal.L.Revision Comm’n Reports 105, 111 (1986). For background on the
+provisions of this part, see the Comment to this part under the part
+heading. [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+Research References
+Forms
+
+4 California
+
+Section 3919 was added by 1984 Cal.Stat. ch. 243 § 9. The section
+carried forward former Civil Code Section 1162 (repealed by 1984
+Cal.Stat. ch. 243 § 1), but expanded the class of parties who could
+require an accounting by the custodian. Subdivisions (c) and (d)
+continued the substance of subdivision (b) of former Civil Code
+Section 1162. Subdivision (e) continued the second sentence of
+
+subdivision (a) of former Civil Code Section 1162.
+
+Comments
+
+Section 3920 continues Section 3920 of the repealed Probate Code
+without change.
+This section is drawn from Section 20 of the
+Uniform Transfers to Minors Act (1986). Subdivision (a) establishes
+the age of termination as 18 years unless the time of transfer of
+custodial property to the minor is delayed under Section 3920.5.
+
+Background on Section 3919 of Repealed Code
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 26:30,
+
+Drafting Signature Cards.
+1 California Transactions Forms--Estate Planning § 1:29, Options
+Involving Gifts to Minors.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:39, California
+Uniform Transfers to Minors Act.
+3 California Transactions Forms--Estate Planning § 14:24, Incorporation of Cutma.
+
+For background
+
+on the provisions of this part, see the Comment to this part under the
+part heading. [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+Research References
+
+4 California Transactions Forms--Estate Planning § 19:47, Appoint-
+
+ment of Custodian.
+
+Forms
+
+4 California
+
+(Stats.1990, c. 79 (A.B.759), § 14,
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 26:30,
+
+Treatises and Practice Aids
+
+Drafting Signature Cards.
+1 California Transactions Forms--Estate Planning § 1:29, Options
+Involving Gifts to Minors.
+
+13 Witkin, California Summary 10th Personal Property § 160 (2018),
+Duties and Compensation of Custodian.
+
+1133
+
+§ 3920
+
+PROBATE
+
+longer than the maximum time permitted by this section for
+the duration of a custodianship created by that type of
+transfer, the custodianship shall be deemed to continue only
+until the time the minor attains the maximum age permitted
+by this section for the duration of a custodianship created by
+that type of transfer.
+(Stats.1990, c. 79 (A.B.759), § 14,
+operative July 1, 1991.
+Amended by Stats.1996, c. 862
+(A.B.2751), § 14.)
+
+13 Witkin, California Summary 10th Personal Property § 163 (2018),
+Termination of Custodianship.
+
+§ 3920.5.
+Delay in transfer of custodial property until after
+minor attains age eighteen; transfers not specifying age
+
+(a) Subject to the requirements
+section,
+
+the
+
+time
+
+for transfer
+
+and limitations of this
+
+to the
+
+minor
+
+of custodial
+
+property transferred under or pursuant to Section 3903, 3904,
+3905, or 3906, may be delayed until a specified time after the
+time the minor attains the age of 18 years, which time shall be
+specified in the transfer pursuant to Section 3909.
+(b) To specify a delayed time for transfer to the minor of
+the custodial property, the words
+
+Law Revision Commission Comments
+1990 Enactment
+
+Section 3920.5 continues Section 3920.5 of the repealed Probate
+Code without change. There is no provision under the Uniform
+Transfers to Minors Act (1986) for choice as to the age at which
+custodial property shall be transferred to the minor. Likewise, there
+was no such provision under prior California law. Section. 3920.5
+gives this choice since many transferors who specifically authorize a
+custodianship wish to preserve the custodianship as long as possible.
+
+“as custodian for
+
+(Name of Minor)
+until age
+(Age for Delivery of Property to Minor)
+under the California Uniform Transfers to Minors Act’ shall
+be substituted in substance for the words
+“as custodian for
+
+This is most likely to be the case, for example, where the custodial
+
+property is intended to be preserved and used to finance a college
+education. Continuing the custodianship past the age of 18 permits
+the donor to avoid the expense of preparing a trust instrument to
+create a trust that otherwise would be required in order to retain the
+property under custodial management until the young person reaches
+the specified age.
+
+(Name of Minor)
+under
+
+the California
+
+Uniform
+
+Transfers
+
+to Minors
+
+Act” in
+
+making the transfer pursuant to Section 3909.
+
+(c) The time for transfer to the minor of custodial property
+transferred under or pursuant to Section 3903 or 3905 may be
+delayed under this section only if the governing will or trust
+or nomination provides in substance that the custodianship is
+to continue until the time the minor attains a specified age,
+which time may not be later than the time the minor attains
+25 years of age, and in that case the governing will or trust or
+nomination shall determine the time to be specified in the
+transfer pursuant to Section 3909.
+
+(d) The
+
+time
+
+for transfer
+
+to the minor
+
+CODE
+
+The custodian is required to transfer the property to the minor
+when the minor attains the age of 18 years unless the transfer
+pursuant to Section 3909 specifies a later time. See Section 3920.
+
+Subdivision (c) permits the custodianship to continue until not
+later than the time the minor attains the age of 25 years where the
+transfer is made pursuant to a provision in a will or trust that
+provides that the custodianship is to continue until the specified age,
+not later than the time the beneficiary attains the age of 25. A
+custodianship may be established pursuant to a provision in a will or
+trust that provides that the custodianship is to continue until a
+specified age after age 18 even though the beneficiary has attained an
+age older than 18 but younger than the specified age at which the
+custodianship is to terminate. See Section 3901(k).
+
+of custodial
+
+property transferred by the irrevocable exercise of a power of
+appointment under Section 3904 may be delayed under this
+section only if the transfer pursuant to Section 3909 provides
+in substance that the custodianship is to continue until the
+time the minor attains a specified age, which time may not be
+later than the time the minor attains 25 years of age.
+(ec) The time for transfer to the minor of custodial
+property transferred by irrevocable gift under Section 3904
+may be delayed under this section only if the transfer
+pursuant to Section 3909 provides in substance that the
+custodianship is to continue until the time the minor attains a
+specified age, which time may not be later than the time the
+minor attains 21 years of age.
+(f) The time for transfer to the minor of custodial property
+transferred by a trustee under Section 3906 may be delayed
+under this section only if the transfer pursuant to Section
+3909 provides that the custodianship is to continue until a
+specified time not later than the time the minor attains 25
+years of age or the time of termination of all present
+beneficial interests of the minor in the trust from which the
+custodial property was transferred, whichever is to occur first.
+(g) If the transfer pursuant to Section 3909 does not
+specify any age, the time for the transfer of the custodial
+property to the minor under Section 3920 is the time when
+the minor attains 18 years of age.
+(h) If the transfer pursuant to Section 3909 provides in
+substance that the duration of the custodianship is for a time
+
+Subdivision (d) permits the custodianship to continue until not
+later than the time the minor attains the age of 25 years where the
+custodial property is transferred by the irrevocable exercise of a
+power of appointment under Section 3904 if the transfer specifies
+that the custodianship is to continue until the specified age.
+Subdivision (e) permits the custodianship to continue until not
+later than the time the minor attains the age of 21 years where the
+custodial property is transferred by a lifetime gift. The 21-year
+maximum duration of the custodianship is consistent with the
+Internal Revenue Code which permits “minority trusts” under
+Section 2503(c) of the Internal Revenue Code to continue in effect
+until age 21.
+Section 3920.5 does not provide for continuance beyond age 18 of
+a custodianship created under or pursuant to Sections 3412, 3413,
+3602, 3611, 3906, or 3907.
+
+These custodianships terminate at age 18
+
+because they are substitutes for a guardianship that otherwise would
+terminate at that time (see Section 1600). And, in the cases where
+Section 3920.5 permits the custodianship to continue after the minor
+attains the age of 18 years, if the transfer pursuant to Section 3909
+does not specify any age, the custodianship terminates when the
+minor attains 18 years of age. See subdivision (f) of Section 3920.5.
+Subdivision (g) validates a transfer that specifies a maximum time
+for the duration of the custodianship that is longer than permitted by
+Section 3920.5 by reducing the duration of the custodianship to the
+maximum duration permitted for a custodianship created by that type
+of transfer.
+
+1134
+
+GUARDIANSHIP—CONSERVATORSHIP
+Because property in a single custodianship may be distributable at
+different times, separate accounting for custodial property by source
+may be required. See the Comment to Section 3910.
+
+Law Revision Commission
+
+1990 Enactment
+
+Section 3920.5 was a new provision added by 1984 Cal.Stat. ch. 243
+§ 9. See Report of Senate Committee on Judiciary on Assembly Bill
+2492, 18 Cal.L.Revision Comm’n Reports 105, 111-13 (1986). For
+background on the provisions of this part, see the Comment to this
+part under the part heading. [20 Cal.L.Rev.Comm.Reports 1001
+(1990)].
+
+minor, nor the transferor, nor any parent reside in this state, and no
+
+estate of a deceased or legally incapacitated
+administered in this state.
+
+Transactions
+
+§ 26:30,
+
+Drafting Signature Cards.
+1 California Transactions
+
+Forms--Estate
+
+Planning
+
+§ 1:29, Options
+
+Involving Gifts to Minors.
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+Under Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:39, California
+Uniform Transfers to Minors Act.
+3 California Transactions Forms--Estate Planning § 14:24, Incorporation of Cutma.
+4 California Transactions Forms--Estate Planning § 19:47, Appointment of Custodian.
+4 California Transactions Forms--Estate Planning § 20:10, Devises to
+Minors.
+
+Research References
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 153 (2018),
+Transfers to Minors Act.
+
+13 Witkin, California Summary 10th Personal Property § 154 (2018),
+Nature and Scope of Act.
+§ 3922.
+Transfers made under Uniform Gifts to Minors Act
+or Uniform Transfers to Minors Act of other state
+
+4 California Transactions Forms--Estate Planning § 20:43, General
+
+Pecuniary Devise to Custodian for Minor.
+
+This part applies to a transfer within the scope of Section
+3902 made
+
+Treatises and Practice Aids
+
+Proceedings on petition; place
+
+Subject to the power of the court to transfer actions and
+proceedings as provided in the Code of Civil Procedure, a
+petition filed under this part shall be heard and proceedings
+thereon held in the superior court in the proper county,
+which shall be determined as follows:
+
+the transfer.
+
+1990 Enactment
+
+Section 3922 continues Section 3922 of the repealed Probate Code
+without change. This section is the same as Section 21 of the
+Uniform Transfers to Minors Act (1986). The section has two
+purposes. First, it operates as a “savings clause” to validate transfers
+made on or after January 1, 1985 (the effective date of the California
+Uniform Transfers to Minors Act) which mistakenly refer to the
+
+(2) Where the custodian resides.
+(b) If the minor does not reside within this state, in any of
+the following counties:
+
+California Uniform Gifts to Minors Act rather than to the California
+
+(1) Where the transferor resides.
+
+Uniform
+
+(3) Where the estate of a deceased or legally incapacitated
+custodian is being administered.
+(4) Where a parent of the minor resides.
+(c). If neither the minor, nor the transferor, nor any parent
+resides within this state, and no estate of a deceased or legally
+incapacitated custodian is being administered within this
+c. 79 (A.B.759),
+
+Transfers
+
+to Minors
+
+Act.
+
+Second,
+
+it validates transfers
+
+attempted under the Uniform Gifts to Minors Act (1966) of another
+state which would not permit transfers from that source or of
+property of that kind or under the Uniform Transfers to Minors Act
+of another state with no nexus to the transaction, provided in each
+case that California has a sufficient nexus to the transaction under
+Section 3902.
+
+(2) Where the custodian resides.
+
+(Stats.1990,
+
+(Stats.1990, c. 79 (A.B.759), § 14, operative July
+Law Revision Commission Comments
+
+(1) Where the minor resides.
+
+in any county.
+
+1, 1985, if either of the
+
+1, 1991.)
+
+(a) If the minor resides in this state, in either of the
+following counties:
+
+state,
+
+on or after January
+
+following requirements is satisfied:
+(a) The transfer purports to have been made under the
+California Uniform Gifts to Minors Act.
+(b) The instrument by which the transfer purports to have
+been made uses in substance the designation “as custodian
+under the Uniform Gifts to Minors Act” or “as custodian
+under the Uniform Transfers to Minors Act” of any other
+state, and the application of this part is necessary to validate
+
+13 Witkin, California Summary 10th Personal Property § 153 (2018),
+Transfers to Minors Act.
+13 Witkin, California Summary 10th Personal Property § 163 (2018),
+Termination of Custodianship.
+
+§ 3921.
+
+is being
+
+Background on Section 3921 of Repealed Code
+
+Research References
+
+Forms--Business
+
+custodian
+
+Section 3921 was added by 1984 Cal.Stat. ch. 243 § 9. The section
+continued and expanded the venue provision of former Civil Code
+Section 1162.5 (repealed by 1984 Cal.Stat. ch. 243 § 1). The former
+provision was liberalized to add the county where the custodian
+resides as a proper county, whether or not the minor resides in this
+state.
+For background on the provisions of this part, see the
+Comment
+to
+this
+part
+under
+the
+part
+heading.
+[20
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+Forms
+
+Transactions
+
+Comments
+
+Section 3921 continues Section 3921 of the repealed Probate Code
+without change.
+No comparable provision is included in the
+Uniform Transfers to Minors Act (1986). Even where the custodian
+resides in this state, the venue is proper in any county if neither the
+
+Background on Section 3920.5 of Repealed Code
+
+4 California
+
+§ 3922
+
+LAW
+
+Background on Section 3922 of Repealed Code
+
+Section 3922 was a new provision added by 1984 Cal.Stat. ch. 243
+§ 9. For background on the provisions of this part, see the
+Comment
+to this part
+under
+the
+part
+heading.
+[20
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+§ 14,
+
+operative July 1, 1991.)
+
+1135
+
+§ 3922
+
+PROBATE
+
+force—one applicable to prior custodianships and the other to
+custodianships created under this part—for 18 more years until all
+custodianships created under the California Uniform Gifts to Minors
+Act have terminated.
+As to the application of any amendments
+
+Research References
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 154 (2018),
+Nature and Scope of Act.
+
+§ 3923.
+
+made after that date, see Section 3.
+
+Subdivision (d) is the same as the second sentence of Section 27 of
+the Uniform Transfers to Minors Act (1986). It preserves prior law
+for matters not governed by this part.
+
+Effect on existing custodianships
+
+(a) As used in this section, “California Uniform Gifts to
+Minors Act” means former Article 4 (commencing with
+Section 1154) of Chapter 3 of Title 4 of Part 4 of Division 2 of
+the Civil Code.
+
+Background on Section 3923 of Repealed Code
+
+Section 3923 was a new provision added by 1984 Cal.Stat. ch. 243
+§ 9. See Report of Senate Committee on Judiciary on Assembly Bill
+2492, 18 Cal.L. Revision Comm’n Reports 105, 113 (1986). For
+background on the provisions of this part, see the Comment to this
+part under the part heading. [20 Cal.L.Rev.Comm.Reports 1001
+(1990)].
+
+(b) Any transfer of custodial property, as now defined in
+this part, made before January 1, 1985, is validated, notwith-
+
+standing that there was no specific authority in the California
+Uniform Gifts to Minors Act for the coverage of custodial
+property of that kind or for a transfer from that source at the
+time the transfer was made.
+
+Research References
+Treatises and Practice Aids
+
+(c) This part applies to all transfers made before January
+1, 1985, in a manner and form prescribed in the California
+Uniform Gifts to Minors Act, except insofar as the application impairs constitutionally vested rights.
+
+13 Witkin, California Summary 10th Personal Property § 154 (2018),
+Nature and Scope of Act.
+§ 3925.
+
+(d) To the extent that this part, by virtue of subdivision (c),
+does not apply to transfers made in a manner prescribed in
+the California Uniform Gifts to Minors Act or to the powers,
+duties, and immunities conferred by transfers in that manner
+upon custodians and persons dealing with custodians, the
+repeal of the California Uniform Gifts to Minors Act does
+not affect those transfers or those powers, duties, and
+immunities.
+
+(Stats.1990,
+
+c. 79 (A.B.759),
+
+§ 14, operative July I, 1991.)
+
+Law Revision Commission
+
+Comments
+
+1990 Enactment
+
+Section 3925 continues Section 3925 of the repealed Probate Code
+without change. No comparable provision is found in the Uniform
+Transfers to Minors Act (1986).
+
+11991.)
+Comments
+
+Background on Section 3925 of Repealed Code
+
+1990 Enactment
+
+Section 3925 was added by 1984 Cal.Stat. ch. 243 § 9. The section
+continued the substance of subdivision (b) of former Civil Code
+Section 1163 (repealed by 1984 Cal.Stat. ch. 243 § 1). For background on the provisions of this part, see the Comment to this part
+under the part heading. [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+Section 3923 continues Section 3923 of the repealed Probate Code
+without change. Subdivision (b) is the same as subsection (a) of
+Section 22 of the Uniform Transfers to Minors Act (1986). This
+subdivision attempts to validate any transfer of custodial property
+made before the effective date of enactment of this part of the
+repealed Probate Code, notwithstanding that there was no specific
+authority in California law for the coverage of custodial property of
+that kind or for a transfer from that source at the time the transfer
+was made.
+
+Part not exclusive
+
+This part shall not be construed as providing an exclusive
+method for making gifts or other transfers to minors.
+
+(Stats.1990, c. 79 (A.B.759), $ 14, operative July
+
+Law Revision Commission
+
+CODE
+
+Research References
+Forms
+
+The subdivision would, for example, validate a transfer
+
+1 California Transactions Forms--Estate Planning § 6:18, Custodian
+
+from an intervivos trust by a trustee to a custodianship pursuant to an
+express provision in the trust instrument giving the trustee that
+authority. It was not clear under prior law that such a transfer
+created a valid custodianship.
+
+Under Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 6:78, Devise to
+Custodian for Child Who is Minor at Testator’s Death Under
+California Uniform Transfers to Minors Act.
+1 California Transactions Forms--Estate Planning § 7:39, California
+Uniform Transfers to Minors Act.
+3 California Transactions Forms--Estate Planning § 13:64, Methods
+of Distribution.
+4 California Transactions Forms--Estate Planning § 19:134, Deter-
+
+Subdivision (c) is the same as subsection (b) of Section 22 of the
+Uniform Transfers to Minors Act (1986), except that subdivision (c)
+does not contain the language of Section 22(b) relating to extending
+the duration of custodianships in existence on the operative date.
+The omitted language is unnecessary because custodianships created
+under the California Uniform Gifts to Minors Act will still terminate
+at age 18 under this part. See Sections 3920, 3920.5. Subdivision (c)
+makes this part apply to all transfers made before January 1, 1985, in
+the manner and form prescribed in the California Uniform Gifts to
+Minors Act, except insofar as the application impairs constitutionally
+vested rights. This provision avoids having two bodies of law in
+
+mining Manner of Distribution to Minors and Others.
+Treatises and Practice Aids
+
+13 Witkin, California Summary 10th Personal Property § 154 (2018),
+Nature and Scope of Act.
+
+1136
+
+NONPROBATE
+
+§ 5000
+
+TRANSFERS
+
+Division 5
+
+NONPROBATE
+
+Section 6-201 of the Uniform
+
+Part 1
+
+PROVISIONS
+
+RELATING
+
+CHAPTER 1.
+
+GENERAL PROVISIONS
+
+§ 5000. Written instruments; compliance with
+ments for execution of will; rights of creditors
+
+(1). References to a certificated or uncertificated security, account
+agreement, custodial agreement, compensation plan, individual retirement plan, employee benefit plan, deed of gift, and marital
+property agreement have been added in Section 5000. The reference
+to a “marital property agreement” includes an agreement made
+during marriage as well as a premarital contract. The reference to
+profit-sharing plans is omitted for conformity with Section 6-201 of
+the Uniform Probate Code (1987).
+
+require-
+
+(2) The examples in subdivision (b) of Section 5000 have been
+revised to include a separate writing executed before the instrument
+containing the written transfer provision.
+
+(a) A provision for a nonprobate transfer on death in an
+insurance policy, contract of employment, bond, mortgage,
+promissory note, certificated or uncertificated security, account agreement, custodial agreement, deposit agreement,
+compensation plan, pension plan, individual retirement plan,
+employee benefit plan, trust, conveyance, deed of gift,
+revocable transfer on death deed, marital property agree-
+
+(3) The phrase “or other written instrument of a similar nature”
+has been substituted in subdivision (a) of Section 5000 for the
+language “or any other written instrument effective as a contract, gift,
+conveyance, or trust” (which was found in the introductory portion of
+subdivision (a) of Section 160 of the repealed Probate Code). The
+Supreme Court of Washington read the replaced language to relieve
+against the delivery requirement of the law of deeds. See In re
+Estate of O’Brien, 109 Wash.2d 913, 749. P.2d 154 (1988). The
+substitution of the language in subdivision (a) makes clear that
+Section 5000 does not have this effect. See First Natl Bank of Minot
+v. Bloom, 264 N.W.2d 208, 212 (N.D.1978), in which the Supreme
+Court of North Dakota held that “nothing in ... the Uniform
+Probate Code [provision] eliminates the necessity of delivery of a
+deed to effectuate a conveyance from one living person to another.”
+
+ment, or other written instrument of a similar nature is not
+
+invalid because the instrument does not comply with the
+requirements for execution of a will, and this code does not
+invalidate the instrument.
+(b) Included within subdivision (a) are the following:
+(1) A written provision that moneys or other benefits due
+to, controlled by, or owned by a decedent before death shall
+be paid after the decedent’s death to a person whom the
+decedent designates either in the instrument or in a separate
+writing, including a will, executed either before or at the same
+
+An instrument making a transfer under this section does not have
+to be executed in compliance with the formalities for a will; nor does
+the instrument have to be probated, nor does the personal representative have any power or duty with respect to the property transferred. See also Section 6321 (designation of trustee named or to be
+named in will as primary or contingent beneficiary, payee, or owner
+of insurance or employee benefits need not comply with the
+formalities for execution of a will). The Uniform Probate Code
+language that any provision referred to in this section is “deemed to
+be nontestamentary” has been replaced by the language making the
+provision “not invalid because the instrument does not comply with
+the requirements for execution of a will.” This change is nonsubstantive.
+
+time as the instrument, or later.
+
+(2) Awritten provision that moneys due or to become due
+under the instrument shall cease to be payable in the event of
+the death of the promisee or the promisor before payment or
+demand.
+(3) A written provision that any property controlled by or
+owned by the decedent before death that is the subject of the
+instrument shall pass to a person whom the decedent
+designates either in the instrument or in a separate writing,
+including a will, executed either before or at the same time as
+
+The sole purpose of this section is to prevent the transfers covered
+by the section from being treated as testamentary. This section does
+not invalidate other arrangements by negative implication. Thus,
+this section does not affect an oral trust to hold personal property at
+death for named persons, an arrangement given specific recognition
+by Section 15207.
+[20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+the instrument, or later.
+
+(c) Nothing in this section limits the rights of creditors
+c. 79 (A.B.759), § 14,
+by Stats.2015, c. 293
+
+(A.B.139), § 8, eff. Jan. 1, 2016.)
+
+1992 Supplementary Comment
+Comments
+
+Section 5000 is intended broadly to validate written instruments
+that provide for nonprobate transfers on death. The listing in the
+section of types of written instruments is not exclusive, and the
+
+1990 Enactment
+
+Section 5000 is a new provision that restates Section 160 of the
+repealed Probate Code without substantive change. Section 160 was
+a new provision added by 1983 Cal.Stat. ch. 842, § 22. Section 160
+was enacted upon recommendation of the California Law Revision
+Commission. See Tentative Recommendation Relating to Wills and
+Intestate
+
+Succession,
+
+16 Cal.L.
+
+2350-51, 2381-82 (1982).
+
+Revision
+
+As to the
+
+acts, see Section 2.
+
+Section 5000 differs from Section 160 of the repealed Probate
+Code in several respects:
+
+OF DEATH
+
+Section
+5000. Written instruments; compliance with requirements
+for execution of will; rights of creditors.
+5002. Restrictions imposed by terms of the instrument.
+5003. Protection of property; exceptions; notice.
+
+Law Revision Commission
+
+Probate Code (1987).
+
+construction of provisions drawn from uniform
+
+TO EFFECT
+
+under any other law.
+(Stats.1990,
+operative July 1, 1991.
+Amended
+
+TRANSFERS
+
+Comm’n
+
+Reports
+
+section
+
+also would
+
+validate,
+
+for example,
+
+a nonprobate
+
+transfer
+
+provision in a partnership agreement, stock redemption plan, buy-sell
+agreement, power of appointment, and the like.
+Note.
+Section 5000 is unchanged.
+It is set out here for
+convenience of reference, together with a supplementary comment.
+[21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+2301,
+
+Section 5000 adopts the substance of
+
+1137
+
+§ 5000
+
+PROBATE
+
+14 Witkin, California Summary 10th Wills and Probate § 330 (2018),
+Recommendation and Enactment.
+
+2015 Amendment
+
+Section 5000 is revised to make explicit its application to a
+revocable TOD deed. See Section 5614 (revocable transfer on death
+deed). This is a specific instance of the general principle stated in the
+section. [36 Cal.L.Rev.Comm. Reports 103 (2006)].
+
+14 Witkin, California Summary 10th Wills and Probate § 331 (2018),
+Authorized Transfers.
+14 Witkin, California Summary 10th Wills and Probate § 332 (2018),
+Rights and Liabilities of Holder.
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+14 Witkin, California Summary 10th Wills and Probate § 336 (2018),
+Transmutation of Community Property Distinguished.
+14 Witkin, California Summary 10th Wills and Probate § 344 (2018),
+Transfer to Former Spouse.
+14 Witkin, California Summary 10th Wills and Probate § 354 (2018),
+Nature and Scope of Statute.
+14 Witkin, California Summary 10th Wills and Probate § 392 (2018),
+In General.
+14 Witkin, California Summary 10th Wills and Probate § 444 (2018),
+Probate and Administration.
+
+Commentary
+
+See generally Estate of Petersen, 28 Cal.App.4th 1742, 34 Cal.
+Rptr.2d 449 (1994) (unambiguous provision of community-funded
+annuity contract effected a nonprobate death transfer by right of
+survivorship; in contrast, statement of “joint account” for money
+market funds was insufficient to create a nonprobate right of
+survivorship).
+Research References
+Forms
+
+1 California
+System.
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 1:2, Probate
+
+§ 5002. Restrictions imposed by terms of the instrument
+Notwithstanding any other provision of this part, a holder
+of property under an instrument of a type described in
+Section 5000 is not required to receive, hold, or transfer the
+property in compliance with a provision for a nonprobate
+
+1 California Transactions Forms--Estate Planning § 1:6, Revocable
+
+Living Trust as Centerpiece.
+1 California Transactions Forms--Estate Planning § 1:15, Overview.
+1 California Transactions Forms--Estate Planning § 1:18, Property
+Subject to Probate; Intestacy.
+1 California Transactions Forms--Estate Planning § 1:19, Nonpro-
+
+transfer on death executed by a person who has an interest in
+the property if either (1) the person is not authorized by the
+terms of the instrument to execute a provision for transfer of
+the property, or (2) the provision for transfer of the property
+does not otherwise satisfy the terms of the instrument.
+(Added by Stats.1992, c. 51 (A.B.1719), § 4.)
+
+bate Transfers Under Prob C § 5000.
+1 California Transactions Forms--Estate Planning § 1:77, Matters to
+
+Consider Regarding Property Distribution.
+1 California Transactions
+
+Forms--Estate
+
+Planning § 1:106, Revoca-
+
+ble Grant Deed.
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+Designations of Community Property Interests in Plan or Ira
+
+Law Revision Commission Comments
+
+[Prob C §§ 5000 et seq.].
+
+1992 Addition
+Section 5002 is added to make clear that this part is not a
+substantive grant of authority for a person to enforce a nonprobate
+transfer of the person’s interest in property where such a transfer is
+not authorized by the terms of the instrument under which the
+property is held. Thus, for example, a nonemployee spouse under an
+employee benefit plan, or a nonowner spouse under an insurance
+policy, is not authorized by this part to direct a nonprobate transfer
+of the spouse’s community property interest, if any, in the plan or
+policy. Although this chapter does not authorize execution of a
+provision for such a nonprobate transfer, the holder of the property
+may be required by federal law, by other state law, or by the terms of
+the instrument itself to recognize the property interest of a spouse.
+[21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+ty Property.
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+ties Required.
+2 California Transactions Forms--Estate Planning § 10:20, Contract
+Rights.
+2 California Transactions Forms--Estate Planning § 10:26, Employee
+Benefits.
+2 California Transactions Forms--Estate Planning § 11:50, Rights of
+Surviving Spouse that May be Waived [Prob C § 141].
+4 California Transactions Forms--Estate Planning § 19:66, Determining Testator’s Intent; Information Gathering.
+4 California Transactions Forms--Estate Planning § 20:6, Property
+Passing Outside of Will.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-347,
+
+Bifurcation
+
+CODE
+
+of
+
+Research References
+
+Status of Marriage or Domestic Partnership-Attachment.
+
+Treatises and Practice Aids
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community
+(2018), Disposition of Community Property.
+11 Witkin, California Summary 10th
+(2018), Mutual Order in Summons.
+
+Husband
+
+14 Witkin, California Summary 10th Wills and Probate § 59 (2018),
+Major Changes.
+14 Witkin, California Summary 10th Wills and Probate § 332 (2018),
+Rights and Liabilities of Holder.
+
+Property § 262
+and
+
+Wife
+
+§ 102
+
+§ 5003. Protection of property; exceptions; notice
+(a) A holder of property under an instrument of a type
+described in Section 5000 may transfer the property in
+compliance with a provision for a nonprobate transfer on
+death that satisfies the terms of the instrument, whether or
+not the transfer is consistent with the beneficial ownership of
+the property as between the person who executed the
+provision for transfer of the property and other persons
+having an interest in the property or their successors, and
+whether or not the transfer is consistent with the rights of the
+person named as beneficiary.
+
+11 Witkin, California Summary 10th Husband and Wife § 122
+(2018), Conditions on Granting Bifurcation.
+14 Witkin, California Summary 10th Wills and Probate § 41 (2018),
+Major Changes.
+14 Witkin, California Summary 10th Wills and Probate § 121 (2018),
+Obligation Terminable on Death.
+14 Witkin, California Summary 10th Wills and Probate § 123 (2018),
+Transfer-On-Death Provisions.
+14 Witkin, California Summary 10th Wills and Probate § 285 (2018),
+Community Property With Right of Survivorship.
+14 Witkin, California Summary 10th Wills and Probate § 314 (2018),
+Wills, Trusts, Intestate Succession, and Nonprobate Transfers.
+
+1138
+
+NONPROBATE
+
+(b) Except as provided in this subdivision, no notice or
+other information shown to have been available to the holder
+of the property affects the right of the holder to the
+protection provided by subdivision (a). The protection
+provided by subdivision (a) does not extend to a transfer
+made after either of the following events:
+(1) The holder of the property has been served with a
+contrary court order.
+(2) The holder of the property has. been served with a
+written notice of a person claiming an adverse interest in the
+property.
+However, this paragraph does. not apply to a
+pension plan to the extent the transfer is a periodic payment
+pursuant to the plan.
+(c) The protection provided by this section does not affect
+the rights of the person who executed the provision for
+transfer of the property and other persons having an interest
+in the property or their successors in disputes among
+themselves concerning the beneficial ownership of the prop-
+
+§ 5010
+
+TRANSFERS
+Research References
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 59 (2018),
+Major Changes.
+14 Witkin, California Summary 10th Wills and Probate § 332 (2018),
+
+Rights and Liabilities of Holder.
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+14 Witkin, California Summary 10th Wills and Probate § 337 (2018),
+
+Revocation of Consent.
+
+CHAPTER 2. NONPROBATE TRANSFERS
+OF COMMUNITY PROPERTY
+ARTICLE
+
+1.
+
+GENERAL
+
+erty.
+
+(d) The protection provided by this section is not exclusive
+of any protection provided the holder of the property by any
+other provision of law.
+(e) A person shall not serve notice under paragraph (2) of
+subdivision (b) in bad faith. If the court in an action or
+proceeding relating to the rights of the parties determines
+that a person has served notice under paragraph (2) of
+subdivision (b) in bad faith, the court shall award against the
+person the cost of the action or proceeding, including a
+reasonable attorney’s fee, and the damages caused by the
+service. (Added by Stats.1992, c. 51 (A.B.1719), § 5. Amended by Stats.2001, c. 417 (A.B.873), $ 7.)
+
+5015.
+
+Fraud,
+
+undue
+
+influence,
+
+duress,
+
+mistake,
+
+or
+
+other
+
+invalidating causes.
+
+§ 5010. Written consent
+As used in this chapter, “written consent” to a provision for
+a nonprobate transfer of community property on death
+includes a written joinder in such a provision. (Added by
+Stats.1992, c. 51 (A.B.1719), § 6.)
+Law Revision Commission
+
+1992 Addition
+Law Revision Commission Comments
+
+1992 Addition
+
+Section 5003 is drawn from portions of Section 5405 (protection of
+financial institution under California Multiple—Party Accounts Law).
+A holder of property that is the subject of a nonprobate transfer is
+not obligated to ascertain the respective separate, community, and
+quasi-community property interests in the property of participant and
+nonparticipant, or employee and nonemployee, or covered and
+noncovered, or insured and noninsured, spouses.
+
+PROVISIONS
+
+Section
+5010. Written consent.
+5011. Rights of parties in nonprobate transfers; application
+of chapter.
+5012. Holders of § 5000 instruments; application of chapter.
+5013. Waivers or other instruments or agreements affecting
+rights in community property.
+5014. Application of chapter; transitional rules.
+
+Unless the hoider
+
+Section 5010 is intended for drafting convenience.
+Written
+joinder in a provision for a nonprobate transfer includes joint action
+by both spouses in writing. A written consent, to be effective, need
+not satisfy the statutory requirements for a transmutation.
+See
+Section 5022 (written consent not a transmutation).
+A written
+consent becomes irrevocable on death of either spouse. Section
+5030 (revocability of written consent).
+It should be noted that the validity of a purported written consent
+is subject to relevant common law and statutory defenses, including
+but not limited to fraud, undue
+
+of property has been served with a contrary court order or notice of
+an adverse claim, the holder may transfer the property in accordance
+with the terms of the instrument, and any adverse rights of a spouse
+or beneficiaries must be asserted against the estate of the person who
+executed the instrument or against the beneficiary, not against the
+holder of the property. See Sections 5012 (community property
+rights independent of transfer obligation), 5021 (transfer without
+
+Comments
+
+[Revised Comment]
+
+influence, misrepresentation,
+
+and
+
+violation of the special fiduciary duty applicable in transactions
+between — spouses.
+See,
+€.g.,
+»5Civ-Code
+/»§ 5103:
+[22
+Cal.L.Rev.Comm.Reports 985 (1992)].
+Research References
+Forms
+
+consent)
+For the manner and proof of service, see Part 2 (commencing with
+Section 1200) of Division 3. [21 Cal.L.Rev.Comm.Reports 163
+(1991)].
+
+2 California Transactions Forms--Estate Planning § 10:28, Differences Between Qualified Retirement Plans and IRAs.
+2 California Transactions Forms--Estate Planning § 11:35, Agree-
+
+ment Entered Into on or After
+
+2001 Amendment
+
+January 1, 1985.
+
+Treatises and Practice Aids
+
+Subdivision (a) of Section 5003 is amended to make clear that the
+section applies where a nonprobate transfer has been caused to fail
+by operation of Section 5600.
+Subdivision (e) provides for compensation where a person serves a
+bad faith notice of a contrary claim to property held for the purpose
+of a nonprobate transfer. This provision is similar to Section 13541(d)
+(compensation where notice slanders title to community property
+after spouse’s death). [28 Cal.L.Rev.Comm. Reports 599 (1998)].
+
+11 Witkin, California Summary
+
+10th Community Property § 140
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 142
+(2018), Permissible Transactions.
+11 Witkin, California Summary 10th Community Property § 161
+(2018), Estate Planning Transactions.
+14 Witkin, California Summary 10th Wills and Probate § 59 (2018),
+Major Changes.
+
+1139
+
+§ 5010
+
+PROBATE
+
+CODE
+14 Witkin, California Summary 10th Wills and Probate § 336 (2018),
+Transmutation of Community Property Distinguished.
+
+14 Witkin, California Summary 10th Wills and Probate § 284 (2018),
+Disposition.
+
+14 Witkin, California Summary 10th Wills and Probate § 333 (2018),
+Recommendation and Enactment.
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+14 Witkin, California Summary 10th Wills and Probate § 335 (2018),
+Consent.
+
+§ 5012.
+Holders
+chapter
+
+instruments;
+
+application
+
+of
+
+A provision of this chapter concerning rights between a
+married person and the person’s spouse, in community
+property is relevant only to controversies between the person
+and spouse and their successors and does not affect the
+obligation of a holder of community property under an
+instrument of a type described in Section 5000 to hold,
+receive, or transfer the property in compliance with a
+provision for a nonprobate transfer on death, or the protec-
+
+14 Witkin, California Summary 10th Wills and Probate § 336 (2018),
+
+Transmutation of Community Property Distinguished.
+14 Witkin, California Summary 10th Wills and Probate § 349 (2018),
+Effect of Deed.
+
+§ 5011. Rights of parties in nonprobate transfers; application of chapter
+
+tion provided the holder by Section
+Stats.1992, c. 51 (A.B.1719), § 6.)
+
+Notwithstanding any other provision of this part, the rights
+of the parties in a nonprobate transfer of community property
+on death are subject to all of the following:
+
+Law Revision Commission
+
+5003.
+
+(Added
+
+by
+
+Comments
+
+1992 Addition
+
+Section 5012 is drawn from Section 5201 (multiple-party accounts).
+[21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+(a) The terms of the instrument under which the nonprobate transfer is made.
+
+Research References
+
+(b) A contrary state statute specifically applicable to the
+instrument under which the nonprobate transfer is made.
+
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+
+(c) A written expression of intent of a party in the
+provision for transfer of the property or in a written consent
+to the provision.
+(Added by Stats.1992, c. 51 (A.B.1719),
+
+§ 5013. Waivers or other instruments or agreements affecting rights in community property
+
+§ 6)
+Law Revision Commission
+
+of § 5000
+
+Nothing in this chapter limits the effect of a surviving
+spouse’s waiver of rights in community property under
+Chapter 1 (commencing with Section 140) of Part 3 of
+Division 2 or other instrument or agreement that affects a
+married person’s interest in community property. (Added by
+Stats.1992, c. 51 (A.B.1719), § 6.)
+
+Comments
+
+1992 Addition
+
+Section 5011 establishes the principle that the rules in this chapter
+only apply in the absence of other governing provisions
+Subdivision (a) recognizes that the terms of the instrument may
+define the rights of the parties. See also Section 5012 (community
+property rights independent of transfer obligation).
+
+Law Revision Commission Comments
+
+1992 Addition
+
+Subdivision (b) makes clear that the general rules set out in this
+chapter are not intended to override other state statutes that are
+narrowly drawn to govern rights under specific named instruments.
+It should also be noted that this chapter cannot override preempting
+federal law. See, e.g. Ablamis v. Roper, 937 F.2d 1450 (9th
+Cir.1991) (ERISA precludes testamentary disposition of community
+property interest of nonparticipant spouse).
+
+Section 5013 recognizes alternate procedures for releasing rights of
+a surviving spouse in community property.
+Waiver of a joint and survivor annuity or survivor’s benefits under
+the federal Retirement Equity Act of 1984 is not a transmutation.
+Civ.Code
+§ 5110.740
+(estate
+planning
+instruments).
+[21
+Cal.L.Rev.Comm.Reports 163 (1991)].
+
+Subdivision (c) makes clear that an expression of intent of the
+spouses in directing a nonprobate transfer of their interests in
+community property prevails over the default rules in this chapter.
+[21 Cal.L.Rey.Comm.Reports 163 (1991)].
+
+Forms
+
+Research References
+
+2 California Transactions Forms--Estate Planning § 11:49, Introduc-
+
+tion and Definition [Prob C § 140].
+
+Commentary
+
+Treatises and Practice Aids
+
+See generally Estate of Petersen, 28 Cal.App.4th 1742, 34 Cal.
+Rptr.2d 449 (1994) (unambiguous provision of community-funded
+annuity contract effected a nonprobate death transfer by right of
+survivorship; in contrast, statement of “joint account” for money
+market funds was insufficient to create a nonprobate right of
+survivorship).
+
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+
+§ 5014.
+
+Application of chapter; transitional rules
+
+(a) Except as provided in subdivision (b), this chapter
+applies to a provision for a nonprobate transfer of community
+property on the death of a married person, regardless of
+whether the provision for transfer of the property was
+executed by the person, or written consent to the provision
+for transfer of the property was given by the person’s spouse,
+
+Research References
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+
+before, on, or after
+
+1140
+
+January 1, 1993.
+
+NONPROBATE
+
+(b) Subdivision (c) of Section 5030 does not apply, and the
+applicable law in effect on the date of death does apply, to
+revocation of a written consent given by a spouse who died
+before January 1, 1993.
+
+§ 5021
+
+TRANSFERS
+
+designation in life insurance policy); Yiatchos v. Yiatchos, 376 U.S.
+306 (1964) (beneficiary designation for United States Savings Bonds).
+It should be noted that while Section 5020 makes clear that a
+nonconsenting spouse retains full dispositional rights over the
+spouse’s community property interest (subject to overriding governing principles as provided in Section 5011), this does not imply that a
+consenting spouse loses these rights. A written consent is revocable
+during the spouse’s lifetime, and a revocation and contrary disposition may be made by will. See Section 5031 (form and service of
+revocation).
+Section 5020 does not affect the principle that a holder of property
+may transfer the property as specified in the instrument. Section
+5003 (protection of holder of property). But the actions of the
+holder do not affect rights between the spouses and their successors.
+See Section 5012 (community property rights independent of transfer
+obligation). [21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+(Added by Stats.1992, c. 51 (A.B.
+
+1719), § 6.)
+Law Revision Commission Comments
+
+1992 Addition
+Section 5014 is an exception to the rule stated in Section 3 (general
+transitional provision). To the extent this chapter changes the law
+governing the rights of successors of a person who gives written
+consent to a nonprobate transfer by the person’s spouse, this chapter
+does not seek to apply the change in law to rights that vested as a
+result of a death that occurred before the operative date of the
+chapter. [21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+Research References
+
+Research References
+Forms
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+
+10th Community
+
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+Designations of Community Property Interests in Plan or Ira
+[Prob C §§ 5000 et seq.].
+
+Property § 161
+
+(2018), Estate Planning Transactions.
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+Nature and Scope of Statute.
+
+ty Property.
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+§ 5015. Fraud, undue influence, duress, mistake, or other
+invalidating causes
+
+ties Required.
+
+Nothing in this chapter limits the application of principles
+
+Treatises and Practice Aids
+
+of fraud, undue influence, duress, mistake, or other invalidat-
+
+14 Witkin, California Summary 10th Wills and Probate § 335 (2018),
+Consent.
+.
+
+ing cause to a written consent to a provision for a nonprobate
+transfer of community property on death. (Added by Stats.
+1992, c. 51 (A.B.1719), § 6.)
+;
+
+§ 5021.
+
+(a) In a proceeding to set aside a nonprobate transfer of
+community property on death made pursuant to a provision
+for transfer of the property executed by a married person
+without the written consent of the person’s spouse, the court
+shall set aside the transfer as to the nonconsenting spouse’s
+interest in the property, subject to terms and conditions or
+other remedies that appear equitable under the circumstances of the case, taking into account the rights of all
+interested persons.
+(b) Nothing in subdivision (a) affects any additional remedy the nonconsenting spouse may have against the person’s
+estate for a nonprobate transfer of community property on
+death without the spouse’s written consent.
+(Added by
+Stats.1992, c. 51 (A.B.1719), $ 6.)
+
+Research References
+
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+
+ARTICLE 2.
+
+CONSENT TO NONPROBATE
+TRANSFER
+
+Section
+5020. Written consent requirement.
+5021. Transfers without written consent.
+5022. Written consent not a transmutation; exception.
+5023. Modifications.
+
+§ 5020. Written consent requirement
+A provision for a nonprobate transfer of community
+property on death executed by a married person without the
+written consent of the person’s spouse (1) is not effective as
+to the nonconsenting spouse’s interest in the property and (2)
+does not affect the nonconsenting spouse’s disposition on
+death of the nonconsenting spouse’s interest in the community property by will, intestate succession, or nonprobate
+transfer.
+(Added by Stats.1992, c. 51 (A.B.1719), § 6.)
+
+Law Revision Commission
+
+Subdivision (a) of Section 5021 is consistent with the rule
+applicable to present gifts of community property at termination of
+the marriage by dissolution or death.
+See, e.g., Ballinger v.
+
+1992 Addition
+
+Section 5020 is comparable
+
+to Civil Code Section 5125(b). It
+codifies the case law rule that the statutory community property gift
+limitations apply to nonprobate transfers such as beneficiary designations in trusts and accounts.
+
+399, 353
+
+P.2d
+
+See, e.g., Tyre v. Aetna Life Ins. Co., 54
+
+725, 6 Cal.Rptr.
+
+13 (1960)
+
+Comments
+
+1992 Addition
+
+Law Revision Commission Comments
+
+Cal.2d
+
+Transfers without written consent
+
+(beneficiary
+
+1141
+
+Ballinger, 9 Cal.2d 330, 70 P.2d 629 (1937); In re Marriage of
+Stephenson, 162 Cal.App.3d 1057, 209 Cal.Rptr. 383 (1984). It
+implements the concept that a nonprobate transfer is a will substitute, and that a person has the right to direct a transfer of the
+person’s one-half interest in the community property at death, with
+or without the spouse’s consent. See, e.g., Sections 100-102 (effect
+of death of married person on community and quasi-community
+property), 6101 (property which may be disposed of by will).
+Under subdivision (a) the court has discretion to fashion an
+appropriate order, depending on the circumstances of the case. The
+order may, for example, provide for recovery of the value of the
+property rather than the particular item, or aggregate property
+received by a beneficiary instead of imposing a division by item.
+
+§ 5021
+
+PROBATE
+
+Subdivision (b) makes clear that this section does not provide the
+exclusive remedy where a person has directed a nonprobate transfer
+of community property without the written consent of the other
+spouse. It may be proper, for example and without limitation, simply
+to allow the surviving spouse, instead of or in addition to proceeding
+against the beneficiary of the nonprobate asset, to proceed against
+the decedent’s estate for an offset for the value of the property
+
+1993 Amendment
+
+Subdivision (b) of Section 5022 is amended to substitute the
+reference to the Family Code section that replaced the former Civil
+Code section. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Research References
+
+transferred out of the share of the decedent, or to give the surviving
+
+spouse a right of reimbursement.
+(1991)].
+
+CODE
+
+Forms
+
+[21 Cal.L.Rev.Comm.Reports 163
+
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+Designations of Community Property Interests in Plan or Ira
+
+[Prob C §§ 5000 et seq.].
+
+Commentary
+
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+Estate of Miramontes—Najera, 118 Cal.App.4th 750, 13 Cal.Rptr.3d
+240 (2004), holds that subsection (a) codifies the case law “item” rule
+of death distribution. Under the item rule, a spouse is entitled to onehalf of each and every community property asset and may recover his
+or her one-half interest in any inter vivos gift of community property
+made by the other spouse without his or her consent, even though he
+or she is otherwise receiving one-half or more of the aggregate
+community property.
+
+ty Property.
+2 California Transactions Forms--Estate Planning § 10:14, Formalities Required.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 161
+(2018), Estate Planning Transactions.
+14 Witkin, California Summary 10th Wills and Probate § 336 (2018),
+Transmutation of Community Property Distinguished.
+
+Research References
+Forms
+
+§ 5023.
+
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+Designations of Community Property Interests in Plan or Ira
+
+Modifications
+
+(a) As used in this section “modification” means revocation of a provision for a nonprobate transfer on death in
+whole or part, designation of a different beneficiary, or
+election of a different benefit or payment option. As used in
+
+[Prob C §§ 5000 et seq.].
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+ties Required.
+Treatises and Practice Aids
+
+this section, “modification” does not mean, and this section
+
+11 Witkin, California Summary 10th Community Property § 142
+(2018), Permissible Transactions.
+14 Witkin, California Summary 10th Wills and Probate § 335 (2018),
+Consent.
+
+does not apply to, the exercise of a power of appointment
+under a trust.
+
+§ 5022.
+
+Written consent not a transmutation;
+
+(b) If a married person executes a provision for a nonprobate transfer of community property on death with the
+written consent of the person’s spouse and thereafter executes a modification of the provision for transfer of the
+property without written consent of the spouse, the modification is effective as to the person’s interest in the community
+property and has the following effect on the spouse’s interest
+in the community property:
+
+exception
+
+(a) Except as provided in subdivision (b), a spouse’s
+written consent to a provision for a nonprobate transfer of
+community property on death is not a transmutation of the
+consenting spouse’s interest in the property.
+(b) This chapter does not apply to a spouse’s written
+consent to a provision for a nonprobate transfer of community property on death that satisfies Section 852 of the Family
+Code. Such a consent is a transmutation and is governed by
+the law applicable to transmutations. (Added by Stats.1992,
+c.
+
+51
+
+(A.B.1719),
+
+§ 6.
+
+Amended
+
+by Stats.1993,
+
+c.
+
+(1) If the person executes the modification during the
+spouse’s lifetime, the modification revokes the spouse’s
+previous written consent to the provision for transfer of the
+property.
+
+219
+
+(2) If the person executes the modification after the
+spouse’s death, the modification does not affect the spouse’s
+previous written consent to the provision for transfer of the
+property, and the spouse’s interest in the community property
+is subject to the nonprobate transfer on death as consented to
+by the spouse.
+
+(A.B.1500), § 224.3.)
+Law Revision Commission Comments
+
+1992 Addition
+Section 5022 is consistent with the result in Estate of MacDonald,
+
+51 Cal.3d 262, 794 P.2d 911, 272 Cal.Rptr. 153 (1990). A consent to
+a nonprobate transfer is in effect a consent to a future gift of the
+person’s interest in community property, and is subject to the legal
+incidents provided in this chapter.
+Until the gift is complete,
+however, it remains community property and is part of the community estate for purposes of division of property at dissolution of
+marriage until the consent becomes irrevocable by the death of either
+spouse. See Section 5030 (revocability of written consent). However, if the consent specifies a clear intent to transmute the property,
+the expression of intent controls over this section.
+See Section 5011(c) (governing provision of consent).
+[21
+Cal.L.Rev.Comm.Reports 163 (1991)].
+
+(3) If a written expression of intent of a party in the
+provision for transfer of the property or in the written
+consent to the provision for transfer of the property authorizes the person to execute a modification after the spouse’s
+death, the spouse’s interest in the community property is
+deemed transferred to the married person on the spouse’s
+death,
+
+and
+
+the
+
+modification
+
+is effective
+
+as to both
+
+the
+
+person’s and the spouse’s interests in the community proper-
+
+ty. (Added by Stats.1992, c. 51 (A.B.1719), § 6. Amended by
+Stats.1993, c. 527 (A.B.908), § 3.)
+
+1142
+
+NONPROBATE
+Law Revision Commission
+
+(b) On termination of the marriage by dissolution or on
+legal separation, the written consent is revocable and the
+community property is subject to division under Division 7
+(commencing with Section 2500) of the Family Code or other
+disposition on order within the jurisdiction of the court.
+(c) On the death of either spouse, the written consent is
+irrevocable.
+(Added by Stats.1992, c. 51 (A.B.1719), § 6.
+Amended by Stats.1993, c. 219 (A.B.1500), § 224.5.)
+
+Comments
+
+1992 Addition
+
+Subdivision (a) of Section 5023 includes election of a different
+benefit or payment option among the types of modification covered
+by the section because the choice of benefit or payment options can
+substantially affect the rights of the parties. For example, rights can
+be substantially altered by selection of a life expectancy as opposed to
+term payout on a pension plan, or by selection of a cash benefit,
+annuity, or reinvestment option in a life insurance policy.
+Subdivision (b)(1) treats a modification of a nonprobate transfer
+during the lifetimes of the spouses as a new nonprobate transfer, as
+to which the living spouse may consent if so desired. If the spouse
+does not have legal capacity to consent at the time, consent may be
+obtained through substituted judgment procedures.
+See Section
+2580 (substituted judgment). Failure of consent to the changed
+terms during the spouse’s lifetime revokes the original consent to the
+nonprobate transfer, and the spouse’s interest ultimately passes with
+the spouse’s estate or as otherwise disposed of by the spouse. See
+Section 5032 (effect of revocation). It should be noted that a
+modification is subject to the right of the decedent to make a
+contrary disposition by will. Section 5031 (form and service of
+revocation).
+Under subdivision (b)(2), a modification by the surviving spouse
+after the death of the other spouse does not affect the nonprobate
+transfer of the community property interest of the deceased spouse as
+consented to by the deceased spouse.
+
+§ 5031
+
+TRANSFERS
+
+Law Revision Commission Comments
+
+In effect, the consent is itself a
+
+nonprobate transfer which becomes irrevocable on the death of the
+
+spouse. See Section 5030 (revocability of consent). The deceased
+spouse’s interest in the community property is transferred as
+consented to by the deceased spouse, unless by the terms of the
+consent the deceased spouse has authorized the surviving spouse to
+make modifications in the nonprobate transfer. See subdivision
+(b)(3). This is a special instance of the rule stated in Section 5011
+that a nonprobate transfer of community property on death is
+governed by overriding principles, including a written expression of
+intent. [21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+1992 Addition
+Section 5030 is subject to express terms to the contrary. See
+Section 5011 (governing provision of instrument, law, or consent). If
+the consent is part of a mutual estate plan, nothing in this section
+precludes enforcement of the mutual estate plan by appropriate
+remedies, including an injunction affecting revocation.
+Subdivision (c), to the extent it relates to the death of the
+consenting spouse, overrules the effect of Estate of MacDonald, 51
+Cal.3d 262, 794 P.2d 911, 272 Cal.Rptr. 153 (1990). The consent of a
+spouse to disposition of the spouse’s one-half interest in the
+community property is subject to a contrary disposition in the
+spouse’s will. Section 5031. The spouse’s personal representative
+may not revoke the consent to a nonprobate transfer and impose a
+different estate plan on the spouse’s property.
+The surviving spouse may modify a provision for a nonprobate
+transfer of community property previously consented to by the
+deceased spouse to the extent provided in Section 5023.
+It should be noted that these changes in the law are subject to
+Section 5014 (transitional provision). [21 Gal.L.Rev.Comm.Reports
+163 (1991)].
+1993 Amendment
+
+Subdivision (b) of Section 5030 is amended to substitute the
+reference to the Family Code sections that replaced the former Civil
+
+Code section.
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Research References
+
+Research References
+
+Forms
+
+Forms
+
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+Designations of Community Property Interests in Plan or Ira
+[Prob C §§ 5000 et seq.].
+2 California Transactions Forms--Estate Planning § 10:14, Formalities Required.
+
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+
+Designations of Community Property Interests in Plan or Ira
+[Prob C §§ 5000 et seq.].
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+ty Property.
+
+Treatises and Practice Aids
+11 Witkin, California Summary 10th Community Property § 161
+(2018), Estate Planning Transactions.
+14 Witkin, California Summary 10th Wills and Probate § 334 (2018),
+Nature and Scope of Statute.
+14 Witkin, California Summary 10th Wills and Probate § 337 (2018),
+Revocation of Consent.
+
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+ties Required.
+2 California Transactions Forms--Estate Planning § 10:50, Ira Bene-
+
+ficiary Designation
+
+for Distribution
+
+Outright to Beneficiary.
+
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 335 (2018),
+Consent.
+
+ARTICLE 3.
+
+REVOCATION
+
+§ 5031.
+
+OF CONSENT
+
+Section
+
+Revocability of written consent.
+
+5030.
+5031.
+5032.
+
+Form and service of revocation.
+Revocations; effect on transfers.
+
+§ 5030.
+
+Revocability of written consent
+
+Form and service of revocation
+
+(a) If a married person executes a provision for a nonprobate transfer of community property on death with the
+written consent of the person’s spouse, the consenting spouse
+may revoke the consent by a writing, including a will, that
+identifies the provision for transfer of the property being
+revoked, and that is served on the married person before the
+
+(a) A spouse’s written consent to a provision for a
+nonprobate transfer of community property on death is
+revocable during the marriage.
+
+1143
+
+married person’s death.
+(b) Revocation of a spouse’s written consent to a provision
+for a nonprobate transfer of community property on death
+does not affect the authority of the holder of the property to
+transfer the property in compliance with the provision for
+
+§ 5031
+
+PROBATE
+
+2 California Transactions Forms--Estate Planning § 10:28, Differ-
+
+transfer of the property to the extent provided in Section
+5003. (Added by Stats. 1992, c. 51 (A.B.1719), § 6.)
+Law Revision Commission
+
+ences Between Qualified Retirement Plans and IRAs.
+Treatises and Practice Aids
+
+Comments
+
+14 Witkin, California Summary 10th Wills and Probate § 337 (2018),
+Revocation of Consent.
+
+1992 Addition
+
+Section 5031 is consistent with subdivision (c) of Section 5030
+(written consent irrevocable on death). Under this section any
+specific and served writing is sufficient, including a document
+purporting to be a will, whether or not admitted to probate. The will
+provision would change existing law as to life insurance by allowing
+the beneficiary designation to be overridden by an express provision
+in a will.
+
+CHAPTER 3. NONPROBATE TRANSFER
+TO FORMER SPOUSE
+Section
+5040. Nonprobate transfer to former spouse executed before
+or during marriage or registered domestic partnership; failure of transfer due to dissolution or annulment of marriage or termination of registered domestic partnership; situations that do not cause a
+nonprobate transfer to fail; rights of subsequent
+purchaser.
+5042. Joint tenancy created before or during marriage or
+registered domestic partnership severed if former
+spouse not decedent’s surviving spouse; situations
+where joint tenancy is not severed.
+5044. Rights of purchaser or encumbrancer of real property
+who relies on affidavit or declaration.
+5046. Court authority to order dissolution or annulment of
+marriage to maintain former spouse as beneficiary or
+preserve joint tenancy.
+5048. Operative date and application.
+
+For the manner and proof of service, see Part 2 (commencing with
+Section 1200) of Division 3. This section is subject to a contrary
+provision in the instrument, and the instrument may include terms
+that specify the manner of revocation of consent.
+Section 5011
+(governing provision of instrument, law, or consent).
+[21
+Cal.L.Rev.Comm.Reports 163 (1991)].
+Research References
+Forms
+
+2 California Transactions Forms--Estate Planning § 9:77, Beneficiary
+Designations of Community Property Interests in Plan or Ira
+
+[Prob C §§ 5000 et seq.].
+2 California Transactions Forms--Estate
+Provision Regarding Retirement Plan.
+
+CODE
+
+Planning
+
+§ 10:49, Will
+
+Operative Effect
+Treatises and Practice Aids
+
+For operative effect and application of Chapter
+
+14 Witkin, California Summary 10th Wills and Probate § 337 (2018),
+Revocation of Consent.
+
+§ 5032.
+
+Revocations;
+
+3, see Probate Code § 5048.
+
+§ 5040. Nonprobate transfer to former spouse executed
+before or during marriage or registered domestic partnership; failure of transfer due to dissolution or annulment of marriage or termination of registered domestic
+partnership; situations that do not cause a nonprobate
+transfer to fail; rights of subsequent purchaser
+
+effect on transfers
+
+On revocation of a spouse’s written consent to a nonprobate transfer of community property on death, the property
+passes in the same manner as if the consent had not been
+given.
+
+(Added by Stats.1992, c. 51 (A.B.1719), § 6.)
+
+(a) Except as provided in subdivision (b), a nonprobate
+transfer to the transferor’s former spouse, in an instrument
+executed by the transferor before or during the marriage or
+registered domestic partnership, fails if, at the time of the
+transferor’s death, the former spouse is not the transferor’s
+surviving spouse as defined in Section 78, as a result of the
+dissolution or annulment of the marriage or termination of
+registered domestic partnership. A judgment of legal separation that does not terminate the status of spouses is not a
+dissolution for purposes of this section.
+
+Law Revision Commission Comments
+1992 Addition
+
+Section 5032 governs the substantive rights of the spouses in the
+community property notwithstanding overriding contractual and legal
+requirements that bind a holder of the community property. See
+Sections 5003 (protection of holder of property), 5012 (community
+property rights independent of transfer obligation). However, this
+section is subject to contrary terms of the instrument and to
+overriding law governing the obligation of a holder of community
+property to deal with the property under the particular type of
+instrument. See Section 5011 (governing provision of instrument,
+law, or consent).
+
+(b) Subdivision (a) does not cause a nonprobate transfer
+to fail in any of the following cases:
+(1) The nonprobate transfer is not subject to revocation by
+the transferor at the time of the transferor’s death.
+
+For rights of a spouse who has not given written consent, see
+Section 5020 (written consent required). [21 Cal.L.Rev.Comm.Reports 163 (1991)].
+
+(2) There is clear and convincing evidence that the transferor intended to preserve the nonprobate transfer to the
+former spouse.
+
+Research References
+
+(3) A court order that the nonprobate transfer be maintained on behalf of the former spouse is in effect at the time
+of the transferor’s death. —
+
+Forms
+
+2 California Transactions Forms--Estate Planning § 10:4, Community Property.
+
+(c) Where a nonprobate transfer fails by operation of this
+section, the instrument making the nonprobate transfer shall
+
+2 California Transactions Forms--Estate Planning § 10:14, Formali-
+
+ties Required.
+
+1144
+
+NONPROBATE
+be treated as it would if the former spouse failed to survive
+the transferor.
+
+(recordation as constructive notice to subsequent purchasers and
+mortgagees). The rights of a subsequent purchaser or encumbrancer
+are also protected if the purchaser or encumbrancer relies on an
+affidavit or declaration executed under Section 5602. The remedy for
+a person injured by a transaction with a subsequent purchaser or
+encumbrancer for value is against the transacting former spouse and
+not against the purchaser or encumbrancer.
+In general, Section 5003 protects a property holder from liability
+for transferring the property according to the terms of the instrument
+making the nonprobate transfer, even if the nonprobate transfer has
+failed by operation of subdivision (a).
+This section may be preempted by federal laws with respect to
+employer-provided benefits. See Egelhoff v. Egelhoff, 532 U.S. 141,
+121 S. Ct. 1322 (2001) (ERISA preempts state law revoking spouse’s
+rights as beneficiary of employer-provided life insurance), It is
+therefore especially important on dissolution or annulment of
+marriage to review beneficiary designations for employer-provided
+benefits. [31 Cal.L.Rev.Comm. Reports 76 (2001)).
+
+(d) Nothing in this section affects the rights of a subsequent purchaser or encumbrancer for value in good faith who
+relies on the apparent failure of a nonprobate transfer under
+this section or who lacks knowledge of the failure of a
+nonprobate transfer under this section.
+(e) As used in this section, “nonprobate transfer” means a
+provision, other than a provision of a life insurance policy, of
+either of the following types:
+(1) A provision of a type described in Section 5000.
+(2) A provision in an instrument that operates on death,
+other than a will, conferring a power of appointment or
+naming a trustee. (Formerly § 5600, added by Stats.2001, c.
+417 (A.B.873), § 9, operative Jan. 1, 2002. Renumbered
+§. 5040 and amended by Stats.2015, c. 293 (A.B.139), § 12, eff.
+
+Jan. 1, 2016.
+
+§ 5042
+
+TRANSFERS
+
+Amended by Stats.2016, c. 50 (S.B.1005), $83,
+
+2015 Addition
+
+eff. Jan. 1, 2017.)
+
+Section 5040 continues former Section 5600 without change. [36
+Cal.L.Rev.Comm. Reports 103 (2006)].
+
+Operative Effect
+
+For operative effect and application of Chapter
+
+Commentary
+
+3, see Probate Code § 5048.
+
+Other states have statutes revoking the life insurance beneficiary
+designation of an ex-spouse. See, for example, Sveen v. Malin, 138
+
+Law Revision Commission
+
+Comments
+
+2001 Addition
+
+Subdivision (a) of Section 5600 establishes the general rule that a
+nonprobate transfer to a former spouse fails if, at the time of the
+transferor’s death, the former spouse is not the transferor’s surviving
+spouse, due to the dissolution or annulment of their marriage.
+“Dissolution or annulment” does not include legal separation. This is
+consistent with the law governing wills. See Sections 6122(d), 6227.
+“Surviving spouse” is defined in Section 78. “Nonprobate. transfer”
+does not include life insurance. See subdivision (e).
+Paragraph (1) of subdivision (b) provides that a nonprobate
+transfer to a former spouse does not fail by operation of subdivision
+(a) if, at the time of the transferor’s death, the nonprobate transfer is
+not subject to revocation by the transferor. This precludes operation
+of subdivision (a) where a nonprobate transfer is irrevocable on
+execution, or later becomes irrevocable by the transferor (for reasons
+other than the death or incapacity of the transferor). The irrevocabil-
+
+ity of a trust can be established by certification of the trust’s contents.
+See Section 18100.5.
+Paragraph (2) of subdivision (b) provides that a nonprobate
+transfer to a former spouse does not fail on the transferor’s death if
+there is clear and convincing evidence that the transferor intended to
+preserve the nonprobate transfer. For example, if after divorcing, the
+transferor modified the beneficiary terms of a trust without changing
+the designation of the former spouse as primary beneficiary, this
+might be sufficiently clear and convincing evidence of the transferor’s
+intent to preserve the nonprobate transfer to the former spouse so as
+to prevent the operation of subdivision (a).
+Subdivision (c) governs the effect of failure of a nonprobate
+- transfer under this section. For the effect of a failed nonprobate
+transfer of property, see Section 21111. For the effect of a failure of a
+trustee designation, see Section 15660.
+Subdivision (d) makes clear that nothing in this section affects the
+rights of a good faith purchaser or encumbrancer for value who relies
+on the apparent failure of a nonprobate transfer under this section or
+who lacks knowledge of the failure of a nonprobate transfer under
+this section. For the purpose of this subdivision, “knowledge” of the
+failure of a nonprobate transfer includes both actual knowledge and
+constructive knowledge through recordation of a judgment of dissolution or annulment or other relevant document. See Civ. Code 1213
+
+1145
+
+S.Ct. 1815, 201 L.Ed.2d 180 (2018), holding that such a Minnesota
+provision did not violate the Contracts Clause of the United States
+Constitution (Art. I, § 10, cl.1).. Note, however, that subsection (e) of
+this section excludes life insurance policies from the operation of the
+California Probate Code’s revocation of nonprobate transfers on
+divorce.
+Research References
+Forms
+
+2 California Transactions Forms--Estate Planning § 10:34, Multiple
+Party Accounts.
+Treatises and Practice Aids
+
+11 Witkin,
+
+California
+
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+§ 122
+
+(2018), Conditions on Granting Bifurcation.
+4 Witkin, California Summary 10th Negotiable Instruments § 82
+(2018), Ownership of Account.
+14 Witkin, California Summary 10th Wills and Probate § 343 (2018),
+In General.
+14 Witkin, California Summary 10th Wills and Probate § 344 (2018),
+Transfer to Former Spouse.
+14 Witkin, California Summary 10th Wills and Probate § 346 (2018),
+Real Property Affidavit.
+
+§ 5042. Joint tenancy created before or during marriage or
+registered domestic partnership severed if former
+spouse not decedent’s surviving spouse;
+situations
+where joint tenancy is not severed
+
+(a) Except as provided in subdivision (b), a joint tenancy
+between
+
+the decedent
+
+and
+
+the decedent’s
+
+former
+
+spouse,
+
+created before or during the marriage or registered domestic
+partnership, is severed as to the decedent’s interest if, at the
+time of the decedent’s death, the former spouse is not the
+decedent’s surviving spouse as defined in Section 78, as a
+result of the dissolution or annulment of the marriage or
+registered domestic partnership. A judgment of legal separation that does not terminate the status of spouses is not a
+dissolution for purposes of this section.
+
+§ 5042
+
+PROBATE
+
+operation of this section. Husband’s one third interest becomes a
+tenancy in common and does not pass by survivorship. The remaining
+two thirds remain in joint tenancy as between the third person and
+the former wife.
+Paragraph (1) of subdivision (b) provides that a joint tenancy is not
+severed by operation of subdivision (a) if the joint tenancy is not
+subject to severance by the decedent (for reasons other than the
+decedent’s death). For example, if the decedent is subject to a court
+order or binding agreement prohibiting severance of the joint
+tenancy by the decedent, then the joint tenancy is not severed by
+operation of subdivision (a).
+Subdivision (c) makes clear that nothing in this section affects the
+rights of a good faith purchaser or encumbrancer who relies on an
+apparent severance by operation of this section or who lacks
+knowledge of a severance by operation of this section. For the
+purpose of this subdivision, “knowledge” of a severance of joint
+tenancy includes both actual knowledge and constructive knowledge
+through recordation of a judgment of dissolution or annulment or
+other relevant document. See Civ. Code 1213 (recordation as
+constructive notice to subsequent purchasers and mortgagees). The
+rights of a subsequent purchaser or encumbrancer are also protected
+if the purchaser or encumbrancer relies on an affidavit or declaration
+executed under Section 5602. The remedy for a person injured by a
+transaction with a subsequent purchaser or encumbrancer is against
+the transacting joint tenant and not against the purchaser or
+encumbrancer. [31 Cal.L.Rev.Comm. Reports 78 (2001)].
+
+(b) Subdivision (a) does not sever a joint tenancy in either
+of the following cases:
+(1) The joint tenancy is not subject to severance by the
+decedent at the time of the decedent’s death.
+(2) There is clear and convincing evidence that the decedent intended to preserve the joint tenancy in favor of the
+former spouse.
+(c) Nothing in this section affects the rights of a subsequent purchaser or encumbrancer for value in good faith who
+relies on an apparent severance under this section or who
+lacks knowledge of a severance under this section.
+(d) For purposes of this section, property held in “Joint
+tenancy” includes property held as community property with
+right of survivorship, as described in Section 682.1 of the Civil
+Code. (Formerly § 5601, added by Stats.2001, c. 417 (A.B.
+873), § 9, operative Jan. 1, 2002. Renumbered § 5042 and
+amended
+
+by Stats.2015,
+
+c. 293 (A.B.139),
+
+$ 13, eff. Jan.
+
+CODE
+
+1,
+
+2016. Amended by Stats.2016, c. 50 (S.B.1005), § 84, eff. Jan.
+1, 2017.)
+Operative Effect
+
+For operative effect and application of Chapter
+3, see Probate Code § 5048.
+
+2015 Addition
+Law Revision Commission
+
+Comments
+
+Section 5042 continues former Section 5601 without change. [36
+Cal.L.Rev.Comm. Reports 103 (2006)].
+
+2001 Addition
+
+Subdivision (a) of Section 5601 establishes the general rule that a
+joint tenancy between a decedent and the decedent’s former spouse
+
+Research References
+
+is severed if, at the time of the decedent’s death, the former spouse is
+
+Treatises and Practice Aids
+
+not the decedent’s surviving spouse, due to the dissolution or
+annulment of their marriage. “Dissolution or annulment” does not
+include legal separation. This is consistent with the law governing
+wills. See Sections 6122(d), 6227. “Surviving spouse” is defined in
+Section 78. This effectively reverses the common law rule that
+dissolution or annulment of marriage does not sever a joint tenancy
+between spouses. See, e.g., Estate of Layton, 44 Cal.App.4th 1337, 52
+
+11 Witkin, California Summary 10th Community Property § 15
+(2018), Nature and Effect.
+11 Witkin, California Summary 10th Community Property § 162
+
+(2018), Conversion to Community Property With Right of
+Survivorship.
+11 Witkin, California Summary 10th Community Property § 230
+(2018), Effect of Party’s Death After Dissolution But Before
+Division.
+12 Witkin, California Summary 10th Real Property § 53 (2018),
+Agreement With Other Joint Tenant.
+14 Witkin, California Summary 10th Wills and Probate § 343 (2018),
+
+Cal.Rptr.2d 251 (1996).
+Note that property acquired during marriage in joint tenancy form
+is presumed to be community property on dissolution of marriage or
+legal separation. See Fam. Code 2581. See also In re Marriage of
+
+Hilke, 4 Cal.4th 215, 841 P.2d 891, 14 Cal.Rptr.2d 371 (1992)
+(community property presumption applies after death of former
+spouse if court has entered judgment dissolving marriage and
+reserved jurisdiction over property matters). This section does not
+affect the community property presumption and does not affect
+property characterized as community property under that presumption.
+This section applies to both real and personal property joint
+tenancies, and affects property rights that depend on the law of joint
+tenancy. See, e.g., Veh. Code 4150.5, 5600.5 (property passes as
+though in joint tenancy). This section does not affect United States
+Savings Bonds, which are subject to federal regulation. See Conrad v.
+Conrad, 66 Cal.App.2d 280, 284-85, 152 P.2d 221, 223 (1944)
+(federal law controls).
+The method provided in this section for severing a joint tenancy is
+
+In General.
+14 Witkin, California Summary 10th Wills and Probate § 345 (2018),
+
+Joint Tenancy With Former Spouse.
+14 Witkin, California Summary 10th Wills and Probate § 346 (2018),
+Real Property Affidavit.
+
+§ 5044. Rights of purchaser or encumbrancer
+property who relies on affidavit or declaration
+
+of real
+
+(a) Nothing in this chapter affects the rights of a purchaser
+or encumbrancer of real property for value who in good faith
+relies on an affidavit or a declaration under penalty of perjury
+under the laws of this state that states all of the following:
+(1) The name of the decedent.
+(2) The date and place of the decedent’s death.
+(3) A description of the real property transferred to the
+affiant or declarant by an instrument making a nonprobate
+transfer or by operation of joint tenancy survivorship.
+(4) Either of the following, as appropriate:
+(A) The affiant or declarant is the surviving spouse of the
+decedent.
+
+not exclusive. See, e.g., Civ. Code 683.2.
+
+Where a joint tenancy involves three or more joint tenants,
+severance by operation of this section converts the decedent’s
+interest into a tenancy in common, but does not sever the joint
+tenancy as between the other joint tenants. For example, husband,
+wife, and a third person create a joint tenancy during husband and
+wife’s marriage to each other. On husband’s death, wife is not
+husband’s surviving spouse and the joint tenancy is severed by
+
+1146
+
+NONPROBATE
+
+(B) The affiant or declarant is not the surviving spouse of
+the decedent, but the rights of the affiant or declarant to the
+described property are not affected by Section 5040 or 5042.
+
+Research References
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 343 (2018),
+In General.
+
+(b) A person relying on an affidavit or declaration made
+pursuant to subdivision (a) has no duty to inquire into the
+truth of the matters stated in the affidavit or declaration.
+
+§ 5048.
+
+Operative date and application
+(a) This chapter, formerly Part 4 (commencing with Section 5600), is operative on January 1, 2002.
+
+(c) An affidavit or declaration made pursuant to subdivision (a) may be recorded.
+(Formerly § 5602, added by
+Stats.2001,
+
+c. 417
+
+(A.B.873),
+
+§ 9, operative Jan.
+
+Renumbered § 5044 and amended
+(A.B.139), § 14, eff: Jan. 1, 2016.)
+
+(b) Except as provided in subdivision (c), this chapter
+applies to an instrument making a nonprobate transfer or
+
+1, 2002.
+
+by Stats.2015,
+
+TRANSFERS
+
+c. 293
+
+creating a joint tenancy whether executed before, on, or after
+
+the operative date of this chapter.
+(c) Sections 5040 and 5042 do not apply, and the applicable law in effect before the operative date of this chapter
+applies, to an instrument making a nonprobate transfer or
+creating a joint tenancy in either of the following circumstances:
+(1) The person making the nonprobate transfer or creating
+the joint tenancy dies before the operative date of this
+chapter.
+(2) The dissolution of marriage or other event that terminates the status of the nonprobate transfer beneficiary or
+joint tenant as a surviving spouse occurs before the operative
+
+Operative Effect
+
+For operative effect and application of Chapter
+3, see Probate Code § 5048.
+Law Revision Commission Comments
+
+2001 Addition
+
+Section 5602 provides a procedure for certifying that a person’s
+rights to real property transferred on the death of a spouse or former
+spouse, by an instrument making a nonprobate transfer or by
+operation of joint tenancy survivorship, are not affected by this part.
+See also Code Civ. Proc. 2015.5 (certification or declaration under
+penalty of perjury); Prob. Code 210-212 (recording evidence of death
+affecting title to real property). [28 Cal.L.Rev.Comm. Reports 599
+
+date of this chapter. (Formerly § 5604, added by Stats.2001,
+c. 417 (A.B.873), $ 9, operative Jan. 1, 2002. Renumbered
+§ 5048 and amended by Stats.2015, c. 293 (A.B.139), § 16, eff.
+
+(1998)].
+
+Jan. 1, 2016.)
+
+2015 Addition
+
+Section 5044 continues former Section 5602 without change. [36
+Cal.L.Rev.Comm. Reports 103 (2006)].
+
+;
+Law Revision Commission
+
+Comments
+
+2001 Addition
+
+Section 5604 governs the application of this part.
+Under subdivision (c), where a dissolution of marriage, or other
+event terminating a person’s status as a decedent’s surviving spouse
+occurs before January 1, 2000, that person’s rights as a nonprobate
+transfer beneficiary or joint tenant of the decedent are not affected
+by Section 5600 or 5601. See Section 78 (“surviving spouse” defined).
+[31 Cal.L.Rev.Comm. Reports 79 (2001)].
+
+Research References
+
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 346 (2018),
+Real Property Affidavit.
+
+§ 5046.. Court authority to order dissolution or annulment
+of marriage to maintain former spouse as beneficiary or
+preserve joint tenancy
+
+2015 Addition
+Section 5048 continues former Section 5604 without change. [36
+Cal.L.Rev.Comm. Reports 103 (2006)].
+
+Nothing in this chapter is intended to limit the court’s
+authority to order a party to a dissolution or annulment of
+marriage to maintain the former spouse as a beneficiary on
+any nonprobate transfer described in this chapter, or to
+preserve a joint tenancy in favor of the former spouse.
+
+Research References
+
+Treatises and Practice Aids
+
+14 Witkin, California Summary 10th Wills and Probate § 343 (2018),
+In General.
+
+(Formerly § 5603, added by Stats.2001, c. 417 (A.B.873), § 9,
+
+operative Jan. 1, 2002. Renumbered $ 5046 and amended by
+Stats.2015, c. 293 (A.B.139), § 15, eff. Jan. 1, 2016.)
+
+Part 2
+
+Operative Effect
+
+MULTIPLE-PARTY
+
+For operative effect and application of Chapter
+3, see Probate Code §$ 5048.
+
+ACCOUNTS
+
+Law Revision Commission
+
+Comments
+
+Law Revision Commission Comments
+
+1990 Enactment
+
+2001 Addition
+
+This part supersedes Part 1 (commencing with Section 5100) of
+Division 5 the repealed Probate Code. The superseded part was
+enacted upon recommendation of the California Law Revision
+Commission.
+See Recommendation Relating to Multiple—Party
+
+Section 5603 clarifies the effect of this part.
+Reports 79 (2001)].
+
+[31 Cal.L.Rev.Comm.
+
+Accounts
+
+2015 Addition
+
+in Financial Institutions, 20 Cal.L.Revision
+
+ports 95 (1990).
+
+Section 5046 continues former Section 5603 without change. [36
+Cal.L.Rev.Comm. Reports 103 (2006)].
+
+Comm’n
+
+Re-
+
+See also Communication from the California Law
+
+Revision Commission Concerning Senate Bill 985, 20 Cal.L.Revision
+
+Comm’n Reports 247 (1990).
+
+1147
+
+PROBATE
+
+CODE
+14 Witkin, California Summary 10th Wills and Probate § 330 (2018),
+Recommendation and Enactment.
+14 Witkin, California Summary 10th Wills and Probate § 331 (2018),
+Authorized Transfers.
+14 Witkin, California Summary 10th Wills and Probate § 444 (2018),
+Probate and Administration.
+
+For an earlier Commission recommendation which resulted in
+enactment of a statute covering credit unions and industrial loan
+companies, see Recommendation Relating to Nonprobate Transfers,
+16 Cal.L.Revision Comm’n Reports 129 (1982).
+See also 17
+Cal.L.Revision Comm’n Reports 823 (1984) (legislative history).
+For an earlier recommendation, see Recommendation Relating to
+Non-Probate Transfers, 15 Cal.L.Revision Comm’n Reports 1605
+(1980). See also 16 Cal.L.Revision Comm’n Reports 2026 (1982)
+(legislative history).
+[20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+ARTICLE 2.
+
+DEFINITIONS
+
+Section
+
+CHAPTER 1.
+
+SHORT TITLE AND DEFINITIONS
+Application
+
+Application of Part 2 to accounts in existence on or
+established
+
+after July 1, 1990,
+
+see
+
+Probate
+
+Code
+
+§ 5205.
+ARTICLE
+
+1...-SHORT TITLE
+
+Application of definitions.
+
+5122.
+
+Account.
+
+5124.
+5126.
+
+Agent.
+Beneficiary.
+
+5128.
+5130.
+
+Financial institution.
+Joint account.
+
+5132.
+
+Multiple-party account.
+
+5134.
+
+Net contribution.
+
+5136.
+5138.
+
+Party.
+Payment.
+
+5139) =POD:
+5140. P.O.D. account.
+5142. P.O.D. payee.
+5144. Proof of death.
+5146. Receives (order or notice received by institution).
+5148. Request.
+5150. Sums on deposit.
+5152. Withdrawal.
+
+Section
+5100.
+Short title.
+
+§ 5100. Short title
+This part may be cited as the California Multiple-Party
+Accounts Law. (Stats.1990, c. 79 (A.B.759), § 14, operative
+
+July 1, 1991.)
+
+Law Revision Commission
+
+5120.
+
+Comments
+
+§ 5120.
+
+1990 Enactment
+
+Application of definitions
+
+Unless the provision or context otherwise requires, the
+definitions in this article govern the construction of this part.
+
+Section 5100 continues Section 5100 of the repealed Probate Code
+without change.
+
+(Stats.1990,
+
+c. 79 (A.B.759),
+
+§ 14, operative July 1, 1991.)
+
+Background on Section 5100 of Repealed Code
+Law Revision Commission Comments
+
+Section 5100 was a new provision added by 1983 Cal.Stat. ch. 92
+§ 5. For background on the provisions of this part, see the
+Comment
+to this part
+under
+the
+part
+heading.
+[20
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+1990 Enactment
+
+Section 5120 continues Section 5120 of the repealed Probate Code
+without change.
+
+Section 5120 is consistent with the introductory
+
+clause of Uniform Probate Code Section 6-101 (1987). As to the
+construction of provisions drawn from uniform acts, see Section 2.
+
+Research References
+Forms
+
+2 California
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 10:19,
+
+Background on Section 5120 of Repealed Code
+
+Joint
+Section
+
+Tenancy Property.
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 22
+(2018), Community Property.
+11 Witkin, California Summary 10th Community Property § 162
+(2018), Conversion to Community Property With Right of
+Survivorship.
+4 Witkin, California Summary 10th Negotiable Instruments § 80
+(2018), Nature and Purpose of Statutes.
+4 Witkin,
+
+California
+
+Summary
+
+10th Negotiable
+
+Instruments
+
+5120 was
+
+added
+
+by 1989 Cal.Stat.
+
+ch. 397 § 25.
+
+The
+
+section restated without substantive change the introductory portion
+of former Probate Code Section 5101 (repealed by 1989 Cal.Stat. ch.
+397 § 24). For background on the provisions of this part, see the
+Comment
+to this part under
+the
+part
+heading.
+[20
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+2 California Transactions Forms--Estate Planning § 10:34, Multiple
+Party Accounts.
+
+Research References
+Forms
+
+West’s California Code Forms, Probate § 6602 Form 1, Petition to
+Set Aside Small Estate.
+
+§ 82
+
+Treatises and Practice Aids
+
+(2018), Ownership of Account.
+13 Witkin, California Summary 10th Personal Property § 31 (2018),
+Nature of Joint Tenancy.
+13 Witkin, California Summary 10th Trusts § 14 (2018), Nature of
+Trust.
+14 Witkin, California Summary 10th Wills and Probate § 53 (2018),
+Major Changes.
+14 Witkin, California Summary 10th Wills and Probate § 123 (2018),
+Transfer-On-Death Provisions.
+14 Witkin, California Summary 10th Wills and Probate § 285 (2018),
+Community Property With Right of Survivorship.
+
+4 Witkin, California Summary 10th Negotiable Instruments § 82
+(2018), Ownership of Account.
+15 Witkin, California Summary 10th Wills and Probate § 829 (2018),
+Nature of Right.
+15 Witkin, California Summary 10th Wills and Probate § 842 (2018),
+Property Excluded from Estate.
+§ 5122.
+
+Account
+
+(a) “Account” means a contract of deposit of funds
+between a depositor and a financial institution, and includes a
+
+1148
+
+NONPROBATE
+checking
+
+account,
+
+savings
+
+account,
+
+certificate
+
+§ 5128
+
+TRANSFERS
+Background on Section 5124 of Repealed Code
+
+of deposit,
+
+share account, and other like arrangement.
+
+Section 5124 was a new provision added by 1989 Cal.Stat. ch. 397
+§ 25.
+
+(b) “Account” does not include:
+
+For
+
+background
+
+(1) An account established for deposit of funds of a
+partnership, joint venture, or other association for business
+purposes.
+
+§ 5126.
+
+the
+
+provisions
+
+of this part,
+
+part
+
+see
+
+heading.
+
+the
+
+[20
+
+Beneficiary
+
+“Beneficiary” means a person named in a Totten trust
+account as one for whom a party to the account is named as
+trustee. (Stats.1990, c. 79 (A.B.759), § 14, operative July 1,
+1991.)
+
+(2) An account controlled by one or more persons as the
+duly authorized agent or trustee for a corporation, unincorporated association, or charitable or civic organization.
+
+(3) A regular fiduciary or trust account where the relationship is established other than by deposit agreement.
+
+Law Revision Commission
+
+(4) An account established for the deposit of funds of the
+estate of a ward, conservatee, or decedent.
+(A.B.759), § 14, operative July 1, 1991.)
+
+on
+
+Comment
+to
+this
+part
+under
+the
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+Comments
+
+1990 Enactment
+
+(Stats.1990, c. 79
+
+Section 5126 continues Section 5126 of the repealed Probate Code
+without change. The section is the same in substance as subsection
+(2) of Section 6-101 of the Uniform Probate Code (1987). As to the
+construction of provisions drawn from uniform acts, see Section 2.
+See also Section 80 (defining “Totten trust account”). As used in
+this part, “trustee” means the trustee of a Totten trust account.
+
+Law Revision Commission Comments
+1990 Enactment
+
+Section 5122 continues Section 5122 of the repealed Probate Code
+without change.
+Subdivision (a) is the same in substance as
+
+Background on Section 5126 of Repealed Code
+
+subsection (1) of Section 6-101 of the Uniform Probate Code (1987).
+Paragraphs (1)-(3) of subdivision (b) are the same in substance as
+the second sentence of subsection (5) of Section 6-101 of the
+Uniform Probate Code (1987). As to the construction of provisions
+
+Section
+
+5126 was
+
+added
+
+by 1989
+
+Cal.Stat.
+
+ch. 397
+
+§ 25.
+
+The
+
+section restated subdivision (b) of former Probate Code Section 5101
+(repealed by 1989 Cal.Stat. ch. 397 § 24) without substantive change.
+For background on the provisions of this part, see the Comment to
+this part under the part heading. [20 Cal.L.Rev.Comm.Reports 1001
+(1990)].
+
+drawn from uniform acts, see Section 2.
+Background on Section 5122 of Repealed Code
+
+§ 5128.
+
+Section 5122 was added by 1989 Cal.Stat. ch. 397 § 25. Subdivision (a) restated subdivision (a) of former Probate Code Section 5101
+(repealed by 1989 Cal.Stat. ch. 397 § 24) without change. Paragraphs (1)-(3) of subdivision (b) restated the second sentence of
+subdivision (e) of former Section 5101 without substantive change.
+Paragraph (4) of subdivision (b) was new and superseded the third
+sentence of subdivision (g) of former Section 5101.
+The new
+paragraph made clear that the rules applicable to an account
+established for funds of a guardianship, conservatorship, or decedent’s estate are not affected by this part. For background on the
+provisions of this part, see the Comment to this part under the part
+heading. [20 Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+Financial institution
+
+“Financial institution” includes:
+
+(a) A financial institution as defined in Section 40.
+(b) An industrial loan company as defined in Section
+18003 of the Financial Code.
+§ 14, operative July 1, 1991.)
+
+(Stats.1990, c.. 79 (A.B.759),
+
+Law Revision Commission
+
+Comments
+
+1990 Enactment
+
+Section 5128 continues Section 5128 of the repealed Probate Code
+without change. Subdivision (a), read with the definition of “finan-
+
+cial institution” in Section 40, is comparable to subsection (3) of
+Section 6-101 of the Uniform Probate Code (1987). As to the
+construction of provisions drawn from uniform acts, see Section 2.
+
+Research References
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 22
+(2018), Community Property.
+4 Witkin, California Summary 10th Negotiable Instruments § 81
+:
+(2018), Definitions.
+4 Witkin, California Summary 10th Negotiable Instruments § 82
+(2018), Ownership of Account.
+14 Witkin, California Summary 10th Wills and Probate § 336 (2018),
+Transmutation of Community Property Distinguished.
+
+Background on Section 5128 of Repealed Code
+Section
+
+5128 was
+
+added
+
+by 1989
+
+Cal.Stat.
+
+ch. 397 § 25.
+
+The
+
+section superseded subdivision (c) of former Probate Code Section
+5101 (repealed by 1989 Cal.Stat. ch. 397 § 24). The term “financial
+institution” as defined in subdivision (c) of former Section 5101 was
+limited to credit unions and industrial loan companies. The new
+definition in Section 5128 applied as well to banks, savings and loan
+associations, and other like organizations, by force of Section 40
+defining “financial institution.” For background on the provisions of
+this part, see the Comment to this part under the part heading. [20
+Cal.L.Rev.Comm.Reports 1001 (1990)].
+
+§ 5124. Agent
+“Agent” means a person who has a present right, subject to
+request, to payment from an account as an attorney in fact
+under a power of attorney. (Stats.1990, c. 79 (A.B.759), § 14,
+
+Research References
+
+operative July 1, 1991.)
+
+Forms
+
+2 California Transactions Forms--Estate Planning § 10:34, Multiple
+Party Accounts.
+
+Law Revision Commission Comments
+1990 Enactment
+
+Treatises and Practice Aids
+
+Section 5124 continues Section 5124 of the repealed Probate Code
+without change. See also Section 5204 (special power of attorney
+
+4 Witkin, California Summary 10th Negotiable Instruments
+(2018), Nature and Purpose of Statutes.
+
+with respect to accounts at financial institutions).
+
+1149
+
+§ 80
+
+

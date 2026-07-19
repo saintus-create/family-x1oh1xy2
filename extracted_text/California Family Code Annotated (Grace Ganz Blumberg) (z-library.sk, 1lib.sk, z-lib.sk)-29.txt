@@ -1,0 +1,4469 @@
+DEPT.
+
+OF CHILD
+
+SUPPORT
+
+§ 17310
+
+SERVICES
+
+§ 17307. Legislative findings and declarations with respect
+to authority and discretion of Department of Child
+Support Services to prevent, correct, or remedy effects of
+changes in timing of receipt of child support payments
+resulting solely from initial implementation of federally
+required State Disbursement Unit
+
+of Child Support Services, and shall be subject to approval of
+the department.
+
+(a) The Legislature hereby finds and declares that the
+Department of Child Support Services has the authority and
+discretion to prevent, correct, or remedy the effects of
+changes in the timing of the receipt of child support payments
+resulting solely from the initial implementation of the federally required State Disbursement Unit. This authority shall
+not be construed to supplant existing statutory appropriation
+and technology project approval processes, limits, and requirements.
+(b) The Legislature hereby finds and declares that this
+section is declaratory of existing law. (Added by Stats.2006, c.
+75 (A.B.1808), § 6, eff: July 12, 2006.)
+
+(1) “Electronic fund transfer” means any transfer of funds,
+other than a transaction originated by check, draft, or similar
+paper instrument, that is initiated through an electronic
+terminal, telephonic instrument, or computer or magnetic
+
+(2) The election may be terminated upon written request
+to the Department of Child Support Services.
+
+(c) For the purposes of this section:
+
+tape,
+
+as
+
+to
+
+order,
+
+National Automated
+
+instruct,
+
+or
+
+authorize
+
+a financial
+
+Clearinghouse
+
+Association,
+
+that oper-
+
+ates as a clearinghouse for transmitting or receiving entries
+between banks or bank accounts and that authorizes an
+electronic transfer of funds between these banks or bank
+
+§ 17308. Automated child support system
+The director shall assume responsibility for implementing
+and managing all aspects of a single statewide automated
+child support system that will comply with state and federal
+requirements. The director may delegate responsibility to,
+or enter into an agreement with, any agency or entity that it
+deems necessary to satisfy this requirement.
+(Added by
+
+accounts.
+
+(3) “Automated clearinghouse debit” means a transaction
+in which the state, through its designated depository bank,
+originates an automated clearinghouse transaction debiting
+the person’s bank account and crediting the state’s bank
+account for the amount of tax. Banking costs incurred for
+the automated clearinghouse debit transaction shall be paid
+by the state.
+
+Stats.1999, c. 478 (A.B.196), § 1.)
+§ 17309.
+
+so
+
+institution to debit or credit an account. Electronic fund
+transfers shall be accomplished by an automated clearinghouse debit, an automated clearinghouse credit, or by
+Federal Reserve Wire Transfer (Fedwire).
+(2) “Automated clearinghouse” means any federal reserve
+bank, or an organization established in agreement with the
+
+State Disbursement Unit
+
+Effective October 1, 1998, the state shall operate a State
+
+(4) “Automated clearinghouse credit” means an automated clearinghouse transaction in which the person, through
+* * * their own bank, originates an entry crediting the state’s
+bank account and debiting * * * the person’s own bank
+account. Banking costs incurred for the automated clearinghouse credit transaction charged to the state shall be paid by
+the person originating the credit.
+
+Disbursement Unit as required by federal law (42 U.S.C.
+Secs. 654 (27), 654a(g), and 654b). (Added by Stats.1999, c.
+478 (A.B.196), § 1. Amended by Stats.2003, c. 387 (A.B.739),
+§ 10.)
+Research References
+Treatises and Practice Aids
+
+(5) “Fedwire transfer” means a transaction originated by a
+person and utilizing the national electronic payment system
+to transfer funds through the federal reserve banks, when that
+person debits * * * their own bank account and credits the
+state’s bank account. Electronic fund transfers pursuant to
+this section may be made by Fedwire only if payment cannot,
+for good cause, be made according to subdivision (a), and the
+use of Fedwire is preapproved by the department. Banking
+costs incurred for the Fedwire transaction charged to the
+person and to the state shall be paid by the person originating
+the transaction. (Added by Stats.2004, c. 806 (A.B.2358), § 3.
+Amended by Stats.2019, c. 115 (A.B.1817), § 143, eff: Jan. 1,
+2020.)
+
+11 Witkin, California Summary 10th Husband and Wife § 275
+(2018), Obligations of Employer.
+10 Witkin, California Summary 10th Parent and Child § 514 (2018),
+Court Order for Payment to County.
+
+§ 17309.5. Employers required to make child support payments by electronic fund transfer; election to make
+payments; definitions
+
+(a) An employer who is required to withhold and, by
+electronic fund transfer, pay tax pursuant to Section 19011 of
+the Revenue and Taxation Code or Section 13021 of the
+Unemployment Insurance Code, shall make child support
+payments to the State Disbursement Unit by electronic fund
+transfer. All child support payments required to be made to
+the State Disbursement Unit shall be remitted to the State
+Disbursement Unit by electronic fund transfer pursuant to
+Division 11 (commencing with Section 11101) of the Commercial Code,
+(b) An employer not required to make payment to the
+State Disbursement Unit pursuant to paragraph (a), may
+elect to make payment by electronic fund transfer under the
+following conditions:
+(1) The election shall be made in a form, and shall contain
+information, as prescribed by the Director of the Department
+
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 514 (2018),
+Court Order for Payment to County.
+
+§ 17310.
+
+Regulations and general policies
+
+(a) The director shall formulate, adopt, amend, or repeal
+regulations and. general policies affecting the purposes,
+responsibilities, and jurisdiction of the department that are
+consistent with law and necessary for the administration of
+
+675
+
+§ 17310
+
+SUPPORT
+
+SERVICES
+
+payment timeframes under federal law, the amount shall be
+adjusted after approval of the Director of Finance.
+In
+conjunction with the Department of Finance and the Controller’s office, the department shall establish repayment
+procedures to ensure the outstanding loan balance does not
+exceed the average daily cash needs. The ongoing evaluation
+of the fund as detailed in these procedures shall occur no less
+frequently than monthly.
+
+the state plan for securing child support and enforcing
+spousal support orders and determining paternity.
+(b) Notwithstanding any other provision of law, all regulations, including, but not limited to, regulations of the State
+
+Department of Social Services and the State Department of
+Health Services, relating to child support enforcement shall
+remain in effect and shall be fully enforceable by the
+department. The department may readopt, amend, or repeal
+the regulations in accordance with Section 17312 as necessary
+and appropriate. (Added by Stats.1999, c. 478 (A.B.196), § 1.
+Amended by Stats.1999, c. 480 (S.B.542), § 11.)
+
+(f) Notwithstanding any other law, the Controller may use
+the moneys in the Child Support Payment Trust Fund for
+loans to the General Fund as provided in Sections 16310 and
+16381 of the Government Code.
+
+§ 17311. Establishment and operation of Child Support
+Payment Trust Fund; legislative intent; General Fund
+loan
+
+However, interest shall be
+
+paid on all moneys loaned to the General Fund from the
+Child Support Payment Trust Fund. Interest payable shall
+be computed at a rate determined by the Pooled Money
+Investment Board to be the current earning rate of the fund
+from which loaned. This subdivision does not authorize any
+transfer that will interfere with the carrying out of the object
+for which the Child Support Payment Trust Fund was
+created.
+(Added by Stats.2003, c. 387 (A.B.739), $§ 11.
+
+(a) The Child Support Payment Trust Fund is. hereby
+created in the State Treasury. The department shall administer the fund.
+(b)(1) The state may deposit child support payments
+received by the State Disbursement Unit, including those
+amounts that result in overpayment of child support, into the
+Child Support Payment Trust Fund, for the purpose of
+processing and providing child support payments. Notwithstanding Section 13340 of the Government Code, the fund is
+continuously appropriated for the purposes of disbursing
+child support payments from the State Disbursement Unit.
+(2) The state share of the interest and other earnings that
+accrue on the fund shall be available to the department and
+used to offset the following General Fund costs in this order:
+(A) Any transfers made to the Child Support Payment
+Trust Fund from the General Fund.
+(B) The cost of administering the State Disbursement
+Unit, subject to appropriation by the Legislature.
+(C) Other child support program activities, subject to
+appropriation by the Legislature.
+(c) The department may establish and administer a revolving account in the Child Support Payment Trust Fund in an
+
+Amended by Stats.2005, c. 78 (S.B.68), § 6, eff: July 19, 2005;
+Stats.2009-2010, 3rd Ex.Sess., c. 9 (A.B.13), § 4, eff: Feb. 20,
+
+2009.)
+§ 17311.5.
+
+Trust
+
+agreement
+
+support collections;
+
+to receive
+
+or disburse
+
+provisions of agreement;
+
+child
+
+approved
+
+investment securities
+
+(a) The department may enter into a trust agreement with
+a trustee or fiscal intermediary to receive or disburse child
+support collections. The trust agreement may contain provisions the department deems reasonable and proper for the
+security of the child support payments. Any trust accounts
+created by the trust agreements may be held outside the State
+Treasury.
+(b) For the 2012-13 fiscal year only, trust account moneys
+may be invested in any of the types of securities listed in
+Section 16430 of the Government Code or alternatives
+offering comparable security, including, but not limited to,
+mutual funds and money market funds. This subdivision
+does not authorize investments or transfers that would
+interfere with carrying out the objective for which the Child
+Support Payment Trust Fund was created.
+(Added by
+
+amount not to exceed six hundred million dollars ($600,000,-
+
+000) to ensure the timely disbursement of child support.
+This amount may be adjusted by the Director of Finance
+upon notification of the Legislature as required, to meet
+payment timeframes required under federal law.
+(d) It is the intent of the Legislature to provide transfers
+from the General Fund to provide startup funds for the Child
+Support Payment Trust Fund so that, together with the
+balances transferred pursuant to Section 17311.7, the Child
+Support Payment Trust Fund will have sufficient cash on
+hand to make all child support payments within the required
+timeframes.
+(ec) Notwithstanding any other law, an ongoing loan shall
+
+Stats.2003, c. 387 (A.B.739), § 12. Amended by Stats.2012, c.
+47 (S.B.1041), § 1, eff: June 27, 2012.)
+§ 17311.7.
+Child support payment made to family through
+State Disbursement Unit; “alternate caregiver” defined
+
+(a) Any payment required to be made to a family through
+the State Disbursement Unit shall be made directly to the
+obligee parent in the child support order requiring the
+payment, the conservator or guardian of the obligee parent, a
+special needs trust for the benefit of the obligee parent, the
+guardian of the person and the estate of the child subject to
+the order, any caregiver relative having custody or responsi-
+
+be made available from the General Fund, from funds not
+otherwise appropriated, to the Child Support Payment Trust
+Fund, not to exceed one hundred fifty million dollars
+
+bility for the child, pursuant
+
+($150,000,000) to ensure the timely disbursement of child
+support payments when funds have not been recorded to the
+Child Support Payment Trust Fund or due to other fund
+
+to a written
+
+record,
+
+or an
+
+Revenue
+
+alternate caregiver to whom the obligee under the child
+support order directs, in a written record, that payments be
+made.
+
+Service negative adjustments to tax intercept payments.
+Whenever an adjustment of this amount is required to meet
+
+(b) For purposes of this section, “alternate caregiver”
+means a nonrelative caregiver who is designated in writing by
+
+liabilities, including,
+
+but not limited
+
+to, Internal
+
+676
+
+DEPT.
+
+OF CHILD
+
+SUPPORT
+
+the obligee parent to take care of the child for a limited time.
+(Added by Stats.2018, c. 504 (A.B.3248), § 6, eff: Jan. 1, 2019.)
+§ 17312.
+
+(3) Participating in program monitoring teams as set forth
+in subdivision (c) of Section 17602.
+(4) Participating in meetings with all regional state admin-
+
+Regulations, orders, or standards
+
+istrators and the director on at least a monthly basis to
+promote statewide uniformity as to the functions and structure of the local child support agencies. The regional state
+administrators may recommend proposals for approval and
+adoption by the director to achieve this goal.
+(5) Responding to requests for management or technical
+assistance regarding program operations by local child support agencies. (Added by Stats.1999, c. 478 (A.B.196), § I.)
+
+(a) The department shall adopt regulations, orders, or
+standards of general application to implement, interpret, or
+make specific the law enforced by the department. Regulations, orders, and standards shall be adopted, amended, or
+
+repealed by the director only in accordance with Chapter 3.5
+(commencing with Section 11340) of Part 1 of Division 3 of
+Title 2 of the Government Code.
+(b) In adopting regulations, the department shall strive for
+clarity of language that may be readily understood by those
+administering public social services or subject to those
+regulations.
+(c) The
+
+rules of the department
+
+need
+
+§ 17325
+
+SERVICES
+
+§ 17316.
+
+Involvement
+
+with
+
+agency
+
+supervised
+
+by depart-
+
+ment
+
+No person, while holding the office of director, shall be a
+trustee, manager,
+
+not specify or
+
+director, or other officer or employee of
+
+include the essential authority by which any person, agency,
+organization, association, or institution subject to the supervision or investigation of the department is required to use,
+
+any agency performing any function supervised by the
+department or any institution that is subject to examination,
+inspection, or supervision by the department.
+(Added by
+Stats.1999, c. 478 (A.B.196), § 1.)
+
+submit, or maintain the forms, reports, or records.
+
+§ 17318.
+
+(d) The department’s regulations and other materials shall
+be’ made available pursuant to the California Code of
+Regulations and in the same manner as are materials of the
+State Department of Social Services under the provisions of
+Section 205.70 of Title 45 of the Code of Federal Regulations. (Added by Stats.1999, c. 478 (A.B.196), § 1. Amended
+by Stats.1999, c. 480 (S.B.542), § 12.)
+
+Except as otherwise expressly provided, Part 1 (commencing with Section 11000) of Division 3 of Title 2 of the
+Government Code, as it may be added to or amended from
+time to time, shall apply to the conduct of the department.
+(Added by Stats.1999, c. 478 (A.B.196), § 1.)
+
+§ 17314.
+
+The department shall coordinate with the State Department of Social Services to avoid the imposition of any federal
+penalties that cause a reduction in the state’s Temporary
+Assistance to Needy Families grant, payable pursuant to
+Section 603(a)(1) of Title 42 of the United States Code.
+(Added by Stats.1999, c. 478 (A.B.196), § 1.)
+
+include
+
+the detail of forms, reports,
+
+or records, but shall
+
+Application of Government Code § 11000 et seq.
+
+§ 17320.
+Temporary
+federal penalties
+
+Staff; regional state administrators
+
+(a) Subject to the State Civil Service Act (Part 2 (commencing with Section 18500) of Division 5 of Title 2 of the
+Government Code), the director shall appoint any assistants
+and other employees that are necessary for the administration
+of the affairs of the department and shall prescribe their
+duties and, subject to the approval of the Department of
+
+Assistance to Needy Families grant;
+
+§ 17325. Direct deposit of child support payments;
+ing account; requirements; definitions
+
+Finance, fix their salaries.
+
+(b) As the director adopts a plan for a local child support
+agency to assume responsibility for child support enforcement
+activities in any county served by a district attorney pursuant
+
+qualify-
+
+(a)(1) Notwithstanding any other law, if child support
+payments are directly deposited to an account of the recipient’s choice, as authorized under the federal Electronic Fund
+
+to Section 17304, the director shall hire a sufficient number of
+
+Transfer Act (EFTA) (15 U.S.C. Sec. 1693 et seq.), the
+payments may only be deposited to an account that meets the
+requirements of a qualifying account, as defined in paragraph
+(2), for deposit of child support payments.
+(2) For purposes of this section, a “qualifying account” is
+one of the following:
+(A) A demand deposit or savings account at an insured
+financial institution in the name of the person entitled to the
+receipt of child support payments.
+(B) A prepaid card account that meets all of the following:
+(i) The account is held at an insured financial institution.
+(ii) The account is set up to meet the requirements for
+passthrough deposit or share insurance so that the funds
+accessible through the account are eligible for insurance for
+the benefit of the person entitled to the receipt of child
+support payments by the Federal Deposit Insurance Corporation in accordance with Part 330 of Title 12 of the Code of
+Federal Regulations, or the National Credit Union Share
+
+regional state administrators to oversee the local child
+support agencies to ensure compliance with all state and
+federal laws and regulations. The regions shall be divided
+based on the total caseload of each local child support
+agency. The responsibilities of the regional state administrators shall include all of the following:
+(1) Conducting regular and comprehensive site visits to
+the local child support agencies assigned to their region and
+preparing quarterly reports to be submitted to the department. The local child support agencies shall fully cooperate
+with all reasonable requests made by the regional state
+administrators, including providing all requested data on the
+local child support agency’s program.
+
+(2) Notifying a local child support agency of any potential
+or actual noncompliance with any state or federal law or
+regulation by the agency and working with the local child
+support agency to develop an immediate plan to ensure
+compliance.
+
+677
+
+§ 17325
+
+SUPPORT
+
+SERVICES
+
+Insurance Fund in accordance with Part 745 of Title 12 of the
+
+Section
+17393.
+
+Code of Federal Regulations.
+(iii) The account is not attached to any credit or overdraft
+feature that is automatically repaid from the account after
+delivery of the payment.
+(iv) The issuer of the card complies with all of the
+requirements, and provides the holder of the card with all of
+the consumer protections, that apply to a payroll card account
+under the rules implementing the EFTA or other rules
+subsequently adopted under the EFTA that apply to prepaid
+card accounts.
+(3) A person or entity that issues a prepaid card or
+maintains or manages a prepaid card account that does not
+comply with paragraph (2) shall not accept or facilitate the
+direct deposit of child support payments to the prepaid card
+
+or article.
+
+§ 17390. Legislative findings and declarations; utilization
+of California Child Support Enforcement System or its
+replacement
+
+(a) The Legislature finds and declares that there is no
+single statewide database containing statistical data regarding
+child support orders.
+(b) The California Child Support Enforcement System or
+its replacement may be utilized to provide a single statewide
+registry of all child support orders in California, including
+orders for cases under Title IV-D of the Social Security Act !
+and all cases with child support orders. (Added by Stats.2016,
+c. 474 (A.B.2882), § 13, eff. Jan. 1, 2017.)
+
+account.
+
+1 See 42 U.S.C.A. § 651 et seq.
+
+(b) For purposes of this section, the department shall not
+be held liable for authorizing a direct deposit of child support
+payments into a prepaid card account designated by the
+recipient that does not comply with paragraph (2) of subdivision (a). The department has no obligation to determine
+whether an account at the financial institution of the recipient’s choice is a qualifying account as described in subdivision
+
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 510 (2018),
+Collection of Information About Support Obligations.
+
+§ 17391. Development of implementation plan for, Statewide Child Support Registry; duties of clerks of court
+and department
+
+(a).
+(c) For the purposes of this section, the following definitions shall apply:
+(1). “Financial institution” means a state or national bank,
+a state or federal savings and loan association, a mutual
+savings bank, or a state or federal credit union.
+
+(a) The department shall develop an implementation plan
+for the Statewide Child Support Registry. The Statewide
+Child Support Registry shall be operated by the agency
+responsible for operation of the California Child Support
+Enforcement System or its replacement.
+The Statewide
+Child Support Registry shall include storage and data retrieval of the data elements specified in Section 17392 for all
+California child support orders. The Statewide Child Support Registry will operate to ensure that all data in the
+Statewide Child Support Registry can be accessed and
+integrated for statistical analysis and reporting purposes with
+all child support order data contained in the California Child
+Support Enforcement System.
+(b) Each clerk of the court shall provide the information
+specified in Section 17392 within 20 days to the department
+or the Statewide Child Support Registry from each new or
+modified child support order, including child support arrearage orders.
+(c) The department shall maintain a system for compiling
+the child support data received from the clerks of the court,
+ensure that all child support data received from the clerks of
+the court are entered into the Statewide Child Support
+Registry within five business days of receipt in the Statewide
+Child Support Registry, and ensure that the Statewide Child
+Support Registry is fully implemented statewide.
+(d) The department shall provide aggregate data on a
+periodic basis on the data maintained by the Statewide Child
+Support Registry to the Judicial Council, the appropriate
+
+(2) “Issuer” means a person or entity that issues a prepaid
+card.
+(3) “Payroll card account” shall have the same meaning as
+that term is defined in the regulations implementing the
+EFTA.
+(4) “Prepaid card” or “prepaid card account” means
+either of the following:
+(A) A card, code, or other means of access to funds of a
+recipient that is usable at multiple, unaffiliated merchants for
+
+goods or services, or usable at automated teller machines.
+
+(B) The same as those terms or related terms are defined
+in the regulations adopted under the EFTA regarding general
+use reloadable cards.
+(Added by Stats.2014, c. 180 (A.B.
+2252), § 1, eff. Jan. 1, 2015.
+
+Amended by Stats.2014, c. 720
+
+(A.B.1614), $ 1, eff: Jan. 1, 2015;
+1519), § 2, eff. Jan. 1, 2016.)
+
+Stats.2015, c. 416 (A.B.
+
+ARTICLE 4. STATEWIDE REGISTRY
+FOR CHILD SUPPORT
+Section
+17390.
+17391.
+17392.
+
+Development of forms necessary for implementation
+
+Legislative findings and declarations; utilization of
+California Child Support Enforcement System or its
+replacement.
+Development of implementation plan for Statewide
+Child Support Registry; duties of clerks of court
+and department.
+Development of forms necessary for implementation
+of Statewide Child Support Registry; information
+to be transmitted.
+
+agencies of the executive
+
+branch,
+
+and the Legislature
+
+for
+
+statistical analysis and review. The data shall not include
+individual identifying information for specific cases.
+(e) Any information maintained by the Statewide Child
+Support Registry received from clerks of the court shall be
+provided to local child support agencies, the courts, and
+
+678
+
+CHILD
+
+SUPPORT
+
+ENFORCEMENT
+
+c. 474
+
+Section
+17404.1.
+
+others as provided by law. (Added by Stats.2016,
+(A.B.2882), § 13, eff: Jan. 1, 2017.)
+Research References
+Treatises and Practice Aids
+
+17404.2.
+
+10 Witkin, California Summary 10th Parent and Child § 510 (2018),
+Collection of Information About Support Obligations.
+
+17404.3.
+
+§ 17392. Development of forms necessary for implementation of Statewide Child Support Registry; information
+to be transmitted
+
+17404.4.
+
+17405.
+
+(a) The Judicial Council shall develop any forms that may
+be necessary to implement the Statewide Child Support
+Registry.
+The forms may be in electronic form or in
+hardcopy, as appropriate. The forms shall be developed so
+as not to delay implementation, and shall be available no later
+than 30 days prior to the implementation, of the Statewide
+Child Support Registry.
+(b) The information transmitted from the clerks of the
+court to the Statewide Child Support Registry shall include
+all of the following:
+(1) Any information required under federal law.
+(2) Any other information the department and the Judicial
+Council find appropriate.
+(Added by Stats.2016, c. 474
+(A.B.2882), § 13, eff. Jan. 1, 2017.)
+
+17406.
+
+17407.5.
+
+17408.
+17410.
+17412.
+17412.
+
+17414.
+17415.
+
+The Judicial Council shall develop the forms necessary to
+implement this article. (Added by Stats.2016, c. 474 (A.B.
+
+17416.
+17418.
+17420.
+17422.
+
+2882), § 13, eff. Jan. 1, 2017.)
+CHILD SUPPORT ENFORCEMENT
+
+17424.
+
+Article
+Section
+1.
+Support Obligations........................-. 17400
+1.5. Delinquent Child Support Obligations and
+Financial Institution Data Match............ 17450
+2.
+Collections and Enforcement ................. 17500
+3.
+Program Compliance ....................
+2065 17600
+A vce +.Program COSts ov.racis- i). b eislore eleoecere orelemeig are ds 17700
+
+ARTICLE
+Section
+17400.
+
+1.
+
+SUPPORT
+
+responsibilities;
+
+17401.
+
+au-
+
+State reciprocity;
+
+declaration;
+
+full force and effect
+
+unless specified condition is met.
+Consolidation of multiple court files; consolidation
+of orders.
+Voluntary declaration of paternity.
+Voluntary declaration of paternity; child support
+action.
+Voluntary declaration of parentage; child support
+action.
+Parentage stipulation.
+Public assistance application where parent absent or
+parentage not established; welfare department
+referral to local child support agency.
+Agency agreement with noncustodial parent.
+| Number of children; computation of support.
+_ Earnings assignment order for support.
+Medical insurance form; health insurance coverage.
+Medical insurance form; submission.
+
+members;
+
+modification
+
+of child support;
+
+form;
+
+motion by local child support agency.
+
+Disabled obligors receiving SSI/SSP or social security disability insurance benefits; duty of local child
+support agency under certain circumstances to
+move to modify child support obligations.
+Residence or work address information;
+
+| Support order or support-related order; appeal
+taken or opposed by Attorney General; expenses.
+
+Supplemental complaint and judgment.
+Default judgment; amendment.
+Setting aside part of judgment or order concerning
+amount of child support to be paid.
+17433.
+Relief from default judgment; mistaken identity;
+remedies.
+17433.5. Interest accruing on obligation for current child,
+spousal, family, or medical support due in a given
+month.
+17434. | Booklet about support; toll-free information hotline.
+17440. | United States military and National Guard service
+
+thorized actions; forms; venue.
+
+17400.5.
+
+~
+
+court or state.
+Hearings by telephone, audiovisual means or other
+electronic means; adoption of rules.
+Issuance of notice to change payee on support order;
+filing of notice.
+Local child support agency; interview of custodial
+parent.
+_Attorney-client relationship between Attorney General or local agency and any person; stipulated
+order resolving complaint for paternity or support; notice; civil action against noncustodial
+
+17428.
+17430.
+17432.
+
+OBLIGATIONS
+
+Local child support agencies;
+
+Pleading pursuant to Uniform Interstate Family
+Support Act; summons or order to show cause;
+proposed judgment; service; set aside of portion
+of judgment.
+Pleading pursuant to Uniform Interstate Family
+Support Act; jurisdiction; transfer to appropriate
+
+parent.
+
+17407.
+
+§ 17393. Development of forms necessary for implementation or article
+
+CHAPTER 2.
+
+§ 17400
+
+§ 17400. Local child support agencies;
+authorized actions; forms; venue
+
+responsibilities;
+
+(a) Each county shall maintain a local child support
+agency, as specified in Section 17304, that shall have the
+responsibility for promptly and effectively establishing, modifying, and enforcing child support obligations, including
+medical support, enforcing spousal support orders established
+by a court of competent jurisdiction, and determining paternity in the case of a child born out of wedlock. The local
+child support agency shall take appropriate action, including
+criminal action in cooperation with the district attorneys, to
+establish, modify, and enforce child support and, if appropriate, enforce spousal support orders if the child is receiving
+
+establish-
+
+ment or enforcement action by agency.
+17401.5. Child support service hearings; notice and information.
+17402. | CalWORKs aid due to separation from or desertion
+of child; noncustodial parent obligation to county.
+17402.1. Remittance to the department of federal and state
+public assistance child support payments; promulgation of regulations.
+17404.
+Procedure in actions, including parties, joinder,
+issues, parentage, pleading, notice, modification
+of order, forms, etc.
+
+679
+
+§ 17400
+
+SUPPORT
+
+SERVICES
+
+support agency, the complaint shall inform the support
+obligor that income shall be presumed to be the amount of
+the minimum wage, at 40 hours per week, established by the
+Industrial Welfare Commission pursuant to Section 1182.11
+of the Labor Code unless information concerning the support
+obligor’s income is provided to the court. The complaint
+form shall be accompanied by a proposed judgment. The
+complaint form shall include a notice to the support obligor
+that the proposed judgment will become effective if * * * the
+obligort fails to file an answer with the court within 30 days
+of
+service. Except as provided in paragraph (2) of subdivision
+(a) of Section 17402, if the proposed judgment is entered by
+the court, the support order in the proposed judgment shall
+be effective as of the first day of the month following the
+filing of the complaint.
+
+public assistance, including Medi—Cal, and, if requested, shall
+
+take the same actions on behalf of a child who is not receiving
+public assistance, including Medi-Cal.
+(b)(1) Notwithstanding Sections 25203 and 26529 of the
+Government Code, attorneys employed within the local child
+support agency may direct, control, and prosecute civil
+actions and proceedings in the name of the county in support
+of child support activities of the Department of Child
+Support Services and the local child support agency.
+(2) Notwithstanding any other law, and except for pleadings or documents required to be signed under penalty of
+perjury, a local child support agency may substitute original
+signatures with any form of electronic signatures, including,
+but not limited to, typed, digital, or facsimile images of
+signatures, digital signatures, or other computer-generated
+signatures, on pleadings filed for the purpose of establishing,
+modifying, or enforcing paternity, child support, or medical
+support.
+A substituted signature used by a local child
+support agency shall have the same effect as an original
+signature, including, but not limited to, the requirements of
+Section 128.7 of the Code of Civil Procedure.
+(3) Notwithstanding any other law, effective July 1, 2016, a
+local child support agency may electronically file pleadings
+signed by an agent of the local child support agency under
+penalty of perjury. An original signed pleading shall be
+
+(3)(A) The simplified answer form shall be written in
+simple English and shall permit a defendant to answer and
+raise defenses by checking applicable boxes. The answer
+form shall include instructions for completion of the soa
+and instructions for proper filing of the answer.
+(B) The answer form shall be accompanied by a blank
+income and expense declaration or simplified financial statement and instructions on how to complete the financial
+forms. The answer form shall direct the defendant to file the
+completed income and expense declaration or simplified
+financial statement with the answer, but shall state that the
+answer will be accepted by a court without the income and
+expense declaration or simplified financial statement. ~
+
+executed prior to, or on the same day as, the day of electronic
+
+filing. Original signed pleadings shall be maintained by the
+local child support agency for the period of time prescribed
+by subdivision (a) of Section 68152 of the Government Code.
+A local child support agency may maintain the original signed
+pleading by way of an electronic copy in the Statewide
+Automated Child Support System. The Judicial Council, by
+July 1, 2016, shall develop rules to implement this subdivision.
+(c) Actions brought by the local child support agency to
+establish paternity or child support or to enforce child
+support obligations shall be completed within the time limits
+set forth by federal law. The local child support agency’s
+responsibility applies to spousal support only if the spousal
+support obligation has been reduced to an order of a court of
+competent jurisdiction. In any action brought for modification or revocation of an order that is being enforced under
+Title IV-D of the Social Security Act (42 U.S.C. Sec. 651 et
+seq.), the effective date of the modification or revocation
+shall be as prescribed by federal law (42 U.S.C. Sec.
+666(a)(9)), or any subsequent date.
+(d)(1) The Judicial Council, in consultation with the
+
+(C) The clerk of the court shall accept and file answers,
+income and expense declarations, and simplified financial
+statements that are completed by hand provided they are
+legible.
+(4)(A) The simplified complaint form prepared pursuant
+to this subdivision shall be used by the local child support
+agency or the Attorney General in all cases brought under
+this section or Section 17404.
+
+(B) The simplified answer form prepared pursuant to this
+subdivision shall be served on all defendants with the
+simplified complaint. Failure to serve the simplified answer
+form on all defendants shall not invalidate any judgment
+obtained. However, failure to serve the answer form may be
+used as evidence in any proceeding under Section 17432 of
+this code or Section 473 of the Code of Civil Procedure.
+(C) The Judicial Council shall add language to the governmental summons, for use by the local child support agency
+with the governmental complaint to establish parental relationship and child support, informing defendants that a blank
+answer form should have been received with the summons
+and additional copies may be obtained from either the local
+child support agency or the superior court clerk.,
+
+department, the Senate Committee on Judiciary, the Assembly Committee on Judiciary, and a legal services organization
+providing representation on child support matters, shall
+develop simplified summons, complaint, and answer forms
+for any action for support brought pursuant to this section or
+Section 17404.
+The Judicial Council may combine. the
+summons and complaint in a single form.
+(2) The simplified complaint form shall provide notice of
+the amount of child support that is sought pursuant to the
+guidelines set forth in Article 2 (commencing with Section
+4050) of Chapter 2 of Part 2 of Division 9 based upon the
+income or income history of the support obligor as known to
+the local child support agency.
+If the support obligor’s
+income or income history is unknown to the local child
+
+(e) In any action brought or enforcement proceedings
+instituted by the local child support agency pursuant to this
+section for payment of child or spousal support, an action to
+recover an arrearage in support payments may be maintained
+by the local child support agency at any time within the
+period otherwise specified for the enforcement of a support
+judgment, notwithstanding the fact that the child has attained
+the age of majority.
+
+680
+
+CHILD
+
+SUPPORT
+
+(f) The county shall undertake an outreach program to
+inform the public that the services described in subdivisions
+(a) to (c), inclusive, are available to persons not receiving
+public assistance. There shall be prominently displayed in
+every public area of every office of the agencies established
+by this section a notice, in clear and simple language
+prescribed by the Director of Child Support Services, that the
+services provided in subdivisions (a) to (c), inclusive, are
+provided to all individuals, whether or not they are recipients
+of public assistance.
+(g)(1) In any action to establish a child support order
+brought by the local child support agency in the performance
+of duties under this section, the local child support agency
+may make a motion for an order effective during the
+education of the child or children that are the subject of the
+action. This order shall be referred to as an order for
+temporary support. This order has the same force and effect
+as a like or similar order under this code.
+(2) The local child support agency shall file a motion for
+an order for temporary support within the following time
+limits:
+(A) If the defendant is the mother, a presumed father
+under Section 7611, or any father if the child is at least six
+
+months old when the defendant files * * * the answer, the
+time limit is 90 days after the defendant files an answer.
+(B) In any other case in which the defendant has filed an
+answer prior to the birth of the child or not more than six
+months after the birth of the child, then the time limit is nine
+
+months after the birth of the child.
+(3) If more than one child is the subject of the action, the
+limitation on reimbursement shall apply only as to those
+children whose parental relationship and age would bar
+recovery were a separate action brought for support of that
+child or those children.
+(4) If the local child support agency fails to file a motion
+for an order for temporary support within the time limits
+specified in this section, the local child support agency shall
+be barred from obtaining a judgment of reimbursement for
+any support provided for that child during the period between
+the date the time limit expired and the date the motion was
+motion
+
+is filed, when
+
+a final judgment
+
+§ 17400
+
+(2) The obtaining by the local child support agency of an
+initial order for child support that may include medical
+support or that is for medical support only, by civil or criminal
+process.
+(3) The initiation of a motion or order to show cause to
+increase an existing child support order, and the response to a
+motion or order to show cause brought by an obligor parent
+to decrease an existing child support order, or the initiation
+of a motion or order to show cause to obtain an order for
+medical support, and the response to a motion or order to
+show cause brought by an obligor parent to decrease or
+terminate an existing medical support order, without regard
+to whether the child is receiving public assistance.
+(4) The response to a notice of motion or order to show
+cause brought by an obligor parent to decrease an existing
+spousal support order if the child or children are residing
+with the obligee parent and the local child support agency is
+also enforcing a related child support obligation owed to the
+obligee parent by the same obligor.
+(5) The referral of child support delinquencies to the
+department under subdivision (c) of Section 17500 in support
+of the local child support agency.
+(i) As used in this section, “out of wedlock” means that
+the biological parents of the child were not married to each
+other at the time of the child’s conception.
+(j)(1) The local child support agency is the public agency
+responsible for administering wage withholding for current
+support for the purposes of Title IV-D of the Social Security
+Act (42 U.S.C. Sec. 651 et seq.).
+(2) * * * This section * * * does not limit the authority
+of the local child support agency granted by other sections of
+this code or otherwise granted by law.
+(k) In the exercise of the authority granted under this
+article, the local child support agency may intervene, pursuant to subdivision (b) of Section 387 of the Code of Civil
+Procedure, by ex parte application, in any action under this
+code, or other proceeding in which child support is an issue
+or a reduction in spousal support is sought. By notice of
+motion, order to show cause, or responsive pleading served
+upon all parties to the action, the local child support agency
+may request any relief that is appropriate that the local child
+support agency is authorized to seek.
+(1) The local child support agency shall comply with all
+regulations and directives established by the department that
+set time standards for responding to requests for assistance in
+locating noncustodial parents, establishing paternity, establishing child support awards, and collecting child support
+payments.
+(m) As used in this article, medical support activities that
+the local child support agency is authorized to perform are
+limited to the following:
+(1) The obtaining and enforcing of court orders for health
+insurance coverage.
+(2) Any other medical support activity mandated by federal law or regulation.
+(n)(1) Notwithstanding any other law, venue for an action
+or proceeding under this division shall be determined as
+follows:
+
+pendency of that action, for the support, maintenance, and
+
+filed, or, if no
+
+ENFORCEMENT
+
+is
+
+entered.
+(5) Except as provided in Section 17304, * * * this section
+* * * does not prohibit the local child support agency from
+entering into cooperative arrangements with other county
+departments as necessary to carry out the responsibilities
+imposed by this section pursuant to plans of cooperation with
+the departments approved by the Department of Child
+Support Services.
+(6) * * * This section does not otherwise limit the ability
+of the local child support agency from securing and enforcing
+orders for support of a spouse or former spouse as authorized
+under any other law.
+(h) As used in this article, “enforcing obligations” includes, but is not limited to, all of the following:
+
+(1) The use of all interception and notification systems
+operated by the department for the purpose of aiding in the
+enforcement of support obligations.
+
+681
+
+§ 17400
+
+SUPPORT
+
+SERVICES
+
+(A) Venue shall be in the superior court in the county that
+is currently expending public assistance.
+
+Research References
+Forms
+
+California Practice Guide: Rutter Family Law Forms Form 1:32,
+Glossary of Common Family Law Terms, Phrases and Concepts
+(Enclosure to Form 1:31).
+
+(B) If public assistance is not currently being expended,
+venue shall be in the superior court in the county where the
+child who is entitled to current support resides or is domiciled.
+
+West’s California Code Forms, Family § 4250, Comment Overview-
+
+Child Support Commissioners.
+West’s California Judicial Council Forms FL-415, Findings and
+Order Regarding Contempt (Family Law-Domestic Violence
+Prevention-Uniform Parentage-Governmental).
+
+(C) If current support is no longer payable through, or
+enforceable by, the local child support agency, venue shall be
+in the superior court in the county that last provided public
+assistance for actions to enforce arrearages assigned pursuant
+to Section 11477 of the Welfare and Institutions Code.
+
+West’s
+
+California
+
+Complaint or
+Obligations.
+
+Judicial
+
+Council
+
+Supplemental
+
+Forms
+
+FL-600,
+
+Complaint
+
+Summons
+
+Regarding
+
+and
+
+Parental
+
+West’s California Judicial Council Forms FL-605, Notice and Ac-
+
+(D) If subparagraphs (A), (B), and (C) do not apply,
+venue shall be in the superior court in the county of residence
+of the support obligee.
+
+knowledgment of Receipt.
+West’s California Judicial Council Forms FL-610, Answer to Com-
+
+plaint or Supplemental Complaint Regarding Parental Obligations.
+West’s California Judicial Council Forms FL-615, Stipulation for
+Judgment or Supplemental Judgment Regarding Parental Obligations and Judgment.
+
+(E) If the support obligee does not reside in California,
+and subparagraphs (A), (B), (C), and (D) do not apply, venue
+shall be in the superior court of the county of residence of the
+obligor.
+
+West’s California Judicial Council Forms
+
+FL-616,
+
+Declaration
+
+for
+
+(2) Notwithstanding paragraph (1), if the child becomes a
+resident of another county after an action under this part has
+been filed, venue may remain in the county where the action
+was filed until the action is completed.
+
+Amended Proposed Judgment.
+West’s California Judicial Council Forms FL-620, Request to Enter
+Default Judgment (Governmental).
+
+(0) The local child support agency of one county may
+appear on behalf of the local child support agency of any
+other county in an action or proceeding under this part.
+(Added by Stats.1999, c. 478 (A.B.196), § 1. Amended by
+Stats.1999, c. 480 (S.B.542), § 13; Stats.1999, c. 980 (A.B.
+1671), § 14.2; Stats.2000, c. 808 (A.B.1358), § 81, eff: Sept.
+28, 2000; Stats.2001, c. 111 (A.B.429), § 3, eff. July 30, 2001;
+Stats.2002, c. 927 (A.B.3032), § 3.7; Stats.2003, c. 225 (A.B.
+1752), § 3, eff: Aug. 11, 2003; Stats.2004, c. 339 (A.B.1704),
+§ 6; Stats.2007, c. 249 (S.B.523), § 3; Stats.2015, c. 416
+(A.B.1519), § 3, eff. Jan. 1, 2016; Stats.2016, c. 474 (A.B.
+2882), § 14, eff: Jan. 1, 2017; Stats.2019, c. 115 (A.B.1817),
+
+West’s California Judicial Council Forms FL-627, Order for Genetic
+
+§ 144, eff. Jan. I, 2020.)
+
+West’s California Judicial Council Forms FL-640-INFO, Information
+
+West’s
+
+California Judicial Council
+
+Forms
+
+FL-625,
+
+Stipulation and
+
+Order.
+
+(Parentage) Testing.
+West’s California Judicial Council Forms FL-630, Judgment Regarding Parental Obligations.
+West’s California Judicial Council Forms FL-632, Notice Regarding
+Payment of Support.
+West’s California Judicial Council Forms FL-634, Notice of Change
+of Responsibility for Managing Child Support Case.
+West’s California Judicial Council Forms FL-635, Notice of Entry of
+Judgment and Proof of Service by Mail (Governmental).
+West’s California Judicial Council Forms FL-640, Notice and Motion
+
+to Cancel
+Income.
+
+(Set Aside) Support
+
+Order
+
+Based
+
+on Presumed
+
+Sheet for Notice and Motion to Cancel (Set Aside) Support
+Order Based on Presumed Income.
+
+Commentary
+
+West’s California Judicial Council
+
+The registration of a foreign divorce decree does not give the
+county standing to initiate a child support enforcement proceeding
+unless the registration includes a proper request for enforcement
+services. If a family is receiving public assistance, the welfare
+department providing public assistance may request enforcement
+services; if not, the support obligee must request those services.
+Codoni v. Codoni, 103 Cal.App.4th 18, 126 Cal.Rptr.2d 423 (2002).
+When the county seeks reimbursement from parents for public
+assistance provided to their children, Clark v. Superior Court, 62
+Cal.App.4th 576, 73 Cal.Rptr.2d 53 (1998), holds that due process
+does not require that indigent parents be provided court-appointed
+counsel at public expense. But see County of Ventura v. Tillett, 133
+Cal.App.3d 105, 183 Cal.Rptr. 741 (1982), cert. denied, 460 U.S. 1051
+(1983) (contra). Compare Salas v. Cortez, 24 Cal.3d 22, 593 P.2d 226,
+154 Cal. Rptr. 529 (1979) (requiring appointed counsel for indigents in
+paternity actions).
+County of Yuba v. Savedra, 78 Cal.App.4th 1311, 93 Cal.Rptr.2d 524
+(2000), holds that it was error for the trial court to decline to enter a
+child support judgment before presentation of evidence of the
+defaulting parent’s income when that parent had received notice
+satisfying subsection (d)(2) (former Welfare and Institutions Code
+§ 11475.1) in that it specified (1) the amount sought and (2) that the
+proposed judgment would become effective if the defendant failed to
+file an answer.
+
+Forms
+
+FL-643,
+
+Declaration
+
+of
+
+Obligor’s Income During Judgment Period-Presumed Income
+Set-Aside Request.
+West’s California Judicial Council Forms FL-646, Response of
+District Attorney to Notice of Intent to Take Independent
+Action to Enforce Support Order.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-650,
+
+Statement
+
+for
+
+Registration of California Support Order.
+West’s California Judicial Council Forms FL-660, Ex Parte Motion
+
+by District Attorney
+Parent.
+
+and Declaration
+
+for Joinder of Other
+
+West’s California Judicial Council Forms FL-670, Notice of Motion
+
+for Judicial Review of License Denial.
+West’s California Judicial Council Forms
+Judicial Review of License Denial.
+
+FL-675,
+
+Order
+
+After
+
+West’s California Judicial Council Forms FL-678, Order Determin-
+
+ing Claim of Exemption or Third-Party Claim.
+West’s California Judicial Council Forms FL-683, Order to Show
+
+Cause.
+
+West’s California Judicial Council Forms FL-684, Request for Order
+and Supporting Declaration (Governmental).
+West’s California Judicial Council Forms FL-687, Order After
+Hearing.
+West’s California Judicial oouticit Forms FL-688, Short Form Order
+
+After Hearing (Governmental).
+
+682
+
+CHILD
+
+SUPPORT
+
+receipt of SSI/SSP or Social Security Disability Insurance
+benefits. The local child support agency shall serve the
+motion on both the noncustodial parent and custodial person
+and any modification of the support order entered pursuant
+to the motion shall be effective as provided in Section 3653 of
+the Family Code. (Added by Stats.2001, c. 651 (A.B.891),
+§ 3. Amended by Stats.2002, c. 787 (S.B.1798), § 1; Stats.
+2019, c. 115 (A.B.1817), § 145, eff: Jan. 1, 2020.)
+
+West’s California Judicial Council Forms FL-692, Minutes and Order
+
+or Judgment.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Husband and Wife § 14 (2018),
+Amount of Filing Fees.
+11. Witkin, California Summary 10th Husband and Wife § 280
+(2018), Alternative Procedure in Title IV-D Cases.
+11 Witkin,
+
+California
+
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+§ 17401.5
+
+ENFORCEMENT
+
+§ 282
+
+(2018), Procedure.
+16 Witkin, California Summary 11th Juvenile Court Law § 32 (2018),
+Collection Procedure.
+10 Witkin, California Summary 10th Parent and Child § 74 (2018),
+Order for Genetic Testing.
+10 Witkin, California Summary 10th Parent and Child § 202 (2018),
+Commission of Crime.
+10 Witkin, California Summary 10th Parent and Child § 362 (2018),
+Notice of Hearing.
+10 Witkin, California Summary 10th Parent and Child § 438 (2018),
+Information Required.
+10 Witkin, California Summary 10th Parent and Child § 476 (2018),
+Stipulated Support Agreements.
+10 Witkin, California Summary 10th Parent and Child § 478 (2018),
+Application and Order.
+10 Witkin, California Summary 10th Parent and Child § 508 (2018),
+Background and Scope.
+10 Witkin, California Summary 10th Parent and Child § 511 (2018),
+Local Child Support Agency.
+
+Research References
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 511 (2018),
+Local Child Support Agency.
+§ 17401.
+
+Residence
+
+or work
+
+address
+
+information;
+
+estab-
+
+lishment or enforcement action by agency
+
+If the parent who is receiving support enforcement services
+provides to the local child support agency substantial, credible, information regarding the residence or work address of
+the support obligor, the agency shall initiate an establishment
+or enforcement action and serve the defendant, if service is
+
+required, within 60 days and inform the parent in writing
+when those actions have been taken. If the address or any
+other information provided by the support obligee is determined by the local child support agency to be inaccurate and
+if, after reasonable diligence, the agency is unable to locate
+and serve the support obligor within that 60-day period, the
+local child support agency shall inform the support obligee in
+writing of those facts. The requirements of this section shall
+be in addition to the time standards established by the
+Department of Child Support Services pursuant to subdivision (/) of Section 17400.
+(Added by Stats.1999, c. 653
+(A.B.380), § 14. Amended by Stats.2000, c. 808 (A.B.1358),
+§ 83, eff. Sept. 28, 2000; Stats.2001, c. 755 (S.B.943), § 12, eff.
+Oct. 12, 2001.)
+
+10 Witkin, California Summary 10th Parent and Child § 518 (2018),
+
+Nature of Proceedings.
+10 Witkin, California Summary 10th Parent and Child § 520 (2018),
+Venue.
+10 Witkin, California Summary 10th Parent and Child § 525 (2018),
+Pleadings.
+
+10 Witkin, California Summary 10th Parent and Child § 526 (2018),
+Consolidation of Claims.
+10 Witkin, California Summary 10th Parent and Child § 527 (2018),
+Time and Notice Requirements.
+10 Witkin, California Summary 10th Parent and Child § 532 (2018),
+Relief from Order Based on Presumed Income.
+10 Witkin, California Summary 10th Parent and Child § 535 (2018),
+Temporary Support.
+10 Witkin, California Summary 10th Parent and Child § 536 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 547 (2018),
+Registration by Local Child Support Agency.
+
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 527 (2018),
+Time and Notice Requirements.
+
+§ 17401.5.
+
+Child
+
+support
+
+service
+
+hearings;
+
+notice
+
+and
+
+information
+
+§ 17400.5.
+Disabled obligors receiving SSI/SSP or social
+security disability insurance benefits; duty of local child
+
+(a) All of the following shall include notice of, and
+information about, the child support service hearings avail-
+
+support agency under certain circumstances to move to
+
+able pursuant to Section 17801, provided that there is federal
+
+modify child support obligations
+If an obligor has an ongoing child support order being
+enforced by a local child support agency pursuant to Title [V—
+D of the Social Security Act and the obligor is disabled, meets
+the SSI resource test, and is receiving Supplemental Security
+Income/State Supplemental Payments (SSI/SSP) or, but for
+excess income as described in Section 416.1100 et seq. of Part
+416 of Title 20 of the Code of Federal Regulations, would be
+eligible to receive as SSI/SSP, pursuant to Section 12200 of
+the Welfare and Institutions Code, and the obligor has
+supplied the local child support agency with proof of * * *
+eligibility for, and, if applicable, receipt of, SSI/SSP or Social
+Security Disability Insurance benefits, then the local child
+support agency shall prepare and file a motion to modify the
+support obligation within 30 days of receipt of verification
+
+financial participation available as set forth in subdivision (j)
+of Section 17801:
+(1) The booklet required by subdivision (a) of Section
+
+17434.
+(2) Any notice required by subdivision (c) or (h) of Section
+17406.
+(b) To the extent not otherwise required by law, the local
+child support agency shall provide notice of, and information
+about, the child support services hearings available pursuant
+to Section 17801 in any regularly issued notices to custodial
+and noncustodial parents subject to Section 17400, provided
+that there is federal financial participation available as set
+forth in subdivision (e) of Section 17801.
+Notice of and information about the child support service
+hearings and the child support complaint resolution process
+
+from the noncustodial parent or any other source of the
+
+683
+
+§ 17401.5
+
+SUPPORT
+
+SERVICES
+by the state, does not violate the constitutional guarantees of due
+process or equal protection.
+County of Santa Clara v. Perry, 18 Cal.4th 435, 956 P.2d 1191, 75
+Cal.Rptr.2d 738 (1998), holds that Family Code § 4009 means exactly
+what it says: A child support order may be made retroactive only to
+the date of filing the notice of motion or order to show cause for
+establishment or modification of a child support order. Moreover,
+Perry holds that § 4009 applies equally to support orders in paternity
+actions brought by the district attorney. However, County v. Riverside
+v. Burt, 78 Cal.App.4th 28, 92 Cal.Rptr.2d 619 (2000), holds that Perry,
+supra, does not apply to cases in which reimbursement is sought for
+public assistance payments on behalf of a child. In such case,
+reimbursement is subject only to the three-year statute of limitations
+(Civil Code § 338) and the parent’s reasonable ability to pay.
+
+required under Section 17800 shall be easily accessible and
+shall be provided in a single section of the booklet. (Formerly § 17401, added by Stats.1999, c. 803 (A.B.472), § 1.
+Renumbered § 17401.5 and amended by Stats.2000, c. 808
+(A.B.1358), § 84, eff. Sept. 28, 2000.)
+§ 17402.
+
+CalWORKs
+
+tion of child;
+
+aid due to separation from or deser-
+
+noncustodial parent obligation to county
+
+(a) In any case of separation or desertion of a parent or
+parents from a child or children that results in aid under
+Chapter 2 (commencing with Section 11200) of Part 3 of
+Division 9 of the Welfare and Institutions Code being granted
+to that family, the noncustodial parent or parents shall be
+obligated to the county for an amount equal to the amount
+specified in an order for the support and maintenance of the
+family issued by a court of competent jurisdiction.
+
+Effectively, Burt holds that Welfare and Institutions Code § 11350
+
+(amended and reenacted as Family Code § 17402, effective January
+1, 2000) provides an alternative path for reimbursement in public
+assistance cases. Family Code § 17402 adds a one-year statute of
+limitations: the period may not exceed one year from the filing of the
+petition or complaint.
+When the county seeks reimbursement from parents for public
+assistance provided to their children, Clark v. Superior Court, 62
+Cal.App.4th 576, 73 Cal.Rptr.2d 53 (1998), holds that due process
+does not require that indigent parents be provided court-appointed
+counsel at public expense. But see County of Ventura v. Tillett, 133
+
+(b) The local child support agency shall take appropriate
+action pursuant to this section as provided in subdivision (/)
+of Section 17400.
+The local child support agency may
+establish liability for child support as provided in subdivision
+(a) when public assistance was provided by another county or
+by other counties.
+(c) The amount of the obligation established for each
+parent with a liability under subdivision (a) shall be determined by using the appropriate child support guideline
+currently in effect and shall be computed as follows:
+(1) If one parent remains as a custodial parent, the
+support shall be computed according to the guideline.
+(2) If the parents reside together and neither father nor
+mother remains as a custodial parent, the guideline support
+shall be computed by combining the noncustodial parents’
+incomes. The combined incomes shall be used as the high
+earners net monthly disposable income in the guideline
+formula. Income shall not be attributed to the caretaker or
+governmental agency.
+The amount of guideline support
+resulting shall be proportionately shared between the noncustodial parents based upon their net monthly disposable
+incomes.
+
+Cal.App.3d 105, 183 Cal.Rptr. 741 (1982), cert. denied, 460 U.S. 1051
+(1983) (contra). Compare Salas v. Cortez, 24 Cal.3d 22, 593 P.2d
+226, 154 Cal.Rptr. 529 (1979) (requiring appointed counsel for
+indigents in paternity actions).
+County of San Diego v. Lamb, 63 Cal.App.4th 845, 73 Cal.Rptr.2d
+912 (1998), review denied August 12, 1998, holds that subsection (a)
+does not authorize a county to seek reimbursement from the
+“noncustodial parent” of a minor child who receives benefits on
+behalf of the minor’s own child. But see County of San Bernadino vy.
+Martinez, 51 Cal.App.4th 600, 59 Cal.Rptr.2d 142 (1996) (contra).
+Research References
+Forms
+
+West’s California Code Forms, Family § 4500, Comment Overview-
+
+Enforcement of Support Orders.
+West’s California Judicial Council Forms FL-415, Findings and
+Order Regarding Contempt (Family Law-Domestic Violence
+
+Prevention-Uniform Parentage-Governmental).
+West’s California Judicial Council
+
+(3) If the parents reside apart and neither father nor
+mother remains as a custodial parent, the guideline support
+shall be computed separately for each parent by treating each
+parent as a noncustodial parent.
+Income shall not be
+attributed to the caretaker or government agency.
+
+(d) A parent shall pay the amount of support specified in
+the support order to the local child support agency. (Added
+by Stats.1999, c. 478 (A.B.196), § 1. Amended by Stats.1999,
+
+c. 653 (A.B.380), § 15; Stats.2000, c. 808 (A.B.1358), § 84.3,
+eff. Sept. 28, 2000; Stats.2004, c. 305 (A.B.2669), § 5.)
+Commentary
+
+West’s
+
+(1994);
+
+accord,
+
+County
+
+of Orange
+
+v. Dabbs,
+
+Summons
+
+and
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-687,
+
+Order
+
+After
+
+Hearing.
+West’s California Judicial Council Forms FL-688, Short Form Order
+
+reimbursement of AFDC benefits paid on behalf of his child. Any
+amount in excess of AFDC benefits must be paid by the county to the
+child’s family. County of Alameda v. Johnson, 28 Cal.App.4th 259, 33
+483
+
+FL-600,
+
+West’s California Judicial Council Forms FL-630, Judgment Regarding Parental Obligations.
+West’s California Judicial Council Forms FL-684, Request for Order
+and Supporting Declaration (Governmental).
+
+A noncustodial parent must pay the total amount of child support
+arrearages to the county, not merely the amount necessary for
+
+Cal.Rptr.2d
+
+Forms
+
+Complaint or Supplemental Complaint Regarding Parental
+Obligations.
+West’s California Judicial Council Forms FL-615, Stipulation for
+Judgment or Supplemental Judgment Regarding Parental Obligations and Judgment.
+West’s California Judicial Council Forms FL-620, Request to Enter
+Default Judgment (Governmental).
+West’s California Judicial Council Forms FL-625, Stipulation and
+Order.
+
+After Hearing (Governmental).
+Treatises and Practice Aids
+
+29
+
+Cal.App.4th 999, 35 Cal.Rptr.2d 79 (1994), review denied 1/19/95.
+
+11 Witkin, California Summary 10th Husband and Wife § 4 (2018),
+Definitions.
+16 Witkin, California Summary 11th Juvenile Court Law § 32 (2018),
+Collection Procedure.
+
+Ohio v. Barron, 52 Cal.App.4th 62, 60 Cal.Rptr.2d 342 (1997), holds
+
+that subsection (a)(2), which requires certain noncustodial parents to
+pay child support arrearagés in excess of public welfare benefits paid
+
+684
+
+CHILD
+
+SUPPORT
+
+10 Witkin, California Summary 10th Parent and Child § 362 (2018),
+Notice of Hearing.
+10 Witkin, California Summary 10th Parent and Child § 437 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 542 (2018),
+
+The same restrictions on joinder of actions, coordination of
+
+actions, cross-complaints, and delay because of the pendency
+of any other action as relates to actions to establish a child
+support obligation shall also apply to actions to enforce a
+spousal support order.
+
+10 Witkin, California Summary 10th Parent and Child § 545 (2018),
+
+CalWORKS Aid.
+Remittance
+
+to the department
+
+of federal
+
+state public assistance child support payments;
+gation of regulations
+
+and
+
+(d) * * * This section * * * does not prevent the parties
+from bringing an independent action under other provisions
+of this code and litigating the issues of support, custody,
+visitation, or protective orders. In that event, any support,
+custody, visitation, or protective order issued by the court in
+an action pursuant to this section shall be filed in the action
+commenced under the other provisions of this code and shall
+continue in effect until modified by a subsequent order of the
+
+promul-
+
+(a) Each local child support agency shall, on a monthly
+basis, remit to the department both the federal and state
+public assistance child support payments received pursuant to
+Section 17402.
+
+(b) The department shall promulgate regulations to implement this section.
+
+court.
+
+(Added by Stats.2001, c. 111 (A.B.429),
+
+To the extent that the orders conflict, the court order
+
+last issued shall supersede all other orders and be binding
+upon all parties in that action.
+
+§ 4, eff. July 30, 2001.)
+
+(e)(1) After a support order, including a temporary support order and an order for medical support only, has been
+
+§ 17404. Procedure in actions, including parties, joinder,
+issues, parentage, pleading, notice, modification of order, forms, etc.
+
+entered
+
+in an action brought pursuant
+
+to this section, the
+
+parent who has requested or is receiving support enforcement
+services of the local child support agency shall become a party
+to the.action brought pursuant to this section, only in the
+manner and to the extent provided by this section, and only
+for the purposes allowed by this section.
+
+(a) Notwithstanding any other statute, in any action
+brought by the local child support agency for the support of a
+minor child or children, the action may be prosecuted in the
+name of the county on behalf of the child, children, or a
+parent of the child or children.
+The parent who has
+requested or is receiving support enforcement services of the
+local child support agency shall not be a necessary party to
+the action but may be subpoenaed as a witness. Except as
+provided in subdivision (e), in an action under this section
+there shall be no joinder of actions, or coordination of
+
+(2) Notice of the parent’s status as a party shall be given to
+the parent by the local child support agency in conjunction
+with the notice required by subdivision (e) of Section 17406.
+The complaint shall contain this notice.
+Service of the
+complaint on the parent in compliance with Section 1013 of
+the Code of Civil Procedure, or as otherwise provided by law,
+
+actions, or cross-complaints, and the issues shall be limited
+
+shall constitute compliance with this section. In all actions
+commenced under the procedures and forms in effect on or
+before December 31, 1996, the parent who has requested or
+is receiving support enforcement services of the local child
+support agency shall not become a party to the action until
+* * * joined as a party pursuant to an ex parte, application or
+noticed motion for joinder filed by the local child support
+agency or a noticed motion filed by either parent. The local
+child support agency shall serve a copy of any order for
+joinder of a parent obtained by the local child support
+agency’s application on both parents in compliance with
+Section 1013 of the Code of Civil Procedure.
+
+Strictly to the question of parentage, if applicable, and child
+support, including an order for medical support. A final
+determination of parentage may be made in any action under
+this section as an incident to obtaining an order for support.
+An action for support or parentage pursuant to this section
+shall not be delayed or stayed because of the pendency of any
+other action between the parties.
+(b)(1) Judgment in an action brought pursuant to this
+section, and in an action brought pursuant to Section 17402,
+if at issue, may be rendered pursuant to a noticed motion,
+
+that shall inform the defendant that in order to exercise
+* * * the right to trial, * * * the defendant shall appear at
+the hearing on the motion.
+
+(3) Once both parents are parties to an action brought
+pursuant to this section in cases where Title IV-D services
+are currently being provided, the local child support agency
+shall be required, within five days of receipt, to mail the
+nonmoving party in the action all pleadings relating solely to
+the support issue in the action that have been served on the
+local-child support agency by the moving party in the action,
+as provided in subdivision (f) of Section 17406. There shall
+be a rebuttable presumption that service on the local child
+support agency consistent with the provisions of this paragraph constitutes valid service on the nonmoving party.
+Where this procedure is used to effectuate service on the
+nonmoving party, the pleadings shall be served on the local
+child support agency not less than 30 days prior to the
+hearing.
+2
+
+(2) If the defendant appears at the hearing on the motion,
+the court shall inquire of the defendant if * * * the
+defendant desires to subpoena evidence and witnesses, if
+parentage is at issue and genetic tests have not already been
+conducted whether * * * the defendant desires genetic tests,
+and if * * * the defendant desires a trial. If the defendant’s
+answer is in the affirmative, a continuance shall be granted to
+allow the defendant to exercise those rights. A continuance
+shall not postpone the hearing to more than 90 days from the
+date of service of the motion.
+
+§ 17404
+
+(c) In any action to enforce a spousal support order the
+action may be pled in the name of the county in the same
+manner as an action to establish a child support obligation.
+
+Aid to Aged, Blind, and Disabled.
+
+§ 17402.1.
+
+ENFORCEMENT
+
+If a continuance is granted,
+
+the court may make an order for temporary support without
+prejudice to the right of the court to make an order for
+temporary support as otherwise allowed by law.
+
+685
+
+§ 17404
+
+SUPPORT
+
+SERVICES
+(3) The court shall order that all payments of support shall
+be made to the local child support agency in any action filed
+under this section by the parent who has requested, or is
+receiving, support enforcement services of the local child
+support agency unless support enforcement services have
+been terminated by the local child support agency by case
+closure as provided by state and federal law. Any order
+obtained by a parent prior to support enforcement services
+being terminated in which the local child support agency did
+not receive proper notice pursuant to this section shall be
+voidable upon the motion of the local child support agency.
+
+(4) The parent who has requested or is receiving support
+enforcement services of the local child support agency is a
+party to an action brought under this section for issues
+relating to the support, custody, and visitation of a child, and
+
+for restraining orders, and for no other purpose. The local
+child support agency shall not be required to serve or receive
+service of papers, pleadings, or documents, or participate in,
+or attend any hearing or proceeding relating to issues of
+custody or visitation, except as otherwise required by law.
+Orders concerning custody and visitation may be made in an
+action pursuant to this subdivision only if orders concerning
+custody and visitation have not been previously made by a
+court of competent jurisdiction in this state or another state
+and the court has jurisdiction and is the proper venue for
+custody and visitation determinations. All issues regarding
+custody and visitation shall be heard and resolved in the
+manner provided by this code. Except as otherwise provided
+by law, the local child support agency shall control support
+and parentage litigation brought pursuant to this section, and
+the manner, method, and procedures used in establishing
+parentage and in establishing and enforcing support obligations unless and until the parent who requested or is
+receiving support enforcement services has requested in
+writing that the local child support agency close * * * the
+case and the case has been closed in accordance with state
+and federal regulation or policy.
+
+(g) Any notice from the local child support agency requesting a meeting with the support obligor for any purpose
+authorized under this section shall contain a statement
+advising the support obligor of * * * the right to have an
+attorney present at the meeting.
+(h) For the purpose of this section, “a parent who is
+receiving support enforcement services” includes a parent
+who has assigned * * * their rights to support pursuant to
+Section 11477 of the Welfare and Institutions Code.
+(i) The Judicial Council shall develop forms to implement
+this section. (Added by Stats.1999, c. 478 (A.B.196), $ 1.
+Amended by Stats.1999, c. 480 (S.B.542), § 14; Stats.2000, c.
+
+808 (A.B.1358), § 84.5, eff: Sept. 28, 2000; Stats.2001, c. 755
+(S.B.943), § 13, eff: Oct. 12, 2001; Stats.2019, c. 115 (A.B.
+1817), § 146, eff. Jan. 1, 2020.)
+
+(f)(1) A parent who has requested or is receiving support
+enforcement services of the local child support agency may
+take independent action to modify a support order made
+pursuant to this section while support enforcement services
+are being provided by the local child support agency. The
+parent shall serve the local child support agency with notice
+of any action filed to modify the support order and provide
+the local child support agency with a copy of the modified
+order within 15 calendar days after the date the order is
+issued,
+
+Commentary
+
+Plumas County Child Support Services v. Rodriquez, 161 Cal_App.4th
+1021, 76 Cal.Rptr.3d 1 (2008), holds that a county has no authority
+
+under this section to seek child support on behalf of non-parent
+relatives who are supporting a child and sharing their home with him,
+unless there is a contractual agreement between the parents and the
+relatives. See also section 3951(a), which provides that a parent is not
+required to compensate a relative for voluntary support of a child
+without an agreement for compensation.
+County of Santa Clara v. Perry, 18 Cal.4th 435, 956 P.2d 1191, 75
+Cal.Rptr.2d 738 (1998), holds that Family Code Section 4009 applies
+to original support orders as well as to orders modifying support, and
+it equally applies to support orders in paternity actions brought by
+the district attorney (local child support agency). Thus, for many
+children born out of wedlock, the support obligation of the noncustodial parent may be made retroactive only to the establishment of
+paternity. However, County v. Riverside vy. Burt, 78 Cal.App.4th 28, 92
+Cal.Rptr.2d 619 (2000) holds that Perry, supra, does not apply to cases
+in which reimbursement is sought for public assistance payments on
+behalf of a child. In such case, reimbursement is subject only to the
+three-year statute of limitations (Civil Code § 338) and the parent’s
+reasonable ability to pay. Effectively, Burt holds that Welfare and
+
+(2) A parent who has requested or is receiving support
+enforcement services of the local child support agency may
+take independent action to enforce a support order made
+pursuant to this section while support enforcement services
+are being provided by the local child support agency with the
+written consent of the local child support agency. At least 30
+days prior to filing an independent enforcement action, the
+parent shall provide the local child support agency with
+written notice of the parent’s intent to file an enforcement
+action that includes a description of the type of enforcement
+action the parent intends to file. Within 30 days of receiving
+the notice, the local child support agency shall either provide
+written consent for the parent to proceed with the independent enforcement action or notify the parent that the local
+child support agency objects to the parent filing the proposed
+independent enforcement action. The local child support
+agency may object only if the local child support agency is
+currently using an administrative or judicial method to
+enforce the support obligation or if the proposed independent enforcement action would interfere with an investigation
+being conducted by the local child support agency. If the
+local child support agency does not respond to the parent’s
+written notice within 30 days, the local child support agency
+shall be deemed to have given consent.
+
+Institutions Code § 11350 (amended and reenacted as Family Code
+
+§ 17402, effective January 1, 2000) provides an alternative path for
+reimbursement in public assistance cases. Family Code § 17402 adds
+a one-year statute of limitations: the period may not exceed one year
+from the filing of the petition or complaint.
+When the county seeks reimbursement from parents for public
+assistance provided to their children, Clark v. Superior Court, 62
+Cal.App.4th 576, 73 Cal.Rptr.2d 53 (1998), holds that due process
+does not require that indigent parents be provided court-appointed
+counsel at public expense. But see County of Ventura vy. Tillett, 133
+Cal.App.3d 105, 183 Cal.Rptr. 741 (1982) cert. denied, 460 U.S. 1051
+
+(1983) (contra). Compare Salas v. Cortez, 24 Cal.3d 22, 593 P.2d
+226, 154 Cal.Rptr. 529 (1979) (requiring appointed counsel for
+indigents in paternity actions).
+
+686
+
+CHILD
+
+SUPPORT
+
+ENFORCEMENT
+
+§ 17404.1
+
+Research References
+
+10 Witkin, California Summary 10th Parent and Child § 527 (2018),
+
+1 California Transactions Forms--Family Law § 3:2, Child Custody.
+West’s California Judicial Council Forms FL-334, Declaration Re-
+
+10 Witkin, California Summary 10th Parent and Child § 529 (2018),
+Conduct of Hearing.
+10 Witkin, California Summary 10th Parent and Child § 534 (2018),
+Appeal.
+
+Time and Notice Requirements.
+
+Forms
+
+garding Address Verification-Postjudgment Request to Modify a
+Child Custody, Visitation, or Child Support Order.
+West’s California Judicial Council Forms FL-415, Findings and
+Order Regarding Contempt (Family Law-Domestic Violence
+Prevention-Uniform Parentage-Governmental).
+West’s
+
+California
+
+Judicial
+
+Council
+
+Complaint or, Supplemental
+Obligations.
+
+Forms
+
+FL-600,
+
+Complaint
+
+Summons
+
+Regarding
+
+§ 17404.1. Pleading pursuant to Uniform Interstate Family
+Support Act; summons or order to show cause; proposed judgment; service; set aside of portion of judg-
+
+and
+
+ment
+
+Parental
+
+(a) Upon receipt of a petition or comparable pleading
+pursuant to Part 6 (commencing with Section 5700.101) of
+Division 9, the local child support agency or petitioner may
+either (1) request the issuance of a summons or (2) request
+the court to issue an order requiring the respondent to
+appear personally at a specified time and place to show cause
+why an order should not be issued as prayed in the petition or
+comparable pleading on file.
+(b) The respondent may also be served with a proposed
+judgment consistent with the relief sought in the petition or
+other comparable pleading. If the respondent’s income or
+income history is unknown to the local child support agency,
+the local child support agency may serve a form of proposed
+
+West’s California Judicial Council Forms FL-610, Answer to Com-
+
+plaint or Supplemental Complaint Regarding Parental Obligations.
+West’s California Judicial Council Forms FL-620, Request to Enter
+Default Judgment (Governmental).
+West’s California Judicial Council Forms FL-625, Stipulation and
+Order.
+West’s California Judicial Council Forms FL-630, Judgment Regarding Parental Obligations.
+West’s California Judicial Council Forms FL-645, Notice to District
+
+Attorney of Intent to Take Independent Action to Enforce
+Support Order.
+West’s California Judicial Council Forms FL-646, Response of
+District Attorney to Notice of Intent to Take Independent
+Action to Enforce Support Order.
+
+judgment with the petition and other documents on the
+respondent that shall inform the respondent that income shall
+
+West’s California Judicial Council Forms FL-660, Ex Parte Motion
+
+by District Attorney
+Parent.
+
+and Declaration
+
+for Joinder
+
+be presumed to be the amount of the state minimum wage, at
+
+of Other
+
+40 hours per week, unless information concerning the respondent’s income is provided to the court. The respondent shall
+also receive notice that the proposed judgment will become
+effective if * * * the respondent fails to file a response with
+the court within 30 days after service.
+(c) If a summons is issued for a petition or comparable
+pleading pursuant to Part 6 (commencing with Section
+5700.101) of Division 9, the local child support agency or
+petitioner shall cause a copy of the summons, petition, and
+other documents to be served upon the respondent according
+to law.
+(d) If an order to show cause is issued on a petition or
+comparable pleading pursuant to Part 6 (commencing with
+Section 5700.101) of Division 9 requiring the respondent to
+appear at a specified time and place to respond to the
+petition, a copy of the order to show cause, the petition, and
+other documents shall be served upon the respondent at least
+15 days prior to the hearing.
+(e) A petition or comparable pleading served upon a
+respondent in accordance with this section shall be accompanied by a blank responsive form that shall permit the
+respondent to answer the petition and raise any defenses by
+checking applicable boxes and by a blank income and expense
+declaration or simplified financial statement together with
+instructions for completion of the forms.
+(f) In any action pursuant to Part 6 (commencing with
+Section 5700.101) of Division 9 in which the judgment was
+obtained pursuant to presumed income, as set forth in this
+section, the court may set aside that part of the judgment or
+order concerning the amount of child support to be paid on
+the grounds specified and in the manner set forth in Section
+17432. (Added by Stats.2015, c. 493 (S.B.646), § 8, eff: Jan. 1,
+2016. Amended by Stats.2019, c. 115 (A.B.1817), § 147, eff.
+Jan. 1, 2020.)
+
+West’s California Judicial Council Forms FL-661, Notice of Motion
+
+and Declaration for Joinder of Other Parent in Governmental
+Action.
+West’s California Judicial Council Forms FL-661-INFO, Information
+
+Sheet for Notice of Motion and Declaration for Joinder of
+- Other Parent in Governmental Action.
+West’s California Judicial Council Forms FL-662, Responsive Declaration to Motion for Joinder of Other Parent.
+West’s California Judicial Council Forms FL-662-INFO, Information
+
+Sheet for Responsive Declaration to Motion for Joinder of
+Other Parent-Consent Order of Joinder.
+West’s California Judicial Council Forms FL-663, Stipulation and
+Order for Joinder of Other Parent (Governmental).
+West’s California Judicial Council Forms FL-684, Request for Order
+and Supporting Declaration (Governmental),
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-687,
+
+Order
+
+After
+
+Hearing.
+West’s California Judicial Council Forms FL-688, Short Form Order
+
+After Hearing (Governmental).
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Husband and Wife § 393
+(2018), Temporary Custody and Visitation.
+10 Witkin, California Summary 10th Parent and Child § 362 (2018),
+Notice of Hearing.
+10 Witkin, California Summary 10th Parent and Child § 417 (2018),
+Applicability of Family Code Custody Provisions.
+10. Witkin, California Summary 10th Parent and Child § 515 (2018),
+Acquisition and Confidentiality of Information.
+10 Witkin, California Summary 10th Parent and Child § 518 (2018),
+
+Nature of Proceedings.
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 522 (2018),
+Custody and Visitation.
+10 Witkin, California Summary 10th Parent and Child § 524 (2018),
+Party Status of Parents.
+
+687
+
+§ 17404.2
+
+SUPPORT
+
+SERVICES
+
+§ 17404.2.
+Pleading pursuant to Uniform Interstate Family
+Support Act; jurisdiction; transfer to appropriate court
+
+Research References
+Forms
+
+or state
+
+West’s California Judicial Council Forms FL-560, Ex Parte Application for Transfer and Order (UIFSA).
+
+(a) If, prior to filing, a petition or comparable pleading
+pursuant to Part 6 (commencing with Section 5700.101) of
+Division 9 is received by the local child support agency or the
+superior court and the county in which the pleadings are
+received is not the appropriate jurisdiction for trial of the
+action, the court or the local child support agency shall
+forward the pleadings and any accompanying documents to
+the appropriate court of this state or to the jurisdiction of
+another state without filing the pleadings or order of the
+court, and shall notify the petitioner, the California Central
+Registry, and the local child support agency of the receiving
+county where and when the pleading was sent.
+
+§ 17404.3.
+Hearings by telephone, audiovisual
+other electronic means; adoption of rules
+
+means
+
+or
+
+Hearings by telephone, audiovisual means, or other electronic means shall be permitted in child support cases in
+which the local child support agency is providing child
+support services. The Judicial Council shall adopt court
+rules implementing this provision and subdivision (f) of
+Section 5700.316 on or before July 1, 2016.
+(Added by
+Stats.2015, c. 493 (S.B.646), § 10, eff. Jan. 1, 2016.)
+Research References
+Treatises and Practice Aids
+
+(b) If, after a petition or comparable pleading has been
+filed with the superior court of a county pursuant to Part 6
+(commencing with Section 5700.101) of Division 9, it appears
+that the respondent is not or is no longer a resident of the
+county in which the action has been filed, upon ex parte
+application by the local child support agency or petitioner,
+the court shall transfer the action to the appropriate court of
+this state or to the appropriate jurisdiction of another state
+and shall notify the petitioner, the respondent, the California
+Central Registry, and the local child support agency of the
+receiving county where and when the pleading was sent.
+
+10 Witkin, California Summary 10th Parent and Child § 529 (2018),
+Conduct of Hearing.
+
+§ 17404.4. Issuance of notice to change payee on support
+order; filing of notice
+
+In exercising the jurisdiction under Section 5700.319, either
+the department or the local child support agency may issue a
+notice to change payee on a support order issued in this state,
+upon request from the support enforcement agency of
+another state where a custodial party has either assigned the
+right to receive support or has requested support enforcement services. Notice of the administrative change of payee
+shall be filed with the court in which the order was issued or
+last registered. (Added by Stats.2015, c. 493 (S.B.646), $ 11,
+eff: Jan. 1, 2016.)
+
+(c) If, after entry of an order by a court of this state or an
+order of another state registered in a court of this state for
+enforcement or modification pursuant to Part 6 (commencing
+with Section 5700.101) of Division 9, it appears that the
+respondent is not or is no longer a resident of the county in
+which the foreign order has been registered, upon ex parte
+application by the local child support agency of the transferring or receiving county or the petitioner, the court shall
+transfer the registered order and all documents subsequently
+filed in that action to the appropriate court of this state and
+shall notify the petitioner, the respondent, the California
+Central Registry, and the local child support agency of the
+transferring and receiving county where and when the
+registered order and all other appropriate documents were
+sent. Transfer of certified copies of documents shall meet
+the requirements of this section.
+
+§ 17405.
+
+Local child support agency; interview of custodial
+
+parent
+
+In carrying out duties under this article, the local child
+support agency shall interview the custodial parent within 10
+business days of opening a child support case. This interview
+shall solicit financial and all other information about the
+noncustodial parent. This information shall be acted upon
+immediately. The local child support agency shall reinterview the custodial parent as needed. (Added by Stats.1999, c.
+652 (S.B.240), § 16.)
+Research References
+
+(d) If, in an action initiated in a court of this state pursuant
+to Part 6 (commencing with Section 5700.101) of Division 9
+or a predecessor law for interstate enforcement of support,
+the petitioner is no longer a resident of the county in which
+the action has been filed, upon ex parte application by the
+petitioner or the local child support agency, the court shall
+transfer the action to the appropriate court of this state and
+shall notify the responding jurisdiction where and when the
+action was transferred.
+
+Treatises and Practice Aids
+
+(e) Notwithstanding subdivisions (b) and (c), if the respondent becomes a resident of another county or jurisdiction
+after an action or registered order has been filed pursuant to
+Part 6 (commencing with Section 5700.101) of Division 9, the
+action may remain in the county where the action was filed
+until the action is completed. (Added by Stats.2015, c. 493
+
+under Division 9 (commencing with Section 10000) of the
+Welfare and Institutions Code, the local child support agency
+and the Attorney General represent the public interest in
+establishing, modifying, and enforcing support obligations.
+No attorney-client relationship shall be deemed to have been
+created between the local child support agency or Attorney
+General and any person by virtue of the action of the local
+
+10 Witkin, California Summary 10th Parent and Child § 515 (2018),
+Acquisition and Confidentiality of Information.
+
+§ 17406. Attorney-client relationship between Attorney
+General or local agency and any person; stipulated
+order resolving complaint for paternity or support;
+notice; civil action against noncustodial parent
+
+(a) In all actions involving paternity or support, including,
+but not limited to, other proceedings under this code, and
+
+(S.B.646), § 9, eff: Jan. 1, 2016.)
+
+688
+
+CHILD
+
+SUPPORT
+
+child support agency or the Attorney General in carrying out
+these statutory duties.
+(b) Subdivision (a) is declaratory of existing law.
+(c) In all requests for services of the local child support
+agency or Attorney General pursuant to Section 17400
+relating to actions involving paternity or support, not later
+than the same day an individual makes a request for these
+services in person, and not later than five working days after
+either (1) a case is referred for services from the county
+welfare department, (2) receipt of a request by mail for an
+application for services, or (3) an individual makes a request
+for services by telephone, the local child support agency or
+Attorney General shall give notice to. the individual requesting services or on whose behalf services have been requested
+that the local child support agency or Attorney General does
+not represent the individual or the children who are the
+subject of the case, that no attorney-client relationship exists
+between the local child support agency or Attorney General
+and those persons, and that no such representation or
+relationship shall arise if the local child support agency or
+Attorney General provides the services requested. Notice
+shall be in bold print and in plain English and shall be
+translated into the language understandable by the recipient
+when reasonable. The notice shall include the advice that
+the absence of an attorney-client relationship means that
+communications from the recipient are not privileged and
+that the local child support agency or Attorney General may
+provide support enforcement services to the other parent in
+the future.
+(d) The local child support agency or Attorney General
+shall give the notice required pursuant to subdivision (c) to all
+recipients of services under Section 17400 who have not .
+otherwise been provided that notice, not later than the date
+of the next annual notice required under Section 11476.2 of
+the Welfare and Institutions Code. This notice shall include
+notification to the recipient of services under Section 17400
+that the recipient may inspect the clerk’s file at the office of
+the clerk of the court, and that, upon request, the local child
+support agency, or, if appropriate, the Attorney General, will
+furnish a copy of the most recent order entered in the case.
+(e) The local child support agency or, if appropriate, the
+‘Attorney General shall serve a copy of the complaint for
+paternity or support, or both, on recipients of support
+services under Section 17400, as specified in paragraph (2) of
+subdivision (e) of Section 17404. A notice shall accompany
+the complaint that informs the recipient that the local child
+support
+
+agency
+
+or
+
+Attorney
+
+General
+
+may
+
+enter
+
+into
+
+a
+
+stipulated order resolving the complaint, and that the recipient shall assist the prosecuting attorney, by sending, all
+information on the noncustodial parent’s earnings and assets
+to the prosecuting attorney.
+(f)(1)(A) The local child support agency or Attorney
+General shall provide written notice to recipients of services
+under Section 17400 of the initial date and time, and purpose
+of every hearing in a civil action for paternity or support.
+(B) Once the parent who has requested or is receiving
+support enforcement services becomes a party to the action
+pursuant to subdivision (e) of Section 17404, in lieu of the
+above, the local child support agency or Attorney General
+shall serve on a.parent all pleadings relating to paternity or
+
+689
+
+§ 17406
+
+ENFORCEMENT
+
+support that have been served on the local child support
+agency by the other parent. The pleading shall be accompanied by a notice.
+(C) The notice provided subject to subparagraphs (A) and
+(B) shall include the following language:
+IMPORTANT
+
+NOTICE
+
+It may be important that you attend the hearing. The local child
+support agency does not represent you or your children. .You may
+
+have information about the other parent, such as information
+about * * * that parent’s income or assets that will not be
+presented to the court unless you attend the hearing. You have
+the right to attend the hearing and to be heard in court and tell the
+court what you think the court should do with'the child support
+order. This hearing could change your rights or your children’s
+rights to support.
+
+(2) The notice shall state the purpose of the hearing or be
+attached to the motion or other. pleading which caused the
+hearing to be scheduled.
+(3) The notice shall be provided separate from all other
+material and shall be in at least 14-point type. The failure of
+the local child support agency or Attorney General to provide
+the notice required pursuant to subparagraph (A) of paragraph (1) does not affect the validity of any order.
+(4)(A) The notice required pursuant to subparagraph (A)
+of paragraph (1) shall be provided not later than seven
+calendar days prior to the hearing, or, if the local child
+support agency or Attorney General receives notice of the
+hearing less than seven days prior to the hearing, within two
+days of the receipt by the local child support agency or
+Attorney General of the notice of the hearing.
+(B) Service of the notice and the pleadings required
+pursuant to subparagraph (B) of paragraph (1) shall be
+completed not later than five days after receipt of the
+pleadings served on the local child support agency by the
+parent.
+
+(5) The local child support agency or Attorney General
+shall, in order to implement this subdivision, make reasonable
+efforts to ensure that the local child support agency or
+
+Attorney General has current addresses for all parties to the
+child support action.
+(g) The local child support agency or Attorney General
+shall give notice to recipients of services under Section 17400
+of every order obtained by the local child support agency or
+Attorney General that establishes or modifies the support
+obligation for the recipient or the children who are the
+subject of the order, by sending a copy of the order to the
+recipient. The notice shall be made within the time spécified
+by federal law after the order has been filed. The local child
+support agency or Attorney General shall also give notice to
+these recipients of every order obtained in any other jurisdiction that establishes or modifies the support obligation for
+the recipient or the children who are the subject of the order,
+and which is received by the local child support agency or
+Attorney General, by sending a copy of the order to the
+recipient within the timeframe specified by federal law after
+the local child support agency or Attorney General has
+received a copy of the order. In any action enforced under
+Part 6 (commencing with Section 5700.101) of Division 9, the
+
+§ 17406
+
+SUPPORT
+
+SERVICES
+Commentary
+
+notice shall be made in compliance with the requirements of
+that chapter. The failure of the local child support agency or
+Attorney General to comply with this subdivision does not
+affect the validity of any order.
+(h) The local child support agency or Attorney General
+shall give notice to the noncustodial parent against whom a
+civil action is filed that the local child support agency or
+Attorney General is not the attorney representing any
+
+Carlson v. Eassa, 54 Cal.App.4th 684, 62 Cal.Rptr.2d 884 (1997),
+holds that a stipulated URESA judgment is void when the district
+attorney (local child support agency) settles a child support arrearage
+claim without obtaining a party’s subsection (j) consent.
+Research References
+Forms
+
+West’s California Judicial Council Forms FL-334, Declaration Re-
+
+garding Address Verification-Postjudgment Request to Modify a
+Child Custody, Visitation, or Child Support Order.
+West’s California Judicial Council Forms FL-560, Ex Parte Application for Transfer and Order (UIFSA).
+
+individual, including, but not limited to, the custodial parent,
+
+the child, or the noncustodial parent.
+(i) * * * This section * * * does not preclude a person
+who is receiving services under Section 17400 from filing and
+prosecuting an independent action to establish, modify, and
+enforce an order for current support on behalf of * * * that
+person or a child if that person is not receiving public
+assistance.
+(j) A person who is receiving services under Section 17400
+but who is not currently receiving public assistance on * * *
+their own behalf or on behalf of a child shall be asked to
+execute, or consent to, any stipulation establishing or modifying a support order in any action in which that person is
+named as a party, before the stipulation is filed. The local
+child support agency or Attorney General may not submit to
+the court for approval a stipulation to establish or modify a
+support order in the action without first obtaining the
+signatures of all parties to the action, their attorneys of
+record, or persons authorized to act on their behalf. Any
+stipulation approved by the court in violation of this subdivision shall be void.
+(k) The local child support agency or Attorney General
+may not enter into a stipulation that reduces the amount of
+past due support, including interest and penalties accrued
+pursuant to an order of current support, on behalf of a person
+who is receiving support enforcement services under Section
+17400 and who is owed support arrearages that exceed
+unreimbursed public assistance paid to the recipient of the
+support enforcement services, without first obtaining the
+consent of the person who is receiving services under Section
+17400 on * * * their own behalf or on behalf of the child.
+(!) The notices required in this section shall be provided in
+the following manner:
+(1) In all cases in which the person receiving services
+under Section
+
+17400 resides in California,
+
+West’s
+
+California
+
+Complaint or
+Obligations.
+
+Judicial
+
+Council
+
+Supplemental
+
+West’s California Judicial Council
+
+Forms
+
+FL-600,
+
+Complaint
+Forms
+
+Summons
+
+Regarding
+
+FL-605,
+
+and
+
+Parental
+
+Notice and Ac-
+
+knowledgment of Receipt.
+West’s California Judicial Council Forms FL-615, Stipulation for
+Judgment or Supplemental Judgment Regarding Parental Obligations and Judgment.
+West’s California Judicial Council
+
+Forms FL-616,
+
+Declaration
+
+for
+
+Amended Proposed Judgment.
+West’s California Judicial Council Forms FL-627, Order for Genetic
+
+(Parentage) Testing.
+West’s California Judicial Council Forms FL-635, Notice of Entry of
+Judgment and Proof of Service by Mail (Governmental).
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-646,
+
+District Attorney to Notice of Intent to Take
+Action to Enforce Support Order.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-650,
+
+Response
+
+of
+
+Independent
+Statement
+
+for
+
+Registration of California Support Order.
+West’s California Judicial Council Forms FL-660, Ex Parte Motion
+
+by District Attorney
+
+and Declaration
+
+for Joinder of Other
+
+Parent.
+West’s California Judicial Council Forms FL-670, Notice of Motion
+
+for Judicial Review of License Denial.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-675,
+
+Order
+
+After
+
+Judicial Review of License Denial.
+West’s California Judicial Council Forms FL-678, Order Determin-
+
+ing Claim of Exemption or Third-Party Claim.
+West’s California Judicial Council
+
+Forms
+
+FL-683,
+
+Order to Show
+
+Cause.
+West’s California Judicial Council Forms FL-684, Request for Order
+and Supporting Declaration (Governmental).
+West’s California Judicial Council Forms FL-688, Short Form Order
+
+After Hearing (Governmental).
+West’s California Judicial Council Forms FL-692, Minutes and Order
+
+or Judgment.
+
+notice shall be
+
+West’s California Judicial Council Forms
+
+provided by mailing the item by first-class mail to the last
+known address of, or personally delivering the item to, that
+person.
+(2) In all actions enforced under Part 6 (commencing with
+
+FL-697, Declaration for
+
+Default or Uncontested Judgment.
+Treatises and Practice Aids
+10 Witkin, California Summary 10th Parent and Child § 518 (2018),
+
+Nature of Proceedings.
+
+Section 5700.101) of Division 9, unless otherwise specified,
+
+10 Witkin, California Summary 10th Parent and Child § 519 (2018),
+
+notice shall be provided by mailing the item by first-class mail
+to the initiating court.
+(m) Notwithstanding any other provision of this section,
+the notices provided for pursuant to subdivisions (c) to (g),
+inclusive, are not required in foster care cases. (Added by
+Stats.1999, c. 478 (A.B.196), § 1. Amended by Stats.1999, c.
+480 (S.B.542), § 15; Stats.2000, c. 808 (A.B.1358), § 84.7, eff.
+Sept. 28, 2000; Stats.2001, c. 176 (S.B.210), § 6; Stats.2004, c.
+339 (A.B.1704), § 7; Stats.2015, c. 493 (S.B.646), § 12, eff.
+Jan. 1, 2016; Stats.2019, c. 115 (A.B.1817), § 148, eff. Jan. 1,
+2020.)
+
+Agency’s Representation of Public Interest.
+10 Witkin, California Summary 10th Parent and Child § 527 (2018),
+
+Time and Notice Requirements.
+10 Witkin, California Summary 10th Parent and Child § 530 (2018),
+Agreement, Stipulation, or Compromise.
+10 Witkin, California Summary 10th Parent and Child § 536 (2018),
+In General.
+
+§ 17407.
+Support order or support-related order;
+taken or opposed by Attorney General; expenses
+
+appeal
+
+(a) If the Attorney General is of the opinion that a support
+order or support-related order is erroneous and presents a
+
+690
+
+CHILD
+
+SUPPORT
+
+question of law warranting an appeal, or that an order is
+sound and should be defended on appeal, in the. public
+interest the Attorney General may:
+(1) Perfect or oppose an appeal to the proper appellate
+court if the order was issued by a court of this state.
+(2) If the order was issued in. another state, cause an
+appeal to be taken or opposed in the other state.
+(b) In either case, expenses of the appeal may be paid on
+order of the Attorney General from funds appropriated for
+the Office of the Attorney General. (Added by Stats.1999, c.
+652 (S.B.240), § 17.)
+
+§ 17412
+
+ENFORCEMENT
+
+actions indicating the support orders in those actions were
+consolidated into the primary file. The notice shall state the
+date of the consolidation,
+
+the name
+
+of the court, and the
+
+primary file number.
+(d) Upon consolidation of orders, the superior court shall
+not issue further orders pertaining to support in a subordinate court file; and all enforcement
+
+and modification
+
+of
+
+support orders shall occur in the primary court action.
+(e) After consolidation of court orders, a single wage
+assignment for current support and arrearages may be issued
+when possible. (Added by Stats.1999, c. 478 (A.B.196), § 1.)
+Research References
+
+Research References
+Forms
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 534 (2018),
+Appeal.
+
+West’s California Judicial Council Forms FL-920, Notice of Consolidation.
+
+§ 17407.5.
+State reciprocity; declaration;
+effect unless specified condition is met
+
+Treatises and Practice Aids
+
+full force and
+
+10 Witkin, California Summary 10th Parent and Child § 526 (2018),
+Consolidation of Claims.
+
+A declaration of state reciprocity issued by the Attorney
+General on or before December 31, 2015, and a declaration
+
+§ 17410.
+
+issued pursuant to subdivision (b) of Section 5700.308, shall
+remain in full force and effect unless one of the following
+occurs:
+(a) The declaration is revoked or declared invalid by the
+Attorney General, in consultation with the department, or by
+the other party to the reciprocity agreement.
+(b) The declaration is superseded by a subsequent federal
+bilateral agreement with the other party.
+(c) The declaration is superseded by the other party’s
+ratification of or accession to the Hague Convention on the
+International Recovery of Child Support and Other Forms of
+Family Maintenance. (Added by Stats.2015, c. 493 (S.B.646),
+
+In any action filed by the local child support agency
+pursuant to Section 17402 or 17404, the local child support
+agency shall provide the mother and the alleged father the
+opportunity to voluntarily acknowledge paternity by signing a
+paternity declaration as described in Section 7574 prior to a
+hearing or trial where the paternity of a minor child is at
+issue. The opportunity to voluntarily acknowledge paternity
+may be provided either before or after an action pursuant to
+Section 17402 or 17404 is filed and served upon the alleged
+father. For the purpose of meeting the requirements of this
+section, the local child support agency may afford the
+defendant an. opportunity to enter into a stipulation for
+judgment of paternity after an action for paternity has been
+filed in lieu of the voluntary declaration of paternity. (Added
+by Stats.1999, c. 478 (A.B.196), § 1.)
+
+$ 13, eff. Jan. 1, 2016.)
+
+§ 17408. Consolidation of multiple court files; consolidation of orders
+
+Research References
+
+(a) Notwithstanding Section 17404, upon noticed motion
+of the local child support agency, the superior court may
+consolidate or combine support or reimbursement arrearages
+owed by one obligor to one obligee in two or more court files
+into a single court file, or combine or consolidate two or more
+orders for current child support into’a single court file. A
+motion to consolidate may be made by a local child support
+agency only if it is seeking to enforce the orders being
+consolidated. The motion shall be filed only in the court file
+the local child support agency is seeking to have designated as
+the primary file.
+(b) Orders may be consolidated regardless of the nature of
+the underlying action, whether initiated under the Welfare
+and Institutions Code, this code, or another law.
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 545 (2018),
+
+CalWORKS Aid.
+§ 17412. Voluntary declaration of paternity;
+action
+
+Upon
+
+consolidation,
+
+(a) Notwithstanding any other law, an action for child
+support may be brought by the local child support agency on
+behalf of a minor child or caretaker parent based upon a
+voluntary declaration of paternity as provided in Chapter 3
+(commencing with Section 7570) of Part 2 of Division 12.
+(b) Except as provided in Sections 7576 and 7577, the
+voluntary declaration of paternity shall be given the same
+force and effect as a judgment for paternity entered by a
+court of competent jurisdiction.
+The court shall make
+appropriate orders for support of the minor child based upon
+the voluntary declaration of paternity unless evidence is
+presented that the voluntary declaration of paternity has been
+
+Orders for
+
+the court
+
+shall order
+
+the local child
+
+to file a notice in the subordinate
+
+child support
+
+Section operative until Jan. 1, 2020. See,
+also, § 17412 operative Jan. 1, 2020.
+
+support shall not be consolidated unless the children involved
+have the same mother and father and venue is proper
+pursuant to Section 17400.
+-(c) Upon consolidation of orders, the court shall designate
+which court file the support orders are being consolidated
+into the primary file, and which court files are subordinate.
+support agency
+
+Voluntary declaration of paternity
+
+court
+
+691
+
+§ 17412
+
+SUPPORT
+
+SERVICES
+
+rescinded by the parties or set aside by a court as provided in
+Section 7575.
+
+Research References
+Treatises and Practice Aids
+
+and
+
+10 Witkin, California Summary 10th Parent and Child § 530 (2018),
+Agreement, Stipulation, or Compromise.
+
+(d) This section shall remain in effect only until January 1,
+2020, and as of that date is repealed. (Added by Stats.1999, c.
+
+§ 17415.
+Public assistance application where parent absent
+or parentage not established; welfare department referral to local child support agency
+
+(c) The Judicial Council shall develop the forms
+procedures necessary to implement this section.
+
+478 (A.B.196), § 1. Amended by Stats.2018, c. 876 (A.B.
+2684), § 64, eff. Jan. 1, 2019.)
+
+(a) It shall be the duty of the county welfare department to
+refer all cases in which a parent is absent from the home, or
+in which the parents are unmarried and parentage has not
+been established by the completion and filing of a voluntary
+declaration of paternity pursuant to Section 7573 or a court
+of competent jurisdiction, to the local child support agency
+immediately at the time the application for public assistance,
+including Medi-Cal benefits, or certificate of eligibility, is
+signed by the applicant or recipient, except as provided in
+Section 17552 and Sections 11477 and 11477.04 of the
+Welfare andInstitutions Code. If an applicant is found to be
+ineligible, the applicant shall be notified in writing that the
+referral of the case to the local child support agency may be
+terminated at the applicant’s request. The county welfare
+department shall cooperate with the local child support
+agency and shall make available all pertinent information
+pursuant to Section 17505.
+(b) Upon referral from the county welfare department, the
+local child support agency shall investigate the question of
+nonsupport or paternity and shall take all steps necessary to
+obtain child support for the needy child, enforce spousal
+support as part of the state plan under Section 17604, and
+determine paternity in the case of a child born out of
+wedlock. Upon the advice of the county welfare department
+that a child is being considered for adoption, the local child
+support agency shall delay the investigation and other actions
+with respect to the case until advised that the adoption is-no
+longer under consideration. The granting of public assistance or Medi-Cal benefits to an applicant. shall not be
+delayed or contingent upon investigation by the local child
+
+Repeal
+
+For repeal of this section, see its terms.
+Research References
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+In General.
+
+§ 17412. Voluntary declaration of parentage;
+action
+
+child support
+
+Section operative Jan. 1, 2020. See, also,
+§ 17412 operative until Jan. 1, 2020.
+
+(a) Notwithstanding any other law, an action for child
+support may be brought by the local child support agency on
+behalf of a minor child or caretaker parent based upon a
+voluntary declaration of parentage as provided in Chapter 3
+(commencing with Section 7570) of Part 2 of Division 12.
+
+(b) Except as provided in Sections 7580 and 7581, the
+voluntary declaration of parentage shall be given the same
+force and effect as a judgment for parentage entered by a
+court of competent jurisdiction.
+The court shall make
+appropriate orders for support of the minor child based upon
+the voluntary declaration of parentage unless evidence is
+presented that the voluntary declaration of parentage has
+been rescinded by the parties or set aside by a court as
+provided in Section 7575, 7576, or 7577.
+
+(c) The Judicial Council shall develop the forms
+procedures necessary to implement this section.
+
+support agency.
+
+and
+
+(c) In cases where Medi-Cal benefits are the only assistance provided, the local child support agency shall provide
+child and spousal support services unless the recipient of the
+services notifies the local child support agency that only
+services related to securing health insurance benefits are
+requested.
+(d) Whenever a court order has been obtained, any
+contractual agreement for support between the local child
+support agency or the county welfare department and the
+noncustodial parent shall be deemed null and void to the
+extent that it is not consistent with the court order.
+(e) Whenever a family that has been receiving public
+
+(d) This section shall become operative on January 1,
+2020. (Added by Stats.2018, c. 876 (A.B.2684), § 65, eff: Jan.
+I, 2019, operative Jan. 1, 2020.)
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+In General.
+
+§ 17414.
+
+Parentage stipulation
+
+assistance, including Medi-Cal, ceases to receive assistance,
+
+In any action or proceeding brought by the local child
+support agency to establish parentage pursuant to Section
+17400, the court shall enter a judgment establishing parentage upon the filing of a written stipulation between the
+parties provided that the stipulation is accompanied by a
+written advisement and waiver of rights which is signed by the
+defendant. The written advisement and waiver of rights shall
+be developed by the Judicial Council.
+
+including Medi-Cal, the local child support agency shall, to
+the extent required by federal regulations, continue to
+enforce support payments from the noncustodial parent until
+the individual on whose behalf the enforcement efforts are
+made sends written notice to the local child support agency
+requesting that enforcement services be discontinued.
+(f) The local child support agency shall, when appropriate,
+utilize reciprocal arrangements adopted with other states in
+
+(Added by Stats.1999,
+
+c. 478 (A.B.196), § 1.)
+
+692
+
+CHILD
+
+SUPPORT
+
+securing support from an absent parent. In individual cases
+where utilization of reciprocal arrangements has proven
+ineffective, the local child support agency may forward to the
+Attorney General a request to utilize federal courts in order
+to obtain or enforce orders for child or spousal support. If
+reasonable efforts to collect amounts assigned pursuant to
+Section 11477 of the Welfare and Institutions Code have
+failed, the local child support agency may request that the
+case be forwarded to the United States Treasury Department
+for collection in accordance with federal regulations. The
+Attorney General, when appropriate, shall forward these
+requests to the Secretary of Health and Human Services, or a
+designated representative.
+(Added by Stats.1999, c. 478
+(A.B.196), § 1. Amended by Stats.1999, c. 480 (S.B.542),
+§ 16; Stats.2001, c. 463 (A.B.1449), § 1; Stats.2014, c. 29
+(S.B.855), § 1, eff. June 20, 2014.)
+
+case under
+
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 513 (2018),
+Referral to Agency by County Welfare Department.
+
+(a) * * * When the local child support agency has undertaken enforcement of support, the local child support agency
+may enter into an agreement with the noncustodial parent, on
+a spouse,
+
+for
+
+415.20, 415.30, or 415.40 of the Code of Civil Procedure,
+upon the person who signed the agreement for entry of the
+
+Agency agreement with noncustodial parent
+
+child or children,
+
+this section, the clerk shall set the matter
+
+hearing by the court.. The hearing shall be held within 10
+days after the clerk receives the request. The local child
+support agency may require the person who signed. the
+agreement for the entry of judgment to attend the hearing by
+process of subpoena in the same manner as the attendance of
+a witness in a civil action may be required. The presence of
+the person who signed the agreement for entry of judgment
+at the hearing shall constitute the presence of the person in
+court at the time the order is pronounced for the purposes of
+Section 1209.5 of the Code of Civil Procedure if the court
+makes the findings required by paragraph (2) of subdivision
+(b).
+(e) The local child support agency shall cause the following to be served, in the manner specified in Section 415.10,
+
+For implementation relating to Stats.2001, c.
+463 (A.B.1449), see $ 6 of that Act.
+
+behalf of a minor
+
+§ 17416
+
+(c) The clerk shall file the agreement, together with any
+certificate of the attorney or finding of the court, without the
+payment of any fees or charges. If the requirements of this
+section are satisfied, the court shall enter judgment thereon
+without action. The provisions of Article 4 (commencing
+with Section 4200) of Chapter 2 of Part 2 of Division 9 or
+Chapter 4 (commencing with Section 4350) of Part 3. of
+Division 9 shall apply to the judgment.
+A judgment for
+support so entered may be enforced by any means by which
+any other judgment for support may be enforced.
+(d) Upon request of the local child support agency in any
+
+Implementation
+
+§ 17416.
+
+ENFORCEMENT
+
+judgment and shall file proof of service thereof with the
+court:
+(1) Acopy of the judgment as entered.
+(2) If the judgment includes an order for child or spousal
+support payments, a notice stating the substance of the
+following: “The court has continuing authority to make an
+order increasing or decreasing the amount of the child or
+spousal support payments. You have the right to request
+that the court order the child and spousal support payments
+be decreased or eliminated entirely.”
+(f) An order for child and spousal support included in a
+judgment entered under this section may be modified or
+revoked as provided in Article 1 (commencing with Section
+3650) of Chapter 6 of Part 1 of Division 9 and in (1) Article 1
+(commencing with Section 4000) of Chapter 2 of Part 2 of
+Division 9 or (2) Chapter 2 (commencing with Section 4320)
+and Chapter 3 (commencing with Section 4330) of Part 3 of
+Division 9. The court may modify the order to make the
+support payments payable to a different person.
+(g) For the purposes of this section, in making a determination of the noncustodial parent’s reasonable ability to pay,
+any relevant circumstances set out in Section 4005 shall be
+considered.
+(h) After arrest and before plea or trial, or after conviction
+or plea of guilty, under Section 270 of the Penal Code, if the
+defendant appears before the court in which the criminal
+action is pending and the requirements of paragraph (1) or
+(2) of subdivision (b) have been satisfied, the court may
+suspend proceedings or sentence in the criminal action, but
+this does not limit the later institution of a civil or criminal
+action or limit the use of any other procedures available to
+enforce the judgment entered pursuant to this section.
+
+or former
+
+spouse for the entry of a judgment without action determining paternity, if applicable, and for periodic child and spousal
+support payments based on the noncustodial parent’s reasonable ability to pay or, if for spousal support, an amount
+previously ordered by a court of competent jurisdiction. An
+agreement for entry of a judgment under this section may be
+executed prior to the birth of the child and may include a
+provision that the judgment is not to be entered until after
+the birth of the child.
+
+(b) A judgment based on the agreement shall be entered
+only if one of the following requirements is satisfied:
+(1) The noncustodial parent is represented by legal counsel and the attorney signs a certificate stating: “I have
+examined the proposed judgment and have advised my client
+concerning * * * their rights in connection with this matter
+and the consequences of signing or not signing the agreement
+for the entry of the judgment and my client, after being so
+advised, has agreed to the entry of the judgment.”
+(2) A judge of the court in which the judgment is to be
+entered, after advising the noncustodial parent concerning
+* * * their rights in connection with the matter and the
+consequences of agreeing or not agreeing to the entry of the
+judgment, makes a finding that the noncustodial parent has
+appeared before the judge and the judge has determined that
+under the circumstances of the particular case the noncustodial parent has willingly, knowingly, and intelligently waived
+* * * due process rights in agreeing to the entry of the
+judgment.
+
+693
+
+§ 17416
+
+SUPPORT
+
+SERVICES
+Care Services in the manner prescribed by the State Department of Health Care Services.
+(2) Where it has been determined under Section 3751 that
+health insurance coverage is not available at no or reasonable
+cost, the local child support agency shall seek a provision in
+the support order that provides for health insurance coverage
+should it become available at no or reasonable cost.
+(3) Health insurance coverage shall be considered reasonable in cost if the cost to the responsible parent providing
+medical support does not exceed 5 percent of * * * the
+parent’s gross income. In applying the 5 percent for the cost
+of health insurance, the cost is the difference between selfonly and family coverage. If the obligor is entitled to a lowincome adjustment as provided in paragraph (7) of subdivision (b) of Section 4055, health insurance shall not be
+enforced, unless the court determines that not requiring
+medical support would be unjust and inappropriate in the
+particular case. As used in this section, “health insurance
+coverage” also includes providing for the delivery of health
+care services by a fee for service, health maintenance
+organization, preferred provider organization, or any other
+type of health care delivery system under which medical
+services could be provided to the dependent child or children
+of an absent parent.
+(c)(1) The local child support agency shall request employers and other groups offering health insurance coverage that
+is being enforced under this division to notify the local child
+support agency if there has been a lapse in insurance
+coverage. The local child support agency shall be responsible for forwarding information pertaining to the health
+insurance policy secured for the dependent children for
+whom the local child support agency is enforcing the courtordered medical support to the custodial parent.
+(2) The local child support agency shall periodically communicate with the State Department of Health Care Services
+to determine if there have been lapses in health insurance
+coverage for public assistance applicants and recipients. The
+State Department of Health Care Services shall notify the
+local child support agency when there has been a lapse in
+court-ordered insurance coverage.
+(3) The local child support agency shall take appropriate
+action, civil or criminal, to enforce the obligation to obtain
+health insurance when there has been a lapse in insurance
+coverage or failure by the responsible parent to obtain
+insurance as ordered by the court.
+(4) The local child support agency shall inform all individuals upon their application for child support enforcement
+services that medical support enforcement services are available. (Added by Stats.1999, c. 478 (A.B.196), § 1. Amended
+
+(i) Nothing in this section applies to a case where a civil
+action has been commenced.
+(Added by Stats.1999, c. 478
+(A.B.196), § 1. Amended by Stats.2019, c. 115 (A.B.1817),
+§ 149, eff: Jan. 1, 2020.)
+Research
+
+References
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary
+
+10th Parent and Child § 530 (2018),
+
+Agreement, Stipulation, or Compromise.
+
+§ 17418.
+
+Number of children; computation of support
+
+In enforcing the provisions of this division, the local child
+support agency shall inquire of both the custodial and
+noncustodial parent as to the number of minor children each
+is legally obligated to support.
+The local child support
+agency shall consider the needs of all of these children in
+computing the level of support requested to be ordered by
+the court.
+(Added by Stats.1999, c. 478 (A.B.196), § 1.)
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 511 (2018),
+Local Child Support Agency.
+
+§ 17420.
+
+Earnings assignment order for support
+
+After judgment in any court action brought to enforce the
+support obligation of a noncustodial parent pursuant to the
+provisions of this division, the court shall issue an earnings
+assignment order for support pursuant to Chapter 8 (commencing with Section 5200) of Part 5 of Division 9. (Added
+by Stats.1999, c. 478 (A.B.196), § 1.)
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 511 (2018),
+Local Child Support Agency.
+§ 17422.
+
+Medical insurance form;
+
+health insurance cover-
+
+age
+(a) The state medical insurance form required in Article 1
+(commencing with Section 3750) of Chapter 7 of Part 1 of
+Division 9 shall include, but shall not be limited to, all of the
+
+following:
+
+(1) The parent or parents’ names, addresses, and social
+security numbers.
+(2) The name
+employment.
+
+and address
+
+of each
+
+parent’s place of
+
+(3) The name or names, addresses, policy number or
+numbers, and coverage type of the medical insurance policy
+or policies of the parents, if any.
+(4) The name, CalWORKs case number, social security
+
+by Stats.2000, c. 119 (S.B.2045), § 3; Stats.2002, c. 927
+(A.B.3032), § 4; Stats.2010, c. 103 (S.B.580), § 4; Stats.2019,
+c. 115 (A.B.1817), § 150, eff. Jan. 1, 2020.)
+
+number, and Title IV—E foster care case number or Medi—Cal
+
+Research References
+
+case numbers of the parents and children covered by the
+medical insurance policy or policies.
+
+Forms
+
+West’s California Judicial Council Forms FL-684, Request for Order
+and Supporting Declaration (Governmental).
+
+(b)(1) In an action brought or enforcement proceeding
+instituted by the local child support agency under this division
+for payment of child or spousal support, a completed state
+medical insurance form shall be obtained and sent by the
+local child support agency to the State Department of Health
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 362 (2018),
+
+Notice of Hearing.
+
+694
+
+CHILD
+
+SUPPORT
+
+10 Witkin, California Summary 10th Parent and Child § 477 (2018),
+In General.
+.
+10 Witkin, California Summary 10th Parent and Child § 511 (2018),
+Local Child Support Agency.
+§ 17424.
+
+plaint, proposed judgment, blank answer, blank income and
+expense declaration, and all notices required by this division
+were served on the defendant.
+
+(b) If the defendant fails to file an answer with the court
+within 30 days of having been served as specified in subdivision (d) of Section 17400, or at any time before the default
+judgment is entered, the proposed judgment filed with the
+original summons and complaint shall be conformed by the
+court as the final judgment and a copy provided to the local
+child support agency, unless the local child support agency
+has filed a declaration and amended proposed judgment
+pursuant to subdivision (c).
+
+Medical insurance form; submission
+
+(a) A parent who has been served with a medical insurance
+form shall complete and return the form to the local child
+support agency’s office within 20 calendar days of the date
+the form was served.
+(b) The local child support agency shall send the completed medical insurance form to the department in the manner
+prescribed by the department. (Added by Stats.1999, c. 478
+
+(A.B.196), § 1.)
+
+(c) If the local child support agency receives additional
+financial information within 30 days of service of the complaint and proposed judgment on the defendant and the
+additional information would result in a support order that is
+different from the amount in the proposed judgment, the
+local child support agency shall file a declaration setting forth
+the additional information and an amended proposed judgment.
+The declaration and amended proposed judgment
+shall be served on the defendant in compliance with Section
+1013 of the Code of Civil Procedure or otherwise as provided
+by law. The defendant’s time to answer or otherwise appear
+shall be extended to 30 days from the date of service of the
+declaration and amended proposed judgment.
+
+§ 17428.
+
+Supplemental complaint and judgment
+In any action or judgment brought or obtained pursuant to
+
+Section
+
+17400,
+
+17402,
+
+17404,
+
+or
+
+17416,
+
+a supplemental
+
+complaint may be filed, pursuant to Section 464 of the Code
+of Civil Procedure and Section 2330.1, either before or after a
+
+final judgment, seeking a judgment or order of paternity or
+support for a child of the mother and father of the child
+whose paternity and support are already in issue before the
+court. A supplemental judgment entered in the proceedings
+shall include, when appropriate and requested in the supplemental complaint, an order establishing or modifying support
+for all children named in the original or supplemental actions
+in conformity with the statewide uniform guideline for child
+support. A supplemental complaint for paternity or support
+of children may be filed without leave of court either before
+or after final judgment in the underlying action. Service of
+the supplemental summons and complaint shall be made in
+the manner provided for the initial service of a summons by
+the Code of Civil Procedure.
+
+(d) Upon entry of the judgment, the clerk of the court
+shall provide a conformed copy of the judgment to the local
+child support agency. The local child support agency shall
+mail by first-class mail, postage prepaid, a notice of entry of
+judgment by default and a copy of the judgment to the
+defendant to the address where * * * the summons and
+complaint were served and last known address if different
+
+(Added by Stats.1999, c. 478
+
+from that address.
+(Added by Stats.1999, c. 478 (A.B.196),
+§ I. Amended by Stats.1999, c. 480 (S.B.542), $ 17; Stats.
+
+(A.B.196), § 1.)
+
+1999, c. 652 (S.B.240), § 17.5; Stats.2000, c. 808 (A.B.1358),
+§ 85, eff. Sept. 28, 2000; Stats.2002, c. 927 (A.B.3032), § 5;
+
+Research References
+
+Forms
+West’s
+
+California
+
+Complaint or
+Obligations.
+
+Judicial
+
+Council
+
+Supplemental
+
+Forms
+
+FL-600,
+
+Complaint
+
+Summons
+
+Regarding
+
+Stats.2019,
+
+and
+
+(Set Aside) Support
+
+Order
+
+Based
+
+Sheet for: Notice and Motion to Cancel (Set Aside) Support
+Order Based on Presumed Income.
+California
+
+Judicial Council
+
+Forms
+
+FL-643,
+
+Declaration
+
+§ 151,
+
+eff. Jan.
+
+I, 2020.)
+
+Commentary
+
+on Presumed
+
+Obligor’s Income During Judgment Period-Presumed
+Set-Aside Request.
+
+(A.B.1817),
+
+Interpreting subsection (a), County of Yuba v. Savedra, 78 Cal.
+App.4th 1311, 93 Cal.Rptr.2d 524 (2000), holds that it was error for
+the trial court to decline to enter a child support judgment before
+presentation of evidence of the defaulting parent’s income when that
+parent had received notice satisfying Family Code § 17400 (d)(2)
+(former Welfare and Institutions Code § 11475.1) in that it specified
+(1) the amount sought and (2) that the proposed judgment would
+become effective if the defendant failed to file an answer.
+
+Income.
+West’s California Judicial Council Forms FL-640-INFO, Information
+
+West’s
+
+c. 115
+
+Parental
+
+West’s California Judicial Council Forms FL-640, Notice and Motion
+
+to Cancel
+
+§ 17430
+
+ENFORCEMENT
+
+of
+
+Income
+
+Research References
+Treatises and Practice Aids
+
+Forms
+
+10 Witkin, California Summary 10th Parent and Child § 525 (2018),
+Pleadings.
+
+§ 17430.
+
+West’s
+
+California
+
+Judicial
+
+Council
+
+Complaint or Supplemental
+Obligations.
+
+Default judgment; amendment
+
+Forms
+
+FL-600,
+
+Complaint
+
+Summons
+
+Regarding
+
+and
+
+Parental
+
+West’s California Judicial Council Forms FL-620, Request to Enter
+
+(a) Notwithstanding any other * * * law, in an action filed
+by the local child support agency pursuant to Section 17400,
+17402, or 17404, a judgment shall be entered without hearing,
+without the presentation of any other evidence or further
+notice to the defendant, upon the filing of proof of service by
+the local child support agency evidencing that more than 30
+days have passed since the simplified summons and com-
+
+Default Judgment (Governmental).
+West’s California Judicial Council Forms FL-625, Stipulation and
+Order.
+West’s California Judicial Council Forms FL-630, Judgment Regarding Parental Obligations.
+a
+é;
+West’s California Judicial Council Forms FL-635, Notice of Entry of
+Judgment and Proof of Service by Mail (Governmental).
+
+695
+
+§ 17430
+
+SUPPORT
+
+SERVICES
+qualifies for set aside under this section.
+If the order
+qualifies for set aside, the local child support agency shall
+bring a motion for relief under this section.
+(h) In all proceedings under this section, before granting
+
+West’s California Judicial Council Forms FL-640, Notice and Motion
+
+to Cancel
+
+(Set Aside)
+
+Support
+
+Order
+
+Based
+
+on Presumed
+
+Income.
+West’s California Judicial Council Forms FL-640-INFO, Information
+
+Sheet for Notice and Motion to Cancel (Set Aside) Support
+Order Based on Presumed Income.
+West’s California Judicial Council Forms
+
+FL-643,
+
+Declaration
+
+Obligor’s Income During Judgment Period-Presumed
+Set-Aside Request.
+
+relief, the court shall consider the amount of time that has
+
+passed since the entry of the order, the circumstances
+surrounding the defendant’s default, the relative hardship on
+the child or children to whom the duty of support is owed, the
+
+of
+
+Income
+
+caretaker
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 531 (2018),
+Entry of Default.
+10 Witkin, California Summary 10th Parent and Child § 533 (2018),
+Relief from Order Based on Mistaken Identity.
+
+§ 17432.
+Setting aside part of judgment or order concerning amount of child support to be paid
+
+(a) In any action filed by the local child support agency
+pursuant to Section 17400, 17402, or 17404, the court may, on
+
+any terms that may be just, set aside that part of the judgment
+or order concerning the amount of child support to be paid.
+This relief may be granted after the six- month time limit of
+Section 473 of the Code of Civil Procedure has elapsed, based
+on the grounds, and within the time limits, specified in this
+section.
+
+(b) This section shall apply only to judgments or orders for
+support that were based upon presumed income as specified
+in subdivision (d) of Section 17400 and that were entered
+after the entry of the default of the defendant under Section
+17430.
+This section shall apply only to the amount of
+support ordered and not that portion of the judgment or
+order concerning the determination of parentage.
+(c) The court may set aside the child support order
+contained in a judgment described in subdivision (b) if the
+defendant’s income was substantially different for the period
+of time during which judgment was effective compared with
+the income the defendant was presumed to have. A “substantial difference” means that amount of income that would
+result in an order for support that deviates from the order
+entered by default by 10 percent or more.
+(d) Application for relief under this section shall be filed
+together with an income and expense declaration or simplified financial statement or other information concerning
+income for any relevant years. The Judicial Council may
+combine the application for relief under this section and the
+proposed answer into a single form.
+(e) The burden of proving that the actual income of the
+defendant deviated substantially from the presumed income
+shall be on the party seeking to set aside the order.
+(f) A motion for relief under this section shall be filed
+within one year of the first. collection of money by the local
+child support agency or the obligee. The one-year time
+period shall run from the date that the local child support
+agency receives the first collection.
+
+and if income
+
+information
+
+and
+
+the defendant,
+
+and other equitable
+
+Commentary
+Of course, a default child support judgment is absolutely void for
+lack of personal jurisdiction over the defendant when service of the
+summons and complaint was fraudulent. In such case, dismissal of a
+motion to enforce is mandatory. County of San Diego v. Gorham, 186
+Cal. App.4th 1215, 113 Cal.Rptr.3d 147 (2010) (defendant was incarcerated on the date summons was purported to have been served
+personally at his home address).
+Research References
+Forms
+
+West’s California Judicial Council Forms FL-640, Notice and Motion
+
+to Cancel
+
+(Set Aside) Support
+
+Order
+
+Based
+
+on Presumed
+
+Income.
+West’s California Judicial Council Forms FL-640-INFO, Information
+
+Sheet for Notice and Motion to Cancel (Set Aside) Support
+Order Based on Presumed Income.
+West’s California Judicial Council Forms
+
+FL-643,
+
+Declaration
+
+Obligor’s Income During Judgment Period-Presumed
+Set-Aside Request.
+
+of
+
+Income
+
+Treatises and Practice Aids
+
+11 Witkin,
+
+California
+
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+§ 331
+
+(2018), In General.
+10 Witkin, California Summary 10th Parent and Child § 532 (2018),
+Relief from Order Based on Presumed Income.
+
+§ 17433. Relief from default judgment;
+remedies
+
+(g) Within three months from the date the local child
+support agency receives the first collection for any order
+established using presumed income, the local child support
+agency shall check all appropriate sources for income information,
+
+parent,
+
+factors that the court deems appropriate.
+(i) If the court grants the relief requested, the court shall
+issue a new child support order using the appropriate child
+support guidelines currently in effect. The new order shall
+have the same commencement date as the order set aside.
+(j) The Judicial Council shall review and modify any
+relevant forms for purposes of this section. Any modifications to the forms shall be effective July 1, 2005. Prior to the
+implementation of any modified Judicial Council forms, the
+local child support agency or custodial parent may file any
+request to set aside a default judgment under this section
+using Judicial Council Form FL-680 entitled “Notice of
+Motion (Governmental)” and form FL-684 entitled “Request for Order and Supporting Declaration (Governmental).” (Added by Stats.1999, c. 478 (A.B.196), § 1. Amended
+by Stats.2002, c. 927 (A.B.3032), § 6; Stats.2003, c. 225
+(A.B.1752), § 4, eff: Aug. 11, 2003; Stats.2004, c. 339 (A.B.
+1704), § 8.)
+
+mistaken identity;
+
+In an action in which a judgment or order for support was
+entered after the entry of the default of the defendant under
+Section 17430, the court shall relieve the defendant from that
+
+judgment or order if the defendant establishes that * * * the
+defendant was mistakenly identified in the order or in any
+subsequent documents or proceedings as the person having
+
+exists, the local child
+
+support agency shall make a determination whether the order
+
+696
+
+CHILD
+
+SUPPORT
+
+an obligation to provide support. The defendant shall also
+be entitled to the remedies specified in subdivisions (d) and
+(e) of Section 17530 with respect to any actions taken to
+enforce that judgment or order. This section is only intended
+to apply where an order has been entered against a person
+who is not the support obligor named in the judgment or
+order. (Added by Stats.1999, c. 653 (A.B.380), § 16. Amended by Stats.2000, c. 808 (A.B.1358), § 85.3, eff. Sept. 28, 2000;
+Stats.2019, c. 115 (A.B.1817), § 152, eff. Jan. 1, 2020.)
+Research References
+
+California Summary
+(2018), In General.
+
+10th Husband
+
+and Wife
+
+§ 17440
+
+courts. Upon receipt of those booklets, each clerk of the
+court shall provide two copies of the booklet to the petitioner
+or plaintiff in any action involving the support of a minor
+child. The moving party shall serve a copy of the booklet on
+the responding party.
+(d) The department shall expand the information provided
+under its toll-free information hotline in response to inquiries
+regarding the process and procedures for collection and
+payment of child and spousal support. This toll-free number
+shall be advertised as providing information on child and
+spousal support. The hotline personnel shall not provide
+legal consultation or advice, but shall provide only referral
+services.
+(ec) The department shall maintain a file of referral sources
+to provide callers to the telephone hotline with the following
+information specific to the county in which the caller resides:
+(1) The location and telephone number of the local child
+support agency, the county welfare office, the family law
+facilitator, and any other government agency that handles
+child and spousal support matters.
+(2) The telephone number of the local bar association for
+referral to attorneys in family law practice.
+(3) The name and telephone number of at least one
+organization that advocates the payment of child and spousal
+support or the name and telephone number of at least one
+organization that advocates the rights of supporting parents,
+if these organizations exist in the county. (Added by Stats.
+1999, c. 478 (A.B.196), § 1. Amended by Stats.2000, c. 808
+(A.B.1358), § 86, eff. Sept. 28, 2000; Stats.2016, c. 474
+(A.B.2882), § 15, eff: Jan. 1, 2017.)
+
+Treatises and Practice Aids
+
+11 Witkin,
+
+ENFORCEMENT
+
+§ 331
+
+10 Witkin, California Summary 10th Parent and Child § 533 (2018),
+
+Relief from Order Based on Mistaken Identity.
+
+§ 17433.5. Interest accruing on obligation for current
+child, spousal, family, or medical support due in a given
+month
+
+In any action enforced pursuant to this article, no interest
+shall accrue onan obligation for current child, spousal,
+family, or medical support due in a given month until the first
+day of the following month.
+(Added by Stats.2006, c. 75
+(A.B.1808), § 7, eff. July 12, 2006.)
+§ 17434. Booklet about support; toll-free information hotline
+(a) The department shall publish a booklet describing the
+proper procedures and processes for the collection and
+payment of child and spousal support. The booklet shall be
+written in language understandable to the lay person and
+shall direct the reader to obtain the assistance of the local
+child support agency, the family law facilitator, or legal
+counsel where appropriate. The department may contract
+on a competitive basis with an organization or individual to
+write the booklet.
+
+§ 17440. United States military and National Guard service members; modification of child support; form;
+motion by local child support agency
+
+(a) The Department of Child Support Services shall work
+with all branches of the United States military and the
+National Guard to ensure that information is made available
+regarding the rights and abilities of activated service members
+to have their support orders modified based on a change in
+income resulting from their activation, or other change of
+circumstance affecting the child support calculation, or to
+have a portion of their child support arrearages compromised
+pursuant to Section 17560.
+
+(b) The department shall have primary responsibility for
+the design and development of the contents of the booklet.
+The department shall solicit comment regarding the content
+of the booklet from the Director of the Administrative Office
+of the Courts. The department shall verify the appropriateness and accuracy of the contents of the booklet with at least
+one representative of each of the following organizations:
+(1) A local child support agency.
+(2). The State Attorney General’s office.
+(3) A community organization that advocates for the rights
+of custodial parents.
+(4) A community organization that advocates for the rights
+of supporting parents.
+(c) Upon receipt of booklets on support collection, each
+county welfare department shall provide a copy to each head
+of household whose application for public assistance under
+Division 9 (commencing with Section 10000) of the Welfare
+and Institutions Code has been approved and for whom
+support rights have been assigned pursuant to Section 11477
+of the Welfare and Institutions Code. The department shall
+provide copies of the booklet to local child support agencies
+for distribution, and to any person upon request.
+The
+department shall also distribute the booklets to all superior
+
+(b) No later than 90 days after the effective date of this
+section, the department shall develop a form for completion
+by the service member that will allow the local child support
+agency to proceed with a motion for modification without the
+service member being required to appear. The form shall
+contain only the information necessary for the local child
+support agency to proceed with the motion.
+(c) Within five business days of receipt of a properly
+completed form, the local child support agency shall bring a
+motion to modify the support order. The local child support
+agency shall bring the motion if the change in circumstances
+would result in any change in the dollar amount of the
+support order.
+(d) The department shall work with the United States
+military to have this form and the form developed pursuant to
+Section 3651 distributed at all mobilization stations or other
+
+697
+
+§ 17440
+
+SUPPORT
+
+SERVICES
+
+(c)(1) The department may return or allow a local child
+support agency to retain a child support delinquency for a
+specified purpose for collection where the department determines that the return or retention of the delinquency for the
+purpose so specified will enhance the collectibility of the
+delinquency.
+The department shall establish a process
+whereby a local child support agency may request and shall be
+allowed to withdraw, rescind, or otherwise recall the submittal of an account that has been submitted.
+
+appropriate locations to ensure timely notification to all
+activated personnel of their rights and responsibilities. (Added by Stats.2005, c. 154 (S.B.1082), § 4, eff: Aug. 30, 2005.)
+Research References
+Treatises and Practice Aids
+
+11 Witkin,
+
+California
+
+(2018), Activation
+
+Summary
+
+10th
+
+Husband
+
+and Out-Of-State
+
+and
+
+Deployment
+
+Wife
+
+§ 313
+
+of Military
+
+Service Member.
+
+(2) If an obligor is disabled, meets the federal Supplemental Security Income resource test, and is receiving Supplemental Security Income/State Supplementary Payments (SSI/
+SSP), or, but for excess income as described in Section
+416.1100 and following of Part 416 of Title 20 of the Code of
+
+ARTICLE 1.5. DELINQUENT CHILD SUPPORT
+OBLIGATIONS AND FINANCIAL
+INSTITUTION DATA MATCH
+Section
+
+17450.
+
+quencies;
+
+17452.
+17453.
+
+return or retention;
+
+pursuant to Section 12200 of the Welfare and Institutions
+Code, and the obligor has supplied the local child support
+agency with proof of * * * eligibility for, and, if applicable,
+receipt of, SSI/SSP or Social Security Disability Insurance
+benefits, then the child support delinquency shall not be
+
+delegation of func-
+
+tions to Franchise Tax Board; letter of agreement
+and interagency agreement between department
+and Franchise Tax Board.
+Tax return information available to department; no
+obligation or liability incurred; privacy and confidentiality.
+Financial Institution Data Match System; guidelines;
+governmental
+
+access
+
+and
+
+misuse
+
+17456.
+
+17460.
+
+person named on account; contents and service
+charge.
+Reciprocal agreements with other states; exchange of
+
+accounts or accounts to be withheld;
+
+information with Internal Revenue
+
+agency agreements;
+ing.
+
+referred to the department for collection, and, if referred,
+shall be withdrawn, rescinded, or otherwise recalled from the
+
+department by the local child support agency. The department shall not take any collection action, or if the local child
+support agency has already taken collection action, shall
+cease collection actions in the case of a disabled obligor when
+
+of information;
+
+compilation of records; identifying information; no
+obligation or liability incurred; notification of certain circumstances of obligors of past-due support;
+cost reimbursement.
+Request for depository institution to provide designated address for receiving notices to withhold; liability for failure to withhold; withholding delinquency
+and interest by depository institution from credits or
+things of value.
+Compliance without legal or equitable action; deposit
+
+17454.
+
+Federal Regulations, would be eligible to receive as SSI/SSP,
+
+Definitions; manner of collecting child support delin-
+
+the delinquency
+
+rescinded,
+
+or otherwise
+
+re-
+
+(d) It is the intent of the Legislature that when the
+California Child Support Enforcement System (CSE) is fully
+operational, any statutes that should be modified based upon
+the status of the system shall be revised.
+During the
+development and implementation of CSE, the department, as
+the Title IV-D agency, may, through appropriate interagency
+agreement, delegate any and all of the functions or procedures specified in this article to the Franchise Tax Board.
+The Franchise Tax Board shall perform those functions or
+
+notice to each
+
+Service;
+
+is withdrawn,
+
+called by the local child support agency in accordance with
+the process established as described in paragraph (1).
+
+inter-
+
+cost reimbursement and fund-
+
+procedures as specified in Sections 19271 to 19275, inclusive,
+of the Revenue and Taxation Code until * * * the director,
+by letter to the executive officer of the Franchise Tax Board,
+
+§ 17450. Definitions; manner of collecting child support
+delinquencies; return or retention; delegation of functions to Franchise Tax Board; letter of agreement and
+interagency agreement between department and Franchise Tax Board
+
+revokes the delegation of Title IV-D functions.
+
+Sections
+
+19271 to 19275, inclusive, of the Revenue and Taxation Code
+
+shall be effective for these purposes until the revocation of
+delegation to the Franchise Tax Board.
+
+(a) For purposes of this article:
+(1) “Child support delinquency” means a delinquency
+defined in subdivision (c) of Section 17500.
+(2) “Earnings” shall include the items described in Section
+5206.
+(b)(1) When a delinquency is submitted to the department
+pursuant to subdivision (c) of Section 17500, the amount of
+the child support delinquency shall be collected by the
+department in any manner authorized under state or federal
+law.
+(2) Any compensation, fee, commission, expense, or * * *
+other fee for service incurred by the department in the
+collection of a child support delinquency authorized under
+
+(e) Consistent with the development and implementation
+of the California Child Support Enforcement System, the
+Franchise Tax Board and the department shall enter into a
+letter of agreement and an interagency agreement whereby
+the department shall assume responsibility for collection of
+child support delinquencies and the Financial Institution
+Data Match System as set forth in this article. The letter of
+agreement and interagency agreement shall, at a minimum,
+set forth all of the following:
+
+(1) Contingent upon the enactment of the Budget Act, and
+staffing authorization from the Department of Finance and
+
+the Department of Human Resources, the department shall
+assume responsibility for leadership and staffing of the
+collection of child support delinquencies and the Financial
+Institution Data Match System.
+
+this article shall not be an obligation of, or collected from, the
+
+obligated parent.
+
+698
+
+CHILD
+
+SUPPORT
+
+(2) All employees and other personnel who’ staff or
+provide support for the collection of child support delinquencies and the Financial Institution Data Match System at the
+Franchise Tax Board shall become the employees of the
+department at their existing or equivalent classification,
+
+§ 17453
+
+ENFORCEMENT
+
+(3) Any other action taken in good faith to comply with
+the requirements of this section.
+
+(c) It is the intent of the Legislature that any provision of
+income tax return information by the Franchise Tax Board to
+the department pursuant to this article shall be done in
+accordance with the privacy and confidential information
+
+salaries, and benefits.
+
+(3) Any other provisions necessary to ensure continuity of
+function and meet or exceed existing levels of service,
+
+laws of this state
+
+and
+
+of the United
+
+satisfaction of the Franchise Tax Board.
+2004, c. 806 (A.B.2358), § 6.)
+
+including, but not limited to, agreements for continued use of
+
+automated systems used by the Franchise Tax Board to locate
+child support obligors and their assets. (Added by Stats.2004,
+
+States,
+
+and
+
+to the
+
+(Added by Stats.
+
+Research References
+
+c. 806 (A.B.2358), § 6. Amended by Gov.Reorg.Plan No. 1 of
+
+Treatises and Practice Aids
+
+2011, § 31, eff. Sept. 9, 2011, operative July 1, 2012; Stats.2012,
+
+10 Witkin, California Summary 10th Parent and Child § 539 (2018),
+Collection by Department.
+
+c. 665 (S.B.1308), § 13; Stats.2016, c. 474 (A.B.2882), § 16,
+eff. Jan. 1, 2017; Stats.2019, c. 115 (A.B.1817), § 153, eff. Jan.
+I, 2020.)
+
+§ 17453.
+Financial Institution Data Match System; guidelines; governmental access and misuse of information;
+compilation of records; identifying information; no
+obligation or liability incurred; notification of certain
+circumstances of obligors of past-due support; cost
+reimbursement
+
+Commentary
+
+Under subsection (c)(2), the bank account of a disabled child
+support obligor is exempt from levy for child support arrearages
+when his sole income is from Social Security Disability Insurance
+(SSDI) benefits and he would have been eligible for Supplemental
+Security Income/State Supplementary Payments (SSI/SSP) but for his
+SSDI benefits. In re Marriage of Hopkins, 173 Cal.App.4th 281, 92
+Cal. Rptr.3d 570 (2009).
+Relying on subsections (b) and (/) of section 17000, In re Marriage
+of Lamoure, 198 Cal.App.4th 807, 132 Cal.Rptr.3d 1 (2011), review
+denied, holds that a parent who has requested enforcement by the
+Department of Child Support Services (DCSS) may collect spousal
+support as well as child support arrearages under the Financial
+Institution Data Match provisions (§ 17453 et seq.). Enforcement
+need not be originally initiated by the DCSS; nor need the parent be
+receiving public assistance. Under subsection (a) of this section, all
+that is required is that the support obligee have requested DCSS
+enforcement and the obligor have been ordered to send all support
+payments to DCSS.
+
+(a) The department, in coordination with financial institutions doing business in this state, shall operate a Financial
+Institution Data Match System utilizing automated data
+exchanges to the maximum extent feasible. The Financial
+Institution Data Match System shall be implemented and
+maintained pursuant to guidelines prescribed by the department. These guidelines shall include a structure by which
+financial institutions, or their designated data-processing
+agents, shall receive from the department the file or files of
+past-due support obligors compiled in accordance with subdivision (c), so that the institution shall match with its own list
+of accountholders to identify past-due support obligor accountholders at the institution. To the extent allowed by the
+federal Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (P.L. 104-193), ! the guidelines shall
+include an option by which financial institutions without the
+technical ability to process the data exchange, or without the
+ability to employ a third-party data processor to process the
+data exchange, may forward to the department a list of all
+accountholders and their social security numbers, so that the
+department shall match that list with the file or files of pastdue support obligors compiled in accordance with subdivision
+(c).
+
+Research References
+Treatises and Practice Aids
+
+16 Witkin, California Summary 11th Juvenile Court Law § 33 (2018),
+
+Financial Evaluation.
+10 Witkin, California Summary 10th Parent and Child § 539 (2018),
+Collection by Department.
+
+§ 17452. Tax return information available to department;
+no obligation or liability incurred; privacy and confidentiality
+
+(b) The Financial Institution Data Match System shall not
+be subject to any limitation set forth in Chapter 20 (commencing with Section 7460) of Division 7 of Title 1 of the
+Government Code. However, any use of the information
+provided pursuant to this section for any purpose other than
+the enforcement and collection of a child support delinquen-
+
+(a) Subject to state and federal privacy and information
+security laws, the Franchise Tax Board shall make tax return
+information available to the department, upon request, for
+the purpose of collecting child support delinquencies referred
+to the department.
+(b) For purposes of this article, the Franchise Tax Board
+shall incur no obligation or liability to any person arising from
+any of the following:
+(1) Furnishing information to the department as required
+by this section.
+(2) Failing to disclose to a taxpayer or accountholder that
+
+cy, as set forth in Section 17450, shall be a violation of Section
+
+i72A2.
+(c)(1) Until implementation of the California Child Support Automation System, each county shall compile a file of
+support obligors with judgments and orders that are being
+enforced by local child support agencies pursuant to Section
+17400, and who are past due in the payment of their support
+obligations. The file shall be compiled, updated, and forwarded to the department, in accordance with the guidelines
+
+the name, address, social security number, or other taxpayer
+
+identification number or other identifying information of that
+person was included in the data exchange with the department required by this section.
+
+prescribed by the department.
+
+699
+
+

@@ -1,0 +1,5373 @@
+EVIDENCE
+
+CODE
+
+Division
+
+BURDEN
+
+CHAPTER
+
+3.
+
+ARTICLE
+
+OF PROOF; BURDEN OF PRODUCING
+PRESUMPTIONS AND INFERENCES
+
+PRESUMPTIONS
+
+663.
+667.
+
+4. PRESUMPTIONS AFFECTING
+THE BURDEN OF PROOF
+
+In re Marriage of Haines, 33 Cal.App.4th 277, 39 Cal.Rptr.2d 673
+(1995), holds that Evidence Code Section 662 does not apply in
+family law proceedings insofar as its application would be inconsistent with the presumption of undue influence that arises from the
+Family Code Section 721 principle that the spouses have a confidential relationship in their transactions with each other. See also Jn re
+Marriage of Barneson, 69 Cal.App.4th 583, 81 Cal.Rptr.2d 726 (1999),
+which holds that a husband’s written order to “transfer” shares of
+stock to his wife’s name did not satisfy the Family Code Section
+852(a) requirement of an “express declaration” of transmutation
+because the word “transfer” does not necessarily imply a change in
+ownership. Barneson reasons that Evidence Code Section 662 does
+not apply when it conflicts with the presumption of undue influence
+that may arise in spousal transactions. Similarly, In re Marriage of
+Delaney, 111 Cal.App.4th 991, 4 Cal.Rptr.3d 378 (2003), applies the
+holding of Haines, supra, to a spouse’s routine transfer of his separate
+property home into joint tenancy in connection with the couple’s
+application for a home improvement loan. Delaney requires that the
+spouse who benefited from the transfer by gaining a property interest
+show that the transfer “was freely and voluntarily made, with full
+knowledge of all the facts, and with a complete understanding of the
+effect of a transfer from his unencumbered separate interest to a
+joint interest.” For additional presumption of undue influence cases,
+see Commentary to Family Code section 721.
+
+Owner of legal title to property is owner of beneficial
+title.
+Ceremonial marriage.
+Death of person not heard from in five years.
+
+§ 662. Owner of legal title to property is owner of beneficial
+title
+The owner of the legal title to property is presumed to be
+the owner of the full beneficial title. This presumption may
+
+be rebutted only by clear and convincing proof.
+
+(Stats. 1965,
+
+c. 299, $ 2, operative Jan. 1, 1967.)
+Law Revision Commission
+
+Comments
+
+Section 662 codifies a common law presumption recognized in the
+California cases. The presumption may be overcome only by clear
+and convincing proof.
+
+Olson y. Olson, 4 Cal.2d 434, 437, 49 P.2d
+
+827, 828 (1935); Rench v. McMullen, 82 Cal.App.2d 872, 187 P.2d
+111 (1947). [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+Commentary
+In re Marriage of Valli, 58 Cal.4th 1396, 324 P.2d 274, 171
+Cal.Rptr.3d 454 (2014), held that the presumption arising under this
+section from the form of title, a common law presumption, is
+inapplicable when it conflicts with the transmutation statutes. Justice
+Chin’s concurrence in Valli further considers the relationship between the common law title presumption and California community
+property law. Valli also held that spousal purchases from a third party
+are subject to the transmutation requirements of Family Code section
+852, that is, in order to give up any property interest he would
+otherwise have based on the character of the purchase funds, a
+spouse must expressly declare in writing that he is giving up any
+interest he may have in the purchased asset. Thus when Frankie Valli
+used community property funds to purchase a life insurance policy on
+his life and had his spouse named as the owner of the policy, the
+policy remained community property because Frankie did not
+expressly declare in writing that he was giving up any interest he had
+in the policy. Valli overrules In re Summers, 332 F.3d 1240 (9th Cir.
+2003) and In re Marriage of Brooks & Robinson, 169 Cal.App.4th 176,
+86 Cal.Rptr.3d 624 (2008), to the extent that they hold that spousal
+purchases from third parties are not subject to the requirements of
+Family Code section 852 or that they are subject to the presumption
+of this section.
+
+Research References
+
+Forms
+
+Asset Protection: Legal Planning, Strategies
+Determining the Character of Property.
+
+and
+
+Forms
+
+{ 4.04,
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+
+10th Community Property § 288
+(2018), Nature of Relief.
+13 Witkin, California Summary 10th Trusts § 363 (2018), In General.
+13 Witkin, California Summary 10th Trusts § 365 (2018), Promise to
+Reconvey to Transferor.
+
+§ 663.
+
+Ceremonial marriage
+
+A ceremonial marriage is presumed to be valid.
+
+(Stats.
+
+1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+Herrera v. Pons, 2018 WL 2229369 (U.S. Dist. Ct. §.D. Cal. 2018), a
+
+federal bankruptcy appeal, takes Valli one step further. In Valli, the
+wife was listed as the owner, without
+
+EVIDENCE;
+
+quirements had to be satisfied, and that a formally adequate
+transmutation (a wife’s quit-claim deed) was ineffective because the
+husband could not overcome the presumption of undue influence
+that arose when he gained an advantage and his wife was thereby
+disadvantaged.
+
+AND INFERENCES
+
+Section
+
+662.
+
+5
+
+Law Revision Commission Comments
+
+further qualification, of an
+
+Section 663 codifies
+
+insurance policy. In Herrera, a husband held recorded legal title to a
+home acquired during marriage in his name “as his separate
+property,’ presenting a direct conflict between the community
+property presumption and this section. Herrera held that the community property presumption was controlling, the transmutation re-
+
+California cases.
+
+a common law presumption recognized in the
+
+Estate of Hughson,
+
+173 Cal. 448, 160 Pac. 548
+
+(1916); Wilcox v. Wilcox, 171 Cal. 770, 155 Pac. 95 (1916); Freeman
+S.S. Co. v. Pillsbury, 172 F.2d 321 (9th Cir.1949). [7 Cal.L.Rev.
+Comm. Reports 1 (1965)].
+
+950
+
+§ 951
+
+PRIVILEGES
+Research References
+Treatises and Practice Aids
+
+1983 Amendment
+
+Section 667 is amended to adopt a five-year missing period. This
+period is consistent with Probate Code Section 1301 (administration
+of estates of persons missing five years) and Civil Code Sections
+4401(2), 4425(b) (five-year absence in bigamy situations). Except for
+the change in the duration of the missing period from seven to five
+years, the amendment of Section 667 has no effect on the case law
+interpreting this section. [16 Cal.L.Rev-Comm. Reports 105 (1982)].
+
+11 Witkin, California Summary 10th Husband and Wife § 53 (2018),
+Presumption of Valid Marriage from Proof of Solemnization.
+
+§ 667. Death of person not heard from in five years
+A person not heard from in five years is presumed to be
+dead.
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.
+Amended by Stats.1983, c. 201, § 1.)
+Law Revision Commission Comments
+
+Research References
+
+1965 Enactment
+
+Treatises and Practice Aids
+
+Section 667 restates and supersedes the presumption in subdivision
+26 of Code of Civil Procedure Section 1963. [7 Cal.L.Rev.Comm.
+Reports 1 (1965)].
+
+14 Witkin, California Summary 10th Wills and Probate § 401 (2018),
+Presumption and Order.
+
+Division 8
+
+PRIVILEGES
+CHAPTER 4.
+ARTICLE 3.
+
+consult a lawyer during such travel, or when a lawyer from another
+state or nation participates in a transaction involving a California
+
+PARTICULAR PRIVILEGES
+
+LAWYER-CLIENT
+
+client, the client should be entitled to assume that his communica-
+
+PRIVILEGE
+
+tions will be given as much protection as they would be if he
+consulted a California lawyer in California. A client should not be
+forced to inquire about the jurisdictions where the lawyer is
+authorized to practice and whether such jurisdictions recognize the
+lawyer-client privilege before he may safely communicate with the
+lawyer. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Section
+
+950.
+
+Lawyer.
+
+951.
+952.
+
+Client.
+Confidential communication
+yer.
+
+953.
+954.
+955.
+956.
+
+Holder of the privilege.
+Lawyer-client privilege.
+When lawyer required to claim privilege.
+Exception: Crime or fraud; applicability to legal
+services for lawful cannabis-related activities.
+Exception: Prevention of criminal act likely to result in
+death or substantial bodily harm.
+Exception: Parties claiming through deceased client.
+Exception: Breach of duty arising out of lawyer-client
+relationship.
+Exception: Lawyer as attesting witness.
+Exception: Intention of deceased client concerning
+writing affecting property interest.
+Exception: Validity of writing affecting property inter-
+
+956.5.
+957.
+958.
+959.
+960.
+
+961.
+:
+
+962.
+
+between client and law-
+
+Research References
+Forms
+
+3 California Transactions Forms--Business Entities § 15:56, Employment Agreement for Employee-Shareholder.
+1 Environmental Insurance Litigation: Practice Forms § 2:16 (2018
+ed.), Sample Memorandum in Opposition to Plaintiff Insured’s
+Motion to Compel Further Responses. and Production of
+Documents (Drafting History; General Interpretive Material;
+Communications Among Insurers; Underwriting and Claims
+Manuals;
+West’s
+
+Advertising
+
+or
+
+Marketing
+
+Materials;
+
+California
+
+Code
+
+Forms,
+
+Government
+
+§ 54954
+
+Form
+
+1,
+
+Ordinance Fixing Time and Place for Holding Regular Meetings.
+
+est.
+
+Exception: Joint clients.
+
+Treatises and Practice Aids
+
+§ 950. Lawyer
+As used in this article, “lawyer” means a person authorized, or reasonably believed by the client to be authorized, to
+practice law in any state or nation.
+
+Promotional,
+
+Lobbying Materials; Reinsurance Information).
+
+California Practice Guide--Pass-Through Entities Ch. 1-D, Postformation Representation of Business Entity.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+1-A, Initial Client Interview.
+
+(Stats.1965, c. 299, § 2,
+
+Personal Injury (The Rutter. Group, California Practice Guide) Ch.
+4-C, Effective Settlement Negotiations.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+operative Jan. 1, 1967.)
+Law Revision Commission Comments
+
+“Lawyer” is defined to include a person “reasonably believed by
+the client to be authorized” to practice law. Since the privilege is
+
+Rutter,
+
+California
+
+Practice
+
+Guide:.
+
+Administrative.
+
+Law
+
+Ch. 7—A,
+
+Agency Prehearing Investigatory Authority and Methods.
+
+intended to encourage full disclosure, the client’s reasonable belief
+
+Rutter,
+
+that the person he is consulting is an attorney is sufficient to justify
+application of the privilege. See 8 Wigmore, Evidence § 2302
+(McNaughton rev. 1961), and cases there cited in note 1. See also
+McCormick, Evidence § 92 (1954).
+There is no requirement that the lawyer be licensed to practice in a
+jurisdiction that recognizes the lawyer-client privilege. Legal transactions frequently cross state and national boundaries and require
+consultation with attorneys from many different jurisdictions. When
+a California resident travels outside the State and has occasion to
+
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9-A,
+
+Evidence.
+
+14 Witkin, California Summary 10th Wills and Probate § 30 (2018),
+Transfer of Documents.
+
+§ 951.
+
+Client
+
+As used
+
+in this article, “client”
+
+means
+
+a person
+
+who,
+
+directly or through an authorized representative, consults a
+lawyer for the purpose of retaining the lawyer or securing
+
+951
+
+§ 951
+
+EVIDENCE
+
+consultation destroyed the privilege, but no California case directly in
+point has been found. Of course, if the expert consultant is acting
+merely as a conduit for communications from the client to the
+attorney, the doctrine of City & County of San Francisco v. Superior
+Court, supra, applies and the communication would be privileged
+under existing law as well as under this section. See also Evidence
+Code § 912(d) and the Comment thereto.
+The words “other than those who are present to further the
+interest of the client in the consultation” indicate that a communication to a lawyer is nonetheless confidential even though it is made in
+the presence of another person—such as a spouse, parent, business
+associate, or joint client—who is present to further the interest of the
+
+legal service or advice from him in his professional capacity,
+and includes an incompetent (a) who himself so consults the
+lawyer or (b) whose guardian or conservator so consults the
+lawyer in behalf of the incompetent.
+
+(Stats.1965, c. 299, § 2,
+
+operative Jan. 1, 1967.)
+Law Revision Commission Comments
+
+Under Section 951, public entities have a privilege insofar as
+communications made in the course of the lawyer-client relationship
+are concerned. This codifies existing law. See Holm v. Superior
+
+Court,
+
+42 Cal.2d
+
+unincorporated
+
+500, 267 P.2d
+
+organizations
+
+as
+
+1025
+
+(1954).
+
+labor
+
+unions,
+
+Likewise,
+social
+
+clubs,
+
+such
+and
+
+client in the consultation.
+
+fraternal societies have a lawyer-client privilege when the organiza-
+
+the confidential character of the consultation, even where the third
+
+person was present because of his concern for the welfare of the
+client. See Attorney-Client Privilege in California, 10 Stan. L. Rev
+297, 308 (1958), and authorities there cited in notes 67-71. See also
+Himmelfarb v. United States, supra. [7 Cal.L.Rev.Comm. Reports 1
+(1965)].
+
+Research References
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Confidential communication between client and law-
+
+1967 Amendment
+
+yer
+As used in this article, “confidential communication
+
+The express inclusion of “a legal opinion” in the last clause will
+preclude a possible construction of this section that would leave the
+attorney’s uncommunicated legal opinion—which includes his impressions and conclusions—unprotected by the privilege. Such a
+construction would virtually destroy the privilege.
+[8 Cal.L.Rev.
+
+be-
+
+tween client and lawyer” means information transmitted
+between a client and his or her lawyer in the course of that
+relationship and in confidence by a means which, so far as the
+
+Comm. Reports 101 (1967)].
+
+client is aware, discloses the information to no third persons
+
+other than those who are present to further the interest of the
+client in the consultation or those to whom disclosure is
+reasonably necessary for the transmission of the information
+or the accomplishment of the purpose for which the lawyer is
+consulted, and includes a legal opinion formed and the advice
+given by the lawyer in the course of that relationship.
+
+2002 Amendment
+
+Section 952 is amended to delete the last sentence concerning
+confidentiality of electronic communications, because this rule is
+
+generalized in Section 917(b)-(c) applicable to all confidential
+communication privileges.
+[31 Cal.L.Rev.Comm. Reports 258
+(2002)].
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967. Amended by
+Stats.1967, c. 650, p. 2006, § 3; Stats.1994, c. 186 (A.B.2662),
+
+§ 1; Stats.1994, c. 587 (A.B.3600),
+(S.B.2061), § 3.)
+Law Revision Commission
+
+§ 9; Stats.2002,
+
+These words refer, too, to another person
+
+and his attorney who may meet with the client and his attorney in
+regard to a matter of joint concern. This may change existing law,
+for the presence of a third person sometimes has been held to destroy
+
+tion (rather than its individual members) is the client. See Evidence
+Code § 175 (defining “person”) and § 200 (defining “public entity”).
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+§ 952.
+
+CODE
+
+Research References
+
+c. 72
+
+Forms
+
+1 California Transactions Forms--Business Transactions § 6:51, At-
+
+torney-Client Privilege.
+
+Comments
+
+4 California Transactions Forms--Estate Planning § 19:57, Maintain-
+
+1965 Amendment
+
+ing Confidentiality.
+1 California Transactions Forms--Family Law § 1:132, Signature by
+Attorneys.
+1 California Transactions Forms--Family Law § 4:128, Signature by
+Attorneys.
+
+The requirement that the communication be made in the course of
+the lawyer-client relationship and be confidential is in accord with
+existing law. See City & County of San Francisco v. Superior Court,
+37 Cal.2d 227, 234-235, 231 P.2d 26, 29-30 (1951).
+Confidential communications also include those made to third
+parties—such as the lawyer’s secretary, a physician, or similar
+expert—for the purpose of transmitting such information to the
+lawyer because they are “reasonably necessary for the transmission of
+the information.”
+This codifies existing law. See, eg, City &
+County of San Francisco v. Superior Court, supra (communication to
+a physician); Loftin v. Glaser, Civil No. 789604 (L.A.Super.Ct., July
+23, 1964) (communication to an accountant), as reported in Los
+Angeles Daily Journal Report Section, August 25, 1964 (memorandum opinion of Judge Philbrick McCoy).
+A lawyer at times may desire to have a client reveal information to
+an expert consultant in order that the lawyer may adequately advise
+his client. The inclusion of the words “or the accomplishment of the
+purpose for which the lawyer is consulted” assures that these
+communications, too, are within the scope of the privilege. This part
+of the definition may change existing law. Himmelfarb v. United
+States, 175 F.2d 924, 938-939 (9th Cir.1949), applying California law,
+held that the presence of an accountant during a lawyer-client
+
+1 Environmental Insurance Litigation: Practice Forms § 2:14 (2018
+
+ed.), Sample Notice of Motion and Motion to Compel Production of Documents (Insurers Attacking Policyholders’ Claims of
+Attorney Work Product and Attorney Client Privilege).
+1 Environmental Insurance Litigation: Practice Forms § 4:8 (2018
+ed.), Opposition to Motion to Compel Production of Documents.
+
+3 Environmental Insurance Litigation: Practice Forms Appendix A
+(2018 ed.), Fall 2018 Survey for Environmental Insurance
+Litigation Forms.
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial - Claims and
+Defenses Ch. 4(I)-C, Particular Defenses.
+California Practice Guide: Employment Litigation Ch. 2-J, Confidential and Privileged Information.
+California Practice Guide--Pass-Through Entities Ch. 1-D, Postfor-
+
+mation Representation of Business Entity.
+
+952
+
+§ 954
+
+PRIVILEGES
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+1-C, Formation of Attorney-Client Relationship: the Employment Agreement.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Rutter, California Practice Guide: Administrative Law Ch. 29-F,
+Exemptions from Right of Inspection and Copying.
+16 Witkin,
+
+California
+
+Summary
+
+11th Juvenile
+
+Court
+
+Law
+
+tative holds the privilege during any action asserted, commenced,
+continued, or defended by a personal representative. See Code Civ.
+Proc. §§ 377.30. (commencement of surviving action by personal
+representative), 377.31 (continuation of surviving action by personal
+representative), 377.40 (defense by personal representative of surviving action), 377.60 (assertion by personal representative of wrongful
+death action); Prob. Code §§ 9000-9399 (creditor claims against
+estate). [38 Cal. L. Revision Comm’n Reports 163 (2008)].
+
+§ 656
+
+(2018), Duty to Provide Counsel.
+Research References
+
+§ 953.
+
+Holder of the privilege
+
+Forms
+
+As used in this article, “holder of the privilege” means:
+(a) The client, if the client has no guardian or conservator.
+(b)(1) A guardian or conservator of the client, if the client
+has a guardian or conservator, except as provided in paragraph (2).
+(2) If the guardian or conservator has an actual or
+apparent conflict of interest with the client, then the guardian
+or conservator does not hold the privilege.
+(c) The personal representative of the client if the client is
+dead, including a personal representative appointed pursuant
+to Section 12252 of the Probate Code.
+
+West’s
+
+Form
+
+1, Order
+
+§ 954.
+
+Lawyer-client privilege
+Subject to Section 912 and except as otherwise provided in
+this article, the client, whether or not a party, has a privilege
+to refuse to disclose, and to prevent another from disclosing,
+
+a. confidential communication between client .and lawyer if
+the privilege is claimed by:
+(a) The holder of the privilege;
+(b), A. person who is authorized to claim the privilege by
+the holder of the privilege; or
+(c) The person who was the lawyer at the time of the
+confidential communication, but such person may not claim
+the privilege if there is no holder of the privilege in existence
+or if he is otherwise instructed by a person authorized to
+permit disclosure.
+The relationship of attorney and client shall exist between a
+law corporation as defined in Article 10:(commencing with
+Section 6160) of Chapter 4 of Division 3 of the Business and
+Professions Code and the persons to whom it renders
+professional services, as well as between such persons and
+members of the State Bar employed by such corporation to
+render services to such persons. The word “persons” as used
+in this subdivision includes partnerships, corporations, limited
+liability companies, associations and other groups and enti-
+
+Law Revision Commission Comments
+
+Under subdivisions (a) and (b), the guardian of a client is the
+holder of the privilege if the client has a guardian, and the client
+becomes the holder of the privilege when he no longer has a
+guardian.
+For example, if an underage client or: his guardian
+consults a lawyer, the guardian is the holder of the privilege under
+subdivision (b) until the guardianship is terminated; thereafter, the
+client himself is the holder of the privilege. The present California
+law is uncertain. The statutes do not deal with the problem, and no
+appellate decision has discussed it.
+Under subdivision (c), the personal representative of a client is the
+holder of the privilege when the client is dead. He may either claim
+or waive the privilege on behalf of the deceased client. This may be
+a change in California law. Under existing law, it seems probable
+that the privilege survives the death of the client and that no one can
+See Collette v. Sarrasin; 184 Cal.
+
+283, 289, 193 Pac. 571, 573 (1920). Hence, the privilege apparently is
+recognized even when it would be clearly to the interest of the estate
+
+ties.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.
+
+Amend-
+
+ed by Stats.1968, c. 1375, p. 2695, § 2; Stats.1994, c. 1010
+(S.B.2053), § 104.)
+
+Under Section 953, however, the
+
+personal representative of a deceased client may waive the privilege.
+The purpose underlying the privilege—to provide a client with the
+assurance of confidentiality—does not require the recognition. of the
+privilege when to do so is detrimental to his interest or to the
+
+Reports
+
+§ 2584
+
+Administration After Discharge.
+
+Jan. 1, 1967. Amended by Stats.2009, c. 8 (A.B.1163), § 1;
+Stats.2018, c. 475 (A.B.1290), § 1, eff. Jan. 1, 2019.)
+
+[7 Cal.L.Rev.Comm.
+
+Probate
+
+15 Witkin, California Summary 10th Wills and Probate § 792 (2018),
+
+is no longer in existence. .(Stats.1965, c. 299, § 2, operative
+
+interests of his estate.
+
+Forms,
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+2 Witkin, California Summary 10th Insurance § 13 (2018), Conservatorship and Liquidation.
+
+partnership, business trust, corporation, or public entity that
+
+of the deceased client to waive it.
+
+Code
+
+Treatises and Practice Aids
+
+(d) A successor, assign, trustee in dissolution, or any
+similar representative of a firm, association, organization,
+
+waive it after the client’s death.
+
+California
+
+Authorizing Conservator to Make Gifts.
+
+Law Revision Commission Comments
+
+Section 954 is the basic statement of the lawyer-client privilege.
+Exceptions to this privilege are stated in Sections 956-962.
+Persons entitled to claim the privilege. The persons entitled to claim
+the privilege are specified in subdivisions (a), (b), and (c). See
+Evidence Code § 953 for the definition of “holder of the privilege.”
+Eavesdroppers. Under Section 954, the lawyer-client privilege can
+be asserted to prevent anyone from testifying to a confidential
+
+1 (1965)].
+
+2009 Amendment
+
+Subdivision (a) of Section 953 is amended.to revise a gender
+reference.
+Subdivision (c) is amended to make clear that a personal represen-
+
+tative holds the decedent’s lawyer-client privilege at any time while
+the personal representative has duties as a personal representative,
+including, without limitation, during any subsequent estate administration. See, e.g., Prob. Code § 12252 (appointment of personal
+representative for subsequent administration of estate); see also
+Prob. Code § 58 (personal representative).. The personal represen-
+
+communication.
+
+.Thus,
+
+clients,
+
+are
+
+-protected
+
+against the
+
+risk of
+
+disclosure by eavesdroppers and other wrongful interceptors of
+confidential communications between lawyer and client. Probably
+no such protection was provided prior to the enactment of Penal
+Code Sections 653i and 653j. See People v. Castiel, 153 Cal.App.2d
+653, 315 P.2d 79 (1957). See also Attorney-Client Privilege in
+
+953
+
+§ 954
+
+EVIDENCE
+
+subdivision (c) of Section
+operative Jan. 1, 1967.)
+
+California, 10 Stan. L. Rev 297, 310-312 (1958), and cases there cited
+
+in note 84.
+Penal Code Section 653) makes evidence obtained by electronic
+eavesdropping or recording in violation of the section inadmissible in
+“any judicial, administrative, legislative, or other proceeding.” The
+section also provides a criminal penalty and contains definitions and
+
+§ 912
+
+(when
+
+disclosure
+
+with
+
+client’s consent
+
+constitutes
+
+to be confidential.
+
+torney-Client Privilege.
+
+§ 956. Exception: Crime or fraud; applicability to legal
+services for lawful cannabis-—related activities
+
+(a) There is no privilege under this article if the services of
+the lawyer were sought or obtained to enable or aid anyone to
+commit or plan to commit a crime or a fraud.
+
+See Sharon v. Sharon, 79 Cal.
+
+(b) This exception to the privilege granted by this article
+shall not apply to legal services rendered in compliance with
+state and local laws on medicinal cannabis or adult-use
+cannabis, and confidential communications provided for the
+purpose of rendering those services are confidential communications between client and lawyer, as defined in Section
+952, provided the lawyer also advises the client on conflicts
+with respect to federal law.
+
+Law Revision Commission Comments
+
+California now recognizes this exception. Abbott v. Superior
+Court, 78 Cal.App.2d 19, 177 P.2d 317 (1947). Cf Nowell v.
+Superior Court, 223 Cal.App.2d 652, 36 Cal.Rptr. 21 (1963). [7
+Cal.L.Rev.Comm. Reports 1 (1965)].
+Research References
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 2-J, Confidential and Privileged Information.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+torney-Client Privilege.
+4 California Transactions Forms--Estate Planning § 19:57, Maintaining Confidentiality.
+1 Environmental Insurance Litigation: Practice Forms § 4:8 (2018
+ed.), Opposition to Motion to Compel Production of Documents.
+
+Rutter
+
+California Practice Guide: Employment Litigation Ch. 2-J, Confidential and Privileged Information.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Law
+
+Practice
+
+Guide:
+
+Elder
+
+Abuse
+
+Litigation
+
+§ 956.5. Exception: Prevention of criminal
+result in death or substantial bodily harm
+
+Ch.
+
+3,
+
+act likely to
+
+There is no privilege under this article if the lawyer
+reasonably believes that disclosure of any confidential communication relating to representation of a client is necessary
+to prevent a criminal act that the lawyer reasonably believes is
+likely to result in the death of, or substantial bodily harm to,
+
+Ch. 29-F,
+
+Exemptions from Right of Inspection and Copying.
+
+§ 955.
+
+Group
+
+Avoiding Conflicts and Ethical Issues.
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 14,
+Managed Care Liability.
+5 Witkin, California Summary 10th Torts § 768 (2018), Applicability
+of Litigation Privilege.
+
+Treatises and Practice Aids
+
+Administrative
+
+(Stats.1965, c. 299, § 2, operative
+
+Jan. 1, 1967. Amended by Stats.2017, c. 530 (A.B.1159), § 2,
+eff: Jan. 1, 2018.)
+
+1 California Transactions Forms--Business Transactions § 6:51, At-
+
+Guide:
+
+Comments
+
+1 California Transactions Forms--Business Transactions § 6:51, At-
+
+a
+
+Forms
+
+Practice
+
+§ 2,
+
+Research References
+
+Research References
+
+California
+
+c. 299,
+
+Forms
+
+633, 677, 22 Pac. 26, 39 (1889).
+Termination of privilege. The privilege may be claimed by a person
+listed in Section 954, or the privileged information excluded by the
+presiding officer under Section 916, only if there is a holder of the
+privilege in existence. Hence, the privilege ceases to exist when the
+client’s estate is finally distributed and his personal representative is
+discharged. This is apparently a change in California law. Under
+the existing law, it seems likely that the privilege continues to exist
+indefinitely after the client’s death and that no one has authority to
+waive the privilege. See Collette v. Sarrasin, 184 Cal. 283, 193 Pac.
+571 (1920). See generally Paley v. Superior Court, 137 Cal.App.2d
+450, 290 P.2d 617 (1955), and discussion of the analogous situation in
+connection with the physician-patient privilege in Tentative Recommendation and a Study Relating to the Uniform Rules of Evidence
+(Article V. Privileges), 6 Cal.Law Revision Comm’n, Rep., Rec. &
+Studies 201, 408-410 (1964). Although there is good reason for
+maintaining the privilege while the estate is being administered—
+particularly if the estate is involved in litigation—there is little reason
+to preserve secrecy at the expense of excluding relevant evidence
+after the estate is wound up and the representative is cinerea’ [7
+Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Rutter,
+
+(Stats.1965,
+
+The obligation of the lawyer to claim the privilege on behalf of the
+client, unless otherwise instructed by a person authorized to permit
+disclosure, is consistent with Section 6068(e) of the Business and
+Professions Code. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+waiver of the privilege). The use of the privilege to prevent
+testimony by eavesdroppers and those to whom the communication
+was wrongfully disclosed does not, however, affect the rule that the
+making of the communication under circumstances where others
+could easily overhear it is evidence that the client did not intend the
+communication
+
+954.
+
+Law Revision Commission
+
+exceptions. Penal Code Section 653i makes it a felony to eavesdrop
+by an electronic or other device upon a conversation between a
+person in custody of a public officer or on public property and that
+person’s lawyer, religious advisor, or physician.
+Section 954 is consistent with Penal Code Sections 653i and 653)
+but provides broader protection, for it protects against disclosure of
+confidential communications by anyone who obtained knowledge of
+the communication without the client’s consent. See also Evidence
+Code
+
+CODE
+
+When lawyer required to claim privilege
+
+The lawyer who received or made a communication subject
+to the privilege under this article shall claim the privilege
+whenever he is present when the communication is sought to
+be disclosed and is authorized to claim the privilege under
+
+an individual. .(Added by Stats.1993, c. 982 (S.B.645), § 8.
+Amended by Stats.2003, c. 765 (A.B.1101), § 2, operative July
+1, 2004; Stats.2004, c. 183 (A.B.3082), § 94.)
+
+954
+
+§ 960
+
+PRIVILEGES
+
+Pacific Tel. & Tel. Co. v. Fink, 141 Cal.App.2d 332, 335, 296 P.2d
+
+Research References
+
+843, 845 (1956); Fleschler v. Strauss, 15 Cal.App.2d 735, 60 P.2d 193
+
+Treatises and Practice Aids
+
+(1936). See generally Witkin, California Evidence § 419 (1958).
+It would be unjust to permit a client either to accuse his attorney of
+a breach of duty and to invoke the privilege to prevent the attorney
+from bringing forth evidence in defense of the charge or to refuse to
+pay his attorney’s fee and invoke the privilege to defeat the attorney’s
+
+California Practice Guide: Employment Litigation Ch. 2-J, Confidential and Privileged Information.
+Rutter Group - Civil California Practice Guide, Motions in Limine,
+
+The § 8:86, Opposing Authorities—Attorney
+lowed to Prevent a Crime or Injury.
+
+§ 957.
+
+Testimony—Al-
+
+claim.
+
+There is no privilege under this article as to a communication relevant to an issue between parties all of whom claim
+through a deceased client, regardless of whether the claims
+are by testate or intestate succession, nonprobate transfer, or
+
+inter vivos transaction.
+
+I, 1967.
+
+Amended
+
+(Stats.1965, c. 299, $ 2, operative Jan.
+
+by Stats.2009,
+
+c. 8 (A.B.1163),
+
+§ 2.)
+
+Law Revision Commission Comments
+
+in a criminal
+
+action
+
+California Practice Guide: Employment Litigation Ch. 2-J, Confidential and Privileged Information.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 959. Exception: Lawyer as attesting witness
+There is no privilege under this article as to a communication relevant to an issue concerning the intention or competence of a client executing an attested document of which the
+lawyer is an attesting witness, or concerning the execution or
+attestation of such a document.
+(Stats.1965, c. 299, § 2,
+operative Jan. 1, 1967.)
+Law Revision Commission
+
+Comments
+
+This exception relates to the type of communication about which
+an attesting witness would testify. The mere fact that an attorney
+acts as an attesting witness should not destroy the lawyer-client
+privilege as to all statements made concerning the document
+attested; but the privilege should not prohibit the lawyer from
+performing the duties expected..of an attesting witness.
+Under
+existing law, the attesting witness exception is broader, having been
+used as a device to obtain information which the lawyer who is an
+attesting witness received in his capacity as a lawyer rather than as an
+attesting witness. See In re Mullin, 110 Cal. 252, 42 Pac. 645 (1895).
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+§ 960. Exception: Intention of deceased client concerning
+writing affecting property interest
+There is no privilege under this article as to a communication relevant to an issue concerning the intention of a client,
+now deceased, with respect to a deed of conveyance, will, or
+other writing, executed by the client, purporting to affect an
+interest in property. (Stats.1965, c. 299, § 2, operative Jan. 1,
+
+Research References
+Forms
+
+4 California Transactions Forms--Estate Planning § 19:57, Maintaining Confidentiality.
+
+§ 958. Exception: Breach of duty arising out of lawyerclient relationship
+
+1967.)
+
+There is no privilege under this article as to a communication relevant to an issue of breach, by the lawyer or by the
+client, of a duty arising out of the lawyer-client relationship.
+
+Law Revision Commission
+
+Comments
+
+Although the attesting witness exception stated in Section 959 is
+limited to information of the kind to which one would expect an
+attesting witness to testify, there is merit to having an exception that
+applies to all dispositive instruments.
+A client ordinarily would
+desire his lawyer to communicate his true intention with regard to a
+dispositive instrument if the instrument itself leaves the matter in
+
+(Stats.1965, c. 299, § 2, operative Jan. I, 1967.)
+Law Revision Commission Comments
+
+This exception has not been recognized by a holding in any
+California case, although dicta in several opinions indicate that it
+
+doubt
+
+and the client is deceased.
+
+Likewise,
+
+the client ordinarily
+
+would desire his attorney to testify to communications relevant to the
+validity of such instruments after the client dies. Accordingly, two
+additional exceptions—Sections 960 and 961—are provided for this
+
+would be recognized if the question were presented in a proper case.
+Henshall v. Coburn,
+
+if the defendant
+
+Treatises and Practice Aids
+
+2009 Amendment
+Section 957 is amended to clarify that the exception is applicable to
+parties who all claim through a deceased client, including a person
+who claims through a nonprobate transfer. [38 Cal. L. Revision
+Comm’n Reports 163 (2008)].
+
+(1964);
+
+for example,
+
+Research References
+
+The lawyer-client privilege does not apply to a communication
+relevant to an issue between parties all of whom claim through a
+deceased client. Under existing law, all must claim through the
+client by testate or intestate succession in order for this exception to
+be applicable; a claim by inter vivos transaction apparently is not
+within the exception. Paley v. Superior Court, 137 Cal.App.2d 450,
+457-460, 290 P.2d 617, 621-623 (1955). Section 957 extends this
+exception to include inter vivos transactions.
+The traditional exception for litigation between claimants by
+testate or intestate succession is based on the theory that claimants in
+privity with the estate claim through the client, not adversely, and the
+deceased client presumably would want his communications disclosed
+in litigation between such claimants so that his desires in regard to
+the disposition of his estate might be correctly ascertained and
+carried out. This rationale is equally applicable where one or more
+of the parties is claiming by inter vivos transaction as, for example, in
+an action between a party who claims under a deed (executed by a
+client in full possession of his faculties) and a party who claims under
+a will executed while the client’s mental stability was dubious. See
+the discussion in Tentative Recommendation and a Study Relating to
+the Uniform Rules of Evidence (Article V. Privileges), 6 Cal.Law
+Revision Comm’n, Rep., Rec. & Studies 201, 392-396 (1964). [7
+Cal.L.Rev.Comm. Reports 1 (1965)].
+
+People v. Tucker, 61 Cal.2d 828, 40 Cal.Rptr.
+
+Thus,
+
+claims that his lawyer did not provide him with an adequate defense,
+communications between the lawyer and client relevant to that issue
+are not privileged. See People v. Tucker, 61 Cal.2d 828, 40 Cal.Rptr.
+609, 395 P.2d 449 (1964). The duty involved must, of course, be one
+arising out of the lawyer-client relationship, e.g., the duty of the
+lawyer to exercise reasonable diligence on behalf of his client, the
+duty of the lawyer to care faithfully and account for his client’s
+property, or the client’s duty to pay for the lawyer’s services. [7
+Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Exception: Parties claiming through deceased client
+
+609, 395 P.2d 449
+
+177 Cal. 50, 169 Pac. 1014 (1917);
+
+955
+
+§ 960
+
+EVIDENCE
+
+purpose. These exceptions have been recognized by the California
+decisions only in cases where the lawyer is an attesting witness. See
+the Comment to Evidence Code § 959.
+[7 Cal.L.Rev.Comm.
+Reports 1 (1965)].
+
+§ 961. Exception:
+interest
+
+Validity of writing
+
+affecting
+
+conveyance, will, or other writing, executed by a client, now
+
+deceased, purporting to affect an interest in property.
+
+(Stats.
+
+1965, c. 299, § 2, operative Jan. 1, 1967.)
+Law Revision Commission Comments
+
+§ 962.
+
+Exception:
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+(Stats.1965,
+
+c. 299, § 2, operative Jan.
+
+Law Revision Commission
+
+1, 1967.)
+
+Comments
+
+This section states existing law.
+
+Clyne v. Brock, 82 Cal.App.2d
+
+958, 965, 188 P.2d 263, 267 (1947);
+
+Croce v. Superior Court, 21
+
+Cal.App.2d 18, 68 P.2d 369 (1937). See also Harris v. Harris, 136
+Cal. 379, 69 Pac. 23 (1902). [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Forms
+
+3 California Transactions Forms--Business Entities § 15:56, Employ-
+
+ment Agreement for Employee-Shareholder.
+4 California Transactions Forms--Business Entities § 20:13, Fiducia-
+
+ry Obligations of Attorney for Dissolved Partnership.
+4 California Transactions Forms--Estate Planning § 20:4, Separate
+and Community Property.
+1 Environmental Insurance Litigation: Practice Forms § 4:8 (2018
+ed.), Opposition to Motion to Compel Production of Documents.
+California
+
+Code
+
+Forms,
+
+Government
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9-A,
+
+Section
+970. Spouse’s privilege not to testify against spouse; exceptions.
+971. Privilege not to be called as a witness against spouse.
+972. Exceptions to privilege.
+973. Waiver of privilege.
+
+§ 970. Spouse’s
+exceptions
+
+privilege
+
+not
+
+to testify against
+
+spouse;
+
+Except as otherwise provided by statute, a married person
+has a privilege not to testify against his spouse in any
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+Law Revision Commission
+
+Comments
+
+Under this article, a married person has two privileges: (1) a
+privilege not to testify against his spouse in any proceeding (Section
+970) and (2) a privilege not to be called as a witness in any
+proceeding to which his spouse is a party (Section 971).
+The privileges under this article are not as broad as the privilege
+provided by existing law. Under existing law, a married person has a
+privilege to prevent his spouse from testifying against him, but only
+the witness spouse has a privilege under this article. Under the
+existing law, a married person may refuse to testify for the other
+spouse, but no such privilege exists under this article. For a
+discussion of the reasons for these changes in existing law, see the
+Law Revision Commission’s Comment to Code of Civil Procedure
+Section 1881 (superseded by the Evidence Code).
+The rationale of the privilege provided by Section 970 not to testify
+
+against one’s spouse is that such testimony would seriously disturb or
+
+Research References
+
+West’s
+
+Practice
+
+ARTICLE 4. PRIVILEGE NOT TO
+TESTIFY AGAINST SPOUSE
+
+proceeding.
+
+Joint clients
+
+Where two or more clients have retained or consulted a
+lawyer upon a matter of common interest, none of them, nor
+the successor in interest of any of them, may claim a privilege
+under this article as to a communication made in the course
+of that relationship when such communication is offered in a
+civil proceeding between one of such clients (or his successor
+in interest) and another of such clients (or his successor in
+interest).
+
+Rutter, California
+Evidence.
+
+property
+
+There is no privilege under this article as to a communication relevant to an issue concerning the validity of a deed of
+
+See the Comment to Section 960.
+(1965)].
+
+CODE
+
+§ 54954
+
+Form
+
+1,
+
+Ordinance Fixing Time and Place for Holding Regular Meetings.
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 2—D, Joint
+Representation of Codefendants.
+California Practice Guide: Employment Litigation Ch. 2-J, Confidential and Privileged Information.
+California Practice Guide--Pass-Through Entities Ch. 1-B, Ethical
+(Conflict of Interest) Limitations on Representation.
+California Practice Guide--Pass-Through Entities Ch. 1-D, Postformation Representation of Business Entity.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+1-B, Initial Evaluation of Case: Decision to Accept or Reject
+Employment or Undertake Further Evaluation of Claim.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+4-C, Effective Settlement Negotiations.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+disrupt the marital relationship. Society stands to lose more from
+such disruption than it stands to gain from the testimony which would
+be available if the privilege did not exist. The privilege is based in
+part on a previous recommendation and study of the California Law
+Revision Commission.
+
+See 1 Cal.Law Revision Comm’n, Rep., Rec.
+
+& Studies, Recommendation and Study Relating to the Marital “For
+and Against” Testimonial Privilege at F=1 (1957). [7 Cal.L.Rev.
+
+Comm. Reports 1 (1965)].
+Commentary
+
+Jurcoane v. Superior Court, 93 Cal.App.4th 886, 113 Cal.Rptr.2d 483
+(2001), holds that a magistrate erred in denying wife’s assertion of
+the marital privilege on the ground that the spouses no longer had a
+viable marital relationship. Jurcoane reasons that there is no statutory
+basis for such an exception to the marital privilege.
+Interpreting § 972(e)(2), People v. Sinohui, 28 Cal.4th 205, 47 P.3d
+629, 120 Cal.Rptr.2d 783 (2002), holds that a court may compel
+spousal testimony even though no accusatory pleading charges a
+defendant with a crime against a spouse so long as the defendant
+commits a crime against a third party in the course of committing a
+
+crime against a spouse and the two crimes are part of a continuous
+course of criminal conduct and are logically related to each other.
+Research References
+Forms
+
+1 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 4:14,
+
+Domestic
+
+Violence and Restraining Orders.
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 10-F, Discovery Issues.
+
+§ 972
+
+PRIVILEGES
+California Practice Guide: Employment Litigation Ch. 19-F, Discovery.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Rutter,
+
+(c) A proceeding brought by or on behalf of a spouse to
+establish his or her competence.
+
+Ch. 9—A,
+
+(d) A proceeding under the Juvenile Court Law, Chapter 2
+(commencing with Section 200) of Part 1 of Division 2 of the
+Welfare and Institutions Code.
+
+Privilege not to be called as a witness against spouse
+
+(e) A criminal proceeding in which one spouse is charged
+with:
+
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Evidence.
+
+§ 971.
+
+Except as otherwise provided by statute, a married person
+whose spouse is a party to a proceeding has a privilege not to
+be called as a witness by an adverse party to that proceeding
+without the prior express consent of the spouse having the
+privilege under this section unless the party calling the spouse
+does so in good faith without knowledge of the marital
+relationship.
+
+(1) A crime against the person or property of the other
+spouse or of a child, parent, relative, or cohabitant of either,
+
+whether committed before or during marriage.
+
+(2) A crime against the person or property of a third
+person committed in the course of committing a crime
+against the person or property of the other spouse, whether
+committed before or during marriage.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+Law Revision Commission Comments
+
+(3) Bigamy.
+
+The privilege of a married person not to be called as a witness
+against his spouse is somewhat similar to the privilege given the
+defendant in a criminal case not to be called as a witness (Section
+930). This privilege is necessary to avoid the prejudicial effect. For
+example, of the prosecution’s calling the defendant’s wife as a
+witness, thus forcing her to object before the jury. The privilege not
+to be called as a witness does not apply, however, in a proceeding
+where the other spouse is not a party. Thus, a married person may
+be called as a witness in a grand jury proceeding because his spouse is
+not a party to that proceeding, but the witness in the grand jury
+proceeding may claim the privilege under Section 970 to refuse to
+answer a question that would compel him to testify against his spouse.
+
+(4) A crime defined by Section 270 or 270a of the Penal
+Code.
+(f) A proceeding resulting from a criminal act which
+occurred prior to legal marriage of the spouses to each other
+regarding knowledge acquired prior to that marriage if prior
+to the legal marriage the witness spouse was aware that his or
+her spouse had been arrested for or had been formally
+charged with the crime or crimes about which the spouse is
+called to testify.
+(g) A proceeding brought against, the spouse by a former
+spouse so long as the property and debts of the marriage have
+not been adjudicated, or in order to establish, modify, or
+enforce a child, family or spousal support obligation arising
+from the marriage to the former spouse; in a proceeding
+brought against a spouse by the other parent in order to
+establish, modify, or enforce a child support obligation for a
+
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+Commentary
+
+;
+
+Jurcoane v. Superior Court, 93 Cal_App.4th 886,
+
+113 Cal.Rptr.2d 483
+
+(2001), holds that a magistrate erred in denying wife’s assertion of
+the marital privilege on the ground that the spouses no longer had a
+viable marital relationship. Jurcoane reasons that there is no statutory
+basis for such an exception to the marital privilege.
+Interpreting § 972(e)(2), People v. Sinohui, 28 Cal.4th 205, 47 P.3d
+629, 120 Cal.Rptr.2d 783 (2002), holds that a court may compel
+spousal testimony even though no accusatory pleading charges a
+defendant with a crime against a spouse so long as the defendant
+commits a crime against a third party in the course of committing a
+crime against a spouse and the two crimes are part of a continuous
+course of criminal conduct and are logically related to each other.
+
+child of a nonmarital
+
+of the spouse;
+
+or in a
+
+child of that spouse in order to establish, modify, or enforce a
+
+child support obligation of the spouse. The married person
+does not have a privilege under this subdivision to refuse to
+provide information relating to the issues of income, expenses, assets, debts, and employment of either spouse, but
+may assert the privilege as otherwise provided in this article if
+other information is requested by the former spouse, guard-
+
+Research References
+
+ian, or other parent of the child.
+
+Forms
+1 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 4:14,
+
+Any person demanding the otherwise privileged information made available by this subdivision, who also has an
+obligation to support the child for whom an order to estabish!
+, modify, or enforce child support is sought, waives his or her
+marital privilege to the same extent as the spouse as provided
+
+Domestic
+
+Violence and Restraining Orders.
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 10-F, Discovery Issues.
+
+§ 972.
+
+relationship
+
+proceeding brought against a spouse by the guardian of a
+
+in this subdivision. (Stats.1965, c. 299, § 2, operative Jan. 1,
+1967. Amended by Stats.1975, c. 71, p. 132, § 2; Stats.1982, c.
+
+Exceptions to privilege
+
+256, p. 833, § 1; Stats.1983, c. 244, § 1; Stats.1986, c. 769,
+§ 1, eff. Sept. 15, 1986; Stats.1989, c. 1359, § 9.7.)
+
+A married person does not have a privilege under this
+article in:
+
+1 So in enrolled bill.
+
+(a) A proceeding brought by or on behalf of one spouse
+against the other spouse.
+
+Law Revision Commission
+
+Comments
+
+The exceptions to the privileges under this article are similar to
+those contained in Code of Civil Procedure Section 1881(1) and
+Penal Code Section 1322, both of which are superseded by the
+Evidence Code. However, the exceptions in this section have been
+drafted so that they are consistent with those provided in Article 5
+
+(b) A proceeding to commit or otherwise place his or her
+spouse or his or her spouse’s property, or both, under the
+control of another because of the spouse’s alleged mental or
+physical condition.
+
+957
+
+§ 972
+
+EVIDENCE
+
+§ 980. Confidential spousal communication privilege
+Subject to Section 912 and except as otherwise provided in
+
+(commencing with Section 980) of this chapter (the privilege for
+confidential marital communications).
+A discussion of comparable exceptions may be found in the
+Comments to the sections in Article 5 of this chapter. [7 Cal.L.Rev.
+Comm. Reports 1 (1965)].
+
+this article, a spouse (or his or her guardian or conservator
+when he or she has a guardian or conservator), whether or
+not a party, has a privilege during the marital or domestic
+partnership relationship and afterwards to refuse to disclose,
+and to prevent another from disclosing, a communication if
+he or she claims the privilege and the communication was
+made in confidence between him or her and the other spouse
+while they were spouses. (Stats.1965, c. 299, § 2, operative
+Jan. 1, 1967. Amended by Stats.2016, c. 86 (S.B.1171), § 125,
+
+Commentary
+
+Jurcoane v. Superior Court, 93 Cal.App.4th 886, 113 Cal.Rptr.2d 483
+(2001), holds that a magistrate erred in denying wife’s assertion of
+the marital privilege on the ground that the spouses no longer had a
+viable marital relationship. Jurcoane reasons that there is no statutory
+basis for such an exception to the marital privilege
+Interpreting subsection (e)(2), People v. Sinohui, 28 Cal.4th 205, 47
+P.3d 629, 120 Cal.Rptr.2d 783 (2002), holds that a court may compel
+spousal testimony even though no accusatory pleading charges a
+defendant with a crime against a spouse so long as the defendant
+commits a crime against a third party in the course of committing a
+crime against a spouse and the two crimes are part of a continuous
+course of criminal conduct and are logically related to each other.
+For purposes of subsection (e)(1), a foster child is a “child.” Dunn
+v. Superior Court, 21 Cal.App.4th 721, 26 Cal.Rptr.2d 365 (1993),
+review denied 3/30/94.
+
+eff. Jan. 1, 2017; Stats.2016, c. 50 (S.B.1005), § 34, eff: Jan. 1,
+
+2017.)
+Law Revision Commission
+
+Research References
+
+11th
+
+Juvenile
+
+Court
+
+Law
+
+§ 309
+
+11th
+
+Juvenile
+
+Court
+
+Law
+
+§ 745
+
+(2018), Privileges.
+
+§ 973.
+
+Waiver of privilege
+
+claim the privilege for him; the privilege, if it is to be claimed at all,
+
+(a) Unless erroneously compelled to do so, a married
+person who testifies in a proceeding to which his spouse is a
+party, or who testifies against his spouse in any proceeding,
+does not have a privilege under this article in the proceeding
+in which such testimony is given.
+
+can be claimed only by or on behalf of the surviving spouse.
+Termination of marriage.
+The privilege may be claimed as to
+confidential communications made during a marriage even though
+the marriage has been terminated at the time the privilege is claimed.
+This states existing law. Code Civ.Proc. § 1881(1) (superseded by
+the Evidence Code); People v. Mullings, 83 Cal. 138, 23 Pac. 229
+(1890). Free and open communication between spouses would be
+unduly inhibited if one of the spouses could be compelled to testify as
+to the nature of such communications after the termination of the
+marriage.
+Eavesdroppers. The privilege may be asserted to prevent testimony
+by anyone, including eavesdroppers.
+To a limited extent, this
+constitutes a change in California law.
+See the Comment to
+Evidence Code § 954. See generally People v. Peak, 66 Cal.App.2d
+
+(b) There is no privilege under this article in a civil
+proceeding brought or defended by a married person for the
+immediate benefit of his spouse or of himself and his spouse.
+(Stats. 1965, c. 299, § 2, operative Jan. 1, 1967.)
+Research References
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 10-F, Discovery Issues.
+California Practice Guide: Employment Litigation Ch. 19-F, Discov-
+
+894, 153 P.2d 464 (1944); People v. Morhar, 78 Cal.App. 380, 248
+Pac. 975 (1926); People v. Mitchell, 61 Cal.App. 569, 215 Pac. 117
+(1923). Section 980 also changes the existing law which permits a
+third party, to whom one of the spouses had revealed a confidential
+communication, to testify concerning it. People v. Swaile, 12
+Cal.App. 192, 195-196, 107 Pac. 134, 137 (1909); People v. Chadwick, 4 Cal.App. 63, 72, 87 Pac. 384, 387, 388 (1906). See also
+
+ely.
+Rutter, California
+Evidence.
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch.
+
+Comments
+
+Section 980 is the basic statement of the privilege for confidential
+marital communications. Exceptions to this privilege are stated in
+Sections 981-987.
+Who can claim the privilege. Under Section 980, both spouses are
+the holders of the privilege and either spouse may claim it. Under
+existing law, the privilege may belong only to the nontestifying spouse
+inasmuch as Code of Civil Procedure Section 1881(1), superseded by
+the Evidence Code, provides: “[NJor can either . . . be, without the
+consent of the other, examined as to any communication made by one
+to the other during the marriage.” (Emphasis added.) It is likely,
+however, that Section 1881(1) would be construed to grant the
+privilege to both spouses. See In re De Neef, 42 Cal.App.2d 691, 109
+P.2d 741 (1941). But see People v. Keller, 165 Cal.App.2d 419, 423424, 332 P.2d 174, 176 (1958) (dictum).
+A guardian of an incompetent spouse may claim the privilege on
+behalf of that spouse. However, when a spouse is dead, no one can
+
+Treatises and Practice Aids
+16 Witkin, California Summary
+(2018), In General.
+16 Witkin, California Summary
+
+CODE
+
+9-A,
+
+ARTICLE 5. PRIVILEGE FOR CONFIDENTIAL
+MARITAL COMMUNICATIONS
+
+Wolfle v. United States, 291 U.S. 7 (1934).
+
+Section
+980. Confidential spousal communication privilege.
+981. Exception: Crime or fraud.
+982. Commitment or similar proceedings.
+983. Competency proceedings.
+984. Proceeding between spouses.
+985. Criminal proceedings.
+986. Juvenile court proceedings.
+987. Communication offered by spouse who is criminal
+
+(1965)].
+
+Under Section 912, such
+
+conduct would constitute a waiver of the privilege only as to the
+spouse who makes the disclosure. [7 Cal.L.Rev.Comm. Reports 1
+Commentary
+
+Riverside County Sheriff's Dept. v. Zigman, 169 Cal.App.4th 763, 87
+Cal. Rptr.3d 358 (2008), review denied, held that the marital communi-
+
+cation privilege does not apply in the administrative investigations
+and proceedings of a law enforcement agency.
+See generally People v. Badgett, 10 Cal.4th 330, 895 P.2d 877, 41
+
+Cal. Rptr.2d 635 (1995) (evidence supported trial court determination
+that defendant and witness had not contracted a valid Texas common
+
+defendant.
+
+958
+
+§ 985
+
+PRIVILEGES
+law marriage and thus the defendant could not assert the privilege for
+confidential marriage communications in order to bar the testimony
+of witness).
+United States v. Fomichev, 899 F.3d 766 (9th Cir. 2018), held that
+the sham marriage exception applied by federal courts to the federal
+spousal testimonial privilege does not apply to the federal marital
+communication privilege. In Fomichev the protected communication
+was an instruction not to admit that the marriage was contracted for
+the purpose of obtaining immigration benefits.
+
+§ 982.
+
+There is no privilege under this article in a proceeding to
+commit either spouse or otherwise place him or his property,
+or both, under the control of another because of his alleged
+mental
+
+Forms--Family
+
+Law
+
+§ 4:14,
+
+Domestic
+
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 19-F, Discovery.
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+California
+
+Practice
+
+Evidence.
+11 Witkin, California
+
+Guide:
+
+Summary
+
+Administrative
+
+10th Husband
+
+Law
+
+§ 983.
+
+Ch. 9-A,
+
+and Wife
+
+c.
+
+299,
+
+§ 2,
+
+Comments
+
+Competency proceedings
+
+There is no privilege under this article in a proceeding
+brought by or on behalf of either spouse to establish his
+
+§ 169
+
+competence.
+
+(2018), Relation Back Theory.
+
+§ 981.
+
+(Stats.1965,
+
+Ch. 7—A,
+
+Agency Prehearing Investigatory Authority and Methods.
+Rutter,
+
+condition.
+
+Law Revision Commission
+
+Violence and Restraining Orders.
+
+Rutter,
+
+physical
+
+Sections 982 and 983 express existing law.
+Code Civ.Proc.
+§ 1881(1) (superseded by the Evidence Code). Commitment and
+competency proceedings are undertaken for the benefit of the subject
+person.
+Frequently, much or all of the evidence bearing on a
+spouse’s competency or lack of competency will consist of communications to the other spouse. It would be undesirable to permit either
+spouse to invoke a privilege to prevent the presentation of this vital
+information inasmuch as these proceedings are of such vital importance both to society and to the spouse who is the subject of the
+proceedings. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Research References
+
+Transactions
+
+or
+
+operative Jan. 1, 1967.)
+
+Forms
+
+1 California
+
+Commitment or similar proceedings
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+Law Revision Commission
+
+Exception: Crime or fraud
+
+See the Comment to Section 982.
+(1965)].
+
+There is no privilege under this article if the communication was made, in whole or in part, to enable or aid anyone to
+commit or plan to commit a crime or a fraud. (Stats. 1965, c.
+
+§ 984.
+
+299, § 2, operative Jan..1, 1967.)
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+Proceeding between spouses
+
+There is no privilege under this article in:
+
+Law Revision Commission Comments
+
+(a) A proceeding brought by or on behalf of one spouse
+against the other spouse.
+
+California recognizes this as an exception to the lawyer-client
+privilege, but it does not appear to have been recognized in the
+California cases dealing with the confidential marital communications privilege. Nonetheless, the exception does not seem so broad
+that it would impair the values that the privilege is intended to
+preserve; in many cases, the evidence which would be admissible
+under this exception will be vital in order to do justice between the
+parties to a lawsuit. This exception would not, of course, infringe on
+
+(b) A proceeding between a surviving spouse and a person
+who claims through the deceased spouse, regardless of
+whether such claim is by testate or intestate succession or by
+inter vivos transaction. (Stats.1965, c. 299, § 2, operative Jan.
+
+the privileges accorded to a married person under Sections 970 and
+971.
+It is important to note that the exception provided by Section 981
+is quite limited. It does not permit disclosure of communications
+that merely reveal a plan to commit a crime or fraud; it permits
+disclosure only of communications made to enable or aid anyone to
+commit or plan to commit a crime or fraud. Thus, unless the
+communication is for the purpose of obtaining assistance in the
+
+The exception to the marital communications privilege for litigation between the spouses states existing. law.
+Code Civ.Proc.
+§ 1881(1) (superseded by the Evidence Code). Section 984 extends
+the principle to cases where one of the spouses is dead and the
+litigation is between his successor and the surviving spouse. See
+generally Estate of Gillett, 73 Cal.App.2d 588, 166 P.2d 870 (1946).
+
+I, 1967.)
+Law Revision Commission
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+commission of the crime or fraud or in furtherance thereof, it is not
+
+§ 985.
+
+made admissible by the exception provided in this section: Cf.
+People v. Pierce, 61 Cal.2d 879, 40 Cal.Rptr. 845, 395 P.2d 893 (1964)
+(husband and wife who conspire only between themselves against
+others cannot claim immunity from prosecution for conspiracy on the
+basis of their marital status).
+[7 Cal.L.Rev.Comm. Reports 1
+(1965)].
+
+Criminal proceedings
+
+There is no privilege under this article: in a criminal
+proceeding in which one spouse is charged with:
+(a) A crime committed at any time against the person or
+property of the other spouse or of a child of either.
+(b) A crime committed at any time against the person or
+property of a third person committed in the course of
+committing a crime against the person or property of the
+other spouse.
+
+Commentary
+
+United States v. Fomichev, 899 F.3d 766 (9th Cir. 2018), held that
+
+the sham marriage exception applied by federal courts to the federal
+spousal testimonial privilege does not apply to the federal marital
+communication privilege. In Fomichev, the protected communication
+was an instruction not to admit that the marriage was contracted for
+the purpose of obtaining immigration benefits. Arguably, under this
+section, the communication would not qualify for the California
+marital communication privilege.
+
+(c) Bigamy.
+(d) A crime defined by Section 270 or 270a of the Penal
+Code.
+(Stats.1965, c. 299, § 2, operative
+Amended by Stats.1975, c. 71, p. 133, $ 3.)
+
+959
+
+Jan.
+
+1, 1967.
+
+§ 985
+
+EVIDENCE
+Law Revision Commission
+
+CODE
+Section
+
+Comments
+
+This exception restates with minor variations an exception that is
+recognized under existing law. Code Civ.Proc. § 1881(1) (superseded by the Evidence Code). Sections 985 and 986 together create an
+exception for all the proceedings mentioned in Section 1322 of the
+Penal Code (superseded by the Evidence Code).
+[7 Cal.L.Rev.
+Comm. Reports 1 (1965)].
+
+994.
+995.
+996.
+997.
+998.
+999.
+
+Commentary
+
+1000.
+1001.
+
+For discussion of the Rule 501 marital communication privilege of
+the Federal Rules of Evidence, see United States v. Murphy, 65 F.3d
+
+1002.
+
+758 (9th Cir. 1995) (holding that the federal privilege does not apply
+when the communication was made while the spouses were separated
+and their differences were irreconcilable).
+
+§ 986.
+
+1003.
+1004.
+1005.
+1006.
+1007.
+
+Juvenile court proceedings
+
+There is no privilege under this article in a proceeding
+under the Juvenile Court Law, Chapter 2 (commencing with
+Section 200) of Part 1 of Division 2 of the Welfare and
+Institutions Code.
+
+§ 990.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1,
+
+Law Revision Commission
+
+Physician
+
+As used in this article, “physician” means a person
+authorized, or reasonably believed by the patient to be
+authorized, to practice medicine in any state or nation.
+
+1967. Amended by Stats.1982, c. 256, p. 833, § 2.)
+See the Comment to Section 985.
+
+Physician-patient privilege.
+When physician required to claim privilege.
+Patient-litigant exception.
+Exception: crime or tort.
+Criminal proceeding.
+Communication relating to patient condition in proceeding to recover damages; good cause.
+Parties claiming through deceased patient.
+Breach of duty arising out of physician-patient relationship.
+:
+Intention of deceased patient concerning writing affecting property interest.
+Validity of writing affecting property interest.
+Commitment or similar proceeding.
+Proceeding to establish competence.
+Required report.
+Proceeding to terminate right, license or privilege.
+
+Comments
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+(1965)].
+Law Revision Commission
+
+Research References
+Treatises and Practice Aids
+
+16 Witkin,
+
+California
+
+Summary
+
+11th
+
+Juvenile
+
+Court
+
+Law
+
+§ 309
+
+Summary
+
+11th Juvenile
+
+Court
+
+Law
+
+§ 745
+
+(2018), In General.
+16 Witkin,
+
+California
+
+(2018), Privileges.
+
+§ 987. Communication
+defendant
+
+also should be applicable to communications made to a physician
+authorized to practice in any state or nation. When a California
+resident travels outside the State and has occasion to visit a physician
+during such travel, or when a physician from another state or nation
+participates in the treatment of a person in California, the patient
+should be entitled to assume that his communications will be given as
+much protection as they would be if he consulted a California
+physician in California. A patient should not be forced to inquire
+about the jurisdictions where the physician is authorized to practice
+medicine and whether such jurisdictions recognize the physicianpatient privilege before he may safely communicate with the physician. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+offered by spouse who is criminal
+
+There is no privilege under this article in a criminal
+proceeding in which the communication is offered in evidence by a defendant who is one of the spouses between
+whom the communication was made.
+operative Jan. 1, 1967.)
+
+(Stats.1965, c. 299, § 2,
+
+Law Revision Commission Comments
+
+This exception does not appear to have been recognized in any
+California case. Nonetheless, it is a desirable exception. When a
+married person is the defendant in a criminal proceeding and seeks
+to introduce evidence which is material to his defense, his spouse (or
+his former spouse) should not be privileged to withhold the
+information. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Research References
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+Research References
+
+Rutter,
+
+Treatises and Practice Aids
+
+California
+
+Rutter,
+
+Rutter,
+
+Rutter, California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 7—A,
+
+Guide:
+
+Administrative
+
+Law
+
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9—A,
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 29-F,
+
+Evidence.
+
+Ch. 9-A,
+
+Evidence.
+
+ARTICLE 6.
+
+Practice
+
+Agency Prehearing Investigatory Authority and Methods.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+California
+
+Comments
+
+Defining “physician” to include a person “reasonably believed by
+the patient to be authorized” to practice medicine changes the
+existing law which requires that the physician be licensed. See Code
+Civ.Proc. § 1881(4) (superseded by the Evidence Code). But, if this
+privilege is to be recognized, it should protect the patient from
+reasonable mistakes as to unlicensed practitioners. The privilege
+
+Exemptions from Right of Inspection and Copying.
+§ 991.
+
+PHYSICIAN-PATIENT PRIVILEGE
+
+Patient
+
+As used in this article, “patient” means a person who
+consults a physician or submits to an examination by a
+physician for the purpose of securing a diagnosis or preventive, palliative, or curative treatment of his physical or mental
+
+Section
+990. Physician.
+991. Patient.
+992. Confidential communication between patient and physician.
+993. Holder of the privilege.
+
+or emotional
+Jan. 1, 1967.)
+
+960
+
+condition.
+
+(Stats.1965,
+
+c. 299, § 2, operative
+
+§ 995
+
+PRIVILEGES
+decedent may have had in secrecy.
+
+Research References
+
+Treatises and Practice Aids
+
+(1965)].
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 994.
+
+§ 992.
+
+Confidential
+
+communication
+
+between
+
+patient
+
+and
+
+As used in this article, “confidential communication
+
+be-
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+Physician-patient privilege
+
+Subject to Section 912 and except as otherwise provided in
+this article, the patient, whether or not a party, has a privilege
+to refuse to disclose, and to prevent another from disclosing,
+a confidential communication between patient and physician
+if the privilege is claimed by:
+(a) The holder of the privilege;
+(b) A person who is authorized to claim the privilege by
+the holder of the privilege; or
+(c) The person who was the physician at the time of the
+confidential communication, but such person may not claim
+the privilege if there is no holder of the privilege in existence
+or if he or she is otherwise instructed by a person authorized
+to permit disclosure.
+The relationship of a physician and patient shall exist
+between a medical or podiatry corporation as defined in the
+Medical Practice Act and the patient to whom it renders
+professional services, as well as between such patients and
+licensed physicians and surgeons employed by such corporation to render services to such patients. The word “persons”
+as used in this subdivision includes partnerships, corpora-
+
+physician
+
+tween patient and physician” means information, including
+information obtained by an examination of the patient,
+transmitted between a patient and his physician in the course
+of that relationship and in confidence by a means which, so
+far as the patient is aware, discloses the information to no
+third persons other than those who are present to further the
+interest of the patient in the consultation or those to whom
+disclosure is reasonably necessary for the transmission of the
+information or the accomplishment of the purpose for which
+the physician is consulted, and includes a diagnosis made and
+the advice given by the physician in the course of that
+relationship. (Stats.1965, c. 299, § 2, operative Jan. 1, 1967.
+Amended by Stats.1967, c. 650, p. 2006, § 4.)
+Law Revision Commission Comments
+
+1967 Amendment
+
+The express inclusion of “a diagnosis” in the last clause will
+preclude a possible construction of this section that would leave an
+uncommunicated diagnosis unprotected by the privilege. Such a
+construction would virtually destroy the privilege. [8 Cal.L.Rev.
+Comm. Reports 101 (1967)].
+
+tions, limited liability companies, associations, and other
+groups and entities. (Stats.1965, c. 299, $ 2, operative Jan. 1,
+1967. Amended by Stats.1968, c. 1375, p. 2696, § 3; Stats.
+
+1980, c. 1313, p. 4532, § 12; Stats.1994, c. 1010 (S.B.2053),
+§ 105.)
+
+Research References
+Treatises and Practice Aids
+
+Law Revision Commission Comments
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+This section, like Section 954 (lawyer-client privilege), is based on
+the premise that the privilege must be claimed by a person who is
+authorized to claim the privilege. If there is no claim of privilege by
+a person with authority to make the claim, the evidence is admissible.
+
+§ 993. Holder of the privilege
+As used in this article, “holder of the privilege” means:
+(a) The patient when he has no guardian or conservator.
+(b) A guardian or conservator of the patient when the
+patient has a guardian or conservator.
+(c) The personal representative of the patient if the
+patient is dead.
+(Stats.1965, c. 299, $ 2, operative Jan. 1,
+
+See the Comments to Evidence Code §§ 993 and 954.
+For the reasons indicated in the Comment to Section
+
+954, an
+
+eavesdropper or other interceptor of a communication. privileged
+under this section is not permitted to testify to the communication.
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+Commentary
+
+1967.)
+
+A sperm donor may not invoke this privilege in order to avoid
+discovery about his dealings with the sperm bank to which he sold
+sperm, because the sperm donor is not a patient of the sperm bank.
+Johnson v. Superior Court, 80 Cal.App.4th 1050, 95 Cal.Rptr.2d 864
+(2000). For further discussion of Johnson, see Family Code § 7613,
+Commentary.
+
+Law Revision Commission Comments
+
+A guardian of the patient is the holder of the privilege if the
+patient has a guardian. If the patient has separate guardians of his
+estate and of his person, either guardian may claim the privilege.
+The provision making the personal representative of the patient the
+holder of the privilege when the patient is dead may change
+California law. The existing law may be that the privilege survives
+the death of the patient in some cases and that no one can waive it on
+behalf of the patient. See the discussion in Tentative Recommendation and a Study Relating to the Uniform Rules of Evidence (Article
+V. Privileges), 6 Cal.Law Revision Comm’n, Rep., Rec. & Studies
+201, 408-410 (1964). Sections 993 and 994 enable the personal
+representative to protect the interest of the patient’s estate in the
+confidentiality of these statements and to waive the privilege when
+the estate would benefit by waiver. When the patient’s estate has no
+interest in preserving confidentiality, or when the estate has been
+distributed and the representative discharged, the importance of
+providing complete access to information relevant to a particular
+proceeding should prevail over whatever remaining interest the
+
+§ 995.
+
+When physician required to claim privilege
+
+The physician who received or made a communication
+subject to the privilege under this article shall claim the
+privilege whenever he is present when the communication is
+sought to be disclosed and is authorized to claim the privilege
+under subdivision (c) of Section 994.
+operative Jan. 1, 1967.)
+
+(Stats.1965, c. 299, § 2,
+
+Law Revision Commission Comments
+
+The obligation of the physician to claim the privilege on behalf of
+the patient, unless otherwise instructed by a person authorized to
+permit disclosure, is consistent with Section 2379 of the Business and
+Professions Code. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+961
+
+§ 996
+§ 996.
+
+EVIDENCE
+
+petition alleging the child was sexually abused by a parent. Karen P. v.
+Superior Court, 200 Cal.App.4th 908, 133 Cal.Rptr.3d 67 (2011).
+
+Patient-litigant exception
+
+There is no privilege under this article as to a communication relevant to an issue concerning the condition of the
+patient if such issue has been tendered by:
+(a) The patient;
+(b) Any party claiming through or under the patient;
+(c) Any party claiming as a beneficiary of the patient
+through a contract to which the patient is or was a party; or
+(d) The plaintiff in an action brought under Section 376 or
+377 of the Code of Civil Procedure for damages for the injury
+or death of the patient. (Stats.1965, c. 299, § 2, operative Jan.
+1, 1967.)
+Law Revision Commission
+
+Research References
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 997.
+
+a tort.
+
+§§ 4055,
+
+5701,
+
+5703,
+
+6407,
+
+6408
+
+in California has not been determined in any decided case, but it
+probably would be recognized in an appropriate case in view of the
+similar court-created exception to the lawyer-client privilege. See
+the
+
+Comment
+
+to
+
+Evidence
+
+Reports 1 (1965)].
+
+San Francisco v. Superior Court, 37 Cal.2d 227, 232, 231 P.2d 26, 28
+
+Treatises and Practice Aids
+
+§ 956.
+
+[7 Cal.L.Rev.Comm.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 998.
+
+There
+
+Criminal proceeding
+
+is no privilege under
+
+proceeding.
+
+this article in a criminal
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+§ 999. Communication relating to patient condition
+proceeding to recover damages; good cause
+
+in
+
+There is no privilege under this article as to a communication relevant to an issue concerning the condition of the
+patient in a proceeding to recover damages on account of the
+conduct of the patient if good cause for disclosure of the
+communication is shown.
+(Stats.1965, c. 299, § 2, operative
+Jan. 1, 1967. Amended by Stats.1975, c. 318, p. 764, § 1.)
+
+Commentary
+
+Research References
+
+Invoking this section, In re R.R, 187 Cal.App.4th 1264, 114
+Cal. Rptr.3d 765 (2010), holds that in a child dependency proceeding,
+a parent who claims to have been drug-free for six years himself
+tenders the issue of past drug use and thus forfeits the patientphysician privilege as to past drug use.
+By disclosing sexual abuse by a parent to authorities or by
+submitting to a forensic medical examination, a child does not tender
+of subsection
+
+Code
+
+Research References
+
+(1951) (personal injury case).
+Section 996 also provides that there is no privilege in an action
+brought under Section 377 of the Code of Civil Procedure (wrongful
+death). Under Code of Civil Procedure Section 1881(4) (superseded
+by the Evidence Code), a person authorized to bring the wrongful
+death action may consent to the testimony by the physician. As far
+as testimony by the physician is concerned, there is no reason why the
+rules of evidence should be different in a case where the patient
+brings the action and a case where someone else sues for the patient’s
+wrongful death.
+Section 996 also provides that there is no privilege in an action
+brought under Section 376 of the Code of Civil Procedure (parent’s
+action for injury to child). In this case, as in a case under the
+wrongful death statute, the same rule of evidence should apply when
+the parent brings the action as applies when the child is the plaintiff.
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+the meaning
+
+Comments
+
+mined to be a tort, and there is no desirable end to be served by
+
+In re Cathey, 55 Cal.2d 679, 690-692, 12 Cal.Rptr. 762,
+
+condition, within
+
+1, 1967.)
+
+encouraging such communications. On the other hand, people often
+consult lawyers about matters which may later turn out to be torts
+and it is desirable to encourage discussion of such matters with
+lawyers. Whether the exception provided by Section 997 now exists
+
+(proceedings
+
+768, 361 P.2d 426, 432 (1961) (prisoner in state medical facility
+waived physician-patient privilege by putting his mental condition in
+issue by application for habeas corpus); see also City & County of
+
+her medical
+
+§ 2, operative Jan.
+
+Law Revision Commission
+
+before the Industrial Accident Commission). The exception provided by Section 996 applies not only to proceedings before the
+Industrial Accident Commission but also to any other proceeding
+where the patient tenders the issue of his condition. The exception
+in Section 996 also states existing law in applying the exception to
+other situations where the patient himself has raised the issue of his
+condition.
+
+c. 299,
+
+This section is considerably broader in scope than Section 956
+which provides that the lawyer-client privilege does not apply when
+the communication was made to enable anyone to commit or plan to
+commit a crime or a fraud. Section 997 creates an exception to the
+physician-patient privilege where the services of the physician were
+sought or obtained to enable or aid anyone to commit or plan to
+commit a crime or a fort, or to escape detection or apprehension after
+commission of a crime or a fort. People seldom, if ever, consult their
+physicians in regard to matters which might subsequently be deter-
+
+relevant evidence from the opposing party by the exercise of the
+physician-patient privilege.
+A limited form of this exception is recognized by Code of Civil
+Procedure Section 1881(4) (superseded by the Evidence Code) which
+makes the privilege inapplicable in personal injury actions. This
+exception is also recognized in various types of administrative
+proceedings where the patient tenders the issue of his condition.
+Code
+
+(Stats.1965,
+
+Comments
+
+tenders the issue of his condition, he should not be able to withhold
+
+Labor
+
+Exception: crime or tort
+
+There is no privilege under this article if the services of the
+physician were sought or obtained to enable or aid anyone to
+commit or plan to commit a crime or.a tort or to escape
+detection or apprehension after the commission of a crime or
+
+Section 996 provides that the physician-patient privilege does not
+exist in any proceeding in which an issue concerning the condition of
+the patient has been tendered by the patient. If the patient himself
+
+E.g.,
+
+CODE
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 1000.
+
+Parties claiming through deceased patient
+
+There is no privilege under this article as to a communication relevant to an issue between parties all of whom claim
+through a deceased patient, regardless of whether the claims
+
+(a), in
+
+dependency litigation. Nor did a social services agency become a
+party within the meaning of subsection (b) when it filed a dependency
+
+962
+
+PRIVILEGES
+are
+
+by testate
+
+transaction.
+
+or intestate
+
+succession
+
+or by inter vivos
+
+law.
+
+Law Revision Commission Comments
+
+See the Comment to Section 957.
+(1965)].
+
+§ 1001. Breach
+relationship
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+(Stats.1965,
+
+c.
+
+299,
+
+§ 2, operative
+
+Proceeding to establish competence
+There is no privilege under this article in a proceeding
+brought by or on behalf of the patient to establish his
+competence.
+
+Jan.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+Law Revision Commission Comments
+
+This exception is new to California law. When a patient has
+placed his mental condition in issue by instituting a proceeding to
+establish his competence, he should not be permitted to withhold the
+most vital evidence relating thereto. [7 Cal.L.Rev.Comm. Reports 1
+(1965)].
+
+1, 1967.)
+
+Law Revision Commission Comments
+
+See the Comment to Section 658.
+(1965)].
+
+v. Keyes, 188 Cal. 574, 584, 206 Pac. 454, 458
+
+§ 1005.
+
+of duty arising out of physician-patient
+
+There is no privilege under this article as to a communication relevant to an issue of breach, by the physician or by the
+patient, of a duty arising out of the physician-patient relationship.
+
+McClenahan
+
+(1922) (dictum). But see 35 Ops.Cal.Atty.Gen. 226 (1960), regarding
+the unavailability of the present physician-patient privilege where the
+physician acts pursuant to court appointment for the explicit purpose
+of giving testimony. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+Research References
+
+Research References
+
+Treatises and Practice Aids
+
+Treatises and Practice Aids
+
+Rutter
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+Group
+
+Practice
+
+Guide:
+
+Elder Abuse
+
+Litigation
+
+Form
+
+9,
+
+Motion in Limine to Exclude Evidence and Preclude Reference
+to Department of Health Services Records, Including Service
+
+Records,
+
+§ 1002. Intention of deceased patient concerning writing
+affecting property interest
+
+Surveys,
+
+Investigations,
+
+Deficiencies
+
+and
+
+Citations.
+
+§ 1006.
+
+other writing, executed by the patient, purporting to affect an
+
+Required report
+There is no privilege under this article as to information
+that the physician or the patient is required to report to a
+public employee, or as to information required to be recorded ina public office, if such report or‘record is open to public
+
+interest in property.
+
+inspection.
+
+There is no privilege under this article as to a communication relevant to an issue concerning the intention of a patient,
+now deceased, with respect to a deed of conveyance, will, or
+(Stats.1965, c. 299, § 2, operative Jan. 1,
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+1967.)
+
+Law Revision Commission Comments
+Law Revision Commission Comments
+
+This exception is not recognized by existing law. However, no
+valid purpose is served by preventing the use of relevant information
+when the law requiring the information to be reported to a public
+office does not restrict disclosure. [7 Cal.L.Rev.Comm. Reports 1
+
+Existing law provides exceptions virtually coextensive with those
+provided in Sections 1002 and 1003. Code Civ.Proc. § 1881(4)
+(superseded by the Evidence Code). See the Comment to Section
+960. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+§ 1003.
+
+(1965)].
+§ 1007.
+
+Validity of writing affecting property interest
+
+Proceeding to terminate right, license or privilege
+
+There is no privilege under this article as to a communication relevant to an issue concerning the validity of a deed of
+conveyance, will, or other writing, executed by a patient, now
+deceased, purporting to affect an interest in property. (Stats.
+
+There is no privilege under this article in a proceeding
+brought by a public entity to determine whether a right,
+authority, license, or privilege (including the right or privilege
+to be employed by the public entity or to hold a public office)
+
+1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+should be revoked, suspended, terminated, limited, or conditioned.
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+Law Revision Commission Comments
+
+See the Comment to Section 1002.
+1 (1965)].
+
+§ 1004.
+
+Research References
+
+[7 Cal.L.Rev.Comm. Reports
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California, Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+Commitment or similar proceeding
+
+There is no privilege under this article in a proceeding to
+commit the patient or otherwise place him or his property, or
+both, under the control of another because of his alleged
+mental or physical condition.
+(Stats.1965, c. 299, $ 2,
+operative Jan. 1, 1967.)
+Law Revision Commission
+
+Rutter,
+
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch.
+
+9-A,
+
+Evidence.
+
+ARTICLE 7. PSYCHOTHERAPISTPATIENT PRIVILEGE
+
+Comments
+
+Section
+
+1010.
+1010.5.
+
+This exception covers not only commitments of mentally ill persons
+but also such cases as the appointment of a conservator under
+Probate Code Section 1751. In these cases, the proceedings are
+being conducted for the benefit of the patient and he should not have
+a privilege to withhold evidence that the court needs in order to act
+properly for his welfare. . There is no similar exception in existing
+
+1011.
+1012.
+
+963
+
+Psychotherapist.
+Privileged communication between patient and educational psychologist.
+— Patient.
+Confidential communication between patient and
+psychotherapist.
+
+EVIDENCE
+Section
+1013.
+1014.
+1015.
+1016.
+1017.
+1018.
+
+1019.
+
+(i) A psychological intern as defined in Section 2911 of the
+Business and Professions Code who is under the supervision
+of a licensed psychologist or board certified psychiatrist.
+(j) A trainee, as defined in subdivision (c) of Section
+
+Holder of the privilege.
+Psychotherapist-patient privilege; application to individuals and entities.
+. When psychotherapist required to claim privilege.
+Exception: Patient-litigant exception.
+| Exception: Psychotherapist appointed by court or
+board of prison terms.
+| Exception: Crime or tort.
+Exception: Parties claiming through deceased pa-
+
+4980.03
+
+1021.
+1022.
+1023.
+
+1024.
+1025.
+1026.
+1027.
+
+§ 1010.
+
+of the
+
+Business
+
+and
+
+Professions
+
+Code,
+
+who
+
+is
+
+fulfilling his or her supervised practicum required by subparagraph (B) of paragraph (1) of subdivision (d) of Section
+4980.36 of, or subdivision (c) of Section 4980.37 of, the
+Business and Professions Code and is supervised by a licensed
+psychologist, a board certified psychiatrist, a licensed clinical
+social worker, a licensed marriage and family therapist, or a
+licensed professional clinical counselor.
+(k) A person licensed as a registered nurse pursuant to
+Chapter 6 (commencing with Section 2700) of Division 2 of
+the Business and Professions Code, who possesses a master’s
+degree in psychiatric-mental health nursing and is listed as a
+psychiatric-mental health nurse by the Board of Registered
+Nursing.
+(1) An advanced practice registered nurse who is certified
+as a clinical nurse specialist pursuant to Article 9 (commencing with Section 2838) of Chapter 6 of Division 2 of the
+Business and Professions Code and who participates in expert
+clinical practice in the specialty of psychiatric-mental health
+nursing.
+(m) A person rendering mental health treatment or counseling services as authorized pursuant to Section 6924 of the
+Family Code.
+(n) A person licensed as a professional clinical counselor
+under Chapter 16 (commencing with Section 4999.10) of
+Division 2 of the Business and Professions Code.
+(o) A person registered as an associate professional clinical counselor who is under the supervision of a licensed
+professional clinical counselor, a licensed marriage and family
+therapist, a licensed clinical social worker, a licensed psychologist, or a licensed physician and surgeon certified in
+psychiatry, as specified in Sections 4999.42 to 4999.48,
+
+tient.
+
+1020.
+
+CODE
+
+| Exception: Breach of duty arising out of psychotherapist-patient relationship.
+Exception: Intention of deceased patient concerning
+writing affecting property interest.
+Exception: Validity of writing affecting property
+interest.
+| Exception: Proceeding to determine sanity of criminal defendant.
+Exception: Patient dangerous to himself or others.
+| Exception: Proceeding to establish competence.
+| Exception: Required report.
+Exception: Child under 16 victim of crime.
+
+Psychotherapist
+
+As used in this article, “psychotherapist” means a person
+who is, or is reasonably believed by the patient to be:
+(a) A person authorized to practice medicine in any state
+or nation who devotes, or is reasonably believed by the
+patient to devote, a substantial portion of his or her time to
+the practice of psychiatry.
+
+(b) A person licensed as a psychologist under Chapter 6.6
+(commencing with Section 2900) of Division 2 of the Business
+and Professions Code.
+(c) A person licensed as a clinical social worker under
+Chapter 14 (commencing with Section 4991) of Division 2 of
+the Business and Professions Code, when he or she is
+engaged in applied psychotherapy of a nonmedical nature.
+
+inclusive, of the Business and Professions Code.
+
+(d) A person who is serving as a school psychologist and
+holds a credential authorizing that service issued by the state.
+
+(p) A clinical counselor trainee, as defined in subdivision
+(g) of Section 4999.12 of the Business and Professions Code,
+who is fulfilling his or her supervised practicum required by
+paragraph (3) of subdivision (c) of Section 4999.32 of, or
+paragraph (3) of subdivision (c) of Section 4999.33 of, the
+Business and Professions Code, and is supervised by a
+licensed psychologist, a board-certified psychiatrist, a licensed
+clinical social worker, a licensed marriage and family therapist, or a licensed professional clinical counselor.
+(Stats.
+
+(e) A person licensed as a marriage and family therapist
+under Chapter 13 (commencing with Section 4980) of Division 2 of the Business and Professions Code.
+(f) A person registered as a psychological assistant who is
+under the supervision of a licensed psychologist or board
+certified psychiatrist as required by Section 2913 of the
+Business and Professions Code, or a person registered as an
+associate marriage and family therapist who is under the
+supervision of a licensed marriage and family therapist, a
+licensed clinical social worker, a licensed professional clinical
+counselor, a licensed psychologist, or a licensed physician and
+surgeon certified in psychiatry, as specified in Section 4980.44
+of the Business and Professions Code.
+
+1965,
+
+c. 299,
+
+§ 2, operative
+
+Jan.
+
+1, 1967.
+
+Amended
+
+by
+
+Stats.1967, c. 1677, p. 4211, § 3; Stats.1970, c. 1396, p. 2624,
+§ 1.5; Stats.1970, c. 1397, p. 2626, § 1.5; Stats.1972, c. 888, p.
+1584, § 1; Stats.1974, c. 546, p. 1359, § 16; Stats.1983, c. 928,
+§ 8; Stats.1987, c. 724, § 1; Stats.1988, c. 488, § 1; Stats.
+
+1989, c. 1104, § 37; Stats.1990, c. 662 (A.B.3613), § 1;
+Stats.1992, c. 308 (A.B.3035), § 2; Stats.1994, c. 1270 (A.B.
+2659), § 1; Stats.2001, c. 142 (S.B.716), § 1; Stats.2001, c.
+420 (A.B.1253), § 1, eff: Oct. 2, 2001; Stats.2001, c.. 420
+
+(g) A person registered as an associate clinical social
+worker who is under supervision as specified in Section
+4996.23 of the Business and Professions Code.
+
+(A.B.1253),
+
+§ 1.5, eff. Oct. 2, 2001, operative Jan. 1, 2002;
+
+Stats.2009, c. 26 (S.B.33), § 21; Stats.2011, c. 381 (S.B.146),
+§ 21; Stats.2015, c. 529 (A.B.1374), § 4, eff. Jan. 1, 2016;
+Stats.2016, c. 86 (S.B.1171), § 126, eff: Jan. 1, 2017; Stats.
+
+(h) A person registered with the Board of Psychology as a
+registered. psychologist who is under the supervision of a
+licensed psychologist or board certified psychiatrist.
+
+964
+
+§ 1013
+
+PRIVILEGES
+
+2017, c. 573 (S.B.800), § 75, eff, Jan. 1, 2018; Stats.2018, c.
+389 (A.B.2296), § 10, eff Jan. 1, 2019.)
+
+patient, transmitted between a patient and his psychotherapist in the course of that relationship and in confidence by a
+means
+
+Law Revision Commission Comments
+
+A “psychotherapist” is defined to include only a person who is or
+who is reasonably believed to be a psychiatrist or who is a California
+certified psychologist (see Bus. & Prof.Code § 2900 et seq.). See the
+Comment to Section 990, [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+Research References
+Forms
+
+1965,
+
+1 California Transactions Forms--Family Law § 3:16, Identifying
+Areas of Parental Decision Making and Participation.
+Treatises and Practice Aids
+
+Practice
+
+Administrative
+
+Law
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+between
+
+Jan.
+
+1, 1967.
+
+Amended
+
+by
+
+Comments
+
+1965 Enactment
+
+See the Comment to Section 992.
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+(1965)].
+
+Ch. 7-A,
+
+1967 Amendment
+
+The express inclusion of “a diagnosis” in the last clause will
+preclude a possible construction of this section that would leave an
+uncommunicated diagnosis unprotected by the privilege. Such a
+construction would virtually destroy the privilege. [8 Cal.L.Rev.
+Comm. Reports 101 (1967)].
+
+Ch. 9-A,
+
+Evidence.
+1 Witkin, California Summary 10th Contracts § 45 (2018), Minor
+Needing Mental Health Treatment.
+
+§ 1010.5. Privileged communication
+educational psychologist
+
+§ 2, operative
+
+Law Revision Commission
+
+Agency Prehearing Investigatory Authority and Methods.
+Rutter, California
+
+c. 299,
+
+/
+
+Guide:
+
+discloses the
+
+Stats.1967, c. 650, p. 2006, § 5; Stats.1970, c. 1396, p. 2625,
+§ 2; Stats.1970, c. 1397, p. 2627, § 2.)
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+2(I1-I, Negligence Liability Based on Omission to Act-Legal
+Duty Arising from "Special Relationship".
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Rutter, California
+
+which, so far as the patient is aware,
+
+information to no third persons other than those who are
+present to further the interest of the patient in the consultation, or. those to whom disclosure is reasonably necessary for
+the transmission of the information or the accomplishment of
+the purpose for which the psychotherapist is consulted, and
+includes a diagnosis made and the advice given by the
+psychotherapist in the course of that relationship. (Stats.
+
+patient and
+
+1970 Amendment
+
+preventive, palliative, or curative treatment of his mental or
+
+Section 1012 is amended to add “including other patients present
+at joint therapy” in order to foreclose thé possibility that the section
+would be construed not to embrace marriage counseling, family
+counseling, and other forms of group therapy. However, it should be
+noted that communications made in the course of joint therapy are
+within the privilege only if they are made “in confidence” and “by a
+means which ... discloses the information to no third persons other
+than those ... to whom disclosure is reasonably necessary for ... the
+accomplishment of the purpose for which the psychotherapist is
+consulted.” The making of a communication that meets these two
+requirements in the course of joint therapy would not amount to a
+waiver of the privilege. See Evidence Code Section 912(c) and (d).
+The other amendments are technical and conform the language of
+Section 1012 to that of Section 992, the comparable section relating
+to the physician-patient privilege.
+Deletion of the words “or
+examination” makes no substantive change since “consultation” is
+broad enough to cover an examination. See Section 992. Substitution of “for which the psychotherapist is consulted” for “of the
+consultation or examination” adopts the broader language used in
+subdivision (d) of Section 912 and in Section 992. [9 Cal.L.Rev.
+Comm. Reports 153 (1969)].
+
+emotional condition or who submits to an examination of his
+mental or emotional condition for the purpose of scientific
+research on mental or emotional problems. (Stats.1965, c.
+
+Treatises and Practice Aids
+
+299, § 2, operative Jan. 1, 1967.)
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+A communication between a patient and an educational
+psychologist, licensed under Article 5 (commencing with
+Section 4986) of Chapter 13 of Division 2 of the Business and
+Professions Code, shall be privileged to the same extent, and
+
+subject to the same limitations, as a communication between
+a patient and a psychotherapist described in subdivisions (c),
+(d), and (e) of Section 1010. (Added by Stats.1985, c. 545,
+
+§ 1)
+Research References
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+§ 1011.
+
+Patient
+
+As used in this article, “patient” means a person who
+consults a psychotherapist or submits to an examination by a
+psychotherapist for the purpose of securing a diagnosis or
+
+Research References
+
+6-A, Scope of Discovery and Limitations.
+Research References
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 1012. Confidential communication
+psychotherapist
+
+Court Law
+
+§ 310
+
+Court Law
+
+§ 745
+
+16 Witkin,
+
+Court
+
+§ 823
+
+California
+
+Summary
+
+ilth
+
+Juvenile
+
+Law
+
+(2018), Access to Medical and Psychological Records.
+
+between patient and
+
+As used in this article, “confidential communication
+
+16 Witkin, California Summary 11th Juvenile
+(2018), Psychotherapist-Client Privilege.
+16 Witkin, California Summary 11th Juvenile
+(2018), Privileges.
+
+§ 1013.
+be-
+
+Holder of the privilege
+
+As used in this article, “holder of the privilege” means:
+
+tween patient and psychotherapist” means information, including information obtained by an examination of the
+
+(a) The patient when he has no guardian or conservator.
+
+965
+
+§ 1013
+
+EVIDENCE
+
+(b) A guardian or conservator of the patient when
+patient has a guardian or conservator.
+(c) The
+
+personal
+
+patient is dead.
+
+representative
+
+(Stats.1965,
+
+of the patient
+
+Research References
+
+the
+
+Treatises and Practice Aids
+
+7 Witkin, California Summary 10th Constitutional Law § 470 (2018),
+Conservatorship Proceedings.
+16 Witkin, California Summary 11th Juvenile Court Law § 745
+(2018), Privileges.
+10 Witkin, California Summary 10th Parent and Child § 295 (2018),
+Trial.
+
+if the
+
+c. 299, § 2, operative Jan.
+
+1,
+
+1967.)
+Law Revision Commission Comments
+
+See the Comment to Section 993.
+(1965)].
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+§ 1014. Psychotherapist-patient
+individuals and entities
+
+privilege;
+
+application
+
+§ 1015.
+
+to
+
+Law Revision Commission
+
+See the Comment to Section 995.
+
+§ 1016.
+
+Exception: Patient-litigant exception
+There is no privilege under this article as to a communication relevant to an issue concerning the mental or emotional
+condition of the patient if such issue has been tendered by:
+(a) The patient;
+(b) Any party claiming through or under the patient;
+(c) Any party claiming as a beneficiary of the patient
+through a contract to which the patient is or was a party; or
+(d) The plaintiff in an action brought under Section 376 or
+377 of the Code of Civil Procedure for damages for the injury
+
+(b) A person who is authorized to claim the privilege by
+the holder of the privilege.
+(c) The person who was the psychotherapist at the time of
+the confidential communication, but the person may not
+claim the privilege if there is no holder of the privilege in
+existence or if he or she is otherwise instructed by a person
+authorized to permit disclosure.
+The relationship of a psychotherapist and patient shall exist
+between a psychological corporation as defined in Article 9
+(commencing with Section 2995) of Chapter 6.6 of Division 2
+of the Business and Professions Code, a marriage and family
+therapist corporation as defined in Article 6 (commencing
+with Section 4987.5) of Chapter 13 of Division 2 of the
+Professions
+
+Code,
+
+a licensed
+
+clinical
+
+or death of the patient.
+
+Law Revision Commission Comments
+
+social
+
+See the Comment to Section 996.
+(1965)].
+
+services,
+
+as
+
+well
+
+as
+
+between
+
+Research References
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+those
+
+16 Witkin,
+
+patients and psychotherapists employed by those corporations to render services to those patients. The word “persons” as used in this subdivision includes partnerships,
+corporations, limited liability companies, associations, and
+other groups and entities. (Stats.1965, c. 299, § 2, operative
+Jan. 1, 1967.
+
+Commentary
+
+team,
+
+when
+
+her
+
+medical
+
+11th Juvenile
+
+Court
+
+Law
+
+§ 310
+
+(a) There is no privilege under this article if the psychotherapist is appointed by order of a court to examine the
+patient, but this exception does not apply where the psychotherapist is appointed by order of the court upon the request
+of the lawyer for the defendant in a criminal proceeding in
+order to provide the lawyer with information needed so that
+he or she may advise the defendant whether to enter or
+withdraw a plea based on insanity or to present a defense
+based on his or her mental or emotional condition.
+(b) There is no privilege under this article if the psychotherapist is appointed by the Board of Prison Terms to
+examine a patient pursuant to the provisions of Article 4
+(commencing with Section 2960) of Chapter 7 of Title 1 of
+
+Mansell y. Otto, 108 Cal.App.4th 265, 133 Cal.Rptr.2d 276 (2003),
+holds that a crime victim could not state a claim for invasion of her
+right to privacy, under this section or under the constitutional right of
+privacy, for unauthorized reading of her mental health records by
+defense
+
+Summary
+
+§ 1017. Exception: Psychotherapist appointed by court or
+board of prison terms
+
+Amended by Stats.1969, c. 1436, p. 2943, § 1;
+
+of a criminal
+
+California
+
+(2018), Psychotherapist-Client Privilege.
+
+Stats.1972, c. 1286, p. 2569, § 6; Stats.1989, c. 1104, § 38;
+Stats.1990, c. 605 (S.B.2245), § 1; Stats.1994, c. 1010 (S.B.
+2053), § 106; Stats.2002, c: 1013 (S.B.2026), § 78; Stats.2011,
+c. 381 (S.B.146), § 22.)
+
+members
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+Treatises and Practice Aids
+
+with Section 4999.123) of Chapter 16 of Division 2 of the
+Business and Professions Code, and the patient to whom it
+professional
+
+(Stats.1965, c. 299, § 2, operative Jan.
+
+1, 1967.)
+
+workers corporation as defined in Article 5 (commencing
+with Section 4998) of Chapter 14 of Division 2 of the
+Business and Professions Code, or a professional clinical
+counselor corporation as defined in Article 7 (commencing
+
+renders
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+(1965)].
+
+(a) The holder of the privilege.
+
+and
+
+When psychotherapist required to claim privilege
+
+The psychotherapist who received or made a communication subject to the privilege under this article shall claim the
+privilege whenever he is present when the communication is
+sought to be disclosed and is authorized to claim the privilege
+under subdivision (c) of Section 1014. (Stats.1965, c. 299,
+§ 2, operative Jan. 1, 1967.)
+
+Subject to Section 912 and except as otherwise provided in
+this article, the patient, whether or not a party, has a privilege
+to refuse to disclose, and to prevent another from disclosing,
+a confidential communication between patient and psychotherapist if the privilege is claimed by:
+
+Business
+
+CODE
+
+and
+
+psychiatric records were obtained through normal judicial process.
+
+Part 3 of the Penal Code.
+
+966
+
+(Stats.1965, c. 299, § 2, operative
+
+§ 1022
+
+PRIVILEGES
+Jan. 1, 1967. Amended
+Stats. 1987, c. 687, § 1.)
+
+10 Witkin, California Summary 10th Parent and Child § 295 (2018),
+Trial.
+
+by Stats.1967, c. 650, p. 2007, § 6;
+
+Law Revision Commission
+
+§ 1018.
+
+Comments
+
+1965 Enactment
+
+Section 1017 provides an exception to the psychotherapist-patient
+privilege if the psychotherapist is appointed by order of a court to
+examine the patient. Generally, where the relationship of psychotherapist and patient is created by court order, there is not a
+sufficiently confidential relationship to warrant extending the privilege to communications made in the course of that relationship.
+Moreover, when the psychotherapist is appointed by the court, it is
+most often for the purpose of having the psychotherapist testify
+concerning his conclusions as to the patient’s condition. It would be
+inappropriate to have the privilege apply in this situation. See
+generally 35 Ops.Cal.Atty.Gen, 226 (1960), regarding the unavailability of the present physician-patient privilege under these circumstances.
+On the other hand, it is essential that the privilege apply where the
+psychotherapist is appointed by order of the court to provide the
+defendant’s lawyer with information needed so that he may advise
+the defendant whether to enter a plea based on insanity or to present
+a defense based on his mental or emotional condition.
+If the
+defendant determines not to tender the issue of his mental or
+emotional condition, the privilege will protect the confidentiality of
+the communication between him and his court-appointed psychotherapist.
+
+crime or a tort.
+
+(Stats.1965,
+
+c. 299, § 2, operative Jan. 1,
+
+1967.)
+Law Revision Commission
+
+See the Comment to Section 997.
+1 (1965)].
+
+§ 1019. Exception:
+tient
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports
+
+Parties claiming through deceased pa-
+
+There is no privilege under this article as to a communication relevant to an issue between parties all of whom claim
+through a deceased patient, regardless of whether the claims
+are by testate or intestate succession or by inter vivos
+transaction.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+Law Revision Commission
+
+See the Comment to Section 957.
+(1965)].
+
+If, however, the defendant determines to tender this issue—by
+
+a plea of not guilty by reason of insanity, by presenting a defense
+based on his mental or emotional condition, or by raising the
+question of his sanity at the time of the trial—the exceptions
+provided in Sections 1016 and 1023 make the privilege unavailable to
+prevent disclosure of the communications between the defendant and
+
+the psychotherapist.
+
+Exception: Crime or tort
+
+There is no privilege under this article if the services of the
+psychotherapist were sought or obtained to enable or aid
+anyone to commit or plan to commit a crime or a tort or to
+escape detection or apprehension after the commission of a
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+§ 1020. Exception: Breach of duty arising out of psychotherapist-patient relationship
+
+There is no privilege under this article as to a communication relevant to an issue of breach, by the psychotherapist or
+by the patient, of a duty arising out of the psychotherapist-
+
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+patient relationship.
+
+1967 Amendment
+
+(Stats.1965, c. 299, § 2, operative Jan. 1,
+
+1967.)
+
+The words “or withdraw” are added to Section 1017 to make it
+clear that the psychotherapist-patient privilege applies in a case
+where the defendant in a criminal proceeding enters a plea based on
+insanity, submits to an examination by a court-appointed psychotherapist, and later withdraws the plea based on insanity prior to the trial
+
+Law Revision Commission Comments
+
+See the Comment to Section 958.
+(1965)].
+
+on that issue. In such case, since the defendant does not tender an
+issue based on his mental or emotional condition at the trial, the
+
+[7 Cal.L.Rev.Comm. Reports 1
+
+Research References
+
+privilege should remain applicable. Of course, if the defendant
+determines to go to trial on the plea based on insanity, the
+psychotherapist-patient privilege will not be applicable. See Section
+1016.
+It should be noted that violation of the constitutional right to
+counsel may require the exclusion of evidence that is not privileged
+
+Treatises and Practice Aids
+
+under this article; and, even in cases where this constitutional right is
+
+There is no privilege under this article as to a communication relevant to an issue concerning the intention of a patient,
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 1021. Exception: Intention of deceased patient concerning writing affecting property interest
+
+not violated, the protection that this right affords may require certain
+procedural safeguards in the examination procedure and a limiting
+instruction if the psychotherapist’s testimony is admitted. See In re
+Spencer, 63 Cal.2d 400, 46 Cal.Rptr. 753, 406 P.2d 33 (1965).
+It is important to recognize that the attorney-client privilege may
+provide protection in some cases where an exception to the
+psychotherapist-patient privilege is applicable. See Section 952 and
+the Comment thereto. See also Sections 912(d) and 954 and the
+Comments thereto.
+[8 Cal.L.Rev.Comm. Reports 101 (1967)].
+
+now deceased, with respect to a deed of conveyance, will, or
+
+other writing, executed by the patient, purporting to affect an
+interest in property.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1,
+
+1967.)
+Law Revision Commission
+
+See the Comment to Section 1002.
+1 (1965)].
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports
+
+Research References
+
+§ 1022. Exception:
+interest
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+There is no privilege under this article as to a communication relevant to an issue concerning the validity of a deed of
+
+6-A, Scope of Discovery and Limitations.
+
+16 Witkin, California Summary 11th Juvenile Court Law
+(2018), Psychotherapist-Client Privilege.
+
+Validity of writing affecting property
+
+§ 310
+
+conveyance, will, or other writing, executed by a patient, now
+
+967
+
+§ 1022
+
+EVIDENCE
+
+CODE
+
+deceased, purporting to affect an interest in property.
+
+(Stats.
+
+recorded in a public office, if such report or record is open to
+public inspection.
+
+1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+(Stats.1965, c. 299, § 2, operative Jan. 1,
+
+1967.)
+Law Revision Commission
+
+See the Comment to Section 1002.
+
+1 (1965)].
+
+§ 1023. Exception:
+inal defendant
+
+Comments
+Law Revision Commission
+
+[7 Cal.L.Rev.Comm. Reports
+
+See the Comment to Section 1006.
+1 (1965)].
+
+Proceeding to determine sanity of crim-
+
+§ 1027.
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports
+
+Exception: Child under 16 victim of crime
+
+There is no privilege under this article in a proceeding
+under Chapter 6 (commencing with Section 1367) of Title 10
+of Part 2 of the Penal Code initiated at the request of the
+defendant in a criminal action to determine his sanity.
+
+There is no privilege under this article if all of the following
+circumstances exist:
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+(b) The psychotherapist has reasonable cause to believe
+that the patient has been the victim of a crime and that
+disclosure of the communication is in the best interest of the
+child. (Added by Stats.1970, c. 1397, p. 2627, § 3.)
+
+(a) The patient is a child under the age of 16.
+
+Law Revision Commission Comments
+Section 1023 is included to make it clear that the psychotherapistpatient privilege does not apply when the defendant raises the issue
+of his sanity at the time of trial. The section probably is unnecessary
+because the exception provided by Section 1016 is broad enough to
+
+cover this situation.
+
+§ 1024.
+
+_ Law Revision Commission Comments
+
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+Exception:
+
+1970 Addition
+
+Section 1027 provides an exception to the psychotherapist-patient
+privilege that is analogous to the exception provided by Section 1024
+(patient dangerous to himself or others). The exception provided by
+
+Patient dangerous to himself or others
+
+There is no privilege under this article if the psychotherapist has reasonable cause to believe that the patient is in such
+mental or emotional condition as to be dangerous to himself
+or to the person or property of another and that disclosure of
+the communication is necessary to prevent the threatened
+danger.
+
+(Stats.1965,
+
+c. 299,
+
+§ 2, operative Jan.
+
+Law Revision Commission
+
+Section 1027 is necessary to permit court disclosure of communications to a psychotherapist by a child who, has been the victim of a
+crime (such as child abuse) in a proceeding in which the commission
+of such crime is a subject of inquiry. Although the exception
+provided by Section 1027 might inhibit the relationship between the
+patient and his psychotherapist to a limited extent, it is essential that
+appropriate action be taken if the psychotherapist becomes convinced during the course of treatment that the patient is the victim of
+a crime and that disclosure of the communication would be in the
+best interest of the child.
+The text of both 1970 additions was identical.
+[9 Cal.L.Rev.
+Comm. Reports 137 (1970)].
+
+1, 1967.)
+
+Comments
+
+This section provides a narrower exception to the psychotherapistpatient privilege than the comparable exceptions provided by Section
+982 (privilege for confidential marital communications) and Section
+1004 (physician-patient privilege). Although this exception might
+inhibit the relationship between the patient and his psychotherapist
+to a limited extent, it is essential that appropriate action be taken if
+the psychotherapist becomes convinced during the course of treatment that the patient is a menace to himself or others and the patient
+refuses to permit the psychotherapist to make the disclosure necessary to prevent the threatened danger. [7-Cal.L.Rev.Comm. Reports
+1 (1965)].
+
+Research References
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+Rutter, California
+Evidence.
+
+Research References
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9-A,
+
+Treatises and Practice Aids
+
+ARTICLE 8.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+16 Witkin, California Summary 11th Juvenile Court Law § 745
+(2018), Privileges.
+6 Witkin, California Summary 10th Torts § 1189 (2018), In General.
+
+Section
+
+§ 1025.
+
+Exception: Proceeding to establish competence
+
+There is no privilege under this article in a proceeding
+brought by or on behalf of the patient to establish his
+competence.
+
+Law Revision Commission
+
+See the Comment to Section 1005.
+
+Member of the clergy.
+
+1031.
+1032.
+
+Penitent.
+Penitential communication.
+
+1033.
+1034.
+
+-Privilege of penitent.
+Privilege of clergy.
+Member of the clergy
+
+As used in this article, a “member of the clergy” means a
+priest, minister, religious practitioner, or similar functionary
+of a church or of a religious denomination or religious
+
+Comments
+
+[7 Cal.L.Rev.Comm. Reports
+
+1 (1965)].
+§ 1026.
+
+1030,
+
+§ 1030.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.)
+
+CLERGY PENITENT PRIVILEGES
+
+organization.
+
+(Stats.1965, c. 299, § 2, operative Jan. 1, 1967.
+
+Amended by Stats.2002, c. 806 (A.B.3027), § 19.)
+
+Exception: Required report
+
+There is no privilege under this article as to information
+that the psychotherapist or the patient is required to report to
+a public employee or as to information required to be
+
+Law Revision Commission Comments
+
+Clergyman is broadly defined in this section.
+Reports 1 (1965)].
+
+968
+
+[7 Cal.L.Rev.Comm.
+
+PRIVILEGES
+Research References
+
+client privilege); Verdelli v. Gray’s Harbor Commercial Co., 115 Cal.
+517, 525-526, 47 Pac. 364, 366 (1897) (“a client cannot be compelled
+to disclose communications which his attorney cannot be permitted
+to disclose’’). Hence, it is likely that Section 1881 (3) would be
+similarly construed.
+Section 1033 also protects against disclosure by eavesdroppers. In
+this respect, the section provides the same scope of protection that is
+provided by the other confidential communication privileges, See
+the Comment to Section 954.
+[7 Cal.L.Rev.Comm. Reports 1
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Rutter, California
+Evidence.
+
+§ 1031.
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9-A,
+
+Penitent
+
+As used in this article, “penitent” means a person who has
+made a penitential communication to a member of the clergy.
+(Stats.1965, c. 299, $ 2, operative Jan. 1, 1967.
+
+(1965)].
+Research References
+
+Amended by
+
+Stats.2002, c. 806 (A.B.3027), § 20.)
+Law Revision Commission
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+Comments
+
+This section defines “penitent” by incorporating the definitions in
+Sections 1030 and 1032. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+§ 1032.
+
+§ 1034.
+
+Privilege of clergy
+
+Subject to Section 912, a member of the clergy, whether or
+
+Penitential communication
+
+not a party, has a privilege to refuse to disclose a penitential
+communication if he or she claims the privilege. (Stats. 1965,
+
+As used in this article, “penitential communication” means
+a communication made in confidence, in the presence of no
+third person so far as the penitent is aware, to a member of
+the clergy who, in the course of the discipline or practice of
+
+c. 299, § 2, operative Jan. 1, 1967.
+
+the clergy member’s church, denomination, or organization,
+
+Law Revision Commission
+
+is authorized or accustomed to hear those communications
+and, under
+
+the discipline or tenets
+
+denomination,
+communications
+
+secret.
+
+Amended
+
+(Stats.1965,
+
+of his or her church,
+
+c. 299, § 2, operative
+
+by Stats.2002,
+
+c. 806 (A.B.3027),
+
+Law Revision Commission Comments
+
+Under existing law, the communication must be a “confession.”
+Code Civ.Proc. § 1881(3) (superseded by the Evidence Code).
+Section 1032 extends the protection that traditionally has been
+provided only to those persons whose religious practice involves
+
+“confessions.”
+
+[7 Cal.L.Rev.Comm. Reports 1 (1965)].
+Research References
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+§ 1033. Privilege of penitent
+Subject to Section 912, a penitent, whether or not a party,
+has a privilege to refuse to disclose, and to prevent another
+from disclosing, a penitential communication if he or she
+claims the privilege. (Stats.1965, c. 299, § 2, operative Jan. 1,
+
+1967.
+
+Amended
+
+by Stats.2002,
+
+c. 806
+
+(A.B.3027),
+
+Comments
+
+This section provides the clergyman with a privilege in his own
+right. Moreover, he may claim this privilege even if the penitent has
+waived the privilege granted him by Section 1033.
+There may be several reasons for granting clergyman the traditional priest-penitent privilege. At least one underlying reason seems to
+be that the law will not compel a clergyman to violate—nor punish
+him for refusing to violate—the tenets of his church which require
+him to maintain secrecy as to confidential statements made to him in
+the course of his religious duties.
+See generally 8 Wigmore,
+Evidence §§ 2394-2396 (McNaughton rev. 1961).
+The clergyman is under no legal compulsion to claim the privilege.
+Hence, a penitential communication will be admitted if the clergyman fails to claim the privilege and the penitent is deceased,
+incompetent, absent, or fails to claim the privilege. This probably
+changes existing law; but, if so, the change is desirable.
+For
+example, if a murderer had confessed the crime to a clergyman, the
+clergyman might under some circumstances (e.g., if the murderer has
+died) decline to claim the privilege and instead, give the evidence on
+behalf of an innocent third party who had been indicted for the
+crime. The extent to which a clergyman should keep secret or reveal
+penitential communications is not an appropriate subject for legisla-
+
+or organization, has a duty to keep those
+
+Jan. 1, 1967.
+§ 21.)
+
+Amended by Stats.2002, c.
+
+806 (A.B.3027), § 23.)
+
+tion;
+
+the matter is better left to the discretion
+
+of the individual
+
+clergyman involved and the discipline of the religious body of which
+he isa member. [7 Cal.L.Rev.Comm. Reports 1 (1965)].
+
+§ 22.)
+
+Research References
+Treatises and Practice Aids
+
+Law Revision Commission Comments
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+This section provides the penitent with a privilege to refuse to
+disclose, and to prevent another from disclosing, a penitential
+communication. Because of the definition of “penitential communication,” Section 1033 provides a broader privilege than the existing
+law.
+Section 1033 differs from Code of Civil Procedure Section 1881(3)
+(superseded by the Evidence Code) in that Section 1881(3) gives a
+penitent a privilege only to prevent a clergyman from disclosing the
+communication. Literally, Section 1881(3) does not give the penitent himself the right to refuse disclosure.
+However, similar
+privilege statutes have been held to grant a privilege both to refuse to
+disclose and to prevent the other communicant from disclosing the
+privileged statement.
+See City & County of San Francisco v.
+Superior Court, 37 Cal.2d 227, 236, 231 P.2d 26, 31 (1951) (attorney-
+
+Rutter,
+
+California. Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9-A,
+
+Evidence.
+
+ARTICLE 8.5.
+
+SEXUAL ASSAULT COUNSELORVICTIM PRIVILEGE
+
+Section
+
+969
+
+1035.
+1035.2.
+1035.4.
+
+Victim.
+Sexual assault counselor.
+Confidential communication between the sexual assault counselor and the victim; disclosure.
+
+1035.6.
+
+Holder of the privilege.
+
+EVIDENCE
+Section
+1035.8.
+1036.
+1036.2.
+§ 1035.
+
+CODE
+
+year of counseling experience, at least six months of which is
+in rape crisis counseling.
+(2) Has 40 hours of training as described below and is
+supervised by an individual who qualifies as a counselor
+under paragraph (1). The training, supervised by a person
+qualified under paragraph (1), shall include, but not be
+
+Sexual assault counselor privilege.
+Claim of privilege by sexual assault counselor.
+Sexual assault.
+Victim
+
+As used in this article, “victim” means a person who
+consults a sexual assault counselor for the purpose of
+securing advice or assistance concerning a mental, physical,
+or emotional condition caused by a sexual assault. (Added by
+
+limited to, the following areas:
+
+(A) Law.
+(B) Medicine.
+(C) Societal attitudes.
+(D) Crisis intervention and counseling techniques.
+
+Stats. 1980, c. 917, p. 2916, § 2. Amended by Stats.2006, c. 689
+
+(S.B.1743), § 4.)
+Research References
+
+(E) Role playing.
+
+Treatises and Practice Aids
+
+Ch. 9-A,
+
+(F) Referral services.
+(G) Sexuality.
+(c) A person who is employed by any organization providing the programs specified in Section 13835.2 of the Penal
+
+As used in this article, “sexual assault counselor” means
+
+purpose of counseling and assisting sexual assault victims, and
+who meets one of the following requirements:
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+Rutter,
+
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Evidence.
+
+§ 1035.2.
+
+Sexual assault counselor
+
+Code,
+
+any of the following:
+(a) A person who is engaged in any office, hospital,
+institution, or center commonly known as a rape crisis center,
+whose primary purpose is the rendering of advice or assistance to victims of sexual assault and who has received a
+certificate evidencing completion of a training program in the
+counseling of sexual assault victims issued by a counseling
+center that meets the criteria for the award of a grant
+established pursuant to Section 13837 of the Penal Code and
+who meets one of the following requirements:
+(1) Is a psychotherapist as defined in Section 1010; has a
+
+whether
+
+financially
+
+compensated
+
+or
+
+not,
+
+for
+
+the
+
+(1) Is a psychotherapist as defined in Section 1010; has a
+master’s degree in counseling or a related field; or has one
+year of counseling experience, at least six months of which is
+in rape assault counseling.
+(2) Has the minimum training for sexual assault counseling
+required by guidelines established by the employing agency
+pursuant to subdivision (c) of Section 13835.10 of the Penal
+Code, and is supervised by an individual who qualifies as a
+counselor under paragraph (1). The training, supervised by a
+person qualified under paragraph (1), shall include, but not
+be limited to, the following areas:
+
+master’s degree in counseling or a related field; or has one
+
+year of counseling experience, at least six months of which is
+in rape crisis counseling.
+(2) Has 40 hours of training as described below and is
+supervised by an individual who qualifies as a counselor
+under paragraph (1). The training, supervised by a person
+qualified under paragraph (1), shall include, but not be
+limited to, the following areas:
+(A) Law.
+(B) Medicine.
+(C) Societal attitudes.
+(D) Crisis intervention and counseling techniques.
+(E) Role playing.
+(F) Referral services.
+(G) Sexuality.
+(b) A person who is engaged in a program on the campus
+of a public or private institution of higher education, whose
+primary purpose is the rendering of advice or assistance to
+victims of sexual assault and who has received a certificate
+evidencing completion of a training program in the counseling of sexual assault victims issued by a counseling center that
+meets the criteria for the award of a grant established
+pursuant to Section 13837 of the Penal Code and who meets
+one of the following requirements:
+(1) Is a psychotherapist as defined in Section 1010; has a
+master’s degree in counseling or a related field; or has one
+
+(A) Law.
+(B) Victimology.
+(C) Counseling.
+(D) Client and system advocacy.
+(E) Referral services.
+(Added by Stats.1980, c. 917, p.
+2916, § 2. Amended by Stats.1983, c. 580, § 1; Stats. 1983, c.
+1072, § 1; Stats.1990, c. 1342 (S.B.2501), § 1; Stats.2006, c.
+689 (S.B.1743), § 5; Stats.2018, c. 123 (A.B.1896), § 2, eff.
+Jan. 1, 2019.)
+
+§ 1035.4. Confidential communication between the sexual
+assault counselor and the victim; disclosure
+As used in this article, “confidential communication
+
+be-
+
+tween the sexual assault counselor and the victim’ means
+information transmitted between the victim and. the sexual
+assault counselor in the course of their relationship and in
+confidence by a means which, so far as the victim is aware,
+
+discloses the information to no third persons other than those
+who are present to further the interests of the victim in the
+consultation or those to whom disclosures are reasonably
+necessary for the transmission of the information or an
+accomplishment of the purposes for which the sexual assault
+counselor is consulted. The term includes all information
+regarding the facts and circumstances involving the alleged
+sexual assault and also includes all information regarding the
+victim’s prior or subsequent sexual conduct, and opinions
+
+970
+
+§ 1036.2
+
+PRIVILEGES
+regarding the victim’s sexual conduct or reputation in sexual
+
+§ 1035.8.
+
+matters.
+
+The court may compel disclosure of information received
+by the sexual assault counselor which constitutes relevant
+evidence of the facts and circumstances involving an alleged
+sexual assault about which the victim is complaining and
+which is the subject of a criminal proceeding if the court
+determines that the probative value outweighs the effect on
+the victim, the treatment
+
+relationship,
+
+(a) The holder of the privilege;
+(b) A person who is authorized to claim the privilege by
+the holder of the privilege; or
+
+and the treatment
+
+services if disclosure is compelled.
+The court may also
+compel disclosure in proceedings related to child abuse if the
+court determines the probative value outweighs the effect on
+the victim, the treatment
+
+relationship,
+
+(c) The person who was the sexual assault counselor at the
+time of the confidential communication, but that person may
+not claim the privilege if there is no holder of the privilege in
+existence or if he or she is otherwise instructed by a person
+authorized to permit disclosure. (Added by Stats.1980, c. 917,
+p. 2916, § 2. Amended by Stats.2006, c. 689 (S.B.1743), § 6.)
+
+and the treatment
+
+services if disclosure is compelled.
+When a court is ruling on a claim of privilege under this
+article, the court may require the person from whom
+disclosure is sought or the person authorized to claim the
+privilege, or both, to disclose the information in chambers out
+of the presence and hearing of all persons except the person
+authorized to claim the privilege and such other persons as
+the person authorized to claim the privilege is willing to have
+present. If the judge determines that the information is
+privileged and must not be disclosed, neither he or she nor
+any other person may ever disclose, without the consent of a
+person authorized to permit disclosure, what was disclosed in
+the course of the proceedings in chambers.
+
+§ 1036.
+
+Stats. 1980, c. 917, p. 2916, § 2. Amended by Stats.2006, c. 689
+
+(S.B.1743), $ 7.)
+§ 1036.2.
+
+following:
+
+(a) Rape, as defined in Section 261 of the Penal Code.
+(b) Unlawful sexual intercourse,
+261.5 of the Penal Code.
+
+(ce) Sodomy, as defined in Section 286 of the Penal Code,
+except a violation of subdivision (e) of that section.
+
+(f) A violation of Section 288 of the Penal Code.
+(g) Oral copulation, as defined in Section 287 of, or former
+Section
+
+Code,
+
+except
+
+a violation
+
+(j) Any attempt to commit any of the above acts.
+
+As used in this article, “holder of the privilege” means:
+
+the
+
+Penal
+
+of
+
+(i) Annoying or molesting a child under 18, as defined in
+Section 647a of the Penal Code.
+
+Holder of the privilege
+
+(b) A guardian or conservator of the victim when
+victim has a guardian or conservator.
+
+of, the
+
+(h) Sexual penetration, as defined in Section 289 of the
+Penal Code.
+
+(Added by Stats. 1980,
+
+or
+
+288a
+
+subdivision (e) of those sections.
+
+c. 917, p. 2916, § 2. Amended by Stats.1983, c. 1072, $ 2.)
+
+has no guardian
+
+in Section
+
+(d) Rape of a spouse, as defined in Section 262 of the
+Penal Code.
+
+(3) At the conclusion of the hearing, the court shall rule
+which items of information, if any, shall be disclosed. The
+court may make an order stating what evidence may be
+introduced by the defendant and the nature of questions to
+be permitted.
+The defendant may then offer evidence
+pursuant to the order of the court. Admission of evidence
+concerning the sexual conduct of the complaining witness is
+
+such person
+
+as defined
+
+(c) Rape in concert with force and violence, as defined in
+Section 264.1 of the Penal Code.
+
+(2) The court shall order a hearing out of the presence of
+the jury, if any, and at the hearing allow the questioning of
+the sexual assault counselor regarding the information which
+the court has determined may be subject to disclosure.
+
+(a) The victim when
+conservator.
+
+Sexual assault
+
+As used in this article, “sexual assault? includes all of the
+
+(1) The court shall inform the defendant of the nature of
+the information which may be subject to disclosure.
+
+§ 1035.6.
+
+Claim of privilege by sexual assault counselor
+
+The sexual assault counselor who received or made a
+communication subject to the privilege under this article shall
+claim the privilege if he or she is present when the communication is sought to be disclosed and is authorized to claim the
+privilege under subdivision (c) of Section 1035.8. (Added by
+
+If the court determines certain information shall be
+disclosed, the court shall so order and inform the defendant.
+If the court finds there is a reasonable likelihood that
+particular information is subject to disclosure pursuant to the
+balancing test provided in this section, the following procedure shall be followed:
+
+subject to Sections 352, 782, and 1103.
+
+Sexual assault counselor privilege
+
+A victim of a sexual assault, whether or not a party, has a
+privilege to refuse to disclose, and to prevent another from
+disclosing, a confidential communication between the victim
+and a sexual assault counselor if the privilege is claimed by
+any of the following:
+
+(Added
+
+by Stats.1980, c. 917, p. 2916, § 2. Amended by Stats.1988, c.
+
+102, § 1; Stats.2001, c. 854 (S.B.205), § 4; Stats.2018, c. 423
+(S.B.1494), $ 20, eff: Jan. 1, 2019.)
+Research References
+Treatises and Practice Aids
+
+(c) The personal representative of the victim if the victim
+is dead. (Added by Stats.1980, c. 917, p. 2916, § 2.)
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-A, Scope of Discovery and Limitations.
+
+971
+
+§ 1036.2
+Rutter, California
+Evidence.
+
+Practice
+
+Guide:
+
+Administrative
+
+ARTICLE 8.7.,
+
+DOMESTIC VIOLENCE
+VICTIM PRIVILEGE
+
+Law
+
+EVIDENCE
+
+CODE
+
+Ch. 9-A,
+
+(1) A nongovernmental organization or entity that provides shelter, programs, or services to victims of domestic
+violence
+
+Section
+1037.
+1037.1.
+
+(A) Domestic violence shelter-based programs, as described in Section 18294 of the Welfare and Institutions
+Code.
+
+Victim.
+Domestic violence counselor; qualifications;
+tic violence victim service organization.
+
+1037.2.
+
+domes-
+
+1037.6.
+1037.7.
+
+Confidential communication; compulsion of disclosure by court; claim of privilege.
+Child abuse; reporting.
+Holder of the privilege.
+Privilege of refusal to disclose communication; claimants.
+Claim of privilege by counselor.
+Domestic violence.
+
+1037.8.
+
+Notice;
+
+1037.3.
+1037.4.
+1037.5.
+
+§ 1037.
+
+(B) Other programs with the primary mission to provide
+services to victims of domestic violence whether or not that
+program exists in an agency that provides additional services.
+(2) Programs on the campus of a public or private
+institution of higher education with the primary mission. to
+provide support or advocacy services to victims of domestic
+violence.
+
+violence,
+
+as
+
+defined
+
+any person who
+
+in Section
+
+the counselor
+
+Research References
+
+11 Witkin,
+
+California
+
+Guide:
+
+Summary
+
+Administrative
+10th
+
+Husband
+
+Law
+and
+
+Ch.
+
+Domestic violence counselor;
+
+Wife
+
+§ 370
+
+qualifications;
+
+do-
+
+(a)(1) As used in this article, “domestic violence counselor” means a person who is employed by a domestic violence
+
+and in
+
+about the children of the victim or abuser and the relationship of the victim with the abuser.
+
+financially compensated or not, for the purpose of rendering
+advice or assistance to victims of domestic violence and who
+has at least 40 hours of training as specified in paragraph (2).
+(2) The 40 hours of training shall be supervised by an
+individual who qualifies as a counselor under paragraph (1),
+and who has at least one year of experience counseling
+
+(b) The court may compel disclosure of information received by a domestic violence counselor which constitutes
+relevant evidence of the facts and circumstances involving a
+crime allegedly perpetrated against the victim or another
+household member and which is the subject of a criminal
+proceeding, if the court determines that the probative value
+of the information outweighs the effect of disclosure of the
+information on the victim, the counseling relationship, and
+the counseling services. The court may compel disclosure if
+the victim is either dead or not the complaining witness in a
+criminal action against the perpetrator. The court may also
+compel disclosure in proceedings related to child abuse if the
+court determines that the probative value of the evidence
+outweighs the effect of the disclosure on the victim, the
+counseling relationship, and the counseling services.
+
+domestic violence victims for the domestic violence victim
+service organization. The training shall include, but need not
+
+to, the following
+
+civil and
+
+of their relationship
+
+all incidences of domestic violence, as well as all information
+
+victim service organization, as defined in this article, whether
+
+be limited
+
+in the course
+
+discloses the information to no third persons other than those
+who are present to further the interests of the victim in the
+consultation or those to whom disclosures are reasonably
+necessary for the transmission of the information or an
+accomplishment of the purposes for which the domestic
+violence counselor is consulted.
+The. term includes all
+information regarding the facts and circumstances involving
+
+9-A,
+
+mestic violence victim service organization
+
+violence,
+
+compulsion of dis-
+
+confidence by a means which, so far as the victim is aware,
+
+(2018), Civil Remedies.
+§ 1037.1.
+
+by
+
+means any information, including, but not limited to, written
+or oral communication, transmitted between the victim and
+
+Treatises and Practice Aids
+
+Practice
+
+Amended
+
+(a) As used in this article, “confidential communication”
+
+1037.7.
+
+(Added by Stats.1986, c. 854, § 1.)
+
+Rutter, California
+Evidence.
+
+c. 854, § 1.
+
+§ 1037.2. Confidential communication;
+closure by court; claim of privilege
+
+Victim
+domestic
+
+(Added by Stats.1986,
+
+Stats.1990, c. 1342 (S.B.2501), § 2; Stats.2007, c. 206 (S.B.
+407), § 2; Stats.2017, c. 178 (S.B.331), § 1, eff. Jan. 1, 2018.)
+
+limitations on confidential communications.
+
+As used in this article, “victim” means
+suffers
+
+and their children, including, but not limited to,
+
+either of the following:
+
+COUNSELOR-
+
+criminal
+
+areas:
+law
+
+history of domestic
+
+as it relates
+
+to domestic
+
+violence, the domestic violence victim-counselor privilege and
+other laws that protect the confidentiality of victim records
+and information, societal attitudes towards domestic violence,
+
+peer counseling techniques, housing, public assistance and
+other financial resources available to meet the financial needs
+of domestic violence victims, and referral services available to
+domestic violence victims.
+
+(c) When a court rules on a claim of privilege under this
+article, it may require the person from whom disclosure is
+sought or the person authorized to claim the privilege, or
+both, to disclose the information in chambers out of the
+presence and hearing of all persons except the person
+authorized to claim the privilege and such other persons as
+the person authorized to claim the privilege consents to have
+present. If the judge determines that the information is
+privileged and shall not be disclosed, neither he nor she nor
+any other person may disclose, without the consent of a
+
+(3) A domestic violence counselor who has been employed
+by the domestic violence victim service organization for a
+period of less than six months shall be supervised by a
+domestic violence counselor who has at least one year of
+experience counseling domestic violence victims for the
+domestic violence victim service organization.
+(b) As used in this article, “domestic violence
+service organization” means either of the following:
+
+victim
+
+972
+
+EXTRINSIC
+
+person authorized to permit disclosure, any information
+disclosed in the course of the proceedings in chambers.
+(d) If the court determines that information shall be
+
+privilege in existence or if he or she is otherwise instructed by
+a person authorized to permit disclosure. (Added by Stats.
+1986, c. 854, § 1. Amended by Stats.2007, c. 206 (S.B.407),
+
+Chew)
+
+disclosed, the court shall so order and inform the defendant
+
+in the criminal action. If the court finds there is a reasonable
+likelihood that any information is subject to ,disclosure
+pursuant to the balancing test provided in this section, the
+procedure specified in subdivisions (1), (2), and (3) of Section
+1035.4 shall be followed. (Added by Stats.1986, c. 854, $ 1.
+
+§ 1037.6.
+
+Child abuse; reporting
+
+Section 1037.5.
+
+Nothing in this article shall be construed to limit any
+obligation to report instances of child abuse as required by
+Section 11166 of the Penal Code. (Added by Stats.1986, c.
+854, § 1.)
+§ 1037.4.
+
+Claim of privilege by counselor
+
+The domestic violence counselor who received or made a
+communication subject to the privilege granted by this article
+shall claim the privilege whenever he or she is present when
+the communication is sought to be disclosed and he or she is
+authorized to claim the privilege under subdivision (c) of
+
+Amended by Stats.2007, c. 206 (S.B.407), § 3.)
+§ 1037.3.
+
+§ 1115
+
+POLICIES
+
+§ 1037.7.
+
+Domestic violence
+
+As used in this article, “domestic violence” means “domes-
+
+tic violence” as defined in Section 6211 of the Family Code.
+
+(Added by Stats.1993, c. 219 (A.B.1500), § 77.4.)
+
+Holder of the privilege
+
+As used in this article, “holder of the privilege” means:
+(a) The victim when he or she has no guardian or
+
+Law Revision Commission
+
+Section 1037.7 substitutes a reference to the Family Code provi-
+
+(b) A guardian or conservator of the victim when the
+victim has a guardian or conservator, unless the guardian or
+conservator is accused of perpetrating domestic violence
+against the victim.
+(Added by Stats.1986,.c. 854, § 1.
+Amended by Stats.2007, c. 206 (S.B.407), § 4.)
+to disclose
+
+Comments
+
+1993 Addition
+
+conservator.
+
+§ 1037.5.
+Privilege of refusal
+claimants
+
+(Added by Stats.1986, c. 854, § 1.)
+
+sion defining “domestic
+
+violence”
+
+for the definitions
+
+of “abuse,”
+
+“domestic violence,’ and “family or household member” in the
+former section. This is not a substantive change, since the Family
+Code definition of “domestic violence” continues the substance of
+the omitted definitions. See Fam. Code § 6211 (“domestic violence” defined) & Comment. See also Fam. Code §§ 6203 (“abuse”’
+defined), 6209 (“cohabitant” and “formey cohabitant” defined). [23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+communication;
+
+A victim of domestic violence, whether or not a party to the
+action, has a privilege to refuse to disclose, and to prevent
+another from disclosing, a confidential communication between the victim and a domestic violence counselor in any
+proceeding specified in Section 901 if the privilege is claimed
+by any of the following persons:
+(a) The holder of the privilege.
+(b) A person who is. authorized to claim the privilege by
+the holder of the privilege.
+(c) The person who was the domestic violence counselor at
+the time of the confidential communication.
+However, that
+person may not claim the privilege if there is no holder of the
+
+§ 1037.8.
+tions
+
+Notice;
+
+A domestic
+
+limitations on confidential communica-
+
+violence
+
+counselor
+
+shall inform
+
+a domestic
+
+violence victim of any applicable limitations on confidentiality
+of communications between the victim and the domestic
+violence counselor. This information may be given orally.
+(Added by Stats.2002, c. 629 ($.B.1735), § 1.)
+Research References
+Treatises and Practice Aids
+
+Rutter, California
+Evidence.
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 9-A,
+
+Division 9
+
+EVIDENCE AFFECTED
+CHAPTER 2.
+
+OR EXCLUDED
+
+BY EXTRINSIC POLICIES
+
+Section
+1123.
+Written settlement agreements;
+
+MEDIATION
+
+conditions to admissi-
+
+bility.
+
+Section
+1115. Definitions.
+1116. Effect of chapter.
+1117. Application of chapter.
+1118. Oral agreements.
+1119. Written or oral communications during mediation
+process; admissibility.
+1120. Evidence otherwise admissible.
+1121. Mediator’s reports and findings.
+1122. Communications or writings; conditions to admissibili-
+
+1124,
+
+Oral agreements; conditions to admissibility.
+
+1125.
+1126.
+
+End of mediation; satisfaction of conditions.
+Protections before and after mediation ends.
+
+1127.
+1128.
+1129.
+
+Attorney’s fees and costs.
+Subsequent trials; references to mediation.
+Confidentiality restrictions; client disclosure and acknowledgment
+requirements;
+requirements for
+printed disclosure;
+
+form;
+
+1115. Definitions
+For purposes of this chapter:
+
+ty.
+
+973
+
+effect of noncompliance.
+
+§ 1115
+
+EVIDENCE
+
+(a) “Mediation” means a process in which a neutral
+person or persons facilitate communication between the
+disputants to assist them in reaching a mutually acceptable
+
+California
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 14:50,
+
+Transactions
+
+§ 14:51,
+
+Confidentiality of Mediation Process.
+California
+
+Transactions
+
+Forms--Business
+
+Enforceability of Written Settlement Agreement
+
+agreement.
+
+Mediation.
+California Transactions
+
+(b) “Mediator” means a neutral person who conducts a
+mediation. “Mediator” includes any person designated by a
+mediator either to assist in the mediation or to communicate
+with the participants in preparation for a mediation.
+
+Forms--Business
+
+Reached
+
+Transactions
+
+in
+
+§ 14:52,
+
+Enforceability of Oral Settlement Agreement Reached in Mediation.
+California
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 14:53,
+
+Matters to Consider in Drafting Mediation Clauses.
+
+(c) “Mediation consultation” means a communication between a person and a mediator for the purpose of initiating,
+considering, or reconvening a mediation or retaining the
+mediator.
+(Added by Stats.1997, c. 772 (A.B.939), § 3.)
+Law Revision Commission
+
+CODE
+
+California Transactions Forms--Business Transactions § 14:54,
+Mediation Clause.
+California Transactions Forms--Business Transactions § 14:98,
+Mini-Trial.
+y California Transactions Forms--Business Transactions § 14:103,
+Mini-Trial.
+3 California Transactions Forms--Business Transactions § 18:28,
+
+Comments
+
+1997 Addition
+
+Methods of Reaching Settlement.
+
+Subdivision (a) of Section 1115 is drawn from Code of Civil
+Procedure Section 1775.1. To accommodate a wide range of media-
+
+West’s California Code Forms, Commercial § 1301 Form 7, Clause
+
+tion styles, the definition is broad, without specific limitations on
+
+West’s California Code Forms, Commercial § 1301 Form 8, Clause
+
+Providing for Nonmandatory Mediation.
+
+format. For example, it would include a mediation conducted as a
+number of sessions, only some of which involve the mediator. The
+definition focuses on the nature of a proceeding, not its label. A
+proceeding may be a “mediation”. for purposes of this chapter, even
+though it is denominated differently.
+Under subdivision (b), a mediator must be neutral.
+
+Providing for Mandatory Mediation.
+26 West’s Legal Forms App 2B, Uniform Mediation Act.
+26 West’s Legal Forms § 2:22, Confidentiality.
+Treatises and Practice Aids
+
+The neutrality
+
+California Practice Guide: Employment Litigation Ch. 18—B, Nonbinding ADR Procedures.
+California Practice Guide: Employment Litigation Ch. 18—E, Confidentiality of ADR Processes.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+
+requirement is drawn from Code of Civil Procedure Section 1775.1.
+An attorney or other representative of a party is not neutral and so
+does not qualify as a “mediator” for purposes of this chapter.
+A “mediator” may be an individual, group of individuals, or entity.
+See Section 175 (“person” defined). See also Section 10 (singular
+includes the plural). This definition of mediator encompasses not
+only the neutral person who takes the lead in conducting a mediation,
+but also any neutral who assists in the mediation, such as a casedeveloper, interpreter, or secretary. The definition focuses on a
+person’s role, not the person’s title. A person may be a “mediator”
+under this chapter even though the person has a different title, such
+as “ombudsperson.”
+Any person who meets the definition of
+“mediator” must comply with Section 1121 (mediator reports and
+communications), which generally prohibits a mediator from reporting to a court or other tribunal concerning the mediated dispute.
+Subdivision (c) is drawn from former Section 1152.5, which was
+amended in 1996 to explicitly protect mediation intake communications. See 1996 Cal. Stat. ch. 174, § 1. Subdivision (c) is not limited
+to communications to retain a mediator.
+It also encompasses
+contacts concerning whether to mediate, such as where a mediator
+contacts a disputant because another disputant desires to mediate,
+and contacts concerning initiation or recommencement of mediation,
+such as where a case-developer meets with a disputant before
+mediation.
+For the scope of this chapter, see Section 1117. [1997-98 Annual
+Report, 27 Cal.L.Rev.Comm. Reports App. 5 (1997)].
+
+4-C, Effective Settlement Negotiations.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+7-A, Introduction-Nature and Purpose of "Judicial Arbitration"
+in General.
+11 Witkin, California Summary 10th Community Property § 246
+(2018), Final Declaration.
+12 Witkin, California Summary 10th Real Property § 137 (2018),
+Alternative Dispute Resolution.
+
+§ 1116.
+
+(b) Nothing in this chapter makes admissible evidence that
+is inadmissible under Section 1152 or any other statute.
+(Added by Stats.1997, c. 772 (A.B.939), § 3.)
+Law Revision Commission Comments
+
+1997 Addition
+
+Research References
+
+Subdivision (a) of Section 1116 establishes guiding principles for
+applying this chapter.
+Subdivision (b) continues
+
+Forms
+
+the first sentence of former Section
+1152.5(c) without substantive change. [1997-98 Annual Report, 27
+Cal.L.Rev.Comm. Reports App. 5 (1997)].
+
+1 Alternative Dispute Resolution Appendix D (4th ed.), Uniform
+Mediation Act.
+1 Alternative Dispute Resolution § 4:7 (4th ed.), Rules Excluding
+Evidence of Settlement Negotiations or Compromise Offers.
+1 Alternative Dispute Resolution § 4:9 (4th ed.), Statutes Making
+Mediation Proceedings Confidential.
+California Practice Guide: Rutter Family Law Forms Form 1:32,
+Glossary of Common Family Law Terms, Phrases and Concepts
+(Enclosure to Form 1:31).
+2 California
+
+Transactions
+
+Forms--Business
+
+Effect of chapter
+
+(a) Nothing in this chapter expands or limits a court’s
+authority to order participation in a dispute resolution
+proceeding. Nothing in this chapter authorizes or affects the
+enforceability of a contract clause in which parties agree to
+the use of mediation.
+
+Transactions
+
+§ 1117.
+
+Application of chapter
+
+(a) Except as provided in subdivision (b), this chapter
+applies to a mediation as defined in Section 1115.
+(b) This chapter does not apply to either of the following:
+(1) A proceeding under Part 1 (commencing with Section
+1800) of Division 5 of the Family Code or Chapter 11
+
+§ 14:30,
+
+Confidentiality of Negotiations.
+
+974
+
+

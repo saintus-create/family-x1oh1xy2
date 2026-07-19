@@ -1,0 +1,4733 @@
+§ 683.310
+
+CODE
+
+OF CIVIL PROCEDURE
+accrues after the operative date of the statute that changes
+
+family, or spousal support may be renewed in the manner specified in
+Article 2 (commencing with Section 683.110) of Chapter 3 of Title 9
+of Part 2 of the Code of Civil Procedure.
+The methods of
+enforcement of a judgment or order made or entered pursuant to the
+Family Code are prescribed by Family Code Sections 290 and 291.
+[22 Cal.L.Rev.Comm.Reports 1 (1992)].
+
+the rate.
+
+Research References
+Treatises and Practice Aids
+
+California Practice Guide: Employment Litigation Ch. 17-I, Interest.
+California Practice Guide--Pass-Through Entities Ch. 5-J, Dissenters’
+Rights.
+California Practice Guide--Pass-Through Entities Ch. 6-I, Dissenters’
+Rights.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+4-D, Techniques Where Settlement Not Forthcoming.
+3 Witkin, California Summary 10th Agency and Employment § 724
+(2018), Interest on Back Pay Award.
+4 Witkin, California Summary 10th Negotiable Instruments ‘§ 48
+(2018), Exclusivity of Damages Recoverable Under C.C. 1719.
+6 Witkin, California Summary 10th Torts § 1826 (2018), Prejudgment Interest is Not Element of Damages.
+14 Witkin, California Summary 10th Wills and Probate § 567 (2018),
+Statutory. Framework.
+15 Witkin, California Summary 10th Wills and Probate § 697 (2018),
+Interest.
+15 Witkin, California Summary 10th Wills and Probate § 1082
+(2018), Liability for Breach of Fiduciary Duty.
+
+2000 Amendment
+
+Section 683.310 is amended to accommodate other exceptions in
+the Family Code concerning enforcement of judgments and the
+likelihood of future revisions in the Family Code. This is a technical,
+nonsubstantive change. Family Code Section 4502 provides an
+important exception, making the ministerial renewal scheme under
+the Enforcement of Judgments Law available as an option for
+support judgments. Moreover, Family Code Section 291 makes this
+chapter applicable to enforceability and renewal of judgments for
+possession or sale entered under the Family Code.
+[30
+Cal.L.Rev.Comm.Reports 717 (2000)].
+Commentary
+
+Family Code § 291, which subjects judgments “for possession or
+sale of property” to the Code of Civil Procedure § 683.130 10-year
+time limit for renewal, does not apply to Family Code money
+judgments. In re Marriage of Wilcox, 124 Cal.App.4th 492, 21
+
+Cal.Rptr.3d 315 (2004).
+
+§ 683.320.
+
+§ 685.020.
+
+Money judgments against public entities
+
+Government Code.
+(Added by Stats.1982, c. 1364, p. 5077,
+§ 2, operative July 1, 1983.)
+Comments
+
+operative July 1, 1983.
+
+1982 Addition
+
+5.
+
+INTEREST
+
+AND
+
+Section
+685.010.
+685.020.
+
+Rate of interest.
+Interest; commencement of accrual.
+
+685.030.
+
+Money judgments;
+
+Law Revision Commission
+
+§ 685.010.
+
+Comments
+
+1983 Amendment
+
+Subdivision (a) of Section 685.020 continues the general rule as to
+the time postjudgment interest commences to run. See former
+Section 682.2, Section 1033;
+
+Dixon Mobile Homes, Inc. v. Walters,
+
+48 Cal.App.3d 964, 122 Cal.Rptr. 202 (1975). See also Sections
+695.210 and 724.010 (amount to satisfy a judgment).
+Subdivision (b) codifies the rule concerning accrual of interest on
+support judgments payable in installments and extends the rule to
+other judgments payable in installments. See, e.g., Huellmantel vy.
+Huellmantel, 124 Cal. 583, 589-90, 57 P. 582 (1899); In re Marriage
+of Hoffee, 60 Cal.App.3d 337, 131 Cal.Rptr. 637 (1976). The
+introductory clause of subdivision (b) also recognizes that in certain
+circumstances the court may have the authority to order that interest
+accrues from the date of entry of a judgment rendered in an amount
+certain but payable in installments. See Section 85 (municipal or
+justice court may fix terms and conditions of payment of money
+judgment), 117 (small claims court may fix terms and conditions of
+payment).
+Section 685.020 does not affect the rules that determine the extent
+to which prejudgment interest is to be included in a judgment. See
+Section 685.110. [16 Cal.L.Rev.Comm. Reports 2193 (1982)].
+
+COSTS
+
+satisfaction in full; accrual of
+
+interest; writ of execution.
+
+685.040.
+
+Amended by Stats.1983, c. 155, $ 10,
+
+eff. June 30, 1983, operative July 1, 1983.)
+
+Section 683.320 recognizes that the period of enforceability of a
+money judgment against the state or a local public entity is governed
+by provisions of the Government Code. But see Gov't Code § 965.9
+(judgment against the Regents of the University of California). The
+period of enforceability of a money judgment against a public entity
+may not be extended using the renewal procedure under Sections
+683.110-683.220. This does not, however, affect the right to bring an
+action on the judgment. See Sections 337.5 and 683.050. See also
+Sections 695.050 (enforcement of money judgment against public
+entity), 712.070 (enforcement of nonmoney judgment against public
+entity). [16 Cal.L.Rev.Comm. Reports 1220 (1982)].
+CHAPTER
+
+Interest; commencement of accrual
+
+(a) Except as provided in subdivision (b), interest commences to accrue on a money judgment on the date of entry
+of the judgment.
+(b) Unless the judgment otherwise provides, if a money
+judgment is payable in installments, interest commences to
+accrue as to each installment on the date the installment
+becomes due. (Added by Stats.1982, c. 1364, p. 5080, § 2,
+
+This chapter does not apply to a money judgment against a
+public entity that is subject to Section 965.5 or 970.1 of the
+
+Law Revision Commission
+
+(Added by Stats.1982, c. 1364, p. 5080, § 2, operative
+
+July 1, 1983.)
+
+Costs; attorney’s fees.
+
+Rate of interest
+
+(a) Interest accrues at the rate of 10 percent per annum on
+the principal amount of a money judgment remaining unsatisfied.
+(b) The Legislature reserves the right to change the rate of
+interest provided in subdivision (a) at any time to a rate of
+less than 10 percent per annum, regardless of the date of
+entry of the judgment or the date any obligation upon which
+the judgment is based was incurred. A change in the rate of
+interest may be made applicable only to the interest that
+
+Commentary
+
+Applying this section, In re Marriage of Dalgleish and Selvaggio, 17
+Cal.App.5th 1172, 225 Cal.Rptr.3d 900 (2017), review denied, held that
+when a stipulated judgment required husband to make an equalization payment to wife ten days after a joint appraisal that had not yet
+occurred, interest on the payment began to accrue on the date it was
+due under the stipulated judgement.
+The 2002 amendment of Family Code § 155, which exempts
+
+support orders from the operation of subsection (b) of this section,
+
+900
+
+OF CIVIL ACTIONS
+was intended to abrogate the installment-payment holding of Dupont
+v. Dupont, 88 Cal.App.4th 192, 105 Cal.Rptr.2d 607 (2001). Dupont
+sustained the conclusion of the trial court that a 1978 child support
+order requiring a former spouse to pay child support and spousal
+
+1982, c. 1364, p. 5080, § 2, operative July 1, 1983. Amended
+by Stats.1991, c. 1090 (A.B.1484), $ 4.5; Stats.1992, c. 283
+(S.BI372).°§ “1, “eff. July 21, 1992; “Stats:1998, "c. 937 (S-B.
+2139), § 88, eff. Sept. 28, 1998; Stats.2001, c. 812 (A.B.223),
+
+support arrearages of $9,000 at the rate of $15 monthly was an
+installment judgment within the meaning of subsection (b), Thus,
+interest began to accrue with respect to each installment as each
+
+§ 4)
+
+Law Revision Commission Comments
+
+installment became due. In other words, interest did not accrue on
+
+1992 Amendment
+
+the entire $9,000 judgment from the date that the 1978 order was
+entered. Under the 2002 amendment of Family Code § 155, interest
+accrues on an order requiring the payment of support arrearages
+from the time the order was entered.
+In re Marriage of McClellan, 130 Cal.App.4th 247, 30 Cal.Rptr.3d 5
+(2005), holds that the 2000 amendment to Family Code § 155 applies
+retroactively because
+
+Subdivision (a) of Section 685.030 is amended to recognize the
+special rules applicable to cessation of interest with regard to
+collections by wage garnishment.
+See Sections 706.024 (amount
+required to satisfy earnings withholding order), 706.028 (final earnings
+withholding
+order
+for
+costs
+and __ interest).
+[21
+Cal.L.Rev.Comm.Reports 135 (1991)].
+
+it clarified, rather than altered, existing law.
+
+Accordingly, it applies in calculating the interest due on child support
+arrearages that were the subject of arrearage orders entered before
+the amendment took effect.
+In re Marriage of Hubner, 124 Cal.App.4th 1082, 22 Cal.Rptr.3d 549
+(2004), holds that statutory interest on unpaid child support accrues
+from the period each payment originally came due during the period
+in which the trial court erroneously suspended the parent’s child
+support obligation.
+
+1998 Amendment
+Subdivision (e) of Section 685.030 is amended to accommodate
+unification of the municipal and superior courts in a county. Cal.
+Const. art. VI, § 5(e). It is also amended to reflect elimination of the
+justice court. Cal. Const. art. VI, §§ 1, 5(b). A limited civil case is
+
+equivalent to a matter within the original jurisdiction of the
+municipal.court under former law, so Section 685.030 as amended
+continues the effect of former law. See Section 85 (limited civil cases)
+& Comment. [28 Cal.L.Rev.Comm. Reports 51 (1998)].
+
+Research References
+Treatises and Practice Aids
+
+2001 Amendment
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+9-M, Verdicts and Judgment.
+11 Witkin, California Summary 10th Husband and Wife § 4 (2018),
+
+Subdivision (e) of Section 685.030 is amended to eliminate the
+difference in treatment between limited and unlimited civil cases.
+For the register of actions in superior court, see Gov’t Code 69845,
+69845.5. For the register of actions in municipal court, see Code Civ.
+
+Definitions.
+
+§ 685.030.
+Money judgments; satisfaction in full; accrual
+of interest; writ of execution
+
+Proc. 1052, 1052.1.
+
+A technical change is also made for conformity with preferred
+drafting style. [30 Cal.L.Rev.Comm. Reports 443 (2000)].
+
+(a) If a money judgment is satisfied in full pursuant to a
+writ
+
+under
+
+this
+
+title,
+
+interest
+
+ceases
+
+to
+
+accrue
+
+on
+
+the
+
+judgment:
+(1) If the proceeds of collection are paid in a lump sum, on
+the date of levy.
+(2) If the money judgment is satisfied pursuant to an
+earnings withholding order, on the date and in the manner
+provided in Section 706.024 or Section 706.028.
+(3) In any other case, on the date the proceeds of sale or
+collection are actually received by the levying officer.
+(b) If a money judgment is satisfied in full other than
+pursuant to a writ under this title, interest ceases to accrue on
+the date the judgment is satisfied in full.
+(c) If a money judgment is partially satisfied pursuant to a
+writ under this title or is otherwise partially satisfied, interest
+ceases to accrue as to the part satisfied on the date the part is
+satisfied.
+(d) For the purposes of subdivisions (b) and (c), the date a
+money judgment is satisfied in full or in part is the earliest of
+the following times:
+(1) The date satisfaction is actually received by the judgment creditor.
+(2) The date satisfaction is tendered to the judgment
+creditor or deposited in court for the judgment creditor.
+(3) The date of any other performance that has the effect
+of satisfaction.
+(e) The clerk of a court may enter in the Register of
+Actions a writ of execution on a money judgment as returned
+wholly satisfied when the judgment amount, as specified on
+the writ, is fully collected and only an interest deficit of no
+more than ten dollars ($10) exists, due to automation of the
+continual daily interest accrual calculation. (Added by Stats. .
+
+901
+
+§ 685.040.
+
+Costs; attorney’s fees
+
+The judgment creditor is entitled to the reasonable and
+necessary costs of enforcing a judgment.
+Attorney’s fees
+incurred in enforcing a judgment are not included in costs
+collectible under this title unless otherwise provided by law.
+Attorney’s fees incurred in enforcing a judgment are included
+as costs collectible under this title if the underlying judgment
+includes an award of attorney’s fees to the judgment creditor
+pursuant to subparagraph (A) of paragraph (10) of subdivision (a) of Section 1033.5. (Added by Stats.1982, c. 1364, p.
+5081, § 2, operative July 1, 1983. Amended by Stats.1992, c.
+1348 (A.B.2616), $3.)
+Research References
+Forms
+
+Asset
+
+Protection:
+Damages.
+
+Legal Planning,
+
+Strategies
+
+and
+
+Forms
+
+{ 2.05,
+
+Treatises and Practice Aids
+Rutter Group Practice Guide: Elder Abuse Litigation Ch. 9, Elder
+Neglect and Physical Abuse.
+
+Division 2
+ENFORCEMENT
+
+OF MONEY
+
+CHAPTER
+
+GENERAL
+
+1.
+
+JUDGMENTS
+
+PROVISIONS
+
+ARTICLE 1. PROPERTY SUBJECT TO
+ENFORCEMENT OF MONEY
+JUDGMENT
+Section
+695.010.
+
+Property subject to enforcement generally.
+
+CODE
+Section
+695.020.
+695.030.
+
+OF CIVIL PROCEDURE
+
+Community property.
+Non-assignable and non-transferable property;
+terest
+
+in trust;
+
+cause
+
+of action
+
+for money
+
+enforcement process, whether execution or otherwise.
+Certain
+property of the judgment debtor may be subject to enforcement by
+in-
+
+some,
+
+or
+
+699.720 (property not subject to execution but subject to other
+enforcement procedures.
+[16 Cal.L.Rev.Comm. Reports 1265
+
+property.
+
+but
+
+not
+
+all, enforcement
+
+procedures.
+
+See,
+
+e.g.,
+
+Section
+
+695.035.
+
+Lessee’s interest in real property; provisions in lease
+for termination or modification upon involuntary
+transfer or assignment.
+
+(1982)].
+
+695.040.
+695.050.
+695.060.
+695.070.
+
+Exempt property; release.
+Money judgment against public entity.
+License to engage in business, profession or activity.
+Transfer or encumbrance of property subject to lien.
+
+Subdivision (b) is added to Section 695.010 to make clear that
+property attached in the action is subject to enforcement even though
+it has been transferred.
+See Section 488.500 (attachment lien).
+Such property may be levied upon under a writ of execution after
+judgment without the need to bring a separate action to foreclose the
+lien. See Section 699.710 (property subject to execution). See also
+Section 697.340 (judgment lien does not reach real property transferred before judgment.)
+[17 Cal.L.Rev.Comm.Reports
+1002
+(1983)].
+
+1984 Amendment
+
+§ 695.010.
+
+Property subject to enforcement generally
+(a) Except as otherwise provided by law, all property of the
+judgment debtor is subject to enforcement of a money
+judgment.
+(b) If property of the judgment debtor was attached in the
+action but was transferred before entry of the money
+judgment in favor of the judgment creditor, the property is
+subject to enforcement of the money judgment so long as the
+
+Commentary
+
+Ventura County Department of Child Support Services v. Brown, 117
+Cal.App.4th 144, 11 Cal.Rptr.3d 489 (2004), relying on Probate Code
+§ 15305(c), holds that when
+
+there is an enforceable
+
+child support
+
+attachment lien remains effective.
+(Added by Stats.1982, c.
+1364, p. 5103, § 2, operative July 1, 1983.
+Amended by
+
+judgment against a trust beneficiary, which the trustee refuses to
+
+Stats. 1984, c. 538, § 17.)
+
+the trustee to satisfy the past due and ongoing child support
+obligations of the beneficiary directly from the trust. The analysis and
+rationale of Brown would seem to apply equally to spousal support
+judgments.
+
+satisfy, a trial court may overcome the trustee’s discretion and order
+
+Law Revision Commission Comments
+
+1982 Addition
+
+Section 695.010 supersedes the first portion of subdivision (a) of
+former Section 688. The reference in former law to “any interest” in
+property and the enumeration of types of property subject to
+enforcement is not continued; all property of the judgment debtor,
+regardless of type or interest, is subject to enforcement of a money
+judgment unless an exception is provided by law. See also Civil
+Code §$§ 1390.3, 1390.4 (enforcement against property subject to
+general power of appointment).
+Some property that is not the judgment debtor’s may also be
+subject to enforcement of a money judgment against the judgment
+debtor. See Section 695.020 (community property). For provisions
+governing liens on property that is transferred, see Sections 697.390
+(judgment lien on real property), 697.610 (judgment lien on personal
+property), 697.720-697.750 (execution lien).
+The introductory
+clause of Section 695.010 recognizes that some property of the
+judgment debtor is by law not subject to enforcement of a money
+judgment despite the general rule stated in Section 695.010. Property that is exempt by statute without the need to make an exemption
+claim is not subject to enforcement of a money judgment unless a
+particular exemption provision otherwise provides.
+See Section
+703.030(b) (general rule). See also Sections 704.110(c) (public
+retirement plan benefits), 704.113 (public vacation credit), 704.115(c)
+(private retirement plan benefits), 706.052 (wage garnishment).
+Property of a public entity is not subject to enforcement of a money
+judgment under this division. See Section 695.050; Gov't Code
+§§ 965.5, 970.1. Property that is not transferable is generally not
+subject to enforcement. See Section 695.030. Certain property held
+in a fiduciary capacity may not be subject to enforcement. See, e.g.,
+Civil Code § 986(a) (6) (amounts held for payment of artists);
+Educ.Code § 21116 (educational endowment property); Health &
+Saf.Code § 32508 (hospital endowment property); Labor Code
+§ 270.5 (property held by logging employer as fund for wages).
+Specific property may be made not subject to enforcement by other
+statutes. See, e.g., Civil Code § 765 (estate at will); Health &
+Saf.Code § 7925 (cemetery funds); Labor Code § 4901 (workers’
+compensation). Federal law protects certain property from enforcement. See, e.g., 42 U.S.C. § 407 (social security).
+Property of the judgment debtor that is by law not subject to
+enforcement of a money judgment may not be reached by any
+
+Research References
+Forms
+
+Asset Protection: Legal Planning, Strategies and Forms
+Appendix A.05 California (Opt Out State).
+
+{| A.05,
+
+3 California Transactions
+Landlord’s Lien.
+
+§ 22:14,
+
+§ 695.020.
+
+Forms--Business
+
+Transactions
+
+Community property
+
+(a) Community property is subject to enforcement of a
+money judgment as provided in the Family Code.
+
+(b) Unless the provision or context otherwise requires, if
+community property that is subject to enforcement of a
+money judgment is sought to be applied to the satisfaction of
+a money judgment:
+(1) Any provision of this division that applies to the
+property of the judgment debtor or to obligations owed to the
+judgment debtor also applies to the community property
+interest of the spouse of the judgment debtor and to
+obligations owed to the other spouse that are community
+property.
+
+(2) Any provision of this division that applies to property
+in the possession or under the control of the judgment debtor
+also applies to community property in the possession or
+under the control of the spouse of the judgment debtor.
+(Added by Stats.1982, c. 1364, p. 5103, § 2, operative July 1,
+1983. Amended by Stats.1983, c. 155, § 12, eff. June 30, 1983,
+operative July 1, 1983; Stats.1992, c. 163 (A.B.2641), § 33,
+operative Jan. 1, 1994.)
+Law Revision Commission Comments
+
+1982 Addition
+
+Section 695.020 recognizes the rule that community property,
+including the interest of a nondebtor spouse, is generally subject to
+enforcement of a money judgment. For exceptions to this rule, see
+
+902
+
+§ 695.060
+
+OF CIVIL ACTIONS
+Civil Code Section 5100 et seq.
+(1982)].
+
+[16 Cal.L.Rev.Comm. Reports 1266
+
+conditions that would have had to be complied with had the
+lessee voluntarily sublet the property or assigned the interest
+in the lease.
+(3) If the lessee has the right voluntarily to sublet the
+property or assign the interest in the lease with the consent of
+the lessor, in which case the obligation of the lessor to
+consent to the assignment is subject to the same standard that
+would apply had the lessee voluntarily sublet the property or
+assigned the interest in the lease.
+(4) In any other case, if the lessor consents in writing.
+(b) A provision in a lease for the termination or modification of the lease upon an involuntary transfer or assignment
+of the lessee’s interest is ineffective to the extent that such
+provision would prevent the application of the lessee’s
+interest to the satisfaction of the money judgment under
+subdivision (a). (Added by Stats.1982, c. 1364, p. 5104, § 2,
+
+1983 Amendment
+
+Subdivision (b)(1) is amended to correct a typographical error.
+[16 Cal.L:-Rev.Comm.Reports 2194 (1982)].
+1992 Amendment
+
+Subdivision (a) of Section 695.020 is amended to substitute a
+reference to the Family Code for the reference to the former Civil
+Code provisions. [22 Cal.L.Rev.Comm.Reports 1 (1992)].
+
+§ 695.030.
+Non-assignable and non-transferable property;
+interest in trust; cause of action for money or property
+
+(a) Except as otherwise provided by statute, property of
+the judgment debtor that is not assignable or transferable is
+not subject to enforcement of a money judgment.
+(b) The following property is subject to enforcement of a
+money judgment:
+(1) An interest in a trust, to the extent provided by law.
+(2) A cause of action for money or property that is the
+subject of a pending action or special proceeding. (Added by
+Stats.1982, c. 1364, p. 5103, § 2, operative July 1, 1983.
+
+operative July 1, 1983.)
+Research References
+Treatises and Practice Aids
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 3—A,
+Prebankruptcy Creditor Actions and Strategies.
+
+Amended by Stats.1986, c. 820, § 17, operative July 1, 1987.)
+
+§ 695.040.
+
+Property that is not subject to enforcement of a money
+judgment may not be levied upon or in any other manner
+applied to the satisfaction of a money judgment. If property
+that is not subject to enforcement of a money judgment has
+been levied upon, the property may be released pursuant to
+the claim of exemption procedure provided in Article 2
+(commencing with Section 703.510) of Chapter 4. (Added by
+
+Law Revision Commission Comments
+1986 Amendment
+
+Section 695.030 is amended to delete “spendthrift” from subdivision (b)(1) in recognition that trusts other than “spendthrift” trusts
+
+may be not assignable or transferable.
+
+(trust for support).
+
+See e.g., Prob.Code § 15302
+[18 Cal.L-Rev.Comm. Reports 765 (1985)].
+Commentary
+
+Stats.1982,
+
+Ventura County Department of Child Support Services v. Brown, 117
+Cal. App.4th 144, 11 Cal.Rptr.3d 489 (2004), relying on Probate Code
+§ 15305(c), holds that when there is an enforceable child support
+judgment against a trust beneficiary, which the trustee refuses to
+satisfy, a trial court may overcome the trustee’s discretion and order
+the trustee to satisfy the past due and ongoing child support
+
+Reports 1269 (1982)].
+
+§ 695.050. Money judgment against public entity
+A money judgment against a public entity is not enforceable under this division if the money judgment is subject to
+Chapter 1 (commencing with Section 965) of, or Article 1
+(commencing with Section 970) of Chapter 2 of, Part 5 of
+Division 3.6 of Title 1 of the Government Code. (Added by
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 3-A,
+Prebankruptcy Creditor Actions and Strategies.
+10th Trusts
+
+§ 27 (2018),
+
+Comments
+
+Section 695.040 is comparable to Section 703.510(b) (release of
+property exempt without making a claim). [16 Cal.L.Rev.Comm.
+
+Research References
+
+Summary
+
+§ 2, operative July 1, 1983.)
+
+1982 Addition
+
+Treatises and Practice Aids
+
+California
+
+c. 1364, p. 5104,
+
+Law Revision Commission
+
+obligations of the beneficiary directly from the trust. The analysis and
+rationale of Brown would seem to apply equally to spousal support
+judgments.
+:
+
+13 Witkin,
+
+Exempt property; release
+
+Stats.1982,
+
+Other
+
+Provisions Governing Trusts.
+
+c. 1364, p. 5104,
+
+§ 2, operative July 1, 1983.)
+
+Law Revision Commission Comments
+
+§ 695.035. Lessee’s interest in real property; provisions in
+lease for termination or modification upon involuntary
+transfer or assignment
+
+1982 Addition
+
+Section 695.050 continues existing law. See Government Code
+Sections 965.5(b) (state) and 970.1(b) (local public entities). See
+also Sections 683.320 and Comment to that section (period for
+enforcement of judgment), 712.070 (nonmoney judgments).
+[16
+Cal.L.Rev.Comm. Reports 1269 (1982)].
+
+(a) A lessee’s interest in real property may be applied to
+the satisfaction of a money judgment in any of the following
+circumstances:
+(1) If the lessee has the right voluntarily to sublet the
+property or assign the interest in the lease.
+(2) If the lessee has the right voluntarily to sublet the
+property or assign the interest in the lease subject to
+standards or conditions and the purchaser at the execution
+sale or other assignee’agrees to comply with the standards or
+
+§ 695.060. License
+activity
+
+to engage
+
+in business,
+
+profession
+
+or
+
+Except as provided in Section 708.630, a license issued by a
+public entity to engage in any business, profession, or activity
+is not subject to enforcement of a money judgment. (Added
+by Stats.1982, c. 1364, p. 5104, § 2, operative July I, 1983.)
+
+903
+
+§ 695.060
+
+CODE
+
+OF CIVIL PROCEDURE
+§ 695.210.
+
+Research References
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms
+Appendix A.05 California (Opt Out State).
+
+{| A.05,
+
+Treatises and Practice Aids
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 3—A,
+Prebankruptcy Creditor Actions and Strategies.
+
+§ 695.070.
+lien
+
+Transfer or encumbrance of property subject to
+
+(a) Notwithstanding the transfer or encumbrance of property subject to a lien created under this division, if the
+property remains subject to the lien after the transfer or
+encumbrance, the money judgment may be enforced against
+the property in the same manner and to the same extent as if
+it had not been transferred or encumbered.
+
+1982, c. 1364, p. 5105, § 2, operative July 1, 1983.
+
+Law Revision Commission Comments
+
+1982 Addition
+Section 695.210 is new.
+For a related provision, see Section
+680.300 (“principal amount of the judgment” defined). See also
+Section 577.5 (amount to be computed and stated in dollars and
+cents, rejecting fractions).
+[16 Cal.L.Rev.Comm. Reports 1270
+(1982)].
+
+Amended
+
+by Stats.1989, c. 1416, § 22.)
+Law Revision Commission
+
+Comments
+
+Research References
+
+Treatises and Practice Aids
+
+1989 Amendment
+
+11 Witkin,
+
+Section 695.070 is amended to clarify the manner of enforcement
+of a money judgment against property of a decedent in a situation
+where the property was transferred during the judgment debtor’s
+lifetime subject to an enforcement lien. For provisions relating to
+continuation of liens after transfer, see Sections 697.390 (judgment
+line on real property), 697.610 (judgment lien on personal property),
+697.720-697.750 (execution lien), 697.920 (other liens).
+Under subdivision (b), the judgment creditor may enforce the
+money judgment against the transferred property after the judgment
+debtor’s death using any appropriate procedure available before
+death. Thus, the death of the judgment debtor has no effect on the
+judgment creditor’s remedies against property that was transferred
+subject to an enforcement lien. The judgment creditor may use a
+writ of execution, any other applicable enforcement procedure
+provided in this division, or an action against the owner of the
+property to foreclose the lien. Enforcement under this section may
+proceed only against the property subject to the lien and only in the
+amount of the lien on the transferred property, as is the case when
+enforcing a lien on transferred property while the judgment debtor is
+alive. See Sections 695.210 (amount required to satisfy judgment),
+697.010 (amount of lien). As to enforcement of a judgment against
+property in the decedent’s estate, see Code Civ.Proc. § 686.020
+(enforcement against property in deceased judgment debtor’s estate
+is governed by Probate Code);
+
+Prob.Code
+
+ment of claims established by judgment).
+ports 233 (1990)].
+
+Amended
+
+by Stats.1992, c. 848 (S.B.1614), § 8, eff. Sept. 22, 1992;
+Stats.1993, c. 876 (S.B.1068), § 9, eff. Oct. 6, 1993.)
+
+(b) If the judgment debtor dies after the transfer of
+property that remains subject to a lien created under this
+division, the money judgment may be enforced against the
+property as provided in subdivision (a). (Added by Stats.
+1982, c. 1364, p. 5104, $ 2, operative July 1, 1983.
+
+Amount required
+
+The amount required to satisfy a money judgment is the
+total amount of the judgment as entered or renewed with the
+following additions and subtractions:
+(a) The addition of costs added to the judgment pursuant
+to Section 685.090.
+(b) The addition of interest added to the judgment as it
+accrues pursuant to Sections 685.010 to 685.030, inclusive.
+(c) The subtraction of the amount of any partial satisfactions of the judgment.
+(d) The subtraction of the amount of any portion of the
+judgment that is no longer enforceable.
+(Added by Stats.
+
+Forms
+
+§§ 9300-9304
+
+California
+
+Summary
+
+10th
+
+Husband
+
+accrual
+
+on arrearages;
+
+and
+
+Wife
+
+§ 272
+
+notice;
+
+state-
+
+(2018), Definitions.
+§ 695.211.
+
+Interest
+
+ment of account; required contents
+
+(a) Every money judgment or order for child support shall
+provide notice that interest on arrearages accrues at the legal
+rate.
+
+(b) The notice provisions required by this section shall be
+incorporated in the appropriate Judicial Council forms.
+(c) Upon implementation of the California Child Support
+Automation System prescribed in Chapter 4 (commencing
+with Section 10080) of Part 1 of Division 9 of the Welfare and
+Institutions Code and certification of the California Child
+Support Automation System by the United States Department of Health and Human Services, whenever a statement
+
+of account is issued by the local child support agency in any
+child support action, the statement shall include a statement
+of an amount of current support, arrears, and interest due.
+
+(Added by Stats.1994, c. 959 (A.B.3072), § 1, eff. Sept. 28,
+1994. Amended by Stats.2000, c. 808 (A.B.1358), § 10, eff.
+Sept. 28, 2000.)
+
+(enforce-
+
+[20 Cal.L.Rev.Comm.Re-
+
+Commentary
+
+See generally In re Marriage of Perez, 35 Cal.App.4th 77, 41
+Cal.Rptr.2d 377 (1995) (trial court’s reduction of child support
+arrearages and forgiveness of interest due on arrearages were
+impermissible retroactive modifications within the meaning of Section 3651 (c) and they also ran afoul of the principles articulated in
+Family Code Section 4502 and Code of Civil Procedure Sections
+
+ARTICLE 2. AMOUNT TO SATISFY
+MONEY JUDGMENT
+Section
+
+695.210.
+
+Amount required.
+
+695.211.
+
+Interest accrual on arrearages;
+
+695.215.
+695.220.
+695.221.
+
+account; required contents.
+Effect of payment on right to appeal.
+Crediting of money received.
+Crediting of money judgment for support.
+
+notice;
+
+statement of
+
+695.211 and 695.221);
+
+and Jn re Marriage of Hamer, 81 Cal.App.4th
+
+712, 97 Cal.Rptr.2d 195 (2000)
+
+(trial court improperly held that
+former wife waived her right to collect the full amount of spousal and
+child support due under. the judgment of dissolution by accepting
+former husband’s payment of lesser amounts).
+
+904
+
+§ 695.221
+
+OF CIVIL ACTIONS
+
+the United States Code, if a lump-sum payment is collected
+from a support obligor who has money judgments for support
+owing to more than one family, after the implementation of
+the California Child Support Automation System (CCSAS),
+all support collected shall be distributed pursuant to guidelines developed by the State Department of Child Support
+Services.
+(ec) Notwithstanding subdivisions (a), (b), and (c), a collection received as a result of a federal tax refund offset shall
+first be credited against the principal amount of past due
+support that has been assigned to the state pursuant to
+Section 11477 of the Welfare and Institutions Code and
+federal law and then any interest due on that past due
+support, prior to the principal amount of any other past due
+support remaining unsatisfied and then any interest due on
+that past due support.
+(f) If federal law does not permit states to adopt the same
+order of distribution for the pre- and post-assistance child
+
+§ 695.215.
+
+Effect of payment on right to appeal
+Payment in satisfaction of a money judgment, including
+payment of a severable portion of the money judgment,
+interest thereon, and associated costs, does not constitute a
+
+waiver of the right to appeal, except to the extent that the
+payment is the product of compromise or is coupled with an
+agreement not to appeal.
+Payment in satisfaction of a
+severable portion of a money judgment, interest thereon, and
+associated costs, does not constitute a waiver of the right to
+appeal other portions of the money judgment. (Added by
+Stats.2019, c. 48 (A.B.1361), § 1, eff. Jan. 1, 2020.)
+§ 695.220.
+
+Crediting of money received
+
+Money received in satisfaction of a money judgment,
+except a money judgment for support, is to be credited as
+follows:
+(a) The money is first to be credited against the amounts
+described in subdivision (b) of Section 685.050 that are
+collected by the levying officer.
+(b) Any remaining money is next to be credited against any
+fee due the court pursuant to Section 6103.5 or 68511.3 of the
+
+support arrears effective October 1, 1998, the following shall
+
+be the order of distribution of child support collections
+through September 30, 2000, except for federal tax refund
+offset collections, for child support received for families and
+children who are former recipients of Aid to Families with
+Dependent Children (AFDC) program benefits or former
+recipients of Temporary Assistance for Needy Families
+(TANF) program benefits:
+(1) The money shall first be credited against the current
+
+Government Code, which are to be remitted to the court by
+
+the levying officer.
+(c) Any remaining money is next to be credited against the
+accrued interest that remains unsatisfied.
+(d) Any remaining money is to be credited against the
+principal amount of the judgment remaining unsatisfied. If
+the judgment is payable in installments, the remaining money
+is to be credited against the matured installments in the order
+in which they matured.
+(Added by Stats.1982, c. 1364, p.
+
+month’s support.
+
+5105, § 2, operative July I, 1983. Amended by Stats.1992, c.
+848 (S.B.1614), § 9, eff: Sept. 22, 1992; Stats.1993, c. 158
+
+(A.B.392), § 3.2, eff: July 21, 1993; Stats.1993, c. 876 (S.B.
+1068), § 10, eff: Oct. 6, 1993; Stats.1993, c. 909 (S.B.15), § 1;
+Stats.1994, c. 146 (A.B.3601), § 25; Stats.1994, c. 75 (A.B.
+1702), § 1, eff: May 20, 1994.)
+Law Revision Commission Comments
+
+1982 Addition
+Section 695.220 is drawn from a portion of former Section 682.1
+(writ of execution issued on money judgment), but Section 695.220
+applies to any money received in satisfaction of the judgment not just
+that received pursuant to a levy of execution. See also the Comment
+to, Section 724.010. [16 Cal.L.Rev.Comm. Reports 1270 (1982)].
+
+§ 695.221.
+
+:
+
+(2) Any remaining money shall next be credited against
+interest that accrued on arrearages owed to the family or
+children since leaving the AFDC program or the TANF
+program and then the arrearages.
+(3) Any remaining money shall next be credited against
+interest that accrued on arrearages owed during the time the
+family or children received benefits under the AFDC program or the TANF program and then the arrearages.
+(4) Any remaining money shall next be credited against
+interest that accrued on arrearages owed to the family or
+children prior to receiving benefits from the AFDC program
+or the TANF program and then the arrearages.
+(g) If federal law does permit states to adopt the same
+order of distribution for the pre- and post-assistance child
+support arrears effective October 1, 1998, or effective October 1, 2000, whichever comes first, the following shall be the
+
+order of distribution of child support collections, except for
+federal tax refund offset collections, for child support received for families and children who are former recipients of
+AFDC program benefits or former recipients of TANF
+program benefits:
+(1) The money shall first be credited against the current
+month’s support.
+.
+(2) Any remaining money shall next be credited against
+the principal amount of the arrearages owed to the family or
+children since leaving the AFDC program or the TANF
+program and then the interest that accrued on those arrearages.
+(3) Any remaining money shall next be credited against
+the principal amount of the arrearages owed to the family or
+children prior to receiving benefits from the AFDC program
+
+Crediting of money judgment for support
+
+Satisfaction of a money judgment for support shall be
+credited as follows:
+(a) The money shall first be credited against the current
+month’s support.
+(b) Any remaining money shall next be credited against
+the principal amount of the judgment remaining unsatisfied.
+If the judgment is payable in installments, the remaining
+money shall be credited against the matured installments in
+the order in which they matured.
+(c) Any remaining money shall be credited against the
+accrued interest that remains unsatisfied.
+
+(d) In cases enforced pursuant to Part D (commencing
+with Section 651) of Subchapter 4 of Chapter 7 of Title 42 of
+
+905
+
+§ 695.221
+
+CODE
+
+OF CIVIL PROCEDURE
+
+(2) A judgment entered pursuant to Section 667.7 (judgment against health care provider requiring periodic payments).
+
+or the TANF program and then the interest that accrued on
+those arrearages.
+
+(4) Any remaining money shall next be credited against
+the principal amount of the arrearages owed during the time
+the family or children received benefits under the AFDC
+program or the TANF program and then the interest that
+accrued on those arrearages.
+
+(b) Unless the money judgment is satisfied or the judgment lien is released, a judgment lien created under paragraph (1) of subdivision (a) or by recording an interstate lien
+form, as described in subdivision (a), continues during the
+period the judgment remains enforceable. Unless the money
+judgment is satisfied or the judgment lien is released, a
+judgment lien created under paragraph (2) of subdivision (a)
+continues for a period of 10 years from the date of its
+creation. The duration of a judgment lien created under
+paragraph (2) of subdivision (a) may be extended any number
+of times by recording, during the time the judgment lien is in
+existence, a certified copy of the judgment in the manner
+provided in this section for the initial recording; this
+rerecording has the effect of extending the duration of the
+judgment lien created under paragraph (2) of subdivision (a)
+until 10 years from the date of the rerecording. (Added by
+Stats.1982, c. 1364, p. 5107, § 2, operative July 1, 1983.
+
+(h) This section shall become operative on January 1,
+2009. (Added by Stats.2004, c. 305 (A.B.2669), § 2, operative
+Jan. 1, 2009.)
+Commentary
+
+See generally In re Marriage of Perez, 35 Cal.App.4th 77, 41
+Cal.Rptr.2d 377 (1995) (trial court’s reduction of child support
+arrearages and forgiveness of interest due on arrearages were
+impermissible retroactive modifications within the meaning of Section 3651 (c) and they also ran afoul of the principles articulated in
+Family Code Section 4502 and Code of Civil Procedure Sections
+695.211 and 695.221); and In re Marriage of Hamer, 81 Cal.App.4th
+712, 97 Cal.Rptr.2d 195 (2000) (trial court improperly held that
+former wife waived her right to collect the full amount of spousal and
+child support due under the judgment of dissolution by accepting
+former husband’s payment of lesser amounts).
+Social security “child’s insurance benefits” payable on account of
+the disability or retirement of the noncustodial parent are not
+payments received in satisfaction of a money judgment for support
+within the meaning of this section. Although Family Code Section
+4054 provides that social security “child’s insurance benefits” payable
+on account of the disability or retirement of the noncustodial parent
+shall be credited against the amount of child support otherwise
+payable by the noncustodial parent, current benefits may not be
+applied against child support arrearages. In re Marriage of Robinson,
+
+Amended by Stats.1986, c. 946, § 2; Stats.1992, c, 163
+(A.B.2641), § 34, operative Jan. 1, 1994; Stats.1993, c. 876
+
+(S.B.1068), § 12, eff: Oct. 6, 1993; Stats. 199726, 599, (A.B.
+573), § 3; Stats.2002, c. 927 (A.B.3032), $ 1.5.)
+Law Revision Commission
+1992 Amendment
+
+Subdivision (a)(1) of Section 697.320 is amended to make clear
+that Section 697.320 applies to a judgment for family support. See
+Fam. Code § 4501 (family support order is enforceable in same
+manner and to same extent as child support order). See also Section
+680.145
+(“child
+support”
+includes
+family
+support).
+[22
+Cal.L.Rev.Comm.Reports 1 (1992)].
+
+65 Cal. App.4th 93, 76 Cal.Rptr.2d 134 (1998).
+Research References
+
+Treatises and Practice Aids
+
+Commentary
+
+10 Witkin, California Summary 10th Parent and Child § 448 (2018),
+Crediting Federal Retirement or Disability Payments.
+
+CHAPTER 2.
+
+Comments
+
+A former husband’s judgment-based obligation to maintain life
+insurance was neither a money judgment nor a support obligation for
+which his former wife could obtain a judgment lien under this
+section. Guess v. Bernhardson, 242 Cal.App.4th 821, 195 Cal.Rptr.3d
+349 (2015), review denied.
+
+LIENS
+
+ARTICLE 2. JUDGMENT LIEN
+ON REAL PROPERTY
+
+Research References
+Forms
+
+Section
+697.320.
+
+West’s California Judicial Council Forms FL-480, Abstract of Support Judgment.
+
+Judgment for support payable in installments; judgment against health care provider requiring periodic payments; creation and duration.
+
+Treatises and Practice Aids
+
+§ 697.320. Judgment for support payable in installments;
+judgment against health care provider requiring periodic payments; creation and duration
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 2-A,
+Deciding Whether to File Bankruptcy and Initial Filing Considerations.
+11 Witkin, California Summary 10th Husband and Wife § 290
+(2018), Judgment Lien.
+
+(a) A judgment lien on real property is created under this
+section by recording an abstract, a notice of support judgment, an interstate lien form promulgated by the federal
+Secretary of Health and Human Services pursuant to Section
+652(a)(11) of Title 42 of the United States Code, or a
+certified copy of either of the following money judgments
+with the county recorder:
+
+(1) A judgment for child, family, or spousal
+payable in installments.
+
+CHAPTER
+ARTICLE
+
+1.
+
+5.
+
+SHORT
+
+Section
+
+support
+
+706.010.
+706.011.
+
+906
+
+WAGE GARNISHMENT
+
+Short title.
+Definitions.
+
+TITLE;
+
+DEFINITIONS
+
+OF CIVIL ACTIONS
+
+§ 706.010.
+
+Short title
+
+(commencing with Section 706.070), whether or not a judgment has been obtained on such tax liability.
+
+This chapter shall be known and may be cited as the “Wage
+Garnishment Law.” (Added by Stats.1982, c. 1364, p. 5172,
+§ 2, operative July 1, 1983.)
+
+(i) “Person” includes an individual, a corporation, a partnership or other unincorporated association, a limited liability company, and a public entity. (Added by Stats.1982, c.
+1364, p. 5172,.§ 2, operative July 1, 1983. Amended by
+Stats.1990, c. 1493, (A.B.3974), § 30.5; Stats.1992, c. 163
+
+Law Revision Commission Comments
+
+1982 Addition
+
+(A.B.2641),
+
+Section 706.010 substitutes the more descriptive term “Wage
+Garnishment Law” for the term “Employees’ Earnings Protection
+Law” used in former Section 723.010. [16 Cal.L.Rey.Comm. Reports 1442 (1982)].
+
+§ 45, operative Jan. 1, 1994;
+
+Jan. 1, 2012; Stats.2012, c. 474 (A.B.1775), § 1, operative July
+
+1, 2013.)
+
+Research References
+
+Law Revision Commission
+
+Forms
+
+2B Am.
+
+Stats.1994, c. 1010
+
+(S.B.2053), § 61; Stats.2010, c. 64 (A.B.2619), $ 1, operative
+
+Comments
+
+1992 Amendment
+
+Jur. Pl. & Pr. Forms
+
+Attachment
+
+and Garnishment
+
+§ 1,
+
+Section 706.011 is amended to conform to the terminology of the
+Family Code and to substitute references to the Family Code
+
+Introductory Comments.
+2B Am. Jur. Pl. & Pr. Forms Attachment and Garnishment
+
+§ 207,
+
+provisions that replaced the former Civil Code provisions.
+See
+Chapter 8 (commencing with Section 5200) of Part 5 of Division 9 of
+the Family Code (earnings assignment order for support). The term
+“wage assignment for support” in former subdivision (g) has been
+replaced by “earnings assignment for support” in new subdivision (b),
+and other subdivisions have been redesignated to keep the definitions
+in alphabetical order.
+[22 Cal.L.Rev.Comm.Reports 1 (1992)].
+
+Introductory Comments.
+3 California
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 16:88,
+
+Assignment of Wages or Salary (General).
+3. California
+
+Assignor’s
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 16:94,
+
+Revocation
+
+of Assignment
+
+of Wages
+
+or Salary.
+
+3 California Transactions Forms--Estate Planning § 18:36, Disclaimers as Protective Device.
+
+Research References
+
+Treatises and Practice Aids
+
+Forms
+
+The Rutter Group - California Practice Guide: Bankruptcy Ch. 7—D,
+Specific Exemptions.
+
+§ 706.011.
+
+Asset Protection: Legal Planning, Strategies and Forms
+Appendix A.05 California (Opt Ouf State).
+
+Definitions
+
+Treatises and Practice Aids
+
+As used in this chapter:
+(a) “Disposable earnings” means the portion of an individual’s earnings that remains after deducting
+required to be withheld by law.
+
+{1 A.05,
+
+Rutter Group Practice
+Financial Abuse.
+
+all amounts
+
+Guide:
+
+11 Witkin,
+
+California Summary
+(2018), Definitions.
+
+(b) “Earnings” means compensation payable by an employer to an employee for personal services performed, by
+such employee, whether denominated as wages, salary, commission, bonus, or otherwise.
+
+ARTICLE
+Section
+706.020.
+706.021.
+
+(c) “Earnings withholding order for elder or dependent
+adult financial abuse” means an earnings withholding order,
+made. pursuant. to Article 5 (commencing with Section
+706.100) and based on a money judgment in an action for
+elder or adult dependent financial abuse under Section
+15657.5 of the Welfare and Institutions Code.
+(d) “Earnings assignment order for support” means an
+order, made pursuant to Chapter 8 (commencing with
+Section 5200) of Part 5 of Division 9 of the Family Code or
+Section 3088 of the Probate Code, which requires an
+employer to withhold earnings for support.
+(e) “Employee” means a public officer and any individual
+who performs services subject to the right of the employer to
+control both what shall be done and how it shall be done.
+(f) “Employer” means a person for whom an individual
+performs services as an employee.
+'
+_ (g) “Judgment creditor,” as applied to the state, means the
+specific state agency seeking to collect a judgment or tax
+liability.
+(h) “Judgment debtor” includes a person from whom the
+state is seeking to collect a tax liability under Article 4
+
+706.022.
+
+Abuse
+
+Litigation
+
+Ch.
+
+10th Husband
+
+and Wife
+
+§ 272
+
+GENERAL PROVISIONS
+
+Application of chapter.
+Procedure for levy of execution
+earnings.
+Withholding
+
+period,
+
+defined;
+
+upon
+
+employee
+
+amount
+
+withheld;
+
+706.025.
+
+employer liability for amounts withheld and paid
+prior to service of order.
+Multiple. earnings withholding orders; earnings
+withholding orders for elder or dependent adult
+financial abuse.
+Amount required to ‘satisfy earnings withholding
+order; discretionary notice; accrual of interest.
+Payments to levying officer.
+
+706.026.
+
+Levying officer; receipt, accounting, and payment of
+
+706.023.
+706.024.
+
+706.027.
+706.028.
+706.029.
+706.030.
+706.031.
+
+706.032.
+706.033.
+
+907
+
+2.
+
+Elder
+
+amounts received; electronic filing.
+Notice of satisfaction of judgment.
+Final earnings withholding order for costs and
+interest.
+Service of order creating lien; duration.
+Withholding order for support; operation with earnings withholding order.
+Earnings assignment order for support; operation
+with earnings withholding order.
+Termination of earnings withholding orders.
+Return of writ before earnings withholding order
+terminates; supplemental return on writ.
+
+8,
+
+CODE
+
+OF CIVIL PROCEDURE
+chapter rather than under Chapter 3 (commencing with Section
+699.010). [16 Cal.L.Rev.Comm. Reports 1444 (1982)].
+
+Section
+
+706.034.
+
+§ 706.020.
+
+Deduction from employee earnings for payments
+made in accordance with earnings withholding
+order.
+
+§ 706.022. Withholding period, defined; amount withheld;
+employer liability for amounts withheld and paid prior
+to service of order
+
+Application of chapter
+
+(a) As used in this section, “withholding period” means
+the period which commences on the 10th day after service of
+an earnings withholding order upon the employer and which
+continues until the earliest of the following dates:
+(1) The date the employer has withheld the full amount
+required to satisfy the order.
+(2) The date of termination specified in a court order
+served on the employer.
+(3) The date of termination specified in a notice of
+termination served on the employer by the levying officer.
+(4) The date of termination of a dormant or suspended
+earnings withholding order as determined pursuant to Section 706.032.
+
+Except for an earning assignment order for support, the
+earnings of an employee shall not be required to be withheld
+by an employer for payment of a debt by means of any
+judicial procedure other than pursuant to this chapter.
+(Added by Stats.1982, c. 1364, p. 5173, $ 2, operative July 1,
+1983.
+Amended by Stats.1992,
+operative Jan. 1, 1994.)
+
+c.
+
+Law Revision Commission
+
+163
+
+(A.B.2641),
+
+$ 46,
+
+Comments
+
+1982 Addition
+
+Section 706.020 makes clear that, with the exception of wage
+assignments for support (defined in subdivision (g) of Section
+706.011), the Wage Garnishment Law is the exclusive judicial method
+of compelling an employer to withhold earnings.
+The section
+continues former Section 723.020. Attachment of earnings before
+judgment is abolished by Section 487.020(c). For provisions relating
+to voluntary wage assignments, see Labor Code Section 300. This
+chapter has no effect on judgment collection procedures that do not
+involve the withholding of an employee’s earnings. However, where
+an employee’s earnings are sought to be garnished, the creditor must
+comply with the provisions of this chapter. This rule applies to
+public entities as well as private persons. This chapter, for example,
+imposes limitations on the state’s ability to garnish wages for tax
+delinquencies pursuant to its warrant and notice procedures. See
+Article 4 (commencing with Section 706.070).
+The Wage Garnishment Law has no effect on matters that are
+preempted by federal law, such as federal bankruptcy proceedings
+and federal tax collection procedures. E.g., LR.C. § 6334(c). Nor
+does this chapter apply to deductions which an employer is authorized by statute to make for such items as insurance premiums and
+payments to health, welfare, or pension plans. See, e.g., Gov’t Code
+§§ 1156-1158, Labor Code §§ 224, 300.
+
+(b) Except as otherwise provided by statute, an employer
+shall withhold the amounts required by an earnings withholding order from all earnings of the employee payable for any
+pay period of the employee which ends during the withholding period.
+
+(c) An employer is not liable for any amounts withheld
+and paid over to the levying officer pursuant to an earnings
+withholding order prior to service upon the employer pursuant to paragraph (2) or (3) of subdivision (a). (Added by
+Stats.1982, c. 1364, p. 5173, § 2, operative July 1, 1983.
+Amended by Stats.1989, c. 263, § 1; Stats.1992, c. 283
+(S.B.1372), $ 5, eff: July 21, 1992.)
+Law Revision Commission Comments
+1992 Amendment
+
+Finally, this chapter does
+
+Subdivision (a)(1) of Section 706.022 is amended for conformity
+with Section 706.024 (amount required to satisfy earnings withholding order). Subdivision (a)(4) is added to reflect the automatic
+termination of earnings withholding orders under Section 706.032.
+The remainder of this Comment is drawn from the Comment to
+
+not affect the procedures for the examination of a debtor of the
+judgment debtor provided in Article 2 (commencing with Section
+708.110) of Chapter 6. See also Comment to Section 706.154. [16
+Cal.L.Rev.Comm. Reports 1443 (1982)].
+
+Section
+
+1992 Amendment
+
+Section 706.020 is amended to conform to the terminology of the
+Family Code. See Chapter 8 (commencing with Section 5200) of
+Part 5 of Division 9 of the Family Code (earnings assignment order
+for support). “Earnings assignment order for support” is defined in
+Section 706.011. [22 Cal.L.Rev.Comm.Reports 1 (1992)].
+
+as enacted
+
+in 1982, with revisions
+
+to reflect the
+
+See 1982 Cal.Stat. ch. 1364, § 2;
+
+1989 Cal.Stat. ch. 263, § 1.
+Section 706.022 states the basic rules governing the employer’s
+duty to withhold pursuant to an earnings withholding order.
+Subdivision (b) requires the employer to withhold from all
+earnings of an employee payable for any pay period of such employee
+which ends during the “withholding period.” The “withholding
+period” is described in subdivision (a). It should be noted that only
+earnings for a pay period ending during the withholding period are
+subject to levy. Earnings for prior periods, even though still in the
+possession of the employer, are not subject to the order. An
+employer may not, however, defer or accelerate any payment of
+earnings to an employee with the intent to defeat or diminish the
+satisfaction of a judgment pursuant to this chapter. See Section
+706.153.
+Under subdivision (a), the withholding period generally commences 10 calendar days (not working or business days) after service
+of an earnings withholding order is completed. See Section 706.101
+(when service completed). For example, if an order is served on
+Friday, the withholding period would commence on the second
+following Monday. See Section 12 (computation of time). The 10day delay affords the employer time to process the order within its
+
+§ 706.021.
+Procedure for levy of execution upon employee
+earnings
+
+Notwithstanding any other provision of this title, a levy of
+execution upon the earnings of an employee shall be made by
+service of an earnings withholding order upon the employer
+in accordance with this chapter. (Added by Stats.1982, c.
+1364, p. 5173, § 2, operative July 1, 1983.)
+Law Revision Commission
+
+706.022
+
+amendment of this section in 1989.
+
+Comments
+
+1982 Addition
+
+Section 706.021 continues former Section 723.021 except that a
+reference to “this title” is substituted for the reference to former
+Section 688 in the introductory clause. Section 706.021 makes clear
+that a levy of execution on earnings is made as provided in this
+
+908
+
+§ 706.023
+
+OF CIVIL ACTIONS
+organization, i.e., deliver the order to the employer’s bookkeeper,
+make bookkeeping adjustments, and so on.
+The introductory clause to subdivision (b) recognizes certain
+
+rely on documents actually served). See also Section 706.105(i)
+(recovery from levying officer or judgment creditor of amounts
+received after order terminated).
+An ‘earnings withholding order may also be affected by federal
+bankruptcy proceedings.
+See Comment to Section 706.020.
+[21
+Cal.L.Rev.Comm.Reports 135 (1991)].
+
+exceptions to the general rule stated in subdivision (b). An employer
+is not generally required to withhold pursuant to two orders at the
+same time, except in special cases involving withholding orders for
+support or taxes. Thus, an ordinary earnings withholding order
+served when an earlier order is in place will not be given effect. See
+Section 706.023 (priority of orders) & Comment. See also Section
+706.104(a) (no. withholding if debtor not employed and no earnings
+due).
+The withholding period does not end until the first of the events
+described in paragraphs (1) through (4) of subdivision (a) occurs.
+The employer has a continuing duty to withhold during the withholding period. See also Section 706.032 (termination of dormant or
+suspended order).
+Paragraph (1) requires the employer to stop withholding when the
+full amount required to satisfy the earnings withholding order has
+been withheld. See Section 706.024 (amount required to satisfy
+order).
+Paragraph (2) reflects the fact that the court may order the
+termination of the earnings withholding order.
+See Section
+706.105(g). Of course, in some situations, the court will only modify
+the prior order, and the employer then must comply with the order as
+modified for the remainder of the withholding period.
+Paragraph (3) requires the employer to stop withholding when
+served with a notice of termination. See Section 706.101 (manner of
+service). A notice of termination is served (1) where the levying
+officers is notified of the satisfaction of the judgment or (2) where the
+judgment debtor has claimed an exemption for the entire amount of
+earnings but the judgment creditor has failed within the time allowed
+to file with the levying officer a notice of opposition to claim of
+exemption and a notice of the hearing on the exemption.
+See
+Sections 706.027 (satisfaction of judgment), 706.105(f) (grounds for
+termination of withholding order in exemption proceeding). The
+levying officer may also serve a notice of termination where the order
+has been dormant or suspended for 180 days. See Section 706.032
+(termination for dormancy or suspension).
+Paragraph (4) recognizes the special rule for termination of
+earnings withholding orders that have been dormant or suspended
+for a period of 180 days. See Section 706.032 & Comment.
+The judgment creditor has an affirmative duty to inform the
+levying officer of the satisfaction of the judgment.
+See Section
+706.027.
+Service of an order for the collection of state taxes suspends the
+duty of an employer to withhold pursuant to a prior order (other than
+an order for support). See Section 706.077 (tax orders). However,
+this is only a suspension.
+
+Research References
+Forms
+
+3 California
+
+Forms--Business
+
+Transactions
+
+§ 16:94,
+
+§ 706.023.
+Multiple earnings withholding orders; earnings
+withholding orders for elder or dependent adult financial abuse
+
+Except as otherwise provided in this chapter:
+(a) An employer shall comply with the first earnings
+withholding order served upon the employer.
+
+(b) If the employer is served with two or more earnings
+withholding orders on the same day, the employer shall
+comply with the order issued pursuant to the judgment first
+entered. If two or more orders served on the same day are
+based on judgments entered upon the same day, the employer
+shall comply with whichever one of the orders the employer
+selects.
+(c) If an earnings withholding Order is served while an
+employer is required to comply with another earnings withholding order with respect to the earnings of the same
+employee, the subsequent order is ineffective and the employer shall not withhold earnings pursuant to the subsequent
+order, except as provided in subdivision (d).
+(d) Notwithstanding any other provisions of this section, a
+withholding order for elder or dependent adult financial
+abuse has priority over any other earning withholding order
+except for a withholding order for support under Section
+706.030 and a withholding order for taxes under Section
+706.072.
+(1) An employer upon whom a withholding order for elder
+or dependent adult financial abuse is served shall withhold
+and pay over earnings of the employee pursuant to that order
+notwithstanding the requirements of another earnings withholding order except as provided in paragraph (2).
+
+After the tax order is satisfied, if the
+
+withholding period for the prior order has not ended, the employer
+must again withhold pursuant to the prior order. See Section
+706.032 (termination in case of suspension for 180 days by supervening order).
+Similarly, the duty to withhold is not terminated by the layoff,
+discharge, or suspension of an employee and, if the employee is
+rehired or returns to work during the withholding period, the
+employer must resume withholding pursuant to the order. See
+Section 706.032 (termination in case of dormancy for 180 days).
+The termination of certain types of orders—orders for the
+collection of state taxes and support orders—is governed by separate
+tules. See Sections 706.030 (support orders), 706.078 (tax orders).
+Sometimes an order will be terminated without the employer’s
+
+(2) An employer shall not withhold earnings of an employee pursuant to an earnings withholding order for elder or
+dependent adult financial abuse if a withholding order for
+support or for taxes is in effect or if a prior withholding order
+for elder or dependent adult financial abuse is in effect. In
+that case, the subsequent withholding order for elder or
+dependent financial abuse is ineffective.
+(3) When an employer is required to cease withholding
+earnings pursuant to a prior earnings withholding order, the
+employer shall notify the levying officer who served the prior
+earnings withholding order that a supervening earnings
+withholding order for elder or dependent financial abuse is in
+effect. (Added by Stats.1982, c. 1364, p. 5173, § 2, operative
+July 1, 1983. Amended by Stats.2010, c. 64 (A.B.2619), § 2,
+operative Jan. 1, 2012.)
+
+prior knowledge. Subdivision (c) makes clear that an employer will
+not be subject to liability for having withheld and paid over amounts
+pursuant to an order prior to service of a written notice of
+termination of the order.
+
+Transactions
+
+Assignor’s Revocation of Assignment of Wages or Salary.
+West’s California Judicial Council Forms WG-002, Earnings Withholding Order (Wage Garnishment).
+
+In such a case, the employee must look to
+
+the judgment creditor for the recovery of amounts previously paid to
+the judgment creditor. .See Section 706.154 (employer entitled to
+
+909
+
+§ 706.023
+
+CODE
+
+OF CIVIL PROCEDURE
+calendar month up to the close of the employee’s pay period
+ending closest to the last day of that month, and thereafter
+each monthly payment shall include amounts withheld from
+the employee’s earnings for services rendered in the interim
+up to the close of the employee’s pay period ending closest to
+the last day of the preceding calendar month.
+(b) The employer may elect to pay the amounts withheld
+to the levying officer more frequently than monthly. If the
+employer so elects, payment of the amount withheld from the
+employee’s earnings for each pay period shall be made not
+later than 10 days after the close of the pay period. (Added
+
+Research References
+Forms
+
+West’s California Judicial Council Forms WG-030, Earnings Withholding Order for Elder or Dependent Adult Financial Abuse
+(Wage Garnishment).
+Treatises and Practice Aids
+
+Rutter Group Practice
+Financial Abuse.
+
+§ 706.024.
+
+Guide:
+
+Elder
+
+Abuse
+
+Litigation
+
+Ch.
+
+8,
+
+Amount required to satisfy earnings withholding
+
+order; discretionary notice; accrual of interest
+
+by Stats.1982,
+
+(a) The amount required to satisfy an earnings withholding
+order is the total amount required to satisfy the writ of
+execution on the date the order is issued, with the following
+additions and subtractions:
+(1) The addition of the statutory fee for service of the
+order and any other statutory fees for performing duties
+under the order.
+(2) The addition of costs added to the order pursuant to
+Section 685.090.
+(3) The subtraction of the amount of any partial satisfactions.
+(4) The addition of daily interest accruing after issuance of
+the order, as adjusted for partial satisfactions.
+(b) From time to time the levying officer, in the levying
+officer’s discretion, may give written notice to the employer
+of the amount required to satisfy the earnings withholding
+order and the employer shall determine the total amount to
+withhold based upon the levying officer’s notice, notwithstanding a different amount stated in the order originally
+served on the employer.
+(c) If the full amount required to satisfy the earnings
+withholding order as stated in the order or in the levying
+officer’s notice under subdivision (b) is withheld from the
+judgment debtor’s earnings, interest ceases to accrue on that
+
+c. 1364, p. 5173, § 2, operative July 1, 1983.)
+Law Revision Commission Comments
+
+1982 Addition
+Section 706.025 specifies when the amounts withheld pursuant to
+an earnings withholding order must be paid over to the levying
+officer. As to payment to the employee if an exemption claim is
+allowed, see Section 706.105(i). Regardless whether payment is
+required, the employer is required to send an employer’s return to
+the levying officer. See Sections 706.104 and 706.126.
+Section
+706.025 continues former Section 723.025. [16 Cal.L.Rev.Comm.
+Reports 1448 (1982)].
+
+§ 706.026. Levying officer; receipt, accounting,
+ment of amounts received; electronic filing
+
+and pay-
+
+(a) The levying officer shall receive and account for all
+amounts paid by the employer pursuant to Section 706.025
+and shall pay the amounts so received over to the person
+entitled thereto at least once every 30 days.
+(b) At least once every two years, the levying officer shall
+file an accounting with the court, as provided by Section
+699.560, for all amounts collected under the earnings withholding order, including costs and interest added to the
+amount due. Subject to the limitations in subdivision (c) of
+Section 263, the levying officer may electronically file the
+accounting with the court, pursuant to Chapter 2 (commencing with Section 263) of Title 4 of Part 1. (Added by
+Stats.1982, c. 1364, p. 5174, § 2, operative July 1, 1983.
+
+amount. (Added by Stats.1992, c. 283 (S.B.1372), § 6, eff. July
+21, 1992.)
+Law Revision Commission Comments
+
+Amended by Stats.1992, c. 283 (S.B.1372), § 7, eff. July 21,
+1992; Stats.2010, c. 680 (A.B.2394), § 12.)
+
+1992 Addition
+
+Law Revision Commission Comments
+
+Section 706.024 is new. This section provides for adjustment of
+the total amount required to satisfy an earnings withholding order.
+Since an active order continues
+
+1982 Addition
+
+Section 706.026 continues subdivision (a) of former Section
+723.026. The remainder of former Section 723.026 (which in effect
+extended the time for return of the writ of execution) has not been
+continued because this portion is no longer necessary in view of
+Section 699.560 which extends generally the time for return of writs
+of execution. [16 Cal.L.Rev.Comm. Reports 1449 (1982)].
+
+in force until it is satisfied, full
+
+satisfaction of the judgment may not occur unless the total amount
+due as stated in the order as issued is adjusted as provided in
+subdivision (a).
+See also Sections 685.030 (accrual of interest and satisfaction),
+685.050 (costs and interest under writ), 685.090(c) (costs added to
+writ or order after issuance), 695,210 (amount required to satisfy
+money judgment), 699.520(e) (amount enforceable under writ of
+execution),
+706.101(c)
+(notice by first class mail).
+[21
+Cal.L.Rev.Comm.Reports 135 (1991)].
+
+1992 Amendment
+
+Subdivision (b) is added to Section 706.026 to provide for an
+accounting to the court of activities under an earnings withholding
+order. See Section 680.160 (“court” defined). This account is in the
+nature of a return on a writ and is required whether or not the writ
+
+§ 706.025.
+
+Payments to levying officer
+(a) Except as provided in subdivision (b), the amount
+required to be withheld pursuant to an earnings withholding
+order shall be paid monthly to the levying officer not later
+than the 15th day of each month.
+The initial monthly
+payment shall include all amounts required to be withheld
+from the earnings of the employee during the preceding
+
+has been returned.
+
+See Section 699.560 (return of writ of execution).
+
+When the earnings withholding order terminates, the levying officer
+is to make a supplemental return on the writ. See Section 706.033
+(supplemental return).
+The change in subdivision (a) is a technical, nonsubstantive change
+intended to conform the language of this section to Section 706.025.
+[21 Cal.L.Rev.Comm.Reports 135 (1991)].
+
+910
+
+§ 706.030
+
+OF CIVIL ACTIONS
+§ 706.027.
+
+Notice of satisfaction of judgment
+
+duties under the order. (Added by Stats.1992, c. 283 (S.B.
+1372), $ 9, eff. July 21, 1992.)
+
+If the judgment pursuant to which the earnings withholding
+order is issued is satisfied before the order otherwise
+terminates pursuant to Section 706.022, the judgment creditor shall promptly notify the levying officer who shall
+promptly terminate the order by serving a notice of termination on the employer. (Added by Stats.1982, c. 1364, p.
+
+Law Revision Commission
+
+Section 706.028 is new. This section provides for a final earnings
+withholding order for costs and interest and supersedes former
+Section 706.028 (subsequent order for costs and interest). The new
+“final order” differs from the “subsequent order” under former law
+since it permits a full satisfaction of the money judgment through
+wage garnishment by stopping the running of interest on the
+remaining balance due on the judgment (which balance comprises
+earlier costs and interest). The amount stated as due on a final
+earnings withholding order may be increased only by statutory costs.
+
+5174, $ 2, operative July 1, 1983.)
+Law Revision Commission
+
+Comments
+
+1982 Addition
+
+Section 706.027 continues former Section 723.027 and requires the
+judgment creditor to give notice of satisfaction of the judgment to the
+levying officer if the earnings withholding order has not yet terminated. See Section 706.022 (withholding period). In some cases, the
+employer will be aware of the satisfaction by virtue of the employer’s
+having withheld the amount necessary to satisfy the judgment. See
+Section 706.022(a) (2). In this case, Section 706.027 does not apply.
+However, the judgment may be satisfied by additional payments from
+the debtor or through other debt collection procedures instituted by
+the judgment creditor. If this is the case, Section 706.027 applies,
+and the judgment creditor has the duty to notify the levying officer
+promptly of the satisfaction so that the levying officer may serve a
+notice of termination on the employer. Service of the notice of
+termination is to be made on the person, and at the address,
+indicated in the employer’s return. See Sections 706.101(c) and
+706.126(b) (6). As to the general duty of a creditor to furnish a
+debtor a satisfaction of judgment, see Chapter 1 (commencing with
+Section 724.010) of Division 5. Failure to perform the duty imposed
+by this section may make the judgment creditor liable in an action for
+abuse of process. See White Lighting Co. v. Wolfson, 68 Cal.2d 336,
+347-51, 438 P.2d 345, 351-54, 66 Cal.Rptr. 697, 703-06 (1968). [16
+Cal.L.Rev.Comm. Reports 1449 (1982)].
+
+See Gov't Code §§ 26746 (disbursement fee), 26750 (fee for service
+
+and other duties under earnings withholding order).
+In other
+respects, as provided in subdivision (c), a final earnings withholding
+order is treated the same as any other earnings withholding order.
+If the principal amount of the judgment is not fully satisfied before
+an earnings withholding order is terminated, another order may be
+issued to collect the balance due on the judgment pursuant to this
+chapter.
+See Section 706.102 (issuance of earnings withholding
+order). This later earnings withholding order is distinct from a final
+earnings withholding order for costs and interest provided by this
+section.
+A final earnings withholding order is not available where the full
+amount due on the judgment has been collected under the initial
+earnings withholding order pursuant to the optional procedure set
+
+forth in Section 706.024.
+§ 706.029.
+
+Research References
+
+Assignor’s
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 16:94,
+
+Revocation
+
+of Assignment
+
+of Wages
+
+or Salary.
+
+[21 Cal.L.Rev.Comm.Reports 135 (1991)].
+
+Service of order creating lien; duration
+
+Service of an earnings withholding order creates a lien
+upon the earnings of the judgment debtor that are required
+to be withheld pursuant to the order and upon all property of
+the employer subject to the enforcement of a money judgment in the amount required to be withheld pursuant to such
+order. The lien continues for a period of one year from the
+date the earnings of the judgment debtor become payable
+unless the amount required to be withheld pursuant to the
+order is paid as required by law. (Added by Stats.1982, c.
+1364, p. 5174, § 2, operative July 1, 1983.)
+
+Forms
+
+3 California
+
+Comments
+
+1992 Addition
+
+§ 706.028. Final earnings withholding order for costs and
+interest
+
+(a) “Final earnings withholding order for costs and interest” means an earnings withholding order for the collection
+
+Research References
+Forms
+
+only of unsatisfied costs and interest, which is issued after an
+
+earlier earnings withholding order has been returned satisfied.
+
+2B Am. Jur. Pl. & Pr: Forms Attachment and Garnishment
+
+(b) After the amount stated as owing in a prior earnings
+withholding order is paid, the judgment creditor may obtain a
+final earnings withholding order for costs and interest to
+collect amounts of costs and interest that were not collected
+under the prior earnings withholding order.
+
+Treatises and Practice Aids
+
+§ 230,
+
+Introductory Comments.
+
+11 Witkin, California Summary
+(2018), In General.
+
+10th. Husband
+
+§ 706.030. Withholding order for support;
+earnings withholding order
+
+(c) A final earnings withholding order for costs and
+interest shall be enforced in the same manner as other
+earnings withholding orders.
+
+and Wife
+
+§ 271
+
+operation with
+
+(a) A “withholding order for. support” is an earnings
+withholding order issued on a writ of execution to collect
+delinquent amounts payable under a judgment for the
+support of a child, or spouse or former spouse, of the
+judgment debtor. A withholding order for support shall be
+denoted as such on its face.
+
+(d) Satisfaction of the amount stated as owing in a final
+earnings withholding order for costs and interest is equivalent
+to satisfaction of the money judgment. For this purpose,
+interest ceases to accrue on the date of issuance of the final
+earnings withholding order and no additional costs may be
+added after that date, except for the statutory fee for service
+of the order and any other statutory fees for performing
+
+(b) The local child support agency may issue a withholding
+order for support on a notice of levy pursuant to Section
+17522 of the Family Code to collect a support obligation.
+
+911
+
+§ 706.030
+
+CODE
+
+OF CIVIL PROCEDURE
+(c) Notwithstanding any other provision of this chapter:
+(1) An employer shall continue to withhold pursuant to a
+withholding order for support until the earliest of the dates
+specified in paragraph (1), (2), or (3) of subdivision (a) of
+Section 706.022, except that a withholding order for support
+shall automatically terminate one year after the employment
+of the employee by the employer terminates.
+(2) A withholding order for support has priority over any
+other earnings withholding order. An employer upon whom
+a withholding order for support is served shall withhold and
+pay over earnings of the employee pursuant to that order
+notwithstanding the requirements of another earnings withholding order.
+(3) Subject to paragraph (2) and to Article 3 (commencing
+with Section 706.050), an employer shall withhold earnings
+pursuant to both a withholding order for support and another
+earnings withholding order simultaneously.
+(4) An employer who willfully fails to withhold and
+forward support pursuant to a valid earnings withholding
+order for support issued and served upon the employer
+pursuant to this chapter is liable to the support obligee, as
+defined in Section 5214 of the Family Code, for the amount
+of support not withheld, forwarded, or otherwise paid to the
+support obligee.
+(5) Notwithstanding any other provision of law, an employer shall send all earnings withheld pursuant to a withholding order for support to the levying officer or the State
+Disbursement Unit as described in Section 17309 of the
+Family Code within the time period specified by federal law.
+(6) Once the State Disbursement Unit as described in
+Section 17309 of the Family Code is operational, all support
+payments made pursuant to an earnings withholding order
+shall be made to that unit.
+(7) Earnings withheld pursuant to an earnings withholding
+order for support shall be credited toward satisfaction of a
+support judgment as specified in Section 695.221. (Added by
+
+(1) When the local child support agency issues a withholding order for support, a reference in this chapter to a levying
+officer is deemed to mean the local child support agency who
+issues the withholding order for support.
+(2) Service of a withholding order for support issued by
+the local child support agency may be made by first-class mail
+or in any other manner described in Section 706.101. Service
+of a withholding order for support issued by the local child
+support agency is complete when it is received by the
+employer or a person described in paragraph (1) or (2) of
+subdivision (a) of Section 706.101, or if service is by first-class
+mail, service is complete as specified in Section 1013.
+(3) The local child support agency shall serve upon the
+employer the withholding order for support, a copy of the
+order, and a notice informing the support obligor of the effect
+of the order and of his or her right to hearings and remedies
+provided in this chapter and in the Family Code. The notice
+shall be accompanied by the forms necessary to obtain an
+administrative review and a judicial hearing and instructions
+on how to file the forms. Within 10 days from the date of
+service, the employer shall deliver to the support obligor a
+copy of the withholding order for support, the forms to obtain
+an administrative review and judicial hearing, and the notice.
+If the support obligor is no longer employed by the employer
+and the employer does not owe the support obligor any
+earnings, the employer shall inform the local child support
+agency that the support obligor is no longer employed by the
+employer.
+(4) An employer who fails to comply with paragraph (3)
+shall be subject to a civil penalty of five hundred dollars
+
+($500) for each occurrence.
+(5) The local child support agency shall provide for an
+administrative review to reconsider or modify the amount to
+be withheld for arrearages pursuant to the withholding order
+for support, if the support obligor requests a review at any
+time after service of the withholding order. The local child
+support agency shall provide the review in the same manner
+and timeframes provided for resolution of a complaint
+pursuant to Section 17800 of the Family Code. The local
+child support agency shall notify the employer if the review
+results in any modifications to the withholding order for
+support. If the local child support agency cannot complete
+the administrative review within 30 calendar days of receipt
+of the complaint, the local child support agency shall notify
+the employer to suspend withholding any disputed amount
+pending the completion of the review and the determination
+by the local child support agency.
+(6) Nothing in this section prohibits the support obligor
+from seeking a judicial determination of arrearages pursuant
+to subdivision (c) of Section 17256 of the Family Code or
+from filing a motion for equitable division of earnings
+pursuant to Section 706.052 either prior to or after the
+administrative review provided by this section. Within five
+business days after receiving notice of the obligor having filed
+for judicial relief pursuant to this section, the local child
+support agency shall notify the employer to suspend withholding any disputed amount pending a determination by the
+court. The employer shall then adjust the withholding within
+not more than nine days of receiving the notice from the local
+child support agency.
+
+Stats.1982,
+
+c.
+
+1364,
+
+p. 5174,
+
+$ 2, operative July 1, 1983.
+
+Amended by Stats.1992, c. 283 (S.B.1372), § 10, eff. July 21,
+1992; Stats.1997, c. 599 (A.B.573), § 5; Stats.2000, c. 808
+(A.B.1358), § 17, eff: Sept. 28, 2000; Stats.2001, c.. 755
+(S.B.943), $ 1, eff: Oct. 12, 2001; Stats.2003, c. 387 (A.B.739),
+
+§ 1.)
+Law Revision Commission
+
+Comments
+
+1982 Addition
+Section 706.030 continues former Section 723.030 and provides
+special rules for an earnings withholding order to enforce a judgment
+for delinquent support payments for a child or spouse or former
+spouse of the judgment debtor. An earnings withholding order for
+support is given a different effect than other withholding orders: It is
+
+effective until the employer has withheld the full amount specified in
+the order or he is served with a notice of termination, in which case
+
+the date of termination will be specified in the notice.
+See
+subdivision (b) (1). Thus, the withholding order for support does not
+terminate 100 days after service (it may, of course, be modified).
+The withholding order for support is subject to special exemption
+rules (see Section 706.052). Even when in effect, it does not
+necessarily preclude withholding on either a prior or subsequent
+earnings withholding order. If not earlier terminated, the withholding order for support automatically terminates one year after the
+employment of the employee terminates. Thus, for example, if the
+
+912
+
+§ 706.031
+
+OF CIVIL ACTIONS
+employee returns to work for the same employer within one year
+from the date his employment terminated, the employer must
+withhold pursuant to the withholding order for support. On the
+other hand, if the employee does not return to work until more than
+one year from the date his employment terminated, the order expires
+at the end of the year, and nothing is withheld pursuant to the order
+when the employee returns to work.
+The earnings withholding order for support is given priority over
+any other earnings withholding order.
+But see Section 706.031
+(wage assignment for support given priority). However, a prior
+earnings withholding order remains in effect, and a judgment creditor
+may still obtain an earnings withholding order even where there is
+already in effect a prior earnings withholding order for support.
+Thus, where there are two earnings withholding orders in effect—one
+for support and one for another obligation—the amount withheld for
+support is deducted from the employee’s earnings first. The amount,
+if any, that may be withheld pursuant to the other earnings
+withholding order is determined by subtracting the amount withheld
+pursuant to the withholding order for support from the amount that
+otherwise could be withheld pursuant to the other earnings withholding order.
+
+See
+
+Comments
+
+thereto.
+
+Sections
+
+706.077,
+
+706.050,
+
+[16 Cal.L.Rev.Comm.
+
+and
+
+706.051
+
+and
+
+withholding order does not exceed the amount that may be
+withheld under Article 3 (commencing with Section 706.050).
+(e) The employer shall withhold pursuant to an earnings
+withholding order for taxes only to the extent that the sum of
+the amount withheld pursuant to any earnings assignment
+order for support and the amount withheld pursuant to the
+earnings withholding order for taxes does not exceed the
+amount that may be withheld under Article 4 (commencing
+with Section 706.070). (Added by Stats.1982, c. 1364, p. 5175,
+§ 2, operative July 1, 1983. Amended by Stats.1992, c. 163
+(A.B.2641), § 47, operative Jan. 1, 1994.)
+Law Revision Commission
+
+Section 706.031 continues former Section 723.031 and states the
+effect of a wage assignment for support (defined in subdivision (g) of
+Section 706.011) on an earnings withholding order.
+Subdivision (a) makes clear that nothing in this chapter affects the
+wage assignment for support, and subdivision (b) makes clear that
+the wage assignment has priority over any earnings withholding
+order, including a withholding order for support under Section
+706.030. Under subdivision (b), the employer is required to notify
+the levying officer who earlier served an earnings withholding order if
+that order is completely superseded by the wage assignment.
+It
+should be noted that “levying officer’? includes the state agency
+where a withholding order for taxes is superseded.
+See Section
+
+the
+
+Reports 1452 (1982)].
+
+1992 Amendment
+
+Section 706.030(b)(1) is amended to correct the cross-reference to
+Section 706.022 (as amended by 1989 Cal.Stat. ch. 263, § 1). This is
+a technical, nonsubstantive change. [21 Cal.L.Rev.Comm.Reports
+135 (1991)].
+
+706.073.
+Subdivisions (b) and (d) of Section 706.031 make clear that, where
+any wage assignment for support is in effect, the amount withheld
+from the debtor’s earnings pursuant to any such wage assignment is
+deducted from the amount that otherwise would be withheld under
+Section 706.050 on an earnings withholding order to enforce an
+ordinary money judgment or that otherwise would be withheld where
+a portion of the debtor’s earnings have been determined to be
+exempt under Section 706.051. Suppose, for example, that a wage
+assignment for support is in effect which requires that $40 per week
+be withheld. Assume that Section 706.050 limits the amount that
+may be withheld to $56. To determine the maximum amount that
+may be withheld pursuant to the earnings withholding order (absent
+any exemption allowed under Section 706.051), the $40 withheld
+pursuant to the wage assignment for support is subtracted from the
+$56, leaving $16 as the maximum amount that may be withheld
+pursuant to the earnings withholding order. For a special rule
+applicable when the earnings withholding order is on a judgment for
+delinquent amounts payable for child or spousal support, see
+Sections 706.030 and 706.052. The rule stated in subdivision (d) of
+Section 706.031 is required to avoid conflict with the federal
+Consumer Credit Protection Act. That act requires that the amount
+withheld pursuant to any wage assignment for support be included in
+determining whether any amount may be withheld pursuant to an
+earnings withholding order on an ordinary judgment. See subdivision (c) of Section 302 of the act, 15 U.S.C. § 1672(c) (1970)
+(“garnishment” means “any legal or equitable procedure through
+which the earnings of any individual are required to be withheld for
+payment of any debt”) and [1969-1973 Transfer Binder] Lab.L.Rep.
+(CCH) para. 30.813.
+Under subdivision (e), the amount that could be withheld pursuant
+to a withholding order for taxes would be computed in the same
+manner as for an ordinary earnings withholding order pursuant to
+Section 706.050 unless the withholding order for taxes is obtained
+under Section 706.076. [16 Cal.L.Rev.Comm. Reports 1454 (1982)].
+
+Research References
+Forms
+
+West’s California Judicial Council Forms WG-004,
+
+Earnings With-
+
+holding Order for Support.
+Treatises and Practice Aids
+11 Witkin,
+
+California
+
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+§ 285
+
+(2018), In General.
+10 Witkin, California Summary 10th Parent and Child § 537 (2018),
+
+Levy by Agency.
+
+§ 706.031.
+Earnings assignment order for support;
+tion with earnings withholding order
+
+Comments
+
+1982 Addition
+
+opera-
+
+(a) Nothing in this chapter affects an earnings assignment
+order for support.
+(b) An earnings assignment order for support shall be
+given priority over any earnings withholding order.
+An
+employer upon whom an earnings assignment order for
+support is served shall withhold and pay over the earnings of
+the employee pursuant to the assignment order notwithstanding the requirements of any earnings withholding order.
+When an employer is required to cease withholding earnings
+pursuant to an earnings withholding order, the employer shall
+notify the levying officer who served the earnings withholding
+order that a supervening earnings assignment order for
+support is in effect.
+(c) Subject to subdivisions (b), (d), and (e), an employer
+shall withhold earnings of an employee pursuant to both an
+earnings assignment order for support and an earnings
+withholding order.
+(d) The employer shall withhold pursuant to an earnings
+withholding order only to the extent that the sum of the
+amount withheld pursuant to any earnings assignment order
+for support and the amount withheld pursuant to the earnings
+
+1992 Amendment
+
+Section 706.031 is amended to conform to the terminology of the
+Family Code. See Chapter 8 (commencing with Section 5200) of
+Part 5 of Division 9 of the Family Code (earnings assignment order
+
+913
+
+§ 706.031
+
+CODE
+
+OF CIVIL PROCEDURE
+
+for support). “Earnings assignment order for support” is defined in
+Section 706.011. .[22 Cal.L.Rev.Comm.Reports 1 (1992)].
+
+Research References
+Forms
+
+3 California
+
+Research References
+
+Assignor’s
+
+Transactions
+
+Forms--Business
+
+Transactions
+
+§ 16:94,
+
+Revocation
+
+of Assignment
+
+of Wages
+
+or Salary.
+
+Forms
+
+§ 706.033. Return of writ before earnings withholding
+order terminates; supplemental return on writ
+
+West’s California Judicial Council Forms FL-435, Earnings Assign-
+
+ment Order for Spousal or Partner Support.
+
+If the writ is returned before the earnings withholding
+order terminates, on termination of the earnings withholding
+order the levying officer shall make a supplemental return on
+the writ. The supplemental return shall contain the same
+information as an original return pursuant to Section 699.560.
+(Added by Stats.1992, c. 283 (S.B.1372), § 12, eff. July 21,
+1992.)
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), In General.
+11 Witkin, California Summary
+
+10th
+
+Husband
+
+10th Husband
+
+and Wife
+
+§ 271
+
+and
+
+§ 277
+
+Wife
+
+(2018), Priorities.
+
+§ 706.032.
+
+Termination of earnings withholding orders
+Law Revision Commission Comments
+
+(a) Except as otherwise provided by statute:
+
+1992 Addition
+
+(1) If withholding under an earnings withholding order
+ceases because the judgment debtor’s employment has terminated, the earnings withholding order terminates at the
+conclusion of a continuous 180-day period during which no
+amounts are withheld under the order.
+
+Section 706.033 is new. This section provides explicit authority for
+making a supplemental return on a writ where withholding under an
+earnings withholding order continues after the writ is returned. See
+also Section 706.026 (account of levying officer for amounts collected). [21 Cal.L.Rev.Comm.Reports 135 (1991)].
+
+(2) If withholding under an earnings withholding order
+ceases because the judgment debtor’s earnings are subject to
+an order or assignment with higher priority, the earnings
+withholding order terminates at the conclusion of a continuous two-year period during which no amounts are withheld
+under the order.
+
+§ 706.034. Deduction from employee earnings for payments
+made in accordance with earnings withholding order
+
+The employer may deduct from the earnings of the
+employee the sum of one dollar and fifty cents ($1.50) for
+each payment made in accordance with an earnings withholding order issued pursuant to this chapter.
+(Added by
+Stats.1997, c. 137 (A.B.519), § I. Amended by Stats.2004, c.
+520 (A.B.2530), $ 1.)
+
+(b) If an earnings withholding order has terminated pursuant to subdivision (a), the employer shall return the order to
+the levying officer along with a statement of the reasons for
+returning the order. (Added by Stats.1992, c. 283 (S.B.1372),
+§ 11, eff. July 21, 1992.)
+Law Revision Commission
+
+ARTICLE 3. RESTRICTIONS ON
+EARNINGS WITHHOLDING
+
+Comments
+
+Section
+706.050.
+
+1992 Addition
+
+Section 706.032 is new. This section provides for the automatic
+termination of dormant or suspended earnings withholding orders in
+favor of general creditors. If the debtor leaves employment after an
+earnings withholding order has become effective, the duty to
+withhold continues for 180 days under subdivision (a)(1). If the
+debtor returns to work during this period, the employer is required to
+resume withholding pursuant to the order. If withholding under a
+general creditor’s earnings withholding order is suspended because of
+withholding under an earnings withholding order or assignment for
+support or an earnings withholding order for taxes, the suspended
+order remains in effect until two years have elapsed with no
+withholding. See Sections 706.030 (support orders), 706.031 (wage
+assignment for support), 706.078 (tax orders).
+
+706.051.
+
+706.052.
+
+Maximum amount of disposable earnings of an
+individual judgment debtor subject to levy.
+Amount necessary for support of judgment debtor
+or family; exemption.
+Disposable earnings and earnings withheld pursuant
+to earning assignment order for support; exemption; equitable division of earnings by court.
+
+706.050. Maximum amount of disposable earnings of an
+individual judgment debtor subject to levy
+
+(a) Except as otherwise provided in this chapter, the
+maximum amount of disposable earnings of an individual
+judgment debtor for any workweek that is subject to levy
+under an earnings withholding order shall not exceed the
+lesser of the following:
+
+The employer has a duty under subdivision (b) to determine
+whether an earnings withholding order has terminated under subdivision (a) and to return the order to the levying officer.
+
+(1) Twenty-five percent
+earnings for that week.
+
+For a special rule concerning termination of earnings withholding
+orders for support, see Section 706.030(b)(1). For a special rule
+concerning termination of earnings withholding orders for taxes, see
+Section 706.078(c).
+
+of the individual’s
+
+disposable
+
+(2) Fifty percent of the amount by which the individual’s
+disposable earnings for that week exceed 40 times the state
+minimum hourly wage in effect at the time the earnings are
+payable. If a judgment debtor works in a location where the
+local minimum hourly wage is greater than the state minimum hourly wage, the local minimum hourly wage in effect at
+the time the earnings are payable shall be used for the
+calculation made pursuant to this paragraph.
+
+If the debtor is not employed and no earnings are due when the
+withholding period would begin under Section 706.022, the service of
+the order is ineffective and is not subject to the 180-day rule or twoyear rule in this section.
+See Section
+706.104(a).
+[22
+Cal.L.Rey.Comm.Reports 987 (1992)].
+
+914
+
+§ 706.052
+
+OF CIVIL ACTIONS
+(b) For any pay period other than weekly, the following
+multipliers shall be used to determine the maximum amount
+of disposable earnings subject to levy under an earnings
+withholding order that is proportional in effect to the
+calculation described in paragraph (2) of subdivision (a),
+except as specified in paragraph (1):
+(1) For a daily pay period, the amounts shall be identical
+to the amounts described in subdivision (a).
+(2) For a biweekly pay period, multiply the applicable
+hourly minimum wage by 80 work hours.
+(3) For a semimonthly pay period, multiply the applicable
+hourly minimum wage by 86 % work hours.
+(4) For a monthly pay period, multiply the applicable
+hourly minimum wage by 173 4 work hours.
+(c) This section shall become operative on July 1, 2016.
+(Added by Stats.2015, c. 800 (S.B.501), § 2, eff: Jan. 1, 2016,
+operative July 1, 2016.)
+
+the United States Code) of the judgment debtor, plus any
+amount withheld from the judgment debtor’s earnings pursuant to any earnings assignment order for support, is exempt
+from levy under this chapter where the earnings withholding
+order is a withholding order for support under Section
+706.030.
+(b) Except as provided in subdivision (c), upon motion of
+any interested party, the court shall make an equitable
+division of the judgment debtor’s earnings that takes into
+account the needs of all the persons the judgment debtor is
+required to support and shall effectuate such division by an
+order determining the amount to be withheld from the
+judgment debtor’s earnings pursuant to the withholding order
+for support.
+(c) An order made under subdivision (b) may not authorize the withholding of an amount in excess of the amount that
+may be withheld for support under federal law under Section
+1673 of Title 15 of the United States Code.
+(Added by
+
+Research References
+
+Stats.1982, c. 1364, p. 5176, § 2, operative July 1, 1983.
+Amended by Stats.1992, c. 163 (A.B.2641), § 48, operative Jan.
+
+Forms
+
+Asset Protection:
+
+Legal Planning, Strategies and Forms
+Appendix A.05 California (Opt Out State).
+
+1, 1994.)
+
+9 A.0S,
+
+Law Revision Commission Comments
+
+1982 Addition
+
+Treatises and Practice Aids
+California Practice Guide: Employment Litigation Ch. 11-D, Payment of Wages.
+
+§ 706.051. Amount necessary for
+debtor or family; exemption
+
+support
+
+Section 706.052 continues former Section 723.052 except that
+subdivision (c) is added to reflect that the court’s authority under
+subdivision (b) is limited by the maximum amounts that may be
+withheld under federal law. See 15 U.S.C. § 1673(b) (2) (Supp.
+1979).
+Subdivision (a) of Section 706.052 prescribes the exemption
+applicable to a wage garnishment for the collection of delinquent
+child or spousal support payments except in cases where the court has
+made an equitable division pursuant to subdivision (b). The
+judgment debtor’s earnings that are subject to the 50 percent
+exemption under subdivision (a) are “disposable earnings” as defined
+
+of judgment
+
+(a) For the purposes of this section, “family of the
+judgment debtor” includes the spouse or former spouse of
+the judgment debtor.
+(b) Except as provided in subdivision (c), the portion of
+the judgment debtor’s earnings that the judgment debtor
+proves is necessary for the support of the judgment debtor or
+the judgment debtor’s family supported in whole or in part by
+the judgment debtor is exempt from levy under this chapter.
+(c) The exemption provided in subdivision (b) is not
+available if any of the following exceptions applies:
+(1) The debt was incurred pursuant to an order or award
+for the payment of attorney’s fees under Section 2030, 3121,
+or 3557 of the Family Code.
+(2) The debt was incurred for personal services rendered
+by an employee or former employee of the judgment debtor.
+(3) The order is a withholding order for support under
+Section 706.030.
+(4) The order is one governed by Article 4 (commencing
+with Section 706.070) (state tax order). (Added by Stats. 1982,
+c. 1364, p. 5175, § 2, operative July 1, 1983. Amended by
+Stats.2011, c. 694 (A.B.1388), § 1.)
+
+by the federal Consumer
+
+Credit Protection Act, 15 U.S.C.
+
+§ 1672
+
+(1976). Unlike federal law, however, subdivision (a) protects the
+same amount of earnings regardless of whether the judgment debtor
+is supporting a present and a former spouse or is more than 12 weeks
+delinquent. Federal law permits garnishment of 50 percent of the
+employee’s earnings if the employee is supporting a spouse or
+dependent other than the person who caused the garnishment and 60
+percent if the employee is not supporting such additional persons;
+these percentages are increased to 55 percent and 65 percent,
+respectively, if the support payments are more than 12 weeks
+delinquent. See 15 U.S.C. § 1673(b) (2) (Supp.1979).
+Subdivision (a) also makes clear that, in applying the 50 percent
+exemption, the amount withheld from the earnings of the judgment
+debtor pursuant to any wage assignment for support (defined in
+subdivision (g) of Section 706.011) is included in computing the 50
+percent of the judgment debtor’s earnings that may be withheld. For
+example, if 30 percent of the judgment debtor’s earnings are withheld
+pursuant to a wage assignment for support, an additional 20 percent
+may be withheld pursuant to the earnings withholding order for the
+collection of delinquent amounts payable for child or spousal
+
+Research References
+
+support.
+
+Forms
+
+Subdivision (b) makes the 50 percent standard provided by
+subdivision (a) subject to the power of the court to make an order
+that more or less of the judgment debtor’s earnings be withheld
+where the earnings withholding order is issued to collect delinquent
+child or spousal support payments. Subdivision (c) makes clear that
+the court may not order the withholding of an amount in excess of
+that permitted by federal law. This maximum amount varies
+depending upon whether the judgment debtor is supporting more
+than one person or is more than 12 weeks delinquent. The authority
+
+West’s California Judicial Council Forms WG-026, Claim of Exemp-
+
+tion and Financial Declaration (State Tax Liability).
+
+§ 706.052.
+Disposable earnings and earnings withheld pursuant to earning assignment order for support; exemption; equitable division of earnings by court
+
+(a) Except as provided in subdivision (b), one-half of the
+disposable earnings (as defined by Section 1672 of Title 15 of
+
+915
+
+§ 706.052
+
+CODE
+
+OF CIVIL PROCEDURE
+
+of the court to make an equitable division of the judgment debtor’s
+earnings between, for example, the debtor and a former spouse, or
+between a former spouse and a present family, is based on decisions
+under a former statute. See, e.g., Rankins v. Rankins, 52 Cal.App.2d
+
+§ 917.7. Appeal; stay of proceedings
+order affecting custody
+
+visitation, of a minor child in any civil action, in an action
+
+filed under the Juvenile Court Law, or in a special proceeding, or the provisions of a judgment or order for the
+temporary exclusion of a party from a dwelling, as provided in
+the Family Code.
+However, the trial court may in its
+discretion stay execution of these provisions pending review
+on appeal or for any other period or periods that it may deem
+appropriate. Further, in the absence of a writ or order of a
+reviewing court providing otherwise, the provisions of the
+judgment or order allowing, or eliminating restrictions
+against, removal of the minor child from the state are stayed
+by operation of law for a period of seven calendar days from
+the entry of the judgment or order by a juvenile court in a
+dependency hearing, or for a period of 30 calendar days from
+the entry of judgment or order by any other trial court. The
+periods during which these provisions allowing, or eliminating
+
+1992 Amendment
+
+Subdivision (a) of Section 706.052 is amended to conform to the
+
+terminology of the Family Code. See Chapter 8 (commencing with
+Section 5200) of Part 5 of Division 9 of the Family Code (earnings
+assignment order for support). “Earnings assignment order for
+support” is defined in Section 706.011. [22 Cal.L.Rev.Comm.Reports 1 (1992)].
+Research References
+Forms
+West’s California Judicial Council Forms FL-460, Qualified Domes-
+
+tic Relations Order for Support.
+
+restrictions against, removal of the minor child from the state
+
+Earnings With-
+
+are stayed, are subject to further stays as ordered by the trial
+court or by the juvenile court pursuant to this section. An
+order directing the return of a child to a sister state or
+country, including any order effectuating that return, made in
+a proceeding brought pursuant to the Uniform Child Custody
+Jurisdiction and Enforcement Act (Part 3 (commencing with
+Section 3400) of Division 8 of the Family Code), the Parental
+Kidnapping Prevention Act of 1980 (28 U.S.C. Sec. 1738A),
+or the Hague Convention on the Civil Aspects of International Child Abduction (implemented pursuant to the International Child Abduction Remedies Act (42 U.S.C. Secs.
+11601-11610)) is not a judgment or order which awards,
+changes, or otherwise affects the custody of a minor child
+within the meaning of this section, and therefore is not
+subject to the automatic stay provisions of this section.
+(Added by Stats.1968, c. 385, p. 818, § 2. Amended by
+
+holding Order for Support.
+West’s California Judicial Council Forms WG-030, Earnings Withholding Order for Elder or Dependent Adult Financial Abuse
+(Wage Garnishment).
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 478 (2018),
+Application and Order.
+10 Witkin, California Summary 10th Parent and Child § 536 (2018),
+In General.
+
+ARTICLE 5. PROCEDURE FOR EARNINGS
+WITHHOLDING ORDERS AND
+EXEMPTION CLAIMS
+Section
+706.109.
+
+Earnings withholding order; issuance against spouse
+of judgment debtor.
+
+§ 706.109.
+Earnings withholding
+spouse of judgment debtor
+
+order;
+
+issuance
+
+Stats.1971, c. 1210, p. 2328, § 9; Stats.1981, c. 714, p. 2596,
+$ 70; Stats.1992,
+
+against
+
+reference to specific dwellings.
+This allows the Family Code
+provisions relating to exclusion from a dwelling to control the details
+of this type of order. This is not a substantive change, but prevents a
+conflict from arising in the future where one statute is amended
+without making a similar revision to the other. For provisions of the
+Family Code relating to the exclusion of a party from a dwelling, see,
+e.g., Fam. Code §§ 6321 (ex parte order), 6340 (order after notice
+and hearing), 6360 (order included in judgment). [23 Cal.L.Rev.
+Comm. Reports 1 (1993)].
+
+Property § 182
+
+(2018), General Rule.
+
+Title 13
+APPEALS IN CIVIL ACTIONS
+CHAPTER 2. STAY OF ENFORCEMENT
+AND OTHER PROCEEDINGS
+
+917.75.
+
+[Revised Comment]
+
+Section 917.7 is amended to substitute a reference to the Family
+Code for the reference to former Civil Code Section 4359. A
+general reference to “a dwelling” has been substituted for the former
+
+Research References
+
+Section
+917.7.
+
+§ 55, operative Jan. 1,
+
+Law Revision Commission Comments
+1992 Amendment
+
+Treatises and Practice Aids
+
+10th Community
+
+c. 163 (A.B.2641),
+
+1994; Stats.1993, c. 219 (A.B.1500), § 69.5; Stats.1999, c. 346
+(S.B.518), § 1; Stats.2001, c. 48 (S.B.1151), § 1.)
+
+An earnings withholding order may not be issued against
+the earnings of the spouse of the judgment debtor except by
+court order upon noticed motion. (Added by Stats.1984, c.
+1671, § 20.)
+
+11 Witkin, California Summary
+
+or
+
+The perfecting of an appeal shall not stay proceedings as to
+those provisions of a judgment or order which award, change,
+or otherwise affect the custody, including the right of
+
+231, 126 P.2d 125 (1942).
+Under this section, an employer who receives an earnings withholding order for support will know that 50 percent of disposable
+earnings is to be withheld unless the employer is served with a court
+order requiring a greater or lesser amount to be withheld.
+For rules relating to the priority to be given a withholding order for
+support, see Section 706.030. [16 Cal.L.Rev.Comm. Reports 1457
+(1982)].
+
+West’s California Judicial Council Forms WG-004,
+
+as to judgment
+
+Commentary
+Lief v. Superior Court of San Diego County, 30 Cal.App.5th 868, 242
+Cal.Rptr.3d 52 (2018), granted the father’s petition for a writ of
+mandate, holding that the trial court erred in denying a father’s ex
+
+Appeal; stay of proceedings as to judgment or order
+affecting custody.
+Perfecting of an appeal; stay of enforcement.
+
+parte application to prevent the child’s mother from moving the child
+
+916
+
+OF CIVIL ACTIONS
+to Israel before expiration of this section’s 30-day stay of a judgment
+allowing removal of the child from California. Contrary to the
+determination of the family court, the 30-day stay began on the date
+of entry of judgment, not on the earlier date that the court tentatively
+granted the mother’s move-away request.
+
+(4) Motion to Quash Summons pursuant to subdivision (b)
+of Section 418.10.
+(5) Motion for Determination of Good Faith Settlement
+pursuant to Section 877.6.
+(6) Hearing for Discovery of Peace Officer Personnel
+Records in_a civil action pursuant to Section 1043 of the
+Evidence Code.
+(7) Notice of Hearing of Third-Party Claim pursuant to
+Section 720.320.
+(8) Motion for an Order to Attend Deposition more than
+150 miles from deponent’s residence pursuant to Section
+2025.260.
+(9) Notice of Hearing of Application for Relief pursuant
+to Section 946.6 of the Government Code.
+(10) Motion to Set Aside Default or Default Judgment
+and for Leave to Defend Actions pursuant to Section 473.5.
+(11) Motion to Expunge Notice of Pendency of Action
+pursuant to Section 405.30.
+(12) Motion to Set Aside Default and for Leave to Amend
+pursuant to Section 585.5.
+(13) Any other proceeding under this code in which notice
+is required, and no other time or method is prescribed by law
+or by court or judge.
+(b) Unless otherwise ordered or specifically provided by
+law, all moving and supporting papers shall be served and
+filed at least 16 court days before the hearing. The moving
+and supporting papers served shall be a copy of the papers
+
+Research References
+Forms
+
+West’s
+
+California
+
+Code
+
+Appeals—Custody
+Proceedings.
+West’s
+
+California
+
+Forms,
+
+Civil Procedure
+
+of Minor—Notice
+
+Code
+
+Forms,
+
+§ 917.7
+
+of Motion
+
+Civil Procedure
+
+Form
+
+1,
+
+for Stay of
+
+§ 917.7
+
+Form
+
+2,
+
+Appeals—Order Staying Change of Custody of Minor.
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 300 (2018),
+Appeal.
+10 Witkin, California Summary 10th Parent and Child § 342 (2018),
+Appeal.
+10 Witkin, California Summary 10th Parent and Child § 344 (2018),
+Federal International Child Abduction Acts.
+10 Witkin, California Summary 10th Parent and Child § 405 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 415 (2018),
+Issuance by Appellate Court.
+10 Witkin, California Summary 10th Parent and Child § 428 (2018),
+
+Appellate Court Proceeding.
+14 Witkin, California Summary 10th Wills and Probate § 441 (2018),
+Effect of Appeal.
+
+§ 917.75.
+
+Perfecting of an appeal; stay of enforcement
+
+The perfecting of an appeal shall not stay enforcement of
+the judgment or order of the trial court awarding attorney’s
+fees or costs, or both, if the judgment or order appealed from
+was rendered in a proceeding under the Family Code, unless
+an undertaking is given in a sum and upon conditions fixed by
+
+filed or to be filed with the court.
+
+States, and if the notice is served by facsimile transmission,
+
+Title 14
+
+CHAPTER 4.
+
+express mail, or another method of delivery providing for
+overnight delivery, the required 16-day period of notice
+before the hearing shall be increased by two calendar days.
+Section 1013, which extends the time within which a right may
+be exercised or an act may be done, does not apply to a notice
+of motion, papers opposing a motion, or reply papers
+governed by this section. All papers opposing a motion so
+noticed shall be filed with the court and a copy served on
+each party at least nine court days, and all reply papers at
+least five court days before the hearing.
+The court, or a judge thereof, may prescribe a shorter time.
+(c) Notwithstanding any other provision of this section, all
+papers opposing a motion and all reply papers shall be served
+by personal delivery, facsimile transmission, express mail, or
+
+PROVISIONS
+
+MOTIONS AND ORDERS
+
+Section
+1005. Written notice for motions; service and filing of
+moving and supporting papers.
+1008. Application to reconsider and modify or revoke prior
+order;
+
+affidavit;
+
+However, if the notice is
+
+served by mail, the required 16-day period of notice before
+the hearing shall be increased by five calendar days if the
+place of mailing and the place of address are within the State
+of California, 10 calendar days if either the place of mailing
+or the place of address is outside the State of California but
+within the United States, and 20 calendar days if either the
+place of mailing or the place of address is outside the United
+
+the trial court. (Added by Stats.2014, c. 95 (A.B.2154), § 1,
+eff: Jan. 1, 2015.)
+
+OF MISCELLANEOUS
+
+§ 1005
+
+noncompliance;
+
+revocation of or-
+
+der; contempt; appeal.
+
+1005. Written notice for motions;
+moving and supporting papers
+
+service and filing of
+
+(a) Written notice shall be given, as prescribed in subdivisions (b) and (c), for the following motions:
+
+other means consistent with Sections 1010, 1011, 1012, and
+
+1013, and reasonably calculated to ensure delivery to the
+other party or parties not later than the close of the next
+business day after the time the opposing papers or reply
+papers, as applicable, are filed. This subdivision applies to
+the service of opposition and reply papers regarding motions
+for summary judgment or summary adjudication, in addition
+to the motions listed in subdivision (a).
+
+(1) Notice of Application and Hearing for Writ of Attachment under Section 484.040.
+(2) Notice of Application and Hearing for Claim and
+Delivery under Section 512.030.
+(3) Notice of Hearing for Claim of Exemption under
+Section 706.105.
+
+917
+
+§ 1005
+
+CODE
+
+OF CIVIL PROCEDURE
+12 Witkin, California Summary 10th Real Property § 77 (2018),
+Division of Property.
+5 Witkin, California Summary 10th Torts § 193 (2018), Notice or
+Application.
+
+The court, or a judge thereof, may prescribe a shorter time.
+(Enacted in 1872. Amended by Code Am.1880, c. 23, p. 13,
+§ 2; Stats.1907, c. 326, p. 601, § 1; Stats.1919, c. 195, p. 289,
+§ 1; Stats.1933, c. 744, p. 1897, § 175; Stats.1935 c. 658, p.
+
+1816, § 1: Stats 193), Cas722,2 DL 9608
+
+6210 ISAS
+Lo
+
+ne
+
+§ 1008. Application to reconsider and modify or revoke
+prior order; affidavit; noncompliance; revocation of
+order; contempt; appeal
+
+1737, p. 4132, § 132, operative Jan. 1, 1952; Stats.1963, c. 878,
+
+p. 2126, § 3; Stats.1980, c. 196, p. 418, § 1; Stats.1981, c. 197,
+p. 1121, § 1; Stats.1984, c. 352, § 2; Stats.1986, c. 246, § 1;
+
+(a) When an application for an order has been made to a
+judge, or to a court, and refused in whole or in part, or
+granted, or granted conditionally, or on terms, any party
+affected by the order may, within 10 days after service upon
+the party of written notice of entry of the order and based
+
+Stats.1989, c. 693, § 6; Stats.1990, c. 1491 (A.B.3765), $ 7;
+Stats.1991, c. 1090 (A.B.1484), § 5; Stats.1992, c. 339 (S.B.
+1409), § 2; Stats.1993, c. 456 (A.B.58), § 14.5; Stats.1997, c.
+571 (A.B.1088), § 1.3; Stats.1998, c. 932 (A.B.1094), § 18;
+Stats.1999, c. 43 (A.B.1132), § 1; Stats.2002, c. 806 (A.B.
+3027), § 16; Stats.2004, c. 182 (A.B.3081), § 13; Stats.2004,
+c. 171 (A.B.3078), § 3; Stats.2005, c. 294 (A.B.333), § 3;
+Stats.2019, c. 585 (A.B.1600), § 1, eff. Jan. 1, 2020.)
+Law Revision Commission
+
+upon
+
+Comments
+
+2005 Amendment
+
+Subdivision (a) of Section 1005 is amended to reflect nonsubstantive reorganization of the rules governing civil discovery. See 2004
+Cal. Stat. ch. 182.
+[35 Cal.L.Rev.Comm. Reports 77 (2005)].
+Research References
+
+stances, or law, in which case it shall be shown by affidavit
+
+California
+
+Code
+
+Forms,
+
+Civil
+
+Procedure
+
+§ 527
+
+Form
+
+what order or decisions were made, and what new or different
+facts, circumstances, or law are claimed to be shown. For a
+
+failure to comply with this subdivision, any order made on a
+subsequent application may be revoked or set aside on ex
+parte motion.
+
+3,
+
+Injunction—Temporary Restraining Order and Order to Show
+Cause.
+California
+
+Code
+
+Forms,
+
+Civil
+
+Procedure
+
+§ 527
+
+Form
+
+5,
+
+(c) If a court at any time determines that there has been a
+change of law that warrants it to reconsider a prior order it
+entered, it may do so on its own motion and enter a different
+order.
+
+Injunction—Notice of Motion for Preliminary Injunction.
+West’s California Code Forms, Government § 946.6 Form 1, Petition
+
+for Order Seeking Relief from Claims Statute-Action Against
+Local Public Entity.
+West’s California Judicial Council Forms FL-320, Responsive Declaration to Request for Order.
+West’s
+
+or law, make
+
+what application was made before, when and to what judge,
+
+California Practice Guide: Rutter Family Law Forms Form 5:15,
+Stipulation Waiving Time for Hearing, Acknowledgment of
+Service of Notice of Request for Order and Order Thereon.
+
+West’s
+
+or different facts, circumstances,
+
+(b) A party who originally made an application for an
+order which was refused in whole or part, or granted
+conditionally or on terms, may make a subsequent application
+for the same order upon new or different facts, circum-
+
+Forms
+
+West’s
+
+new
+
+application to the same judge or court that made the order, to
+reconsider the matter and modify, amend, or revoke the prior
+order. The party making the application shall state by
+affidavit what application was made before, when and to what
+judge, what order or decisions were made, and what new or
+different facts, circumstances, or law are claimed to be shown.
+
+California
+
+Judicial
+
+Council
+
+Governmental
+
+Notice
+
+of Motion
+
+Forms
+
+FL-685,
+
+or Order
+
+Response
+
+to Show
+
+(d) A violation of this section may be punished as a
+contempt and with sanctions as allowed by Section 128.7. In
+addition, an order made contrary to this section may be
+revoked by the judge or commissioner who made it, or
+vacated by a judge of the court in which the action or
+proceeding is pending.
+
+to
+
+Cause.
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide)
+4-D, Techniques Where Settlement Not Forthcoming.
+Personal Injury (The Rutter Group, California Practice Guide)
+5-A, Prelawsuit Filings.
+Personal Injury (The Rutter Group, California Practice Guide)
+5-E, Selected Pleading Issues.
+Personal Injury (The Rutter Group, California Practice Guide)
+
+Ch.
+
+(e) This section specifies the court’s jurisdiction with
+regard to applications for reconsideration of its orders and
+renewals of previous motions, and applies to all applications
+to reconsider any order of a judge or court, or for the renewal
+of a previous motion, whether the order deciding the previous
+matter or motion is interim or final. No application to
+reconsider any order or for the renewal of a previous motion
+may be considered by any judge or court unless made
+according to this section.
+
+Ch.
+Ch.
+Ch.
+
+6-B, Overview of Selected Discovery Procedures.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+8-B, After Trial Date Set (Three to Four Months Before Trial).
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+9-E, Order of Trial and Proof and Related Matters.
+Rutter, California Practice Guide: Administrative Law
+
+(f) For the purposes of this section, an alleged new or
+different law shall not include a later enacted statute without
+a retroactive application.
+
+Ch. 18-B,
+
+Proceeding by Alternative Writ or Noticed Motion.
+Rutter, California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch.
+
+19-C,
+
+Procedure for Seeking Stay.
+Rutter, California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 20-E,
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 28-N,
+
+(g) An order denying a motion for reconsideration made
+pursuant to subdivision (a) is not separately appealable.
+However, if the order that was the subject of a motion for
+reconsideration is appealable, the denial of the motion for
+reconsideration is reviewable as part of an appeal from that
+order.
+
+Trial.
+Rutter, California
+
+Remedies for Violation of Brown Act.
+Rutter Group Practice Guide: Elder Abuse
+Protective Orders.
+
+Litigation
+
+Ch.
+
+6,
+
+918
+
+§ 1010.6
+
+OF CIVIL ACTIONS
+(h) This section applies to all applications for interim
+orders.
+(Added by Stats.1978, c. 631, § 2. Amended by
+Stats.1992, c. 460 (S.B.1805), § 4; Stats.1998, c. 200 (S.B.
+1556), § 2; Stats.2011, c. 78 (A.B.1067), § 1.)
+
+Rutter,
+
+11 Witkin,
+
+A trial court order denying a subsection (b) renewed motion is not
+an appealable order. Tate v. Wilburn, 184 Cal.App.4th 150, 109
+Cal.Rptr.3d 18 (2010), review denied.
+In Le Francois v. Goel, 35 Cal.4th 1094, 29 Cal.Rptr.3d 249, 112
+P.3d 636 (2005), the California Supreme Court held that a trial court
+
+16 Witkin,
+
+vy. Favila,
+
+24
+
+Cal.App.Sth
+
+993,
+
+234
+
+1 Environmental Insurance Litigation: Practice Forms § 1:14 (2018
+ed.), Insurer’s Notice of Motion and Motion for Reconsideration (With Supporting Memorandum and Declaration) (Owned
+Property Exclusion and Absence of Third Party Property Damage).
+Forms,
+
+Civil Procedure
+
+§ 128.7 Form
+
+1,
+
+Frivolous Actions or Delaying Tactics—Notice of Motion for
+Order Requiring Payment of Costs and Attorney’s Fees.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 437c Form
+
+1,
+
+Summary Judgment—Notice of Motion for Summary Judgment
+or Summary Adjudication—By Plaintiff.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 473
+
+Form
+
+9,
+
+Pleadings—Notice of Motion to Set Aside Default and Judgment Taken Thereon.
+West’s
+
+California
+
+Code
+
+Pleadings—Order
+Answer.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 473 Form
+
+11,
+
+Vacating Default and Permitting Filing of
+Forms,
+
+Civil Procedure
+
+§ 1008 Form
+
+California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 1008
+
+Form
+
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+§ 226
+
+California
+
+Summary
+
+11th
+
+Juvenile
+
+Court
+
+Law
+
+§ 520
+
+1010.6.
+
+Electronic
+
+1013a.
+
+electronic filing; uniform rules.
+Service by mail; proof.
+
+service
+
+of documents;
+
+local
+
+rules
+
+for
+
+1013b.
+1015.
+
+Proof of electronic service.
+Service; nonresident party; service on clerk or attorney.
+
+1016.
+
+Service; process to bring party into contempt;
+plicability of certain sections.
+
+inap-
+
+local rules for
+
+delivery, or facsimile transmission, electronic service of the
+
+1,
+
+document is not authorized unless a party or other person has
+agreed to accept electronic service in that specific action or
+the court has ordered electronic service on a represented
+party or other represented person under subdivision (c) or
+(d).
+(ii) For cases filed on or after January 1, 2019, if a
+document may be served by mail, express mail, overnight
+
+Motions and Orders—New Application for Order After Prior
+Refusal—Declaration Supporting New Application.
+West’s
+
+Ch. 20-G,
+
+(a) A document may be served electronically in an action
+filed with the court as provided in this section, in accordance
+with rules adopted pursuant to subdivision (e).
+(1) For purposes of this section:
+(A) “Electronic service” means service of a document, on
+a party or other person, by either electronic transmission or
+electronic notification. Electronic service may be performed
+directly by a party or other person, by an agent of a party or
+other person, including the party or other person’s attorney,
+or through an electronic filing service provider.
+(B) “Electronic transmission” means the transmission of a
+document by electronic means to the electronic service
+address at or through which a party or other person has
+authorized electronic service.
+(C) “Electronic notification” means the notification of the
+party or other person that a document is served by sending an
+electronic message to the electronic address at or through
+which the party or other person has authorized electronic
+service, specifying the exact name of the document served,
+and providing a hyperlink at which the served document may
+be viewed and downloaded.
+(2)(A)(i) For cases filed on or before December 31, 2018,
+if a document may be served by mail, express mail, overnight
+
+Research References
+
+Code
+
+California
+
+§ 1010.6.
+Electronic service of documents;
+electronic filing; uniform rules
+
+Forms
+
+California
+
+Law
+
+Section
+
+Cal.Rptr.3d 769 (2018), held that a trial court may not impose
+subsection (d) sanctions on a party for filing an improper motion for
+reconsideration without first giving the party as section 128.7(c)(2)
+21-day opportunity to withdraw the motion.
+
+West’s
+
+Administrative
+
+CHAPTER 5. NOTICES, AND FILING
+AND SERVICE OF PAPERS
+
+Cal. Rptr.3d 691 (2008).
+Family Code sections 3603, 3651(c), 3653(a) do not bar a trial
+court from sua sponte reconsideration and correction of a temporary
+spousal support order. In re Marriage of Spector, 24 Cal.App.5th 201,
+233 Cal.Rptr.3d 855 (2018).
+In re Marriage of Oliverez, 238 Cal.App.4th 1242, 190 Cal.Rptr.3d
+436 (2015), holds that a trial judge erred in reconsidering and
+reversing another judge’s order that a marital settlement agreement
+was unenforceable, when reversal was based only on disagreement
+with the original judge’s ruling, not based on new evidence, law, or
+facts, and there was no evidence that the original judge was not
+available to hear the reconsideration motion.
+LLC
+
+Guide:
+
+(2018), Change of Circumstances or New Evidence.
+10 Witkin, California Summary 10th Parent and Child § 75 (2018),
+Grant.
+
+has inherent authority to correct an erroneous interim order on its
+own motion, even though this section would preclude a party from
+filing a motion for reconsideration. Even when a party files a motion
+that fails to satisfy the requirements of this section, and filing of the
+motion stimulates the trial court to review and recognize the error of
+its prior final order, the court has inherent power to correct the prior
+final order so long as its recognition of error does not rely on or
+mention additional evidence alleged in the improper motion for
+reconsideration. Jn re Marriage of Barthold, 158 Cal.App.4th 1301, 70
+
+Productions,
+
+Practice
+
+(2018), Modification.
+11 Witkin, California Summary 10th Husband and Wife § 403
+(2018), Termination of Order.
+2 Witkin, California Summary 10th Insurance § 393 (2018), Insurer
+May Dispute Duty at Any Time.
+
+Commentary
+
+Moofly
+
+California
+
+Challenging the Decision in the Trial Court.
+7 Witkin, California Summary 10th Constitutional Law § 159 (2018),
+In General.
+
+2,
+
+Motions and Orders—Application to Set Aside Order Obtained
+Without Prior Refusal Disclosure.
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+4-D, Techniques Where Settlement Not Forthcoming.
+
+delivery, or facsimile transmission, electronic service of the
+
+919
+
+§ 1010.6
+
+CODE
+
+OF CIVIL PROCEDURE
+
+(8) Confidential or sealed records shall be electronically
+served through encrypted methods to ensure that the documents are not improperly disclosed.
+(b) A trial court may adopt local rules permitting electronic filing of documents, subject to rules adopted pursuant to
+subdivision (e) and the following conditions:
+(1) A document that is filed electronically shall have the
+same legal effect as an original paper document.
+(2)(A) When a document to be filed requires the signature
+of any person, not under penalty of perjury, the document
+shall be deemed to have been signed by the person who filed
+the document electronically.
+(B) When a document to be filed requires the signature,
+under penalty of perjury, of any person, the document shall
+be deemed to have been signed by that person if filed
+electronically and if either of the following conditions is
+satisfied:
+(i) The person has signed a printed form of the document
+before, or on the same day as, the date of filing. The
+attorney or other person filing the document represents, by
+the act of filing, that the declarant has complied with this
+section. The attorney or other person filing the document
+shall maintain the printed form of the document bearing the
+original signature until final disposition of the case, as
+defined in subdivision (c) of Section 68151 of the Government Code, and make it available for review and copying
+upon the request of the court or any party to the action or
+proceeding in which it is filed.
+(ii) The person has signed the document using a computer
+or other technology pursuant to the procedure set forth in a
+rule of court adopted by the Judicial Council by January 1,
+2019.
+(3) Any document received electronically by the court
+between 12:00 a.m. and 11:59:59:p.m. on a court day shall be
+deemed filed on that court day. Any document that is
+received electronically on a noncourt day shall be deemed
+filed on the next court day.
+(4) The court receiving a document filed electronically
+shall issue a confirmation that the document has been
+received and filed. The confirmation shall serve as proof
+that the document has been filed.
+(5) Upon electronic filing of a complaint, petition, or other
+
+document is not authorized unless a party or other person has
+expressly consented to receive electronic service in that
+specific action or the court has ordered electronic service on
+a represented party or other represented person under
+subdivision (c) or (d). Express consent to electronic service
+may be accomplished either by (1) serving a notice on all the
+parties and filing the notice with the court, or (II) manifesting
+affirmative consent through electronic means with the court
+or the court’s electronic filing service provider, and concurrently providing the party’s electronic address with that
+consent for the purpose of receiving electronic service. The
+act of electronic filing shall not be construed as express
+consent.
+(B) If a document is required to be served by certified or
+registered mail, electronic service of the document is not
+authorized.
+(3) In any action in which a party or other person has
+agreed or provided express consent, as applicable, to accept
+electronic service under paragraph (2), or in which the court
+has ordered electronic service on a represented party or other
+represented person under subdivision (c) or (d), the court
+may electronically serve any document issued by the court
+that is not required to be personally served in the same
+manner that parties electronically serve documents.
+The
+electronic service of documents by the court shall have the
+same legal effect as service by mail, except as provided in
+paragraph (4).
+(4)(A) If a document may be served by mail, express mail,
+overnight delivery, or facsimile transmission, electronic service of that document is deemed complete at the time of the
+electronic transmission of the document or at the time that
+the electronic notification of service of the document is sent.
+(B) Any period of notice, or any right or duty to do any act
+or make any response within any period or on a date certain
+after the service of the document, which time period or date
+is prescribed by statute or rule of court, shall be extended
+
+after service by electronic means by two court days, but the
+extension shall not apply to extend the time for filing any of
+the following:
+
+(i) A notice of intention to move for new trial.
+(ii) A notice of intention to move to vacate judgment
+under Section 663a.
+(iii) A notice of appeal.
+
+document that must be served with a summons, a trial court,
+
+upon request of the party filing the action, shall issue a
+summons with the court seal and the case number.
+The
+court shall keep the summons in its records and may
+electronically transmit a copy of the summons to the requesting party.
+Personal service of a printed form of the
+electronic summons shall have the same legal effect as
+personal service of an original summons.
+If a trial court
+plans to electronically transmit a summons to the party filing
+a complaint, the court shall immediately, upon receipt of the
+complaint, notify the attorney or party that a summons will be
+electronically transmitted to the electronic address given by
+the person filing the complaint.
+(6) The court shall permit a party or attorney to file an
+application for waiver of court fees and costs, in lieu of
+requiring the payment of the filing fee, as part of the process
+involving the electronic filing of a document. The court shall
+
+(C) This extension applies in the absence of a specific
+exception provided by any other statute or rule of court.
+
+(5) Any document that is served electronically between
+12:00 a.m. and 11:59:59 p.m. on a court day shall be deemed
+served on that court day. Any document that is served
+electronically on a noncourt day shall be deemed served on
+the next court day.
+(6) A party or other person who has. provided: express
+consent to accept service electronically may withdraw consent
+at any time by completing and filing with the court the
+appropriate Judicial Council form. The Judicial Council
+shall create the form by January 1, 2019.
+(7) Consent, or the withdrawal of consent, to receive
+electronic service may only be completed by a party or other
+person entitled to service or that person’s attorney.
+
+920
+
+§ 1010.6
+
+OF CIVIL ACTIONS
+
+consider and determine the application in accordance with
+Article 6 (commencing with Section 68630) of Chapter 2 of
+Title 8 of the Government Code and shall not require the
+party or attorney to submit any documentation other than
+that set forth in Article 6 (commencing with Section 68630)
+of Chapter 2 of Title 8 of the Government Code. Nothing in
+this section shall require the court to waive a filing fee that is
+not otherwise waivable.
+(7) A fee, if any, charged by the court, an electronic filing
+manager, or an electronic filing service provider to process a
+payment for filing fees and other court fees shall not exceed
+the costs incurred in processing the payment.
+(c) If a trial court adopts rules conforming to subdivision
+(b), it may provide by order that all parties to an action file
+and serve documents electronically in a class action, a
+
+of the state, which shall include statewide policies on vendor
+contracts, privacy, and access
+
+to public records, and rules
+
+relating to the integrity of electronic service.
+
+These rules
+
+shall conform to the conditions set forth in this section, as
+amended from time to time.
+
+(f) The Judicial Council shall adopt uniform rules to
+permit the mandatory electronic filing and service of documents for specified civil actions in the trial courts of the state,
+which shall include statewide policies on vendor contracts,
+privacy, access to public records, unrepresented parties,
+parties with fee waivers, hardships, reasonable exceptions to
+
+electronic filing, and rules relating to the integrity of electronic service. These rules shall conform to the conditions set
+forth in this section, as amended from time to time.
+
+(g)(1) The Judicial Council shall adopt uniform rules to
+
+consolidated action, a group of actions, a coordinated action,
+
+implement this subdivision as soon as practicable, but no later
+than June 30, 2019.
+
+or an action that is deemed complex under Judicial Council
+rules, provided that the trial court’s order does not cause
+undue hardship or significant prejudice to any party in the
+action.
+(d) A trial court may, by local rule, require electronic filing
+
+(2) Any system for the electronic filing and service of
+documents, including any information technology applications, Internet Web sites, and Web-based applications, used
+by an electronic service provider or any other vendor or
+contractor that provides an electronic filing and service
+system to a trial court, regardless of the case management
+system used by the trial court, shall satisfy both of the
+following requirements:
+(A) The system shall be accessible to individuals with
+disabilities, including parties and attgrneys with disabilities, in
+accordance with Section 508 of the federal Rehabilitation Act
+of 1973 (29 U.S.C. Sec. 794d), as amended, the regulations
+implementing that act set forth in Part 1194 of Title 36 of the
+Code of Federal Regulations and Appendices A, C, and D of
+that part, and the federal Americans with Disabilities Act of
+1990 (42 U.S.C. Sec. 12101 et seq.).
+(B) The system shall comply with the Web Content
+Accessibility Guidelines 2.0 at a Level AA success criteria.
+(3) A vendor or contractor that provides an electronic
+filing and service system to a trial court shall comply with
+paragraph (2) as soon as practicable, but no later than June
+
+and service in civil actions, subject to the requirements and
+
+conditions stated in subdivision (b), the rules adopted by the
+Judicial Council under subdivision (f), and the following
+conditions:
+(1) The court shall have the ability to maintain the official
+court record in electronic format for all cases where electronic filing is required.
+(2) The court and the parties shall have access to more
+than one electronic filing service provider capable of electronically filing documents with the court or to electronic
+filing access directly through the court.
+The court may
+charge fees of no more than the actual cost of the electronic
+filing and service of the documents. Any fees charged by an
+electronic filing service provider shall be reasonable. The
+court, an electronic filing manager, or an electronic filing
+service provider shall waive any fees charged if the court
+deems a waiver appropriate, including in instances where a
+party has received a fee waiver.
+(3) The court shall have a procedure for the filing of
+nonelectronic documents in order to prevent the program
+from causing undue hardship or significant prejudice to any
+
+30, 2019.
+
+Commencing
+
+on June 27, 2017, the vendor or
+
+contractor shall provide an accommodation to an individual
+with a disability in accordance with subparagraph (D) of
+paragraph (4).
+(4) A trial court that contracts with an entity for the
+provision of a system for electronic filing and service of
+documents shall require the entity, in the trial court’s contract
+with the entity, to do all of the following:
+(A) Test and verify that the entity’s system complies with
+this subdivision and provide the verification to the Judicial
+
+party in an action, including, but not limited to, unrepresent-
+
+ed parties. The Judicial Council shall make a form available
+to allow a party to seek an exemption from mandatory
+electronic filing and service on the grounds provided in this
+paragraph.
+(4) Unrepresented persons are exempt from mandatory
+electronic filing and service.
+(5) Until January 1, 2021, a local child support agency, as
+defined in subdivision (h) of Section 17000 of the Family
+Code, is exempt from a trial court’s mandatory electronic
+filing and service requirements, unless the Department of
+Child Support Services and the local child support agency
+determine it has the capacity and functionality to comply with
+the trial court’s mandatory electronic filing and service
+requirements.
+(e) The Judicial Council shall adopt uniform rules for the
+electronic filing and service of documents in the trial courts
+
+Council no later than June 30, 2019.
+
+(B) Respond to, and resolve, any complaints regarding the
+accessibility of the system that are brought to the attention of
+the entity.
+(C) Designate a lead individual to whom any complaints
+concerning accessibility may be addressed and post the
+individual’s name and contact information on the entity’s
+Internet Web site.
+(D) Provide to an individual with a disability, upon request, an accommodation to enable the individual to file and
+
+921
+
+§ 1010.6
+
+CODE
+
+OF CIVIL PROCEDURE
+Rutter, California
+
+serve documents electronically at no additional charge for
+any time period that the entity is not compliant with
+paragraph (2) of this subdivision. Exempting an individual
+with a disability from mandatory electronic filing and service
+of documents shall not be deemed an accommodation unless
+the person chooses that as an accommodation. The vendor
+or contractor shall clearly state in its Internet Web site that
+an individual with a disability may request an accommodation
+and the process for submitting a request for an accommoda-
+
+Practice
+
+Guide: Administrative
+
+Law Ch. 18-A,
+
+Requesting and Lodging Administrative Record.
+Rutter, California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+Ch. 19-C,
+
+Procedure for Seeking Stay.
+16 Witkin,
+
+California
+
+Summary
+
+11th Juvenile
+
+Court
+
+Law
+
+§ 253
+
+(2018), Notice by Electronic Mail.
+14 Witkin, California Summary 10th Wills and Probate § 410 (2018),
+Hearings.
+
+§ 1013a. Service by mail; proof
+Proof of service by mail may be made by one of the
+following methods:
+(1) An affidavit setting forth the exact title of the document served and filed in the cause, showing the name and
+residence or business address of the person making the
+service, showing that he or she is a resident of or employed in
+the county where the mailing occurs, that he or she is over the
+age of 18 years and not a party to the cause, and showing the
+date and place of deposit in the mail, the name and address
+of the person served as shown on the envelope, and also
+showing that the envelope was sealed and deposited in the
+mail with the postage thereon fully prepaid.
+(2) A certificate setting forth the exact title of the document served and filed in the cause, showing the name and
+business address of the person making the service, showing
+that he or she is an active member of the State Bar of
+California and is not a party to the cause, and showing the
+date and place of deposit in the mail, the name and address
+of the person served as shown on the envelope,.and also
+showing that the envelope was sealed and deposited in the
+mail with the postage thereon fully prepaid.
+(3) An affidavit setting forth the exact title of the document served and filed in the cause, showing (A) the name and
+residence or business address of the, person making. the
+service, (B) that he or she is.a resident of, or employed in, the
+county where the mailing occurs, (C) that he or she is over
+the age of 18 years and not a party to the cause, (D) that he
+or she is readily familiar with the business’ practice for
+collection and processing of correspondence for mailing with
+the United States Postal Service, (E) that the correspondence
+would be deposited with the United States Postal Service that
+same day in the ordinary course of business, (F) the name
+and address of the person served as shown on the envelope,
+and the date and place of business where the correspondence
+was placed for deposit in the United States Postal Service,
+and (G) that the envelope was sealed and placed for
+collection and mailing on that date following ordinary
+business practices. Service made pursuant to this paragraph,
+upon motion of a party served, shall be presumed invalid if
+the postal cancellation date or postage meter date on the
+envelope is more than one day after the date of deposit for
+mailing contained in the affidavit.
+(4) In case of service by the clerk of a court of record, a
+certificate by that clerk setting forth the exact title of the
+document served and filed in the cause, showing the name of
+the clerk and the name of the court of which he or she is the
+
+tion.
+
+(5) A trial court that provides electronic filing and service
+of documents directly to the public shall comply with this
+subdivision to the same extent as a vendor or contractor that
+provides electronic filing and services to a trial court.
+(6)(A) The Judicial Council shall submit four reports to
+the appropriate committees of the Legislature relating to the
+trial courts that have implemented a system of electronic
+filing and service of documents. The first report is due by
+June
+
+30, 2018; the second report is due by December 31,
+2019; the third report is due by December 31, 2021; and the
+fourth report is due by December 31, 2023.
+
+(B) The Judicial Council’s reports shall include all of the
+following information:
+(i) The name of each court that has implemented a system
+of electronic filing and service of documents.
+(ii) A description of the system of electronic filing and
+service.
+(iii) The name of the entity or entities providing the
+system.
+(iv) A statement as to whether the system complies with
+this subdivision and, if the system is not fully compliant, a
+description of the actions that have been taken to make the
+system compliant.
+(7) An entity that contracts with a trial court to provide a
+system for electronic filing and service of documents shall
+cooperate with the Judicial Council by providing all information, and by permitting all testing, necessary for the Judicial
+Council to prepare its reports to the Legislature in a
+complete and timely manner.
+(Added by Stats.1999, c. 514
+(S.B.367), § 1. Amended by Stats.2001, c. 824 (A.B.1700),
+§ 10.5; Stats.2005, c. 300 (A.B.496), § 5; Stats.2010, c. 156
+(S.B.1274), § 1; Stats.2011, c. 296 (A.B.1023), § 40; Stats.
+2012, c. 320 (A.B.2073), § 1; Stats.2016, c. 461 (A.B.2244),
+§ 1, eff. Jan. 1, 2017; Stats.2017, c. 17 (A.B.103), § 5, eff: June
+27, 2017; Stats.2017, c. 319 (A.B.976), § 2, eff. Jan. 1, 2018;
+Stats.2018, c. 504 (A.B.3248), § 1, eff: Jan. 1, 2019.)
+Research References
+Forms
+
+West’s California Judicial Council Forms POS-040, Proof of Service-
+
+Civil.
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+6-D, Expert Witness Information Exchanges (CCP § 2034.210 et
+seq.).
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+9-M, Verdicts and Judgment.
+Personal Injury (The Rutter Group, California Practice Guide)
+Highlights, 2018 Update.
+
+clerk, and that he or she is not a party to the cause, and
+
+showing the date and place of deposit in the mail, the name
+and address of the person served as shown on the envelope,
+and also showing that the envelope was sealed and deposited
+in the mail with the postage thereon fully prepaid. This form
+
+922
+
+§ 1015
+
+OF CIVIL ACTIONS
+
+of proof is sufficient for service of process in which the clerk
+or deputy clerk signing the certificate places the document for
+collection and mailing on the date shown thereon, so-as to
+cause it to be mailed in an envelope so sealed and so
+addressed on that date following standard court practices.
+Service made pursuant to this paragraph, upon motion of a
+party served and a finding of good cause by the court, shall be
+deemed to have occurred on the date of postage cancellation
+or postage meter imprint as shown on the envelope if that
+date is more than one day after the date of deposit for
+mailing contained in the certificate.
+
+(1) An affidavit setting forth the exact title of the document served and filed in the cause, showing the name and
+residence or business address of the person making the
+service, showing that he or she is a resident of or employed in
+the county where the electronic service occurs, and that he or
+she is over the age of 18 years.
+(2) A certificate setting forth the exact title of the document served and filed in the cause, showing the name
+
+(Added by Stats.1931, c.
+
+739, p. 1534, § 3. Amended by Stats.1953, c. 1110, p. 2606,
+$-T; Stats.1955, “c. 779, p. 1379, § 1; Stats.1959, ‘c. 345, p.
+2268, § 1; Stats.1972, c. 601, p. 1065, § 3; Stats.1972, c. 1083,
+p. 2019, § 1; Stats.1973, c. 302, p. 718, § 1; Stats.1974, c. 282,
+p. 546, § 3, eff. May 28, 1974;
+
+(3) An affidavit setting forth the exact title of the document served and filed in the cause, showing (A) the name and
+residence or business address of the person making the
+service, (B) that he or she is a resident of, or employed in, the
+county where the electronic service occurs, (C) that he or she
+is over the age of 18 years, (D) that he or she is readily
+familiar with the business’ practice for filing electronically,
+and (E) that the document would be electronically served
+that same day in the ordinary course of business following
+ordinary business practices.
+
+Stats.1980, c. 196, p. 419, § 3;
+
+Stats. 1987, c. 190, § 1; Stats.1988, c. 160, § 18; Stats.1995, c.
+576 (A.B.1225), § 4.)
+Research References
+Forms
+
+West’s California
+
+Code
+
+Forms,
+
+Civil Procedure
+
+§ 595.2 Form
+
+1,
+
+(4) In case of service by the clerk of a court of record, a
+certificate by that clerk setting forth the exact title of the
+document served and filed in the cause, showing the name of
+the clerk and the name of the court of which he or she is the
+clerk.
+
+Trial—Stipulation for Continuance—Order.
+West’s California Code Forms, Corporations § 317 Form 1, Defen-
+
+dants’ Notice of Application to Court for Indemnity.
+West’s California Code Forms, Government § 913 Form 1, Notice of
+
+Action Taken.
+
+.
+
+West’s California Code Forms, Probate § 1211 Form
+
+1, Notice of
+
+(b) Proof of electronic service shall include all of the
+following:
+
+Hearing (Probate)-Judicial Council Form DE-120.
+West’s California Judicial Council Forms DAL-012, Proof of Service-
+
+Disability Access Litigation.
+
+(1) The electronic service address and the residence or
+business address of the person making the electronic service.
+
+West’s California Judicial Council Forms FL-334, Declaration Regarding Address Verification-Postjudgment Request to Modify a
+
+(2) The date of electronic service.
+
+Child Custody, Visitation, or Child Support Order.
+West’s California Judicial Council Forms FL-335, Proof of Service by
+
+(3) The name and electronic service address of the person
+served.
+
+Mail.
+
+West’s California Judicial Council Forms FL-686, Proof of Service by
+Mail.
+West’s California Judicial Council Forms JV-310, Proof of Service
+
+Under
+West’s
+
+Section 366.26 of the Welfare
+
+California
+
+and
+
+business address of the person making the service, and
+showing that he or she is an active member of the State Bar
+of California.
+
+Judicial
+
+Dismissal
+(Military
+1170.9(H)).
+
+Council
+
+Forms
+
+Personnel)
+
+(4) A statement that the document was served electronically.
+
+and Institutions Code.
+
+(Pen.
+
+MIL-184,
+
+Code,
+
+Order
+
+(c) Proof of electronic service shall be signed as provided
+in subparagraph (B) of paragraph (2) of subdivision (b) of
+Section 1010.6.
+
+for
+
+§§ 17(B),
+
+West’s California Judicial Council Forms POS-030, Proof of Service
+
+(d) Proof of electronic service may be in electronic form
+and may be filed electronically with the court. (Added by
+Stats.2017, c. 319 (A.B.976), § 4, eff. Jan. 1, 2018. Amended
+by Stats.2018, c. 776 (A.B.3250), § 8, eff: Jan. I, 2019.)
+
+by First-Class Mail-Civil.
+West’s California Judicial Council Forms POS-040, Proof of Service-
+
+Civil.
+Treatises and Practice Aids
+
+Research References
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+5-A, Prelawsuit Filings.
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+10-B, Motion for Judgment Notwithstanding the Verdict.
+Rutter,
+
+California
+
+Practice
+
+Guide:
+
+Administrative
+
+Law
+
+14 Witkin, California Summary 10th Wills and Probate § 436 (2018),
+Proof of Giving Notice.
+
+Ch. 6—-A,
+
+Alternative Dispute Resolution.
+14 Witkin, California Summary 10th Wills and Probate § 436 (2018),
+Proof of Giving Notice.
+§ 1013b.
+
+§ 1015.
+
+Service;
+
+nonresident
+
+party;
+
+service on clerk or
+
+attorney
+
+When a plaintiff or a defendant, who has appeared, resides
+out of the state, and has no attorney in the action or
+proceeding, the service may be made on the clerk of the
+court, for that party. But in all cases where a party has an
+
+Proof of electronic service
+
+(a) Proof of electronic service may be made by any of the
+following methods:
+
+923
+
+§ 1015
+
+CODE
+
+OF CIVIL PROCEDURE
+
+order all the actions consolidated and it may make such
+orders concerning proceedings therein as may tend to avoid
+unnecessary costs or delay.
+
+attorney in the action or proceeding, the service of papers,
+when required, must be upon the attorney instead of the
+party, except service of subpoenas, of writs, and other process
+issued in the suit, and of papers to bring the party into
+contempt.
+If the sole attorney for a party is removed or
+suspended from practice, then the party has no attorney
+within the meaning of this section.
+If the party’s sole
+attorney has no known office in this state, notices and papers
+may be served by leaving a copy thereof with the clerk of the
+
+(b) The court, in furtherance of convenience or to avoid
+prejudice, or when separate trials will be conducive to
+expedition and economy, may order a separate trial of any
+cause of action, including a cause of action asserted in a
+cross-complaint, or of any separate issue or of any number of
+causes of action or issues, preserving the right of trial by jury
+required by the Constitution or a statute of this state or of the
+United States. (Enacted in 1872. Amended by Stats.1927,.c.
+
+court, unless the attorney has filed in the cause an address of
+
+a place at which notices and papers may be served on the
+attorney, in which event they may be served at that place.
+(Enacted in 1872.
+
+320, p. 531, § 1; Stats.1971, c. 244, p. 392, § 58, operative July
+
+Amended by Stats.1907, c. 327, p. 602, $ 4;
+
+1, 1972.)
+
+Stats.1933, c. 744, p. 1899, § 179; Stats.1951, c. 1737, p. 4133,
+§ 136, operative Jan. 1, 1952;
+
+Stats.2007,
+
+c. 263 (A.B.310),
+
+Commentary
+
+§ 12.)
+Law Revision Commission
+
+Although a tort claim may be consolidated with a pending
+dissolution action in appropriate circumstances, Sosnick v. Sosnick,
+71 Cal.App.4th 1335, 84 Cal.Rptr.2d 700 (1999), holds that the divorce
+court lacks jurisdiction to consolidate a former wife’s tort claim
+against her former husband with a closed dissolution action.
+
+Comments
+
+2007 Amendment
+
+Section 1015 is amended to delete unnecessary language authorizing the judge to substitute for the clerk if there is no clerk. See Code
+Civ. Proc. § 167 (judge may perform any act court clerk may
+perform); Gov’t Code §§ 69840-69848 (duties of clerk of superior
+court), 71620(b) (executive or administrative officer has authority of
+clerk of court).
+
+Research References
+
+Forms
+
+1pt2 Am. Jur. Pl. & Pr. Forms Actions § 2, Introductory Comments.
+
+1pt2 Am. Jur. Pl. & Pr. Forms Actions § 87, Introductory Comments.
+
+Section 1015 is also amended to make stylistic revisions and make
+the statute gender neutral. [35 Cal.L.Rev.Comm. Reports 219
+(2006)].
+
+West’s California Code Forms, Business & Professions § 475 Comment, Administrative Procedure Act.
+West’s California Code Forms, Civil Procedure § 418.10 Form 1,
+
+Objection to Jurisdiction—Notice of Motion to Quash Service
+
+Research References
+
+for Lack of Jurisdiction.
+West’s California Code Forms, Civil Procedure § 1048 Form 1,
+General Practice Provisions—Notice of Motion to Consolidate
+Actions.
+West’s California Code Forms, Civil Procedure § 1048 Form 2,
+General Practice Provisions—Notice of Motion to Sever Actions.
+West’s California Judicial Council Forms FL-920, Notice of Consolidation.
+
+Treatises and Practice Aids
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+7-J, Arbitration of Uninsured Motorist Claims.
+
+2 Witkin, California Summary 10th Workers’ Compensation § 394
+(2018), Appearance and Representation.
+
+§ 1016. Service; process to bring party into contempt;
+inapplicability of certain sections
+
+Treatises and Practice Aids
+
+The foregoing provisions of this Chapter do not apply to
+the service of a summons or other process, or of any paper to
+bring a party into contempt. (Enacted in 1872.)
+CHAPTER
+
+7.
+
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+5-E, Selected Pleading Issues.
+Personal Injury (The Rutter Group, California Practice Guide) Ch.
+9-E, Order of Trial and Proof and Related Matters.
+Rutter, California Practice Guide: Administrative Law
+
+GENERAL PROVISIONS
+
+Ch. 8-G,
+
+Consolidation and Separate Hearings.
+Rutter Group Practice Guide: Elder Abuse Litigation Form 8,
+Motion in Limine to Bifurcate Trial to Try Issues of Liability and
+Punitive Damages Separately; Memorandum of Points and
+Authorities.
+
+Section
+1048. Consolidation of actions; separate trial of any cause of
+action, or of any separate issues, or causes of action
+or issues.
+
+8 Witkin,
+
+§ 1048. Consolidation of actions; separate trial of any
+cause of action, or of any separate issues, or causes of
+action or issues
+
+California
+
+(2018), In General.
+
+Summary
+
+10th
+
+Constitutional
+
+Law
+
+§ 1356
+
+Peay
+
+11 Witkin, California Summary 10th Husband and Wife § 80 (2018),
+In General.
+12 Witkin, California Summary 10th Real Property § 769 (2018),
+Trial.
+
+(a) When actions involving a common question of law or
+fact are pending before the court, it may order a joint hearing
+or trial of any or all the matters in issue in the actions; it may
+
+6 Witkin, California Summary 10th Torts § 1517 (2018), Adoption of
+
+Doctrine.
+
+924
+
+

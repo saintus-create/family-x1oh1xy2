@@ -1,0 +1,4573 @@
+PROPERTY
+
+HELD
+
+property acquired in joint tenancy title is community property, the
+transmutation provisions, including sections 850 through 852, and Jn
+re Marriage of Valli, 58 Cal. 4th 1396 (2014). The reasoning of Brace is
+ahistorical and unpersuasive. Its holding should be treated with
+circumspection.
+
+Cal.3d 751, 705 P.2d 354, 218 Cal.Rptr. 31 (1985).
+Under Section 2580, all property held in joint form by the spouses
+is presumed to be community property, absent a written agreement
+otherwise. Under Section 2640, all community property is divided
+subject to a right of reimbursement for separate property contributions, absent an express agreement otherwise. When enacted in 1983
+(as former Civil Code Sections 4800.1 and 4800.2), these provisions
+were intended to remedy the rank injustice in former law that
+resulted from the following two factors:
+(1) The Supreme Court’s interpretation of former law in the Lucas
+case of the community property presumption for a joint tenancy
+single-family residence to find a gift of separate funds used to acquire
+a community asset absent an express agreement otherwise. See In re
+Marriage of Lucas, 27 Cal.3d 808, 614 P.2d 285, 166 Cal.Rptr. 853
+(1980). The Lucas decision was widely considered to cause injustice
+to persons who contributed their separate funds for use by the
+community and then lost the funds entirely to the community at
+dissolution of marriage. Often the parties were unaware that taking
+title in joint tenancy had the effect of making a gift of the separate
+property to the community.
+(2) The rule that a spouse could disprove the community property
+presumption for a joint tenancy single-family residence under former
+law by evidence of an oral agreement that the residence is separate
+property. This rule promoted actions characterized by conflicting and
+inconsistent testimony, with each side offering different explanations
+for the effect of a joint tenancy deed. Often the intent of the parties
+who long before filed a joint tenancy deed could be confused by
+faded memories or altered to self-serving testimony. The requirement of a writing provides a reliable test by which to determine the
+understanding of the parties. It seeks to prevent the abuses and
+unpredictability that have resulted from the oral agreement standard.
+See discussion in In re Marriage of Martinez, 156 Cal.App.3d 20, 29,
+
+Former Section 2580
+
+(a) For the purpose of division of property upon dissolution of
+marriage or legal separation of the parties:
+(1) Property acquired by the parties during marriage on or after
+January 1, 1984, and before January 1, 1987, in joint tenancy form
+is presumed to be community property.
+(2) Property acquired by the parties during marriage on or after
+January 1, 1987, in joint form, including property held in tenancy in
+common, joint tenancy, tenancy by the entirety, or as community
+property is presumed to be community property.
+
+under subdivision
+
+§ 2581
+
+440, 715 P.2d 253, 224 Cal.Rptr. 333 (1986); In re Marriage of Buol, 39
+
+The former version of Section 2580, enacted by Stats 1992 Ch 162
+§ 10, effective January 1, 1993, operative January 1, 1994, was
+repealed by Stats 1993 Ch 219 § 111.5. It provides:
+
+(b) The presumptions
+
+IN JOINT FORM
+
+(a) are presumptions
+
+affecting the burden of proof and may be rebutted by either of the
+following:
+
+(1) A clear statement in the deed or other documentary
+of title by which the property is acquired that the
+property is separate property and not community property.
+evidence
+
+(2) Proof that the parties have made a written agreement that
+the property is separate property.
+
+(c) Nothing in this section affects the character of property
+acquired by married persons that is not described in subdivision (a).
+The Law Revision Commission’s Comments regarding this former
+Section 2580, which are provided for informational purposes only,
+read as follows:
+Subdivision (a)(1) of Section 2580 restates the first sentence of
+former Civil Code Section 4800.1(b) (as enacted by 1983 Cal. Stat.
+ch. 342, § 1), with the addition of language that. codifies the
+constitutional limitations on the application of Section 2580. Subdivision (a)(2) restates the first sentence of former Civil Code Section
+4800.1(b) (as amended by 1986 Cal. Stat. ch. 539, § 1), with the
+addition of language that codifies the constitutional limitations on
+the application of Section 2580.
+Subdivision (b) of Section 2580 continues the last part of former
+Civil Code Section 4800.1(b) without substantive change.
+Subdivision (c) of Section 2580 is new and makes clear that the law
+concerning property not described in subdivision (a) is not affected
+by Section 2580. Accordingly, the character of the interest in property
+acquired in joint tenancy form by the parties before January 1, 1984,
+is not determined under or affected by Section 2580. Likewise, the
+character of the interest in property acquired by the parties before
+January 1, 1987, and held in tenancy in common, tenancy by the
+entirety, or as community property is not determined under or
+affected by Section 2580. See also Section 2650 (division of jointly
+held separate property).
+Former Civil Code Section 4800.1(a), which sought to justify the
+application of former Civil Code Sections 4800.1 and 4800.2 without
+regard to the date the property was acquired, has not been continued.
+Instead, subdivision (a) codifies case law holding that the section
+cannot constitutionally be applied to the property described in
+subdivision (a) prior to the date of acquisition specified in paragraph
+(1) or (2) of subdivision (a), whichever is applicable. See, e.g., In re
+Marriage of Cairo, 204 Cal.App.3d 1255, 251 Cal.Rptr. 731 (1988); In
+re Marriage of Lockman, 204 Cal.App.3d 782, 251 Cal.Rptr. 434
+(1988); In re Marriage of Bankovich, 203 Cal.App.3d 49, 249 Cal.Rptr.
+713 (1988); In re Marriage of Hopkins and Axene, 199 Cal.App.3d 288,
+245 Cal.Rptr. 433 (1987); In re Marriage of Griffis, 187 Cal.App.3d 156,
+231 Cal.Rptr. 510 (1986); see also In re Marriage of Fabian, 41 Cal.3d
+
+202 Cal.Rptr. 646 (1984), disapproved in In re Marriage of Buol, 39
+
+Cal.3d 751, 705 P.2d 354, 218 Cal.Rptr. 31 (1985).
+The community property presumptions created by subdivision (a)
+of Section 2580 are applicable only in dissolution and legal separation
+proceedings. The presumptions govern both real and personal
+property, whether situated in California or another jurisdiction, and
+include property acquired during marriage while domiciled in
+another jurisdiction. The presumptions also govern property initially
+acquired before marriage, the title to which is taken in joint form or
+as community property by the spouses during marriage. The measure
+of the separate property contribution under Section 2640 in such a
+case is the value of the property at the time of its conversion to joint
+or community property form.
+Subdivision (b) of Section 2580 requires a writing to rebut the
+community property presumption. To permit or al statements to
+defeat the community property presumption for purposes of dissolution of marriage would frustrate the strong public policy favoring
+community ownership of property acquired during marriage. The
+requirement of a writing is important to help ensure that a party
+waives his or her community property rights only upon mature
+consideration.
+Section 2580 does not affect the validity of an oral agreement for
+any purpose other than division of property at dissolution of
+marriage. For purposes of division, Section 2580, together with
+Section 2640, recognizes and reimburses separate property contributions. This treatment of an oral agreement for purposes of division is
+fair because an oral agreement, whatever other purpose it might have
+(management and control, disposition at death, etc.), is not ordinarily
+intended to affect rights at dissolution or to make a present gift for
+that purpose. Casual statements made during marriage generally are
+not made with full knowledge of their consequences or with the
+intention that they change the rights of the parties if the marriage is
+dissolved.
+For background on former Civil Code Section 4800.1, see Recommendation Relating to Division of Joint Tenancy and Tenancy in
+
+175
+
+§ 2581
+
+DIVISION
+
+OF PROPERTY
+
+Common Property at Dissolution of Marriage, 16 Cal. L. Revision
+Comm’n Reports 2165 (1982); 17 Cal. L. Revision Comm’n Reports
+863 (1984); Recommendation Relating to Civil Code Sections 4800.1
+and 4800.2, 18 Cal. L. Revision Comm’n Reports 383 (1986); 18 Cal.
+L. Revision Comm’n Reports 1741 (1986).
+
+Law Revision Commission
+Enactment
+
+[Revised Comment]
+
+Section 2600 continues the introductory part of former Civil Code
+Section 4800(b) without substantive change. See also Section 63
+(“community estate” defined). [23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+Research References
+Forms
+
+Research References
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms { 4.01,
+Introduction.
+Asset Protection: Legal Planning, Strategies and Forms { 4.03,
+Community Property.
+2 California Transactions Forms--Estate Planning § 10:6, Tenancy in
+Common.
+2 California Transactions Forms--Estate Planning § 10:7, Joint
+Tenancy.
+2 California Transactions Forms--Estate Planning § 10:19, Joint
+Tenancy Property.
+1 California Transactions Forms--Family Law § 1:90, Real and
+Personal Property.
+
+Forms
+
+7 Am. Jur. Pl. & Pr. Forms Community Property § 1, Introductory
+Comments.
+West’s California Code Forms, Family § 2338 Form 6, Provision in
+
+Judgment-Awarding Community Estate.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 77
+(2018), Award to Employee Spouse With Offset.
+11 Witkin, California Summary 10th Community Property § 212
+(2018), In General.
+
+Treatises and Practice Aids
+
+§ 2601.
+Conditional award
+estate to one party
+
+11 Witkin, California Summary 10th Community Property § 45
+(2018), Proceeds of Personal Injury Damages.
+11 Witkin, California Summary 10th Community Property § 229
+(2018), In General.
+11 Witkin, California Summary 10th Community Property § 230
+(2018), Effect of Party’s Death After Dissolution But Before
+Division.
+11 Witkin, California Summary 10th Community Property § 232
+(2018), Conversion of Separate Property Into Joint Tenancy.
+11 Witkin, California Summary 10th Community Property § 238
+(2018), Community Property Presumption.
+11 Witkin,
+
+Comments
+
+California
+
+Summary
+
+10th
+
+Community
+
+(2018), Right to Reimbursement.
+11 Witkin, California Summary 10th Community
+(2018), Attempted Statutory Solution.
+
+Property
+
+Where
+
+economic
+
+of an asset of the community
+
+circumstances
+
+warrant,
+
+the court
+
+may
+
+award an asset of the community estate to one party on such
+conditions as the court deems proper to effect a substantially
+equal division of the community estate.
+
+(Stats.1992, c. 162
+
+(A.B.2650), § 10, operative Jan. 1, 1994.)
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 2601 continues former Civil Code Section 4800(b)(1)
+without substantive change. References to “community estate” have
+been added here to conform with language in the remainder of this
+division. See, e.g. Section 2550 (equal division of community estate).
+See also Section 63 (“community estate” defined). [23 Cal.L.Rev.
+Comm. Reports 1 (1993)].
+
+§ 239
+
+Property § 240
+
+Part 4
+Commentary
+
+SPECIAL RULES FOR DIVISION
+OF COMMUNITY ESTATE
+
+Section 2601 contemplates equal in-kind division of the community
+estate at divorce, but allows the court to award an asset entirely to
+one spouse “when economic circumstances warrant” so long as the
+aggregate community estate is substantially equally divided. In
+contrast, when a marriage survives until the death of one of the
+spouses, a party may insist absolutely on in-kind division of each
+community asset. Dargie v. Patterson, 176 Cal. 714, 169 P. 360 (1917).
+
+Section
+2600. _ Powers of court.
+2601.
+Conditional award
+
+of an asset of the community
+estate to one party.
+2602.
+Additional award or offset against existing property;
+award of amount determined to have been misappropriated.
+2603. | Community estate personal injury damages; assignment.
+2603.5. Civil damages in a domestic violence action; enforce2604.
+
+ment of judgment.
+|Community estates of less than $5,000;
+entire estate.
+
+2605.
+
+Care and ownership of pet animal.
+
+§ 2600.
+
+award
+
+When do “economic circumstances warrant” deviation from inkind division? The case law is not entirely consistent. Compare Jn re
+Marriage of Brigden, 80 Cal.App.3d 380, 145 Cal.Rptr. 716 (1978)
+(requiring in-kind division of publicly traded community property
+stock in corporation where husband was a director, because economic circumstances did not warrant awarding stock entirely to husband)
+with In re Marriage of Connolly, 23 Cal.3d 590, 153 Cal.Rptr. 423
+(1979) (distinguishing Brigden on “its unique facts” and suggesting, in
+dictum, that the trial court has “a maximum degree of allowable
+flexibility” to avoid in-kind division when it would disserve the
+interests of either spouse). To the same effect, see Jn re Marriage of
+Fink, 25 Cal.3d 877, 885-886, 160 Cal.Rptr. 516 (1979).
+
+of
+
+Powers of court
+
+The legislative history of this provision clearly contemplates that
+in-kind division may be inappropriate for the family business and the
+family home. See discussion in Brigden, supra. Distribution of the
+family home is now also regulated by Sections 3800-3810.
+
+Notwithstanding Sections 2550 to 2552, inclusive, the court
+
+may divide the community estate as provided in this part.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+176
+
+SPECIAL
+
+RULES
+
+FOR DIVISION
+
+OF COMMUNITY
+
+Research References
+
+§ 2603
+
+ESTATE
+Research References
+
+Forms
+
+Treatises and Practice Aids
+
+1 California Transactions Forms--Estate Planning § 1:23, Aggregate
+or Asset-By-Asset Divisicn of Community Property.
+1 California Transactions Forms--Family Law § 2:13, Equalizing
+Payments.
+
+11 Witkin, California Summary 10th Community
+(2018), Misappropriation by Spouse.
+
+§ 2603. Community
+signment
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+
+10th Community
+
+Property § 210
+
+(2018), Personal Injury Damages.
+11 Witkin, California Summary 10th Community
+
+Property § 212
+
+11 Witkin, California Summary 10th Community Property § 219
+(2018), Publicly Traded Stock.
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+
+§ 2602. Additional award or offset against existing property; award of amount determined to have been misappropriated
+
+and all other facts of the case, determines that the interests of
+
+justice require another disposition.
+In such a case, the
+community estate personal injury damages shall be assigned
+to the respective parties in such proportions as the court
+determines to be just, except that at least one-half of the
+damages shall be assigned to the party who suffered the
+
+(A.B.2650),
+
+Law Revision Commission Comments
+Enactment
+
+as-
+
+(b) Community estate personal injury damages shall be
+assigned to the party who suffered the injuries unless the
+court, after taking into account the economic condition and
+needs of each party, the time that has elapsed since the
+recovery of the damages or the accrual of the cause of action,
+
+As an additional award or offset against existing property,
+the court may award, from a party’s share, the amount the
+court determines to have been deliberately misappropriated
+by the party to the exclusion of the interest of the other party
+c. 162
+
+estate personal injury damages;
+
+(a) “Community estate personal injury damages” as used
+in this section means all money or other property received or
+to be received by a person in satisfaction of a judgment for
+damages for the person’s personal injuries or pursuant to an
+agreement for the settlement or compromise of a claim for
+the damages, if the cause of action for the damages arose
+during the marriage but is not separate property as described
+in Section 781, unless the money or other property has been
+commingled with other assets of the community estate.
+
+(2018), In General.
+
+in the community estate.
+(Stats.1992,
+$ 10, operative Jan. 1, 1994.)
+
+Property § 209
+
+[Revised Comment]
+
+injuries.
+
+Section 2602 continues former Civil Code Section 4800(b)(2)
+without substantive change.
+See also Section 63 (“community
+estate” defined). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+(Stats.1992, c.
+
+162 (A.B.2630), § 10, operative Jan. 1,
+
+1994.)
+Law Revision Commission
+
+Enactment
+
+Commentary
+
+Comments
+
+[Revised Comment]
+
+Section 2603 continues former Civil Code Section 4800(b)(4)
+without substantive change. In the second sentence of subdivision
+(b), the former reference to community “property” personal injury
+damages has been changed to community “estate” personal injury
+damages for internal consistency.
+See Section 63 (“community
+estate” defined). See also Sections 780-783 (damages for injuries to
+married person). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+The term “deliberately misappropriated” contemplates more than
+mere “mishandling of assets.” In re Marriage of Schultz, 105 Cal.
+App.3d 846, 164 Cal.Rptr. 653 (1980). See also In re Marriage of
+Economou, 224 Cal.App.3d 1466, 1483, 274 Cal.Rptr. 473 (1990)
+(deliberate misappropriation of community property). See additionally In re Marriage of Hirsch, 211 Cal.App.3d 104, 259 Cal.Rptr. 39
+
+(1989), review denied 8/17/89 (negligent conduct of a spouse engaged
+in an activity benefiting the community is not a sufficient reason to
+characterize the resultant debt as a separate obligation at divorce).
+But compare Jn re Marriage of Beltran, 183 Cal.App.3d 292, 227
+Cal.Rptr. 924 (1986), and In re Marriage of Stitt, 147 Cal.App.3d 579,
+195 Cal.Rptr. 172 (1983) (criminal activity of spouse causing pecuniary loss to community estate requires reimbursement to community
+estate at divorce).
+Even a spouse who acts criminally for the benefit of the community
+is liable to the community only to the extent that the costs exceed the
+benefits. In re Marriage of Bell, 49 Cal.App.4th 300, 56 Cal. Rptr.2d 623
+
+Commentary
+
+The meaning of the final clause of subsection (a), the commingling
+clause, is uncertain. The Law Revision Commission, which drafted
+
+the original legislation, contemplated the application of ordinary
+tracing rules. See Damages for Personal Injuries to a Married Person
+as Separate or Community Property, 8 Cal. L. Revision Comm’n
+Reports 1389, 1398 (1967). Yet the Law Revision proposal did not
+include the commingling clause, which was added later in the
+legislative process and which would seem to prohibit ordinary tracing
+when community estate personal injury damages have been commingled with other community property.
+For divorce-related treatment of personal injury recoveries that
+have been used to purchase property taken in joint tenancy or
+community property title, see In re Marriage of Devlin, 138 Cal.App.3d
+804, 809-810, 189 Cal.Rptr. 1 (1982), and In re Marriage of Mason, 93
+
+(1996), review denied December 11, 1996, holds that the amount of the
+
+legal settlement to the wife’s employer required by the wife’s
+embezzlement should not be assigned to the wife at dissolution as her
+share of the community property when the marital community
+benefited in an equal amount from the wife’s embezzlement.
+A spouse may be criminally liable for intentionally causing harm to
+property in which the other spouse has a community or separate
+interest, even though that harm occurs in the marital home and the
+parties are cohabiting as husband and wife. In People v. Wallace, 123
+Cal.App.4th 144, 19 Cal.Rptr.3d 790 (2004), review denied, a husband
+was convicted of felony vandalism for causing more than $15,000 of
+damages to his wife’s house and belongings. Although burglary and
+trespass cannot be committed against one’s own home, vandalism
+
+Cal. App.3d 215, 222-223, 155 Cal.Rptr. 350 (1979).
+Although Section 2603 makes no specific provision for reimbursement when community property or the separate property of the other
+spouse has been applied to pay injury-related expenses, it should be
+one of the “other facts of the case” for purposes of subsection (b).
+See Section 781(b), which specifically requires reimbursement for
+such expenses when the cause of action arose after separation and
+thus is the injured spouse’s separate property.
+
+can.
+
+177
+
+§ 2603
+
+DIVISION
+
+OF PROPERTY
+may enter an order, prior to the final determination of
+ownership of a pet animal, to require a party to care for the
+pet animal. The existence of an order providing for the care
+of a pet animal during the course of proceedings for
+dissolution of marriage or for legal separation of the parties
+shall not have any impact on the court’s final determination
+of ownership of the pet animal.
+(b) Notwithstanding any other law, including, but not
+limited to, Section 2550, the court, at the request of a party to
+proceedings for dissolution of marriage or for legal separation of the parties, may assign sole or joint ownership of a pet
+animal taking into consideration the care of the pet animal.
+(c) For purposes of this section, the following definitions
+shall apply:
+(1) “Care” includes, but is not limited to, the prevention of
+
+Research References
+Forms
+
+West’s California Code Forms, Family § 2338 Form 7, Provision in
+Judgment-Awarding Community Estate Personal Injury Damages.
+West's California Code Forms, Family § 2550, Comment
+
+Overview-
+
+Manner of Division of Community Estate.
+Treatises and Practice Aids
+11 Witkin, California Summary
+
+10th Community Property § 40
+(2018), Restoration of Community Property Rule.
+11 Witkin, California Summary 10th Community Property § 45
+(2018), Proceeds of Personal Injury Damages.
+11 Witkin, California Summary 10th Community Property § 210
+(2018), Personal Injury Damages.
+2 Witkin, California Summary 10th Insurance § 269 (2018), Personal
+Injury Coverage: Uninsured Motorists.
+
+action;
+
+acts of harm or cruelty, as described in Section 597 of the
+Penal Code, and the provision of food, water, veterinary care,
+
+The court may, if there is a judgment for civil damages for
+an act of domestic violence perpetrated by one spouse against
+the other spouse, enforce that judgment against the abusive
+spouse’s share of community property, if a proceeding for
+dissolution of marriage or legal separation of the parties is
+pending prior to the entry of final judgment.
+(Added by
+
+and safe and protected shelter.
+(2) “Pet animal” means any animal that is community
+property and kept as a household pet. (Added by Stats.2018,
+
+§ 2603.5.
+Civil damages in a domestic
+enforcement of judgment
+
+violence
+
+c. 820 (A.B.2274), § 1, eff. Jan. 1, 2019.)
+Part 5
+
+Stats.2004, c. 299 (A.B.2018), § 1.)
+Research References
+Treatises and Practice Aids
+11 Witkin, California Summary 10th Community Property § 210
+(2018), Personal Injury Damages.
+5 Witkin, California Summary 10th Torts § 547 (2018), Domestic
+Violence.
+
+§ 2604.
+Community estates of less than $5,000;
+entire estate
+
+RETIREMENT
+
+§ 2610.
+
+award of
+
+limited to, any of the following:
+
+[Revised Comment]
+
+Research References
+Forms
+
+West’s California Code Forms, Family § 2338 Form 6, Provision in
+
+Judgment-Awarding Community Estate.
+Treatises and Practice Aids
+
+§ 2605.
+
+“
+
+(1) Order the disposition of * * * retirement benefits
+payable upon or after the death of either party in a manner
+consistent with Section 2550.
+(2) Order a party to elect a survivor benefit annuity or
+other similar election for the benefit of the other party, as
+specified by the court, * * * when a retirement plan provides
+for * * * that election, provided that no court shall order a
+retirement plan to provide increased benefits determined on
+the basis of actuarial value.
+(3) Upon the agreement of the nonemployee spouse,
+order the division of accumulated community property contributions and service credit as provided in the following or
+similar enactments:
+(A) Article 2 (commencing with Section 21290) of Chapter
+9 of Part 3 of Division 5 of Title 2 of the Government Code.
+(B) Chapter 12 (commencing with Section 22650) of Part
+13 of Division 1 of Title 1 of the Education Code.
+(C) Article 8.4 (commencing with Section 31685) of Chap-
+
+Section 2604 continues former Civil Code Section 4800(b)(3)
+without substantive change. A reference to the “community estate”
+has been added to conform with language in the remainder of this
+division.
+See, e.g., Section 2550 (equal division of community
+estate). See also Section 63 (“community estate” defined). [23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+10th Community
+
+Retirement plans; orders to ensure benefits
+
+(a) Except as provided in subdivision (b), the court shall
+make whatever orders are necessary or appropriate to ensure
+that each party receives the party’s full community property
+share in any retirement plan, whether public or private,
+including all survivor and death benefits, including, but not
+
+Law Revision Commission Comments
+
+11 Witkin, California Summary
+(2018), Other Exceptions.
+
+BENEFITS
+
+Section
+2610. Retirement plans; orders to ensure benefits.
+
+If the net value of the community estate is less than five
+thousand dollars ($5,000) and one party cannot be located
+through the exercise of reasonable diligence, the court may
+award all the community estate to the other party on
+conditions the court deems proper in its judgment of
+dissolution of marriage or legal separation of the parties.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+Enactment
+
+PLAN
+
+Property § 211
+
+ter 3 of Part 3 of Division 4 of Title 3 of the Government
+Code.
+
+Care and ownership of pet animal
+
+(a) The court, at the request of a party to proceedings for
+dissolution of marriage or for legal separation of the parties,
+
+(D) Article 2.5 (commencing with Section 75050) of Chapter 11 of Title 8 of the Government Code.
+
+178
+
+RETIREMENT
+
+PLAN
+
+(E) Chapter 15 (commencing with Section 27400) of Part
+14 of Division 1 of Title 1 of the Education Code.
+(4) Order a retirement plan to make payments directly to a
+nonmember party of * * * the nonmember party’s community property interest in retirement benefits.
+(b) A court shall not make an order that requires a
+retirement plan to do either of the following:
+(1) Make payments in a manner that will result in an
+increase in the amount of benefits provided by the plan.
+(2) Make the payment of benefits to a party at any time
+before the member retires, except as provided in paragraph
+(3) of subdivision (a), unless the plan so provides.
+(c) This section shall not be applied retroactively to
+payments made by a retirement plan to a person who retired
+or died prior to January 1, 1987, or to payments made to a
+person who retired or died prior to June 1, 1988, for plans
+subject to paragraph (3) of subdivision (a). (Stats.1992, c.
+162 (A.B.2650), § 10, operative Jan. 1, 1994. Amended by
+Stats.1993, c. 219 (A.B.1500), § 112; Stats.1994, c. 670
+(S.B.1500), § 1; Stats.1994, c. 1269 (A.B.2208), § 25.5; Stats.
+1998, c. 965 (A.B.2765), § 322; Stats.2009, c. 130 (A.B.966),
+§$ 1; Stats.2019, c. 115 (A.B.1817), § 22, eff: Jan. 1, 2020.)
+
+of the University of California v. Benford, 128 Cal.App.4th 867, 27
+Cal. Rptr.3d 441 (2005), which held that this section applies only when
+trial courts are dividing property in divorce proceedings and has no
+application when a marriage continues until the death of one of the
+spouses. Thus, in Benford, the University of California pension plan’s
+anti-alienation provision prohibiting the transfer of a community
+property interest in the plan by a nonemployee spouse who predeceases an employee spouse, was controlling. In re Marriage of Powers,
+218 Cal.App.3d 626, 267 Cal.Rptr. 350 (1990), review denied 5/31/90,
+holds that it applies to all cases, whenever decided, in which the court
+has retained continuing jurisdiction over a pension. See also In re
+
+Marriage of Carnall, 216 Cal.App.3d 1010, 265 Cal.Rptr. 271 (1989).
+Nevertheless, a portion of the terminable interest rule has effectively been revived by the United States Ninth Circuit Court of
+Appeals. With respect to a marriage that lasted until the death of the
+wife, Ablamis v. Roper, 937 F.2d 1450, 1452 (9th Cir. 1991), held that
+
+the federal Employee Retirement Income Security Act (ERISA)
+preempts California law insofar as it purports to give a predeceasing
+nonmember spouse testamentary capacity over her share of the
+surviving member-spouse’s pension. Moreover, in broad dictum,
+Ablamis interprets ERISA to prohibit any community property
+pension distribution, even under a divorce-related qualified domestic
+relations order (QDRO), to a person other than a living spouse or
+former spouse. In other words, Ablamis construes ERISA “alternate
+payees” to include only living spouses or former spouses. Effectively,
+the dictum of Ablamis would revive the Waite arm of the terminable
+interest rule. Similarly, in Boggs v. Boggs, 117 §.Ct. 1754, 138 L.Ed.2d
+45 (1997), the United States Supreme Court held that ERISA
+preempts Louisiana community property law insofar as it purports to
+allow a predeceased first wife to will to third parties her interest in
+her husband’s pension, specifically, her interest in the survivor’s
+annuity payable to the deceased husband’s surviving second wife.
+Under ERISA, a surviving spouse’s annuity may not be diverted to
+third parties. Boggs also held that ERISA equally preempts the
+predeceased wife’s testamentary transfer of her Louisiana community
+property interest in her surviving husband’s other ERISA-regulated
+benefits, including shares of stock from an employee stock ownership
+
+Validity
+This section was held preempted by ERISA in the
+decision of Branco v. UFCW-Northern California
+Employers Joint Pension Plan, C.A.9 (Cal.)2002, 279
+F.3d 1154.
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 2610 continues former Civil Code Section 4800.8 without
+change. In subdivision (a), a reference to “this division” has been
+substituted for the narrower reference to former Civil Code Section
+4800. This is not a substantive change. In subdivision (a)(3), the
+reference to Article 2.5 (commencing with Government Code Section
+75050) restores an amendment made by Section 1 of Chapter 176 of
+the Statutes of 1992 that was inadvertently chaptered out by Section 1
+of Chapter 431 of the Statutes of 1992. [23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+
+plan (ESOP). Interpreting Boggs, Branco v. UFCW-Northern California Employers Joint Pension
+
+1994 Amendment
+
+Commentary
+
+Former Civil Code Section 4800.8 was enacted in 1986 to repeal
+the California terminable interest rule, a case-law doctrine holding
+that a nonemployee divorced spouse’s interest in an employee
+spouse’s pension survived neither the death of the employee nor the
+death of the nonemployee. For exposition of the terminable interest
+rule, see Benson v. City of Los Angeles, 60 Cal.2d 355, 33 Cal.Rptr. 257
+(1963) (death of employee spouse), and Waite v. Waite, 6 Cal.3d 461,
+99 Cal.Rptr. 325 (1972) (death of nonemployee spouse). The
+statement of legislative intent to repeal the terminable interest rule
+was included in an uncodified portion of the 1986 law, Stats 1986, Ch
+Civil
+
+Code
+
+Section
+
+4800.8,
+
+now
+
+Family
+
+Plan,
+
+279 F.3d 1154
+
+(9th Cir.2002),
+
+applies the dictum of Ablamis and holds that ERISA preempts a
+California divorce court distribution of a community property
+pension insofar as it purports to enable a wife to leave her share of a
+community property pension earned by her former husband to her
+heirs at her death. Under Branco, the interest of a former spouse who
+is an Alternate Payee under an ERISA QDRO expires at his or her
+death and reverts to the surviving employee spouse. Branco thus
+revives the Waite arm of the terminable interest rule. See also
+Kimble v. Metropolitan Life Ins. Co., 969F.Supp. 599 (E.D. Cal. 1997)
+(holding that beneficiary designation under employee group life
+insurance policy regulated by ERISA controls disposition of proceeds
+at employee’s death, preempting California community property
+rights of employee’s surviving spouse) and In re Marriage of Shelstead,
+66 Cal. App.4th 893, 78 Cal.Rptr.2d 365 (1998) (holding unenforceable
+a qualified domestic relations order (QDRO) requiring ERISAregulated pension plan to pay a portion of the pension benefits to the
+wife of the participant and, at the wife’s death, to a successor in
+interest named by the wife; QDRO may designate as “alternate
+payee” only a participant or a person included within the ERISA
+category of alternate payee, i.e., “a spouse, former spouse, child or
+other dependent”). Kimble, supra, was not mentioned by the Ninth
+Circuit Court of Appeals panel that subsequently decided Emard v.
+Hughes Aircraft Co., 153 F.3d 949 (9th Cir. 1998). Although every
+other circuit addressing the issue has agreed with Kimble, Emard
+states, arguably in dictum, that a spouse’s community property
+interest in the proceeds of an ERISA-regulated life insurance policy
+is not preempted by the participant’s beneficiary designation. Cf.
+Egelhoff v. Egelhoff, 121 S.Ct. 1322, 149 L.Ed.2d 264 (2001), in which
+the United States Supreme Court held that, with respect to ERISA-
+
+Subdivision (a) of Section 2610 is amended to reflect the reorganization of the State Teachers’ Retirement System statutes. See 1993
+Cal. Stat. ch. 893, § 2 (AB 1796). This is a technical, nonsubstantive
+change. [24 Cal.L.Rev.Comm. Reports 621 (1994)].
+
+686, § 2. Former
+
+§ 2610
+
+BENEFITS
+
+Code
+
+Section 2610, has been generously interpreted by the courts of
+appeal. Estate of Austin, 206 Cal.App.3d 1249, 254 Cal.Rptr. 372
+(1988), holds that the section applies equally to marriages that last
+until the death of one of the spouses. With Austin, compare Regents
+
+179
+
+§ 2610
+
+DIVISION
+
+OF PROPERTY
+beneficiary after he has retired and the annuity has started to pay out.
+The QJSA surviving spouse’s benefit irrevocably vests in the participant’s spouse at the time of the annuity start date and may not be
+reassigned to a subsequent spouse. Accord, Hopkins v. AT & T Global
+Solutions Co., 105 F.3d 153 (4th Cir. 1997).
+When a beneficiary designation form for ERISA-regulated life
+insurance failed to unambiguously designate a beneficiary through a
+relationship code or reference to the insured’s will, the proper
+beneficiary was the default beneficiary under the plan in effect at the
+time of the insured’s death. Metropolitan Life Insurance Co. v. Parker,
+436 F.3d 1109 (9th Cir. 2005).
+
+regulated plans, ERISA preempts a Washington statute that, upon
+divorce, revokes any nonprobate designation of the divorced spouse
+as beneficiary. Egelhoff involved both life insurance and pension
+benefits. Although ERISA preempts inconsistent state law, it does
+not preempt inconsistent federal common law, which gives effect to
+divorce settlement waivers of interests in ERISA-regulated benefits.
+Nevertheless,
+
+in Kennedy vy. Plan Administrator,
+
+129 S.Ct. 865, 172
+
+L.Ed.2d 662 (2009), the United States Supreme Court concluded that
+a plan administrator has a duty under ERISA to follow the
+participant’s beneficiary designation of his ex-spouse, which the
+participant had neglected to revoke, despite his former wife’s federal
+common law waiver. The court reasoned that although federal
+common law is not preempted by ERISA’s anti-alienation clause,
+federal common law does not include the power to rewrite federal
+statutes. Specifically, federal common law generally applicable to
+contractual waivers may not override an express ERISA provision.
+The court noted, however, that the ex-spouse’s waiver was not
+necessarily a nullity, and suggested the possibility that the participant’s estate might bring an action in federal or state court to enforce
+the waiver and thereby obtain the benefits after the ERISA plan
+administrator distributed them to the ex-spouse, as per her former
+husband’s ERISA beneficiary designation.
+Following the suggestion of Kennedy, in Estate of Kensinger v. URL
+
+Citing Kennedy, Becker v. Williams, 777 F.3d 1035 (9th Cir. 2015),
+
+held that decedent effectively changed his beneficiary by phone and
+was not required to sign and return a beneficiary designation form to
+confirm the change, because a beneficiary designation form that was
+neither a governing plan document nor incorporated into the
+governing plan documents is not a plan document under 29 U.S.C.
+sections 1024(b)(4) and 1104(a)(1)(D).
+In re Marriage of Gillmore, 29 Cal.3d 418, 629 P.2d 1, 174 Cal.Rptr.
+493 (1981), holds that when an employee is eligible to retire but has
+not chosen to do so, his former spouse may nevertheless require the
+immediate payment of her interest in the employee’s retirement
+benefit. Effectively, the employee is required to pay his former
+spouse her share of the benefit he would receive had he retired. In re
+Marriage of Cornejo, 13 Cal.4th 381, 916 P.2d 476, 53 Cal.Rptr.2d 81
+(1996), holds that the former spouse who wishes to claim Gillmore
+payments before the employee actually retires must file a motion to
+obtain her share of the employee’s retirement benefits, and the date
+of filing is controlling for purposes of entitlement to. benefits.
+Gillmore payments may not be awarded retroactively to the date, if
+earlier, on which the employee was first eligible to retire.
+Despite Gillmore, In re Marriage of Moore, 226 Cal.App.4th 92, 171
+
+Pharma, Inc., 674 F.3d 131 (2012), the federal Third Circuit Court of
+
+Appeals held that a decedent’s estate could bring an action against
+decedent’s former wife to recover the proceeds of an ERISA plan
+after they were distributed to her, when she had waived all rights to
+the plan in the parties’ settlement agreement although she remained
+the designated beneficiary on plan documents. To the same effect,
+
+see Andochick v. Byrd, 709 F.3d 296 (4th Cir. 2013).
+But see Hillman v. Maretta, 133 S.Ct. 194 (2013), holding that the
+
+express preemption provision of the Federal Employees Group Life
+Insurance Act (FEGLIA), 5 U.S.C. § 8709(d)(1), pre-empts a
+Virginia statute that makes the recipient of a former spouse’s life
+insurance proceeds liable to whoever would have received the
+proceeds had the recipient not been the policy’s designated beneficiaty. Hillman concluded that Congress intended not only that the
+employee’s designated beneficiary would receive the life insurance
+proceeds, but also that the proceeds would belong to the designated
+beneficiary. FEGLIA’s sole exception to an employee’s right of
+designation provides that benefits shall be paid to another person if
+required by a divorce decree that is received by the employing agency
+before the employee’s death. 5 U.S.C. §§ 8705(e)(1)-(2).
+Similarly, see In re Marriage of Steiner, 17 Cal.App.5th 1165, 225
+Cal.Rptr.3d 889 (2017), holding that the Servicemen’s Group Life
+Insurance Act, 38 USC § 1965 et seq., preempted a stipulated order
+requiring a husband to maintain a wife as beneficiary of his life
+insurance policy.
+Compare Lazar v. Kroncke, 862 F.3d 1186 (9th Cir. 2017), holding
+that a federal court, exercising diversity jurisdiction in Arizona and
+applying Arizona’s choice of law rules, properly held that Arizona’s
+revocation-on-death statute trumped an IRA document naming a
+subsequently divorced wife as beneficiary, reasoning that unlike
+ERISA and the Federal Employees’ Group Insurance statutes, the
+IRA governing statutes do not specifically pre-empt state law.
+Relying on 29 U.S.C. §§ 1055 (a)(2) and 1056 (d)(3)(F), Hamilton
+v. Washington State Plumbing and Pipefitting Industry Pension Plan,
+433 F.3d 1091 (9th Cir. 2006), concludes that a surviving spouse’s
+Qualified Preretirement Survivor Annuity can be diverted only to a
+former surviving spouse. Thus, a dissolution decree requiring decedent ex-husband to name the parties’ two children as the beneficiaries of his pension in lieu of life insurance that he was unable to
+obtain, was insufficient to divest decedent’s surviving second wife of
+her Preretirement Survivor Annuity benefits.
+Resolving a conflict between the final two wives of a deceased
+participant, Carmona vy. Carmona, 544 F.3d 988 (9th Cir. 2008), held
+that a participant in an ERISA-regulated Qualified Joint and
+Survivor Annuity (QJSA) may not change his surviving spouse
+
+Cal.Rptr.3d 762 (2014), held that, because of valuation uncertainties,
+
+a trial court properly reserved jurisdiction to divide a husband’s
+accrued sick leave and medical reimbursement plan until the husband
+retired even though he was eligible to retire at the time of trial.
+With respect to ERISA-regulated pensions, the need for a
+
+Gillmore order is avoided by 29 U.S.C. § 1056(d)(3)(E), which
+provides that a qualified domestic relations order may require the
+plan to make payments to an alternate payee on the date on which an
+employee is eligible to retire, but does not do so. This type of order is
+called a “separate interest QDRO.” See Commentary to 29 U.S.C.
+§ 1056.
+Section
+
+2610 was
+
+amended
+
+by Stats
+
+1992, Ch 431, which was
+
+apparently intended to codify the case law rule that, unless otherwise
+provided by state legislation or by the plan itself, a court may not
+order a public pension plan to make payments to any party before the
+
+member retires. This is because the only general authority for
+requiring that pension plans make such preretirement payments
+comes from ERISA, and ERISA applies only to ERISA-regulated
+private pension plans. 29 U.S.C. § 1001 et seq. (1985 and 1992 Supp).
+See particularly § 1056(d)(3)(E). Thus, unless otherwise authorized
+by the public pension plan or by a specific California statute, a payout
+order requiring that public pension payments be made before a
+member has retired may be directed only against the member
+himself. In re Marriage of Jensen, 235 Cal.App.3d 1137, 286 Cal.Rptr.
+911 (1991); In re Marriage of Nice, 230 Cal.App.3d 444, 281 Cal.Rptr.
+415 (1991), review denied 9/19/91.
+'
+In Commissioner v, Dunkin, 500 F.3d 1065 (9th Cir. 2007), a Los
+
+Angeles policeman who remained on the job although his pension
+rights were fully vested and matured, was required to make such
+payments to his former wife. The Ninth Circuit Court of Appeals
+held that the earnings Dunkin used to satisfy his wife’s entitlement
+were taxable to him, not to her. (Compare payments made directly to
+a former spouse under an ERISA bifurcated pension; they are
+taxable to the recipient, not to the other spouse.)
+The 1992 amendments to this section were inadvertently drafted
+more broadly than necessary to codify the case-law rule. The
+
+180
+
+RETIREMENT
+
+PLAN
+
+language of Section 2610(b)(2) is not restricted to public pension
+plans, but instead prohibits a court from ordering any pension plan to
+make payments to a party before the member retires. Nevertheless,
+according to the sponsor’s legislative staff, the amendments were
+intended to reach only public pensions, and a statement of legislative
+intent was to be prepared to clarify this point. 9 Cal. Fam. Law
+Monthly 150 (1992). Alternatively, it is likely that ERISA preempts
+state legislation that would prohibit courts from ordering ERISAregulated plans to make payments before a member has retired. See
+29 U.S.C. § 1056(d)(3)(E).
+Like community property law generally, Section 2610 only recognizes community property interests in existing pension rights. It does
+not create new or independent pension rights. Thus, Section 2610
+does not empower a divorce court to require that a pension plan pay
+a “surviving spouse’s” benefit to a surviving former spouse. Under
+Section 2610, a surviving divorced spouse may have a community
+property ownership interest in otherwise existing benefits, but
+California community property law does not engender new benefits.
+In re Marriage of Cramer, 20 Cal.App.4th 73, 24 Cal.Rptr.2d 372
+(1993). Compare ERISA, 29 U.S.C. § 1056(d)(3)(F) (enabling
+divorce court to provide in a qualified domestic relations order that
+ERISA-regulated pension plan shall treat a surviving divorced spouse
+as a “surviving spouse’). Cf. Willis v. State of California, 22
+Cal.App.4th 287, 27 Cal.Rptr.2d 413 (1994) (although California
+Government Code Section 12479 requires the State of California to
+release a deceased employee’s outstanding payroll warrants to the
+employee’s designated recipient even after being notified of a
+surviving spouse’s community property interest in the warrants,
+neither the statute nor the payment alters the community property
+nature of the warrants); and Fatemi v. Los Angeles County Employees,
+21 Cal.App.4th 1797, 27 Cal.Rptr.2d 105 (1994) (interpreting Government Code Sections 31781.1 and 31781.3).
+In re Marriage of LaMoure, 221 Cal.App.4th 1463, 165 Cal.Rptr.3d
+417 (2013), relying on California Code of Civil Procedure section
+704.115(b), affirmed a trial court order determining that husband’s
+pension plan, which had originally qualified for ERISA protection,
+no longer qualified because the husband used the plan to secrete and
+shield community property assets.
+Retirement benefits must be distinguished from disability benefits.
+While retirement benefits are community property to the extent that
+they were earned during marriage, the character of disability benefits
+turns on the character of the wages they are intended to replace. See
+generally In re Marriage of Saslow, 40 Cal.3d 848, 221 Cal.Rptr. 546
+(1985) (however, if a court determines that the parties initially
+intended that disability benefits to continue after the anticipated date
+of retirement and effectively serve as retirement benefits, after the
+anticipated date of retirement the benefits must be characterized as
+community property retirement benefits). Applying the rubric of
+Saslow, In re Marriage of Marshall, 23 Cal.App.5th 477, 232. Cal.
+Rptr.3d 819 (2018), affirmed a trial court order declining to reclassify
+disability benefits as retirement benefits after determining that the
+parties intended the disability policy only to provide benefits for
+employment income lost on account of disability, the parties having
+made other provisions for retirement and death. Applying the rubric
+of Saslow, In re Marriage of Marshall, 23 Cal.App.5th 477, 232
+Cal.Rpir.3d 819 (2018), affirmed a trial court order declining to
+reclassify disability benefits as retirement benefits after determining
+that the parties intended the disability policy only to provide benefits
+for employment income lost on account of disability, the parties
+having made other provisions for retirement and death. The wagereplacement analysis applied to disability benefits would seem to
+suggest that when a disability policy is purchased before marriage and
+pays wage-replacement benefits during marriage, the benefits received during marriage are community property because they replace
+lost community property wages. Nevertheless, In re Marriage of
+Rossin, 172 Cal.App.4th 725, 91 Cal.Rptr.3d 427 (2009), holds that
+disability benefits paid to a spouse during marriage are the spouse’s
+separate property when the spouse acquired the disability insurance
+
+§ 2610
+
+BENEFITS
+
+policy before marriage without any contribution from the community.
+See also In re Marriage of Elfmont, 9 Cal.4th 1026, 891 P.2d 136, 39
+Cal.Rptr.2d 590 (1995) (where only the bare right to renew a
+disability policy is traceable to community premiums paid for terms
+that expired before former husband became disabled and where
+former husband renewed policy with separate funds after separation
+and became disabled after separation, there is no cognizable
+community property interest in resultant disability benefits even
+though they may be characterized as retirement benefits because they
+will continue after the intended or normative age of retirement).
+Although severance benefits have generally been analogized to
+disability pay and classified according to the character of the wages
+they replace, early retirement benefits may instead be characterized
+as ordinary retirements benefits and hence classified according to
+when they were earned. See generally In re Marriage of Gram, 25
+Cal. App.4th 859, 30 Cal.Rptr.2d 792 (1994) (reviewing the case law
+and characterizing a spouse’s postseparation enhanced early retirement benefits as partially community property because they were
+intended primarily to enhance expected retirement benefits, not to
+compensate for loss of earnings). Compare Jn re Marriage of Frahm,
+45 Cal.App.4th 536, 53 Cal.Rptr.3d 31 (1996), review denied August 21,
+1996 (additional retirement benefits offered to induce former
+husband to take early retirement were husband’s separate property
+because the right to them did not accrue during marriage from the
+husband’s employment; instead the benefits “resulted solely from
+[the employer’s] beneficence”). In re Marriage of Lehman, 18 Cal.4th
+169, 955 P.2d 451, 74 Cal.Rptr.2d 825 (1998), holds that a nonemploy-
+
+ee spouse’s community property ownership interest in retirement
+benefits earned by the other spouse extends to all subsequent
+“enhancements” to those benefits. Lehman reconciles the holdings
+of Gram and Frahm on the ground that Gram involved an early
+retirement package expressed entirely in.terms of retirement benefits
+(community property to the extent earned during marriage) and
+Frahm involved a retirement package combining enhanced retirement benefits (community property to the extent earned during
+marriage) and severance pay (the earner’s separate property). See
+also In re Marriage
+
+of Oddino,
+
+16 Cal.4th
+
+67, 939 P.2d
+
+1266,
+
+65
+
+Cal.Rptr.2d 566 (1997) (holding that “Rule of 75” early retirement
+benefits are an “employer subsidy for early retirement” within the
+meaning of ERISA, 29 U.S.C. § 1056(d)(3)(E)(i)(I), and hence a
+QDRO may not require a pension plan to pay such benefits to an
+alternate payee before the participant’s actual retirement.) In re
+Marriage of Babauta, 66 Cal.App.4th 784, 78 Cal.Rptr.2d 281 (1998),
+relied on Lehman to conclude that Marine Corps voluntary separation pay is a “retirement benefit” and therefore distributable by a
+California court at divorce. For additional discussion of Babauta,
+see Commentary to 10 U.S.C.A. § 1408. Also relying on Lehman, In
+re Marriage of Drapeau, 93 Cal.App.4th 1086, 114 Cal.Rptr.2d 6 (2001),
+review denied February 13, 2002, held that an “early retirement
+benefit” that was earned with marital employment and arose from
+the term of a contract entered during marriage, was community
+property.
+Following Lehman, In re Marriage of Davis, 120 Cal.
+App.4th 1007, 16 Cal.Rptr.3d 220 (2004), characterizes as community
+property the enhanced retirement benefits from a Los Angeles
+policeman’s “Deferred Retirement Option,” which was offered to
+and elected by the husband after permanent separation.
+In re Marriage of Walker, 203 Cal.App.4th 137, 137 Cal.Rptr.3d 611
+(2012), held that a husband’s post-separation, pre-retirement disability allowance was his separate property when the disability allowance
+would terminate as soon as the husband reached the age of eligibility
+for a retirement pension, which itself would be partially community
+property because it was earned during marriage.
+Raphael y. Bloomfield, 113 Cal.App.4th 617, 6 Cal.Rptr.3d 583
+(2003), treats a lump sum workers’ compensation award in the same
+
+manner as disability pay. In Raphael, the lump-sum award, received
+before the parties separated, was intended to provide lifetime
+support for the permanently disabled wife. Raphael holds that the
+award must be apportioned between wage replacement for the pre-
+
+181
+
+§ 2610
+
+DIVISION
+
+OF PROPERTY
+separate property subject to his reimbursement to the community for
+the cost of their purchase.
+In re Marriage of Havins, 43 Cal.App.4th, 50 Cal.Rptr.2d 763 (1996),
+holds that an employer’s subsidy of a divorced spouse’s postretirement medical insurance premiums, which is part of the
+husband’s retirement package earned during marriage, is not com-
+
+separation period and medical expenses paid with community funds,
+which are community property, and post-separation wage replacement, which is the wife’s separate property.
+In the absence of any evidence as to how a lump-sum worker’s
+compensation award was calculated and allocated, In re Marriage of
+
+Ruiz, 194 Cal.App.4th 348, 122 Cal.Rptr.3d 914 (2011), held that a
+trial court did not abuse its discretion in dividing the award by the
+number of years from the date of disability to the date of likely
+retirement and apportioning the award pro rata from the date of the
+wife’s injury to the date of separation as community property and the
+balance as her separate property.
+When a divorced spouse is entitled to either disability pay, which is
+characterized as separate property after divorce (see supra), or
+community property retirement benefits and elects or is required to
+take disability pay in lieu of community property retirement benefits,
+the other spouse is entitled to half the value of the community
+property retirement benefits that would otherwise have been re-
+
+Havins. Ellis and Havins may be incorrectly decided. See commentary
+at California Family Law Monthly 267-269 (October 2002).
+When, pursuant to an ERISA qualified domestic relations order
+(QDRO), a pension plan distributes benefits to a former spouse,
+those benefits are taxable to the former spouse and not to the
+pension-earner spouse. Internal Revenue Code § 402 (a)(9). However, absent a QDRO, a pension distribution is entirely taxable to the
+participant even though one-half is distributed to the participant’s exspouse according to state community property law. Robert L. Karem
+
+ceived. In re Marriage of Stenquist, 21 Cal.3d 779, 582 P.2d 96, 148
+
+v. Commissioner,
+
+Cal.Rptr. 9 (1978). However, when the spouse’s entitlement arises
+
+When a retirement pension is earned partly during marriage and
+partly before marriage or after permanent separation, the pension
+must be apportioned between the community estate and the earner’s
+separate estate. For comprehensive discussion of the “time rule”
+generally used to make such apportionment, see In re Marriage of
+Gowan, 54 Cal.App.4th 80, 62 Cal.Rptr.2d 453 (1997) (pension based
+on employee’s years of service from two separate periods of
+employment properly apportioned according to the “time rule”).
+
+munity property. In re Marriage of Ellis, 101 Cal.App.4th 400, 124
+Cal.Rptr.2d
+
+from federal military service, Mansell v. Mansell, 490 U.S. 581 (1999),
+
+holds that federal law preempts any direct or indirect community
+property distribution of military disability pay. Thus Stenquist treat-
+
+ment is barred for such benefits.
+Moreover, Howell v. Howell, 137 S.Ct. 1400, 197 L.Ed.2d 781
+(2017), held that when a former spouse has been awarded a portion
+of a service member’s retirement pay at divorce and, after divorce the
+service member elects to receive disability pay instead of retirement
+pay, a state court may not compensate the former spouse for the loss
+of her share of the service member’s retirement pay. Howell suggests
+that harm to the former spouse may be mitigated by means of spousal
+support.
+Although federal law bars a trial court from using spousal support
+as a means of reimbursement for civilian spouse’s share of military
+retirement benefits waived to receive disability pay, the court may
+consider the military disability pay in awarding spousal support to
+civilian spouse. In re Marriage of Cassinelli, 20 Cal.App.5th 1267, 229
+
+719
+
+(2002),
+
+review
+
+denied
+
+October
+
+16, 2002,
+
+follows
+
+100 T.C. No. 34 (1993).
+
+Research References
+Forms
+
+California Practice Guide: Rutter Family Law Forms
+Qualified Domestic Relations Order (QDRO).
+
+Form
+
+8:6,
+
+2 California Transactions Forms--Estate Planning § 9:76, Communi-
+
+ty Property Interest in Retirement Benefits.
+2 California Transactions Forms--Estate Planning § 10:4, Communi-
+
+ty Property.
+4 California Transactions Forms--Estate Planning § 19:16, Overview.
+1 California Transactions Forms--Family Law § 2:23, Overview.
+
+Cal.Rptr.3d 801 (2018), review denied.
+
+West’s California Code Forms, Family § 2060, Comment Overview-
+
+Although In re Marriage of Smith, 148 Cal.App.4th 1115, 56
+Cal.Rptr.3d 341 (2007), is factually distinguishable from Howell,
+where there was no indemnity clause in the parties’ stipulation, it is
+
+Application and Order for Joinder.
+West’s California Code Forms, Family § 2550, Comment OverviewManner of Division of Community Estate.
+
+uncertain whether Smith survives Howell. Smith approved a trial
+court judgment stipulated by the parties, which divided the community property portion of a husband’s future retirement pay, required
+that the husband name the wife the beneficiary of a survivor’s benefit
+so that she would not lose her interest in the retirement pay if he
+were to predecease her, and provided that if the husband elected in
+the future to receive disability in lieu of retirement pay, he would
+indemnify his former wife for his unilateral reduction of the value of
+the retirement benefits. The final provision was intended to insure
+that the wife received the value of the bargain she made at
+dissolution.
+In re Marriage of Lucero, 118 Cal.App.3d 836, 173 Cal.Rptr. 680
+(1981), holds that the right to reinstate a pension earned during
+marriage is a community asset even though that right may have been
+exercised with a divorced spouse’s separate property funds. Lucero
+analyzes and finds wanting Jn re Marriage of Forrest, 97 Cal.App.3d
+
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-347,
+
+Bifurcation
+
+of
+
+Status of Marriage or Domestic Partnership-Attachment.
+West’s California Judicial Council Forms FL-348, Pension Benefits-
+
+Attachment to Judgment.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 69
+(2018), Election Not to Retire.
+11 Witkin, California Summary 10th Community Property § 73
+(2018), Authorized Orders.
+11 Witkin, California Summary 10th Community Property § 76
+(2018), Waiver of Immediate Payment Rights.
+11 Witkin, California Summary 10th Community Property § 78
+(2018), Survivor and Death Benefits.
+11 Witkin, California Summary 10th Community Property § 98
+(2018), Application of Time Rule.
+11 Witkin, California Summary 10th Husband and Wife § 123
+(2018), Requirements for Pension and Retirement Plans.
+
+850, 159 Cal.Rptr. 229 (1979), an earlier decision of a different panel
+of the Fourth District, which held to the contrary. The California
+
+Supreme Court approved the reasoning of Lucero in In re Marriage of
+Sonne, 48 Cal.4th 118, 105 Cal.Rptr.3d 414, 225 P.3d 546 (2010).
+In re Marriage of Green, 56 Cal.4th 1130, 302 P.3d 562, 158
+Cal. Rptr.3d 247 (2013), reversing a decision of the court of appeal,
+the California Supreme Court held that when CalPERS military
+service credits were purchased with community funds during the
+marriage, but the military service was performed by the husband
+before marriage and he was employed by a CalPERS participant
+before marriage, the military service credits were the husband’s
+
+Part 6
+
+DEBTS AND LIABILITIES
+Section
+2620. Community estate debts; confirmation or division.
+2621.
+
+182
+
+Premarital debts; confirmation.
+
+DEBTS
+
+AND
+
+date of separation shall be divided as set forth in Sections
+
+Section
+2622.
+Marital debts incurred before the date of separation;
+division.
+
+2623.
+
+2550 to 2552, inclusive, and Sections 2601 to 2604, inclusive.
+
+(b) To the extent that community debts exceed total
+community and quasi-community assets, the excess of debt
+shall be assigned as the court deems just and equitable, taking
+into account factors such as the parties’ relative ability to pay.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Marital debts incurred after the date of separation;
+confirmation.
+
+2624.
+
+2625.
+2626.
+
+Marital debts incurred after entry of judgment of
+dissolution or after entry of judgment of legal
+separation; confirmation.
+Separate debts incurred before date of separation;
+confirmation.
+Reimbursements.
+
+2627.
+
+Educational loans;
+assignment.
+
+2628.
+
+Joint California income tax liabilities; revision by court
+in marriage dissolution proceeding.
+
+§ 2620.
+
+liabilities
+
+for death
+
+or
+
+Law Revision Commission
+Enactment
+
+injuries;
+
+Research References
+
+Community estate debts; confirmation or division
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+
+estate becomes liable after trial, shall be confirmed or divided
+as provided in this part. (Stats.1992, c. 162 (A.B.2650), § 10,
+
+§ 2623. Marital debts incurred after the date of separation;
+confirmation
+
+operative Jan. 1, 1994.)
+Law Revision Commission
+
+Enactment
+
+Debts incurred by either spouse after the date of separation but before entry of a judgment of dissolution of marriage
+or legal separation of the parties shall be confirmed as
+follows:
+(a) Debts incurred by either spouse for the common
+necessaries of life of either spouse or the necessaries of life of
+the children of the marriage for whom support may be
+ordered, in the absence of a court order or written agreement
+for support or for the payment of these debts, shall be
+confirmed to either spouse according to the parties’ respective needs and abilities to pay at the time the debt was
+incurred.
+(b) Debts incurred by either spouse for nonnecessaries of
+that spouse or children of the marriage for whom support
+may be ordered shall be confirmed without offset to the
+spouse who incurred the debt. (Stats.1992, c. 162 (A.B.2650),
+
+Comments
+
+[Revised Comment]
+
+Section 2620 continues the introductory part of former Civil Code
+
+Section 4800(c) without substantive change. See also Sections 63
+(“community estate” defined), 916 (liability after property division),
+2551 (court characterization of liabilities as separate or community
+and confirmation or assignment to parties), 2552 (valuation date for
+liabilities). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Research References
+
+Forms
+
+West’s California Code Forms, Family § 2550, Comment Overview-
+
+Manner of Division of Community Estate.
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+
+10th Community Property § 211
+(2018), Other Exceptions.
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+
+§ 10, operative Jan. 1, 1994.
+
+Law Revision Commission Comments
+
+Premarital debts; confirmation
+
+the debt.
+
+(Stats.1992,
+
+c. 162
+
+Enactment
+
+(A.B.2650),
+
+[Revised Comment]
+
+Section 2623 continues former Civil Code Section 4800(c)(3)
+without substantive change.
+References to children “for whom
+support may be ordered” have been substituted for former references
+to “minor” children, since in some cases support may be ordered for
+adult children. See Section 58 (“child for whom support may be
+ordered” defined). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+$ 10,
+
+operative Jan. 1, 1994.)
+Law Revision Commission Comments
+Enactment
+
+Amended by Stats.1993, c. 219
+
+(A.B.1500), § 113.)
+
+Debts incurred by either spouse before the date of
+marriage shall be confirmed without offset to the spouse who
+incurred
+
+Comments
+
+[Revised Comment]
+
+Section 2622 continues former Civil Code Section 4800(c)(2)
+without substantive change.
+[23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+The debts for which the community estate is liable which
+are unpaid at the time of trial, or for which the community
+
+§ 2621.
+
+§ 2624
+
+LIABILITIES
+
+[Revised Comment]
+Research References
+
+Section 2621 continues former Civil Code Section 4800(c)(1)
+without change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+
+Research References
+
+Treatises and Practice Aids
+
+§ 2624. Marital debts incurred after entry of judgment of
+dissolution or after entry of judgment of legal separation; confirmation
+
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+
+§ 2622. Marital debts incurred before the date of separation; division
+
+Debts incurred by either spouse after entry of a judgment
+of dissolution of marriage but before termination of the
+parties’ marital status or after entry of a judgment of legal
+separation of the parties shall be confirmed without offset to
+
+(a) Except as provided in subdivision (b), debts incurred
+by either spouse after the date of marriage but before the
+
+183
+
+§ 2624
+the
+
+spouse
+
+DIVISION
+who
+
+incurred
+
+the
+
+debt.
+
+(Stats.1992,
+
+OF PROPERTY
+16 Witkin, California Summary 11th Juvenile Court Law § 24 (2018),
+Parental or Marital Rights of Prisoners.
+
+c. 162
+
+(A.B.2650), $ 10, operative Jan. 1, 1994.)
+Law Revision Commission
+Enactment
+
+§ 2626.
+
+Comments
+
+The court has jurisdiction to order reimbursement in cases
+it deems appropriate for debts paid after separation but
+before trial. (Stats.1992, c. 162 (A.B.2650), § 10, operative
+Jan. 1, 1994.)
+
+[Revised Comment]
+
+Section 2624 continues former Civil Code Section 4800(c)(4)
+without substantive change.
+[23 Cal.L.Rev.Comm. Reports 1
+
+(1993)].
+
+Law Revision Commission
+
+Research References
+
+Enactment
+
+Treatises and Practice Aids
+
+11 Witkin,
+
+California
+
+Reimbursements
+
+Summary
+
+10th Community
+
+Commentary
+
+§ 2625. Separate debts incurred before date of separation;
+confirmation
+
+The court may order reimbursement under this section even
+though there is no authority for reimbursement other than this
+section. In re Marriage of Williams, 213 Cal.App.3d 1239, 262 Cal.Rptr.
+317 (1989). In Williams, after the parties separated, the district
+attorney levied on community property to satisfy the husband’s child
+support obligation arising from a prior marriage. Although there had
+been no separate property available to pay the debt when the district
+attorney levied on the property (see Section 915(b)), the court held
+that reimbursement to the community was appropriate. Williams
+indicates that Section 2626 may be used to require reimbursement
+when community property has been applied after separation to satisfy
+any “separate” debt enumerated in Sections 2621-2625. (In contrast,
+the use of community property to satisfy such debts before separation
+does not ordinarily give rise to any claim for reimbursement.)
+
+Notwithstanding Sections 2620 to 2624, inclusive, all separate debts, including those debts incurred by a spouse during
+marriage and before the date of separation that were not
+incurred for the benefit of the community, shall be confirmed
+without offset to the spouse who incurred the debt. (Stats.
+1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Enactment
+
+[Revised Comment]
+
+Section 2626 continues former Civil Code Section 4800(e) without
+substantive change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Property § 221
+
+(2018), Characterization and Confirmation of Debts.
+
+Law Revision Commission
+
+Comments
+
+Comments
+
+[Revised Comment]
+
+Section 2625 continues former Civil Code Section 4800(d) without
+substantive change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+When one party uses his or her separate property for community
+purposes after separation, that party is normally entitled to reimbursement. See generally In re Marriage of Epstein, 24 Cal.3d 76, 8286, 154 Cal.Rptr. 413 (1979), and In re Marriage of Hebbring, 207
+
+Commentary
+
+Section 2625 is anomalous in a community property system that
+does not have, for purposes of debtor-creditor liability, a “community
+debt” doctrine. (Compare prior Washington law discussed in Grolem-
+
+Cal.App.3d 1260, 1269-1272, 255 Cal.Rptr. 488 (1989). (Compare
+treatment of the use of separate property funds for community
+purposes before separation. See Section 2640, Commentary.)
+
+und v. Cafferata, 17 Cal.2d 679, 111 P.2d 641 (1941), cert. denied 314
+U.S. 612 (1941).) Before the 1986 enactment of Civil Code Section
+
+4800(d), now Section 2625, several cases had treated certain debts
+incurred during marriage as the separate obligation of one spouse for
+purposes of debt apportionment at divorce. See, for example, Jn re
+Marriage of Lister, 152 Cal.App.3d 411, 416, 199 Cal.Rptr. 321 (1984)
+(use of community property to discharge premarital debts), and In re
+Marriage of Stitt, 147 Cal.App.3d 579, 195 Cal.Rptr 172 (1983) (wife’s
+debt incurred during marriage to defend against embezzlement
+charges assigned to her as her separate obligation at divorce).
+Although those cases were unexceptionable, the statute seems
+conceptually overbroad. Characterization of debts “incurred by a
+spouse during marriage ... that were not incurred for the benefit of
+the community” as “separate debts” could conceivably capture any
+personal expenditure by a spouse during marriage. See, for example,
+In re Marriage of Cairo, 204 Cal.App.3d 1255, 251 Cal.Rptr. 731
+
+For discussion of the meaning of the term “separation,” see
+Section 771, Commentary.
+Research References
+Forms
+
+California Practice Guide: Rutter Family Law Forms Form 1:32,
+Glossary of Common Family Law Terms, Phrases and Concepts
+(Enclosure to Form 1:31).
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+11 Witkin, California Summary 10th Community Property § 234
+(2018), Postseparation Payments.
+
+(1988), approving the assignment of a $1,100 credit card debt to the
+
+husband as his “separate debt” because he had used some of the
+money for gambling and had not given his wife any household money
+from the borrowed funds. Yet “community benefit” arguably should
+be understood to include each spouse’s individual welfare and hence
+to include each spouse’s lawful personal consumption expenditure.
+
+§ 2627.
+Educational loans; liabilities for death or injuries;
+assignment
+
+Notwithstanding Sections 2550 to 2552, inclusive, and
+Sections 2620 to 2624, inclusive, educational loans shall be
+assigned pursuant to Section 2641 and liabilities subject to
+paragraph (2) of subdivision (b) of Section 1000 shall be
+assigned to the spouse whose act or omission provided the
+
+Research References
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 190
+(2018), Illustrations.
+11 Witkin, California Summary 10th Community Property § 221
+(2018), Characterization and Confirmation of Debts.
+
+basis for the liability, without
+
+offset.
+
+(A.B.2650), § 10, operative Jan. 1, 1994.)
+
+184
+
+(Stats.1992,
+
+c. 162
+
+§ 2640
+
+REIMBURSEMENTS
+
+Chapter 5 (commencing with Section 850) of Part 2 of
+Division 4, or a written waiver of the right to reimbursement.
+The amount reimbursed shall be without interest or adjustment for change in monetary values and may not exceed the
+net value of the property at the time of the division.
+
+Law Revision Commission Comments
+
+Enactment
+
+[Revised Comment]
+
+Section 2627 continues former Civil Code Section 4800(b)(5)
+without substantive change.
+[23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+
+(Stats.1992,
+Commentary
+See Section 2641, Commentary,
+
+Amended
+
+c. 162 (A.B.2650),
+
+by Stats.1993,
+
+Law Revision Commission
+
+Research References
+
+Enactment
+
+10th Community
+
+revision by
+
+Notwithstanding Sections 2550 to 2552, inclusive, and
+Sections 2620 to 2624, inclusive, joint California income tax
+
+liabilities may be revised by a court in a proceeding for
+dissolution of marriage, provided the requirements of Section
+19006 of the Revenue and Taxation Code are satisfied.
+(Added by Stats.2002, c. 374 (A.B.2979), § 1.)
+Research References
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), Other Exceptions.
+
+10th Community
+
+Stats.
+
+Comments
+
+[Revised Comment]
+
+Section 2640 continues former Civil Code Section 4800.2 without
+substantive change.
+Section 2640 is intended to apply to all
+community estate property regardless of the date of acquisition. See
+Section 2580 (legislative findings and declarations).
+In subdivision (b), “community estate” has been substituted for
+“community property” to codify case law holding that this provision
+applies to quasi-community property as well as to community
+property. See Jn re Marriage of Craig, 219 Cal.App.3d 683, 268
+Cal.Rptr. 396 (1990). See also Sections 63 (“community estate”
+defined), 2502 (“separate property” defined).
+A reference to
+division of property “under this division” has been substituted for the
+former reference to division “under this part,” meaning the former
+Family Law Act (former Part 5 (commencing with former Section
+4000) of Division 4 of the Civil Code). See also Section 2251
+(division of property in nullity proceeding).
+
+Property § 211
+
+(2018), Other Exceptions.
+§ 2628. Joint California income tax liabilities;
+court in marriage dissolution proceeding
+
+§ 114.5;
+
+2004, c. 119 (S.B.1407), § 1.)
+
+and Section 1000, Commentary.
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+
+§ 10, operative Jan. 1, 1994.
+
+c. 219 (A.B.1500),
+
+When
+
+Property § 211
+
+enacted in 1983 (as former Civil Code Section 4800.2),
+
+Section 2640 reversed the rule of Jn re Marriage of Lucas, 27 Cal.3d
+808, 614 P.2d 285, 166 Cal.Rptr. 853 (1980), and cases following it,
+which precluded recognition of the separate property contribution of
+one of the parties to the acquisition of community property, unless
+the party could show an agreement between the spouses to the effect
+that the contribution was not intended to be a gift. Under Section
+2640, in case of dissolution of the marriage, a party making a
+separate property contribution to the acquisition of the property is
+not presumed to have made a gift, unless it is shown that the parties
+agreed in writing that it was a gift, but is entitled to reimbursement
+for the separate property contribution at dissolution of marriage.
+The separate property contribution is measured by the value of the
+
+Part 7
+
+REIMBURSEMENTS
+Section
+2640. Contribution to the acquisition of property of the
+community property estate; waivers; amount of
+reimbursement.
+2641. _Community contributions to education or training.
+
+contribution at the time the contribution is made.
+
+§ 2640. Contribution to the acquisition of property of the
+community property estate; waivers; amount of reimbursement
+
+Under this rule, if
+
+the property has since appreciated in value, the community is entitled
+to the appreciation. If the property has since depreciated in value,
+reimbursement may not exceed the value of the property; if both
+parties are entitled to reimbursement and the property has insufficient value to permit full reimbursement of both, reimbursement
+should be on a proportionate basis.
+
+(a) “Contributions to the acquisition of property,” as used
+in this section, include downpayments, payments for improvements, and payments that reduce the principal of a loan used
+to finance the purchase or improvement of the property but
+do not include payments of interest on the loan or payments
+made for maintenance, insurance, or taxation of the property.
+(b) In the division of the community estate under this
+division, unless a party has made a written waiver of the right
+to reimbursement or has signed a writing that has the effect
+of a waiver, the party shall be reimbursed for the party’s
+contributions to the acquisition of property of the community
+property estate to the extent the party traces the contributions to a separate property source. The amount reimbursed
+shall be without interest or adjustment for change in monetary values and may not exceed the net value of the property
+at the time of the division.
+-(c) A party shall be reimbursed for the party’s separate
+property contributions to the acquisition of property of the
+other spouse’s separate property estate during the marriage,
+unless there has been a transmutation in writing pursuant to
+
+For background on former Civ. Code § 4800.2, see Recommenda-
+
+tion Relating to Division of Joint Tenancy and Tenancy in Common
+Property at Dissolution of Marriage, 16 Cal. L. Revision Comm’n
+Reports 2165. (1982); 17 Cal. L. Revision Comm’n Reports 863
+(1984); Recommendation Relating to Civil Code Sections 4800.1 and
+4800.2, 18 Cal. L. Revision Comm’n Reports 383 (1986); 18 Cal, L.
+Revision Comm’n Reports 1741 (1986).
+[23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+Commentary
+
+For comprehensive analysis and application of this section and
+section 2640, see In re Marriage of G.C. & .R.W., 23 Cal.App.5th 1, 232
+Cal.Rptr.3d 484 (2018). G.C. & R.W. clarifies the relationship
+between Jn re Marriage of Lucas, 27 Cal.3d 808, 614 P.2d 285, 166
+Cal.Rptr. 853 (1980), and subsequently enacted sections 2581 and
+2640.
+For discussion of the constitutionality of retroactive application of
+Section 2640 to transactions occurring before its effective date,
+January 1, 1984, see Section 2581 Commentary and the Law Revision
+Comment
+
+185
+
+to an
+
+earlier
+
+constitutionalized
+
+draft of Section
+
+2640,
+
+§ 2640
+
+DIVISION
+
+OF PROPERTY
+extinguished. In re Marriage of Tallman,
+
+22 Cal.App.4th 1697, 28
+Cal. Rptr.2d 323 (1994).
+In re Marriage of Walrath, 17 Cal.4th 907, 952 P.2d 1124, 72
+Cal.Rptr.2d 856 (1998), holds that a spouse may seek reimbursement
+for separate property contribution to the acquisition of community
+property both from the asset initially purchased with the separate
+property contribution and also from any other community property
+subsequently acquired from funds derived from the initial asset.
+When funds used to make a subsequent purchase have been secured
+by hypothecation of the first acquisition, the separate property
+interest in those purchase funds is determined by the relationship of
+the separate property contribution to the total equity in the initial
+asset at the time of hypothecation. For example, if the separate
+contribution represented 40% of the value of the equity at the time
+of hypothecation (refinancing), the separate property interest in the
+funds derived from refinancing would also be 40%. See also Jn re
+Marriage of Stoll, 63 Cal.App.4th 837, 74 Cal.Rptr.2d 506 (1998)
+(applying relaxed proof requirements to Walrath valuation of the
+separate property asset when it was transmuted into community
+property).
+In re Marriage of Cochran, 89 Cal.App.4th 1144, 103 Cal.Rptr.2d 901
+(2001), holds that a spouse is entitled to reimbursement under this
+section for his (i) separate property payment of school fees, which
+were required to obtain a permit to build the family home, and (ii)
+separate property payment of home construction loan earnest money
+to the extent that the earnest money was used for home improvements.
+Compare In re Marriage of Nicholson and Sparks, 104
+
+reproduced below for informational purposes only. See particularly
+In re Marriage
+
+of Heikes,
+
+10
+
+Cal.4th
+
+1211,
+
+899
+
+P.2d
+
+1349,
+
+44
+
+Cal. Rptr.2d 155 (1995) (Family Code Sections 2581 and 2640 may be
+applied retroactively to transactions that occurred before their
+effective dates only when such retroactive application would not
+affect vested property rights created before the statutes’ effective
+dates). See also In re Marriage of Rico, 10 Cal.App.4th 706, 12
+Cal.Rptr.2d 659 (1992) (treatment of tenancy in common acquired in
+1979 and redeeded as joint tenancy in 1986).
+In light of the constitutional rule articulated in Heikes, supra,
+subsection (c), should be understood to apply only to those separate
+property contributions of one spouse to the acquisition of the
+separate property estate of the other spouse that were made on or
+after January 1, 2005, the effective date of subsection (c).
+In one respect, this section treats separate property contributions
+to the acquisition of the other spouse’s separate property differently
+from separate contributions to the acquisition of community property. Subsection (c) bars reimbursement of one spouse’s separate
+property contributions to the separate estate of the other spouse
+when there has been a section 852 written transmutation. For
+example, if a husband were to take a separate property asset titled in
+his name alone and convey it in writing to his wife as her separate
+property, there would be no reimbursement to the husband of the
+value of the asset at the time of its conveyance to the wife. However,
+case law interpreting subsection (b), which does not mention
+transmutation, allows reimbursement to a spouse’s separate estate
+when the spouse conveyed his separate property home to the parties
+together as community property or joint tenancy, even though section
+
+Cal.App.4th 289, 127 Cal.Rptr.2d 882 (2003), which rejects a reimbursement claim for separate property funds used to pay off creditcard debt in order to qualify for a loan to purchase a community
+property family residence, on the ground that such payment of credit-
+
+852 transmutations requirements have been met. See, for example, Jn
+
+re Marriage of Heikes, 10 Cal.4th 1211 (1995) (separate property
+contribution is the value at the time of conveyance). This treatment
+has been criticized by Mary Charles McRae in Contribution or
+Transmutation?, 49 UCLA L.Rev.1187 (2002) (arguing that when
+separate property has been transmuted into community property
+
+card debt does not qualify, under this section, as a contribution to the
+
+acquisition or improvement of the community property residence.
+As currently drafted and constitutionally glossed, this reimbursement provision allows reimbursement for separate contributions to
+the acquisition or improvement of community property made on or
+after January 1, 1984 and for one spouse’s separate contributions to
+the acquisition or improvement of the other spouse’s separate
+property made on or after January 1, 2005. This section does not
+address community contributions to the acquisition or improvement
+of a spouse’s separate property. That topic and all prestatutory
+separate property contributions are controlled by case law, which
+generally provides that when one spouse applies his separate
+property or community property to improve the other spouse’s
+separate property, in the absence of any reimbursement agreement
+between the spouses, a gift is presumed. In contrast, when a spouse
+uses community property to improve his own separate property,
+absent a reimbursement agreement or the consent of the other
+spouse, the acting spouse must reimburse the community estate for
+the amount so used or the value added, whichever is greater. See In
+re Marriage of Frick, 181 Cal.App.3d 997, 1019-1020, 226 Cal.Rptr. 766
+(1986), review denied 8/28/86 (dictum), and In re Marriage of Warren,
+28 Cal.App.3d 777, 104 Cal.Rptr. 860 (1972). However, some courts
+have expressed dissatisfaction with the incoherence of California
+
+under section 852, there should be no section 2640 reimbursement to
+
+the separate estate).
+For discussion of tracing when separate and community funds are
+commingled, see Section 770 Commentary.
+For purposes of Section 2640, the term “community estate”
+includes only property that cannot otherwise be demonstrated to be
+the separate property of one or both spouses. It does not include all
+property covered by the general presumption arising merely from
+acquisition during marriage (see Section 760, Commentary), but
+rather includes only property for which the presumption may not be
+overcome. Thus, an untitled asset purchased by one spouse with
+separate and community funds is an asset of mixed character
+allocated to the separate and community estates according to the
+percentage of funds that each estate contributed to the purchase
+price. Similarly, when a husband took title to real property in his
+name alone and contributed separate and community property to the
+purchase price, it was error to apply this section to grant the husband
+mere reimbursement of his separate property contributions. Instead,
+separate and community interests in the property should have been
+apportioned according to each estate’s relative contribution, because
+the husband never transmuted his separate property interest in the
+purchase funds. In re Marriage of Bonvino, 241 Cal.App.4th 1411, 194
+Cal.Rptr.3d 754 (2015). With respect to untitled property and
+property titled in a form that is consistent with the assertion of a
+separate property interest, such as title in one spouse’s name alone,
+this section has no application. For discussion of apportionment, see
+In re Marriage of Moore, 28 Cal.3d 366, 618 P.2d 208, 168 Cal. Rptr 662
+(1980). In contrast, Section 2640 applies when written title has been
+taken by the spouses in joint form, and neither can rebut the
+presumption that arises from the form of title. See Sections 2580 and
+
+rules of reimbursement when one estate contributes to another, and
+
+two cases have entirely rejected the case law presumption of gift. In re
+Marriage of Wolfe, 91 Cal.App.4th 962, 110 Cal.Rptr.2d 921 (2001),
+review
+
+2581, and In re Marriage of Buol, 39 Cal.3d 751, 762, 705 P.2d 354, 218
+
+Cal. Rptr. 31, 38 (1985). When Section 2640 is properly applicable, the
+separate estate is reimbursed for the amount of the separate property
+contribution
+
+denied
+
+December
+
+12, 2001,
+
+holds
+
+that
+
+the divorce
+
+court
+
+properly ordered the husband to reimburse the community for the
+amount of community funds used to improve his separate property.
+Rejecting the traditional case law rubric, Wolfe does not specify
+which spouse applied the funds or whether the wife consented to
+their application to husband’s separate property. Wolfe was not
+followed in In re Marriage of Cross, 94 Cal.App.4th 1143, 114
+Cal.Rptr.2d 839 (2001), which holds that the divorce court properly
+refused to reimburse the husband or the community estate for
+improvements made to the wife’s separate property residence, to
+which the husband contributed his separate funds property and
+
+to the debt reduction, not for the value of the debt
+
+186
+
+REIMBURSEMENTS
+community services. Wolfe was followed in In re Marriage of Allen, 96
+
+§ 2640
+
+the spouse who initially owned the business. Van Camp v. Van Camp,
+53 Cal.App. 17, 27-28, 199 P. 885 (1921). See generally Beam v. Bank
+of America, 6 Cal.3d 12, 98 Cal.Rptr. 137 (1971). When the labor of a
+spouse has been the primary factor in business success, Pereira
+accounting should be used. When the separate capital has been the
+primary factor in business success, Van Camp accounting may be
+used. In re Marriage of Dekker, supra, 21 Cal.Rptr.2d at 648-50. See
+
+Cal.App.4th 497, 116 Cal.Rptr.2d 887 (2002), which holds that a wife’s
+consent to the use of community property funds to improve the
+separate property of her husband does not raise a presumption that
+the wife intended to make a gift of her interest in the funds to her
+husband; instead the community is entitled either to reimbursement
+of the funds spent or a pro rata interest in the property. Wolfe was
+also followed in Bono v. Clark, 103 Cal.App.4th 1409, 128 Cal.Rptr.2d
+31 (2002), review denied March 5, 2003, which allowed the surviving
+widow recovery for expenditure of community funds used to improve
+the decedent husband’s separate property. The measure of community property recovery was, to the extent that value was added, a pro
+tanto interest in the property, or if no value was added, the
+community funds so spent.
+When community funds are applied to reduce an encumbrance on
+a spouse’s separate property, the community estate becomes an
+owner in the proportion that community property encumbrance
+reduction bears to the total purchase price. Jn re Marriage of Moore,
+28 Cal.3d 366, 168 Cal.Rptr. 662 (1980). Although Moore did not
+present any claim that the acting spouse had made a gift to the other
+spouse’s separate property, the issue was raised in In re Marriage of
+Gowdy, 178 Cal.App.3d 1228, 224 Cal.Rptr. 400 (1986), which held
+that the application of community property funds to reduce the
+“encumbrance on the husband’s separate property, even though done
+with knowledge and apparent consent of the wife, gave the community a pro tanto interest in that separate property.” Id. at 1234. There is
+obvious tension between Gowdy and the improvement cases supra.
+Compare also In re Marriage of Branco, 47 Cal.App.4th 1621, 55
+Cal.Rptr.2d 493 (1996) (community property loan proceeds used by
+spouses to pay off debt on wife’s separate property home gave rise to
+Moore community property interest in home even though husband
+executed quitclaim deed to wife after the couple obtained the loan
+proceeds) with In re Marriage of Stoner, 147 Cal.App.3d 858, 195
+Cal.Rptr. 351 (1983) (finding no Moore community property interest
+on similar facts). See also In re Marriage of Frick, 181 Cal. App.3d 997,
+1007-1009, 226 Cal.Rptr. 766 (1986); In re Marriage of Marsden, 130
+Cal.App.3d 426, 436-439, 181 Cal.Rptr. 910 (1982) (treatment of
+mixed-character asset when there has been premarital appreciation);
+and In re Marriage of Rico, 10 Cal.App.4th 706, 12 Cal.Rptr.2d 659
+(1992) (Moore-Marsden accounting used when both parties contributed separate funds to purchase real property before marriage and then
+made payments after marriage with community property).See.also Jn
+re Marriage of Sherman, 133 Cal.App.4th 795, 35 Cal.Rptr.3d 137
+(2005), which held that in making a Moore-Marsden apportionment,
+the trial court erred in valuing an appreciated family home at the
+time of separation rather than the time of trial, because the increase
+in value was due to market forces rather than to either spouse’s
+
+additionally Gilmore v. Gilmore, 45 Cal.2d 142, 287 P.2d 769 (1955);
+
+Tassi v. Tassi, 160. Cal.App.2d
+
+680, 325 P.2d 872 (1958). Such
+
+apportionment must also be made when a spouse’s postseparation
+
+separate property labor is applied to an otherwise community
+property business. See Jn re Marriage of Imperato, 45 Cal.App.3d 432,
+119 Cal.Rptr, 590 (1975). The incorporation of a separate property
+sole proprietorship during marriage does not subject it to Section
+2640 reimbursement.
+A change in form does not change the
+character of the business so long as the value or the operation of the
+business is not significantly changed, it still must be apportioned
+according too Pereira/Van Camp principles. In re Marriage of Koester,
+73 Cal_App.4th 1032, 87 Cal.Rptr.2d 76 (1999).
+In re Marriage of Ciprari, 32 Cal.App.5th. 83, 242 Cal.Rptr.3d 900
+(2019), held that a trial court may consider and credit reasonable,
+
+well-supported and nonspeculative tracing that departs from common tracing methods when tracing assets to a separate property
+
+source.
+In re Marriage of Brandes, 239 Cal.App.4th 1461, 192 Cal.Rptr.3d 1
+(2015), review denied, held that a court may use a hybrid Pereira/Van
+
+Camp approach to determine the community property interest in a
+separate property business that grew enormously during. marriage
+when the managing spouse’s personal labor was the primary cause of
+early business growth (Pereira), but the spouse later delegated
+management of the business to others and market conditions were
+unusually favorable (Van Camp). The effect of Brandes was to
+minimize the community property interest in a separate property
+business that initially grew because of the quality of a spouse’s
+personal labor, when the managing spouse later delegated management responsibilities to others and no longer personally participated
+in the management of the business.
+In re Marriage of Brooks, 33 Cal.App.5th 576, 244 Cal.Rptr.3d 910
+(2019), review denied, held that a trial court did not err in choosing
+
+to use the Van Camp accounting method despite substantial evidence
+that Pereira accounting should be used. Brooks emphasizes that the
+standard of review on appeal is the substantial evidence standard, not
+de novo review. Hence the court of appeal could often affirm either
+result as long as each is supported by substantial evidence.
+Patrick v. Alacer Corp., 167 Cal.App.4th 995, 84 Cal.Rptr.3d 642
+(2008), review denied, held that a surviving spouse had standing to
+assert shareholder derivative claims against her deceased husband’s
+corporation even though she was not a shareholder of record, when
+she alleged that during marriage the community had acquired an
+interest in the corporation because its increase in value was
+attributable to community labor.
+When a spouse has applied community property to preserve his
+own separate property, the community is entitled to reimbursement.
+In re Marriage of Avril, 57 Cal.App.3d 802, 129 Cal.Rptr. 351 (1976)
+(payment of taxes); Somps v. Somps, 25 Cal.App.2d 328, 58 Cal.Rptr.
+304 (1967) (taxes and incidental expenses); Estate of Turner, 35
+Cal.App.2d 576, 96 P.2d 363 (1939) (taxes and special assessments).
+Although the statute is not entirely clear (compare Section 2581),
+the Section 2640 right of reimbursement would appear to apply only
+at dissolution and not when a marriage ends in death. When
+marriage ends because of the death of one of the parties, In re
+Marriage of Lucas, 27 Cal.3d 808 (1980), should be controlling.
+Absent an agreement to the contrary, when the parties have taken
+title in joint form, Lucas does not allow tracing to separate funds.
+However, Section 2640 has been applied when a marriage ended in
+death because one joint tenant spouse killed the other. See Probate
+Code Section 251 and Estate of Castiglioni, 40 Cal.App.4th 367, 47
+Cal.Rptr.2d 288 (1995), review denied February 15, 1996 (when real
+
+personal efforts. Sherman criticizes the analysis of Bono v. Clark, 103
+
+Cal.App.4th 1409, 128 Cal.Rptr.2d 31 (2002), review denied, which
+used the time of separation in a death proceeding.
+In re Marriage of Nelson, 139 Cal.App.4th 1546, 44 Cal.Rptr.3d 52
+(2006), holds that the trial court erred in offsetting the community
+
+property Moore—Marsden interest in a home that the husband
+brought into marriage with the fair rental value of the community’s
+occupancy of the home.
+When the community property /abor of either spouse has been
+applied to a business initially owned as separate property by one
+spouse, business profits and appreciation must be apportioned
+between community labor and separate capital. In re Marriage of
+Dekker, 17 Cal.App.4th 842, 21 Cal.Rptr.2d 642 (1993), review denied
+
+(husband’s community labor applied to business held in wife’s name).
+California courts have used at least two apportionment methods. The
+Pereira approach imputes an ordinary rate of return to the separate
+capital and assigns the remainder to the community. Pereira v.
+Pereira, 156 Cal. 1, 103 P. 488 (1909). Van Camp, in contrast, imputes
+
+to the community ordinary wages for the spouse’s community labor
+(reduced by any funds withdrawn from the business for family
+expenses) and then assigns the remainder as the separate property of
+
+187
+
+§ 2640
+
+DIVISION
+
+OF PROPERTY
+In subdivision (b), the phrase “acquired on or after January 1,
+1984, by the parties during marriage” has been added to codify a
+case-law rule, based on impairment of vested rights without due
+process, that the section cannot constitutionally be applied to a case
+where the property was acquired before the effective date of the
+section. See, e.g., In re Marriage of Craig, 219 Cal.App.3d 683, 268
+Cal.Rptr. 396 (1990); In re Marriage of Cairo, 204 Cal.App.3d 1255,
+251 Cal.Rptr. 731 (1988); In re Marriage of Lockman, 204 Cal.App.3d
+
+property is held in joint tenancy and one joint tenant feloniously and
+intentionally kills the other, the joint tenancy is severed and the
+portion of property that passes as decedent’s property must be
+calculated according to the principles of tracing and reimbursement
+
+of contributions ordinarily used in marital dissolution cases).
+For discussion of the treatment of Section 2640 contributions to
+the acquisition of a family home subject to a Section 3800 deferred
+sale of home order, see In re Marriage of Braud, 45 Cal.App.4th 797,
+
+782, 251
+
+53 Cal.Rptr.3d 179 (1996). Braud holds that when the trial court
+makes a deferral order, it should treat a spouse’s separate property
+
+contribution, which would otherwise be immediately reimbursable
+under Section 2640, as a court-ordered
+
+reinvestment
+
+Cal.Rptr.
+
+434
+
+(1988); In re Marriage
+
+of Bankovich,
+
+203
+
+Cal.App.3d 49, 249 Cal.Rptr. 713 (1988); In re Marriage of Hopkins
+and Axene, 199 Cal.App.3d 288, 245 Cal.Rptr. 433 (1987); In re
+Marriage of Griffis, 187 Cal.App.3d 156, 231 Cal.Rptr. 510 (1986);'see
+also In re Marriage of Fabian, 41 Cal.3d 440, 715 P.2d 253, 224
+Cal.Rptr. 333 (1986); In re Marriage of Buol, 39 Cal.3d 751, 705 P.2d
+354, 218 Cal.Rptr. 31 (1985); Section 2580 & Comment (community
+property presumption for property held in joint form).
+When enacted in 1983 (as former Civil Code Section 4800.2),
+
+in the family
+
+home. The court may then “reconfigure ... the title to the family
+home recognizing the parties as tenants in common with unequal
+ownership interests and, concomitantly, order that they be paid in
+proportion to those ownership interests at the time of sale of the
+
+family home.” 45 Cal.App.4th at 822.
+Even though a petition of dissolution has been filed, when one
+spouse files a bankruptcy petition before the community property has
+
+Section 2640 reversed the rule of In re Marriage of Lucas, 27 Cal.3d 8
+
+08, 614 P.2d 285, 166 Cal.Rptr. 853 (1980), and cases following it,
+which precluded recognition of the separate property contribution of
+one of the parties to the acquisition of community property, unless
+the party could show an agreement between the spouses to the effect
+that the contribution was not intended to be a gift. Under Section
+2640, in case of dissolution of the marriage, a party making a
+separate property contribution to the acquisition of the property is
+not presumed to have made a gift, unless it is shown that the parties
+agreed in writing that it was a gift, but is entitled to reimbursement
+for the separate property contribution at dissolution of marriage. The
+separate property contribution is measured by the value of the
+
+been distributed to the parties in the dissolution action, subsection
+
+(a)(2) includes in the bankruptcy estate the entire equity in the
+couple’s community property home despite the other spouse’s Family
+Code Section 2640 right of reimbursement for separate funds
+contributed to the purchase price of the home. Jn re Mantle, 153 F.3d
+1082 (9th Cir. 1998), cert. denied 119 S.Ct. 1461, 143 L.Ed.2d 547
+(1999).
+In re Marriage of Lange, 102 Cal.App.4th 360, 125 Cal.Rptr.2d 379
+(2003), held that a husband’s promissory note for a wife’s separate
+property contributions to the acquisition of the family home and the
+deed of trust on the home securing the note were unenforceable
+under § 721 because they gave the wife an advantage and thus gave
+rise to a presumption of undue influence, which the wife failed to
+
+contribution at the time the contribution is made. Under this rule, if
+
+the property has since appreciated in value, the community is entitled
+to the appreciation. If the property has since depreciated in value,
+reimbursement may not exceed the value of the property; if both
+parties are entitled to reimbursement and the property has insufficient value to permit full reimbursement of both, reimbursement
+should be on a proportionate basis.
+
+rebut. However, the wife remained entitled to § 2640 reimbursement
+
+of her separate property contributions to the acquisition of community property because the unenforceable instruments did not constitute
+
+a subsection (b) written waiver of that right.
+
+For background on former Civil Code Section 4800.2, see RecomFormer Section 2640
+
+mendation Relating to Division of Joint Tenancy and Tenancy in
+Common Property at Dissolution of Marriage, 16 Cal. L. Revision
+Comm’n Reports 2165 (1982); 17 Cal. L. Revision Comm’n Reports
+863 (1984); Recommendation Relating to Civil Code Sections 4800.1
+
+The version of Section 2640, enacted by Stats 1992 Ch 162 § 10,
+effective January 1, 1993, operative January 1, 1994, prior to its
+
+amendment by Stats 1993 Ch 219 § 114.5, provides:
+(a) “Contributions to the acquisition of the property,” as used in
+this section, include downpayments, payments for improvements, and
+payments that reduce the principal of a loan used to finance the
+purchase or improvement of the property but do not include
+payments of interest on the loan or payments made for maintenance,
+insurance, or taxation of the property.
+(b) In the division of community estate property acquired on or
+after January 1, 1984, by the parties during marriage unless a party
+has made a written waiver of the right to reimbursement or signed a
+writing that has the effect of a waiver, the party shall be reimbursed
+for the party’s contributions to the acquisition of the property to the
+extent the party traces the contributions to a separate property
+source. The amount reimbursed shall be without interest or adjustment for change in monetary values and shall not exceed the net
+value of the property at the time of the division.
+The Law Revision Commission’s Comments regarding this prior
+version of Section 2640, which are provided for informational
+purposes only, read as follows:
+
+and 4800.2, 18 Cal. L. Revision Comm’n Reports 383 (1986); 18 Cal.
+L. Revision Comm’n Reports 1741 (1986).
+Research References
+Forms
+
+Asset
+
+Protection: Legal Planning,
+Implications of Divorce.
+
+1 California
+
+Transactions
+
+Strategies
+
+Forms--Estate
+
+Tenancy or Community
+Revocable Trust.
+
+and
+
+Planning
+
+Property Treatment
+
+1 California Transactions Forms--Estate
+
+Forms
+
+{ 4.08,
+
+§ 1:25,
+
+Joint
+
+of Property
+
+in
+
+Planning § 2:13, Separate
+
+Versus Community Property Issues.
+2 California Transactions Forms--Estate Planning § 10:45, Property
+Characterization Agreement.
+2 California Transactions Forms--Estate Planning § 11:49, Introduc-
+
+tion and Definition [Prob C § 140].
+1 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 1:90, Real
+
+and
+
+Personal Property.
+1 California Transactions Forms--Family Law § 2:17, Drafting Principles Regarding Disposition of Residence.
+
+Section 2640 continues former Civil Code Section 4800.2 without
+
+substantive change. In subdivision (b), “community estate property”
+has been substituted for “community property” to codify case law
+holding that the section applies to quasi-community property as well
+as to community property. See In re Marriage of Craig, 219 Cal.App.3d
+683, 268 Cal. Rptr 396 (1990). See also Section 2501 (“community
+estate” defined). See also Section 2502 (“separate property” defined).
+
+1 California Transactions
+
+ment
+
+of Separate
+
+1 California
+
+Forms--Family
+
+Property
+
+Transactions
+
+Law
+
+Contribution
+
+Forms--Family
+
+Law
+
+§ 2:18, Reimburse-
+
+[Fam
+
+C § 2640].
+
+§ 2:81,
+
+Potential
+
+Community Assets and Obligations.
+1 California Transactions Forms--Family Law § 2:88, Marital Settle-
+
+ment Agreement.
+
+188
+
+§ 2641
+
+REIMBURSEMENTS
+
+(1) The community has substantially benefited from the
+education, training, or loan incurred for the education or
+training of the party. There is a rebuttable presumption,
+affecting the burden of proof, that the community has not
+substantially benefited from community contributions to the
+education or training made less than 10 years before the
+commencement of the proceeding, and that the community
+has substantially benefited from community contributions to
+the education or training made more than 10 years before the
+commencement of the proceeding.
+(2) The education or training received by the party is
+offset by the education or training received by the other party
+for which community contributions have been made.
+(3) The education or training enables the party receiving
+the education or training to engage in gainful employment
+that substantially reduces the need of the party for support
+that would otherwise be required.
+(d) Reimbursement for community contributions and assignment of loans pursuant to this section is the exclusive
+remedy of the community or a party for the education or
+training and any resulting enhancement of the earning
+capacity of a party. However, nothing in this subdivision
+
+1 California Transactions Forms--Family Law § 2:97, Confirmation
+
+of Capital Gains Tax and Division of Proceeds After Separate
+Property Reimbursement [Fam C § 2640].
+West’s
+
+California
+
+Code
+
+Forms,
+
+Family
+
+§ 2338
+
+Form
+
+8, Marital
+
+Agreement.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Community Property § 14
+(2018), Separate Property Acquired During Marriage.
+11 Witkin, California Summary 10th Community Property § 18
+(2018), Payments Made After Separation.
+11 Witkin, California Summary 10th Community Property § 114
+
+(2018), Other Assets.
+11 Witkin, California Summary 10th Community Property § 117
+(2018), Recordkeeping Requirements.
+tig) Witkin, California Summary 10th Community Property § 119
+(2018), Current Rule: Reimbursement to Community.
+Et Witkin, California Summary 10th Community Property § 120
+(2018), Taxes or Encumbrances.
+11 Witkin, California Summary 10th Community Property § 121
+(2018), Community Interest in Enhanced Value.
+il Witkin, California Summary 10th Community Property § 159
+(2018), Express Statement of Change is Required.
+11 Witkin, California Summary 10th Community Property § 231
+(2018), Statutory Rule.
+11 Witkin, California Summary 10th Community Property § 232
+(2018), Conversion of Separate Property Into Joint Tenancy.
+11 Witkin, California Summary 10th Community Property § 233
+(2018), Later Acquired Assets.
+11 Witkin, California Summary 10th Community Property § 234
+(2018), Postseparation Payments.
+11 Witkin, California Summary 10th Community Property § 236
+(2018), Statutory Revision.
+i Witkin, California Summary 10th Community Property § 239
+(2018), Right to Reimbursement.
+11 Witkin, California Summary 10th Community Property § 240
+(2018), Attempted Statutory Solution.
+1 Witkin, California Summary 10th Contracts § 401 (2018), Miscellaneous Provisions.
+§ 2641.
+
+limits consideration of the effect of the education, training, or
+enhancement, or the amount reimbursed pursuant to this
+
+section, on the circumstances of the parties for the purpose of
+an order for support pursuant to Section 4320.
+(e) This section is subject to an express written agreement
+of the parties to the contrary. (Stats.1992, c. 162 (A.B.2650),
+§ 10, operative Jan. 1, 1994.)
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 2641 continues former Civil Code Section 4800.3 without
+substantive change. Section 2641 provides authority for reimbursement of educational expenses that have benefited primarily one party
+to the marriage. Although the education, degree, or license or the
+resulting enhanced earning capacity is not “property” subject to
+
+Community contributions to education or training
+
+division, community expenditures for them are properly subject to
+reimbursement. See subdivision (d).
+In subdivision (a), the reference to quasi-community property has
+been added. Former Civil Code Section 4800.3 referred only to
+community property. See In re Marriage of Craig, 219 Cal.App.3d
+683, 686, 268 Cal.Rptr. 396 (1990) (“California’s marital property
+laws are designed to provide for uniform treatment of quasicommunity and community property when the parties have changed
+their domicile to this state and seek to legally alter their marital
+status in a California court. This intent is apparent from statutes
+such as [former Civil Code Section] 4800 (equal division of ‘community estate’ consisting of community and quasi-community property)
+and [former Civil Code Section] 4800.5 (power to order conveyance
+of out-of-state property).”). Subdivision (a) does not detail the
+expenditures that might be included within the concept of “community contributions.” These expenditures would at least include the cost
+
+(a) “Community contributions to education or training” as
+used in this section means payments made with community or
+quasi-community property for education or training or for the
+repayment of a loan incurred for education or training,
+whether the payments were made while the parties were
+resident in this state or resident outside this state.
+(b) Subject to the limitations provided in this section, upon
+dissolution of marriage or legal separation of the parties:
+(1) The community shall be reimbursed for community
+contributions to education or training of a party that substantially enhances the earning capacity of the party. The
+amount reimbursed shall be with interest at the legal rate,
+accruing from the end of the calendar year in which the
+contributions were made.
+
+of tuition, fees, books and supplies, and transportation.
+
+(2) A loan incurred during marriage for the education or
+training of a party shall not be included among the liabilities
+of the community for the purpose of division pursuant to this
+division but shall be assigned for payment by the party.
+
+Subdivision (b)(1) states the basic rule that community contributions must be reimbursed. The reimbursement right is limited to
+
+cases where the earning capacity of a party is substantially enhanced.
+This limitation is intended to restrict litigation by requiring that the
+education or training must demonstrably enhance earning capacity
+and to implement the policy of the section to redress economic
+inequity. However, it is not required that the party actually work in
+an occupation to which the enhancement applies; community
+contributions were made to the enhancement for the benefit of one
+
+(c) The reimbursement and assignment required by this
+section shall be reduced or modified to the extent circumstances render such a disposition unjust, including, but not
+limited to, any of the following:
+
+189
+
+§ 2641
+
+DIVISION
+
+OF PROPERTY
+would substantially increase his earning capacity and the evidence did
+not support the conclusion that it would. Graham declined to rule, as
+a matter of law, that a law degree substantially enhances earning
+capacity.
+In re Marriage of Slivka, 183 Cal.App.3d 159, 228 Cal.Rptr. 76
+(1986), holds that Section 2641 may constitutionally be applied to
+
+party, who retains the potential to realize the enhancement
+
+future.
+
+in the
+Unless the rebuttable presumption of subdivision (c)(1) is
+
+overcome, reimbursement is limited to contributions made during the
+
+preceding ten years to minimize proof problems as well as potential
+inequity. Interest at the legal rate (Code Civ. Proc. § 685.010)
+accrues only from the end of each year in which expenditures were
+made, in order to simplify accounting for numerous small expenditures made over the course of the education or training.
+In
+subdivision (b)(2), the reference to this division has been substituted
+for the narrower reference to former Civil Code Section 4800. This
+is not a substantive change.
+Subdivision (c) is intended to permit the court to avoid the
+provisions of this section in an appropriate case. For example, if one
+party receives a medical education, degree, and license at community
+expense, but the marriage endures for some time with a high
+standard of living and substantial accumulation of community assets
+attributable to the medical training, it may be inappropriate to
+require reimbursement. Subdivision (c)(1). If both parties receive
+education or training at community expense, it may be inappropriate
+to require reimbursement even though the exact amounts expended
+for each are not equal. Subdivision (c)(2). This limitation is
+especially important where one party received education or training
+more than 10 years before the commencement of the dissolution or
+legal separation proceeding. See subdivision (c)(1). If toward the
+end of a lengthy marriage one party, who had been a homemaker
+during the marriage and had never completed an education or
+developed job skills, receives education or training to enable him or
+her to be gainfully employed, reimbursement may be improper.
+Subdivision (c)(3). Absent the education or training, support may be
+necessary to maintain the party or to permit the party to obtain
+education or training.
+In subdivision (d), a reference to Section 4320 has been substituted
+for the broader reference to former Civil Code Section 4801. This is
+not a substantive change, since the relevant part of the former section
+is continued in Section 4320.
+Subdivision (e) recognizes that at the time community contributions are made to the education or training of a spouse, the parties
+may have an agreement as to the conditions of the contributions.
+Since such agreements may be subject to litigation, subdivision (e)
+requires a writing.
+
+education
+
+obtained before
+
+the statute’s effective date, January
+
+1,
+
+1985. For general discussion of Section 2641, see In re Marriage of
+
+Sullivan, 37 Cal.3d 762, 691 P.2d 1020, 209 Cal.Rptr. 354 (1984).
+Research References
+Forms
+
+Asset
+
+Protection: Legal Planning, Strategies and Forms 1 4.07,
+Marital Agreements.
+2 California Transactions Forms--Estate Planning § 11:49, Introduc-
+
+tion and Definition [Prob C § 140].
+1 California Transactions Forms--Family Law § 2:88, Marital Settlement Agreement.
+West’s
+
+California
+
+Code
+
+Forms,
+
+Family
+
+§ 2338
+
+Form
+
+8, Marital
+
+Agreement.
+West’s California Code Forms, Family § 2550, Comment Overview-
+
+Manner of Division of Community Estate.
+Treatises and Practice Aids
+11 Witkin, California Summary 10th Community Property § 33
+(2018), Restrictions on Alteration of Spouses’ Legal Relations.
+11 Witkin, California Summary 10th Community Property § 112
+(2018), Nature and Scope of Reimbursement Statute.
+11 Witkin, California Summary 10th Community Property § 113
+
+(2018), Reimbursement Requirements.
+11 Witkin, California Summary 10th Community
+(2018), Other Exceptions.
+
+Property § 211
+
+Part 8
+JOINTLY
+
+HELD
+
+SEPARATE
+
+PROPERTY
+
+Section
+2650. Jurisdiction; division of real and personal property.
+
+For background on former Civ. Code § 4800.3, see Recommenda-
+
+tion Relating to Reimbursement of Educational Expenses,
+
+17 Cal. L.
+Revision Comm’n Reports 229 (1984). See also In re Marriage of
+Sullivan, 37 Cal.3d 762, 691 P.2d 1020, 209 Cal.Rptr. 354 (1984). [23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+§ 2650.
+
+ty
+
+Jurisdiction; division of real and personal proper-
+
+In a proceeding for division of the community estate, the
+court has jurisdiction, at the request of either party, to divide
+the separate property interests of the parties in real and
+personal property, wherever situated and whenever acquired,
+held by the parties as joint tenants or tenants in common.
+The property shall be divided together with, and in accordance with the same procedure for and limitations on,
+division of community estate. (Stats.1992, c. 162 (A.B.2650),
+
+Commentary
+In re Marriage of Watt, 214 Cal.App.3d 340, 262 Cal.Rptr. 783
+(1989), holds that subsection (b)(1) reimbursable community expenditures for the student spouse’s education generally do not include
+ordinary living expenses, which would be incurred in any event, but
+instead include only expenses related to the education itself. Compare the trial court’s treatment of subsection (b)(2) student loans,
+which were assigned solely to the student spouse without any
+allocation between their use for living and educational expenses. Also
+compare Watt's more expansive treatment of professional education
+for purposes of Section 4320 spousal support. See Section 4320,
+Commentary.
+Weiner v. Weiner, 105 Cal.App.4th 235, 129 Cal.Rptr.2d 288 (2003),
+holds that reimbursement under this section is available when a
+spouse’s education was acquired before marriage and community
+
+$ 10, operative Jan. I, 1994.)
+Law Revision Commission Comments
+
+Enactment [Revised Comment]
+
+Section 2650 continues former Civil Code Section 4800.4(a)
+without substantive change. The term “community estate” has been
+substituted for “community property and quasi-community proper.’ This is not a substantive change. See Sections 63 (“community
+estate” defined), 2502 (“separate property” defined).
+Section 2650 applies regardless of when the separate property was
+acquired. Former Civil Code Section 4800.4(b), which provided that
+the “section applies to proceedings commenced on or after January
+1, 1986, regardless of whether the property was acquired before, on,
+or after January 1, 1986” has been omitted as unnecessary in view of
+Section 4(c).
+
+funds were used to repay the spouse’s premarital educational loans.
+In re Marriage of Graham, 109 Cal.App.4th 1321, 135 Cal.Rptr.2d
+685 (2003), sustained a trial court’s denial of reimbursement to the
+
+community for community funds spent on the legal education of a
+husband who was a police officer and had no plans to take the bar
+examination or practice law after graduation. Graham reasoned that
+it was speculative whether his eventual graduation from law school
+
+190
+
+REAL
+When
+
+enacted
+
+in 1985
+
+(as former
+
+PROPERTY
+
+Civil Code
+
+Section
+
+LOCATED
+
+REAL PROPERTY LOCATED
+IN ANOTHER STATE
+Section
+2660. Division of real property situated in another state.
+
+§ 2660.
+
+Division of real property situated in another state
+
+(a) Except as provided in subdivision (b), if the property
+subject to division includes real property situated in another
+state,
+
+the
+
+court
+
+shall,
+
+if possible,
+
+divide
+
+the
+
+community
+
+property and quasi-community property as provided for in
+this division in such a manner that it is not necessary to
+change the nature of the interests held in the real property
+situated in the other state.
+(b) If it is not possible to divide the property in the manner
+provided for in subdivision (a), the court may do any of the
+following in order to effect a division of the property as
+provided for in this division:
+
+(1) Require the parties to execute conveyances or take
+other actions with respect to the real property situated in the
+other state as are necessary.
+(2) Award to the party who would have been benefited by
+the conveyances or other actions “the money value of the
+interest in the property that the party would have received if
+the conveyances had been executed or other actions taken.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+Law Revision Commission
+Enactment
+
+Comments
+
+[Revised Comment]
+
+Section 2660 continues former Civil Code Section 4800.5 without
+substantive change. References to this division have been substituted for narrower references to former Civil Code Section 4800.
+Section 2660 specifies the procedure to be followed when the
+property subject to division includes real property situated in another
+state.
+When real property is acquired in another state with community
+funds, the property is treated as community property for the purpose
+of division on dissolution of the marriage or on legal separation. See
+Rozan v. Rozan, 49 Cal.2d 322, 317 P.2d 11 (1957); Tomaier v.
+Tomaier, 23 Cal.2d 754, 146 P.2d 905 (1944); Recommendation
+Relating to Quasi-Community Property, 9 Cal. L. Revision Comm’n
+Reports 113, 119 n. 12 (1969). Quasi-community property likewise
+may include real property situated in another state. See Section 125
+(“quasi-community property” defined). See also Recommendation
+Relating to Quasi-Community Property, 9 Cal. L. Revision Comm’n
+Reports 113 (1969).
+Section 2660 recognizes that the judgment of the court dividing the
+property cannot directly affect real property in another state, even
+though the court has personal jurisdiction over both spouses, unless
+the judgment is allowed that effect by the laws of the state in which
+the property is situated. Fall v. Eastin, 215 U.S. 1 (1909); Rozan v.
+Rozan, 49 Cal.2d 322, 317 P.2d 11 (1957); Taylor v. Taylor, 192 Cal.
+
+Commentary
+
+659 (1992) (treatment of tenancy in common acquired in 1979 and
+redeeded as joint tenancy in 1986). Compare In re Marriage of
+Romant, 21 Cal.App.4th 542 (1993), rehearing granted 1/18/94, opinion
+filed June 14, 1994, not for publication, (possibly unconstitutional
+retroactive application of sections 2581 and 2640), criticized at 1994
+Cal. Fam. L. Monthly 35.
+Research References
+
+Forms
+West’s California Code Forms, Family § 2550, Comment Overview-
+
+71, 218 P. 756 (1923).
+
+Manner of Division of Community Estate.
+
+On the other hand, where
+
+the court has
+
+personal jurisdiction over both parties, it may order one of the parties
+to execute a deed by acting in personam; if the person so ordered
+does execute the deed, it effectively conveys the interest transferred,
+even though executed under threat of contempt proceedings. Fall v.
+
+Treatises and Practice Aids
+
+10th Community
+
+Property § 237
+
+Part 9
+
+For discussion of Section 2650, see In re Marriage of Gagne, 225
+Cal.App.3d 277, 281-282, 274 Cal.Rptr. 750 (1990), review denied
+2/14/91, and Askew v. Askew, 22 Cal.App.4th 942, 962, 28 Cal.Rptr.2d
+284, 296 (1994). For further discussion of the divorce court’s
+jurisdiction, see Section 2550, Commentary.
+See also In re Marriage of Rico, 10 Cal.App.4th 706, 12 Cal.Rptr.2d
+
+11 Witkin, California Summary
+(2018), Statutory Revision.
+
+§ 2660
+
+STATE
+
+11 Witkin, California Summary 10th Community
+(2018), Enforcement of Premarital Loan.
+
+4800.4),
+
+Section 2650 reversed the former rule that the court in a dissolution
+or legal separation proceeding had no jurisdiction over property of
+the parties other than community or quasi-community property.
+Section, 2650 supplements provisions governing community property
+held in joint tenancy form by extending the jurisdiction of the court
+to separate property held in joint tenancy form as well. The section
+is consistent with the general rule that the court has jurisdiction to
+settle the property rights of the parties and with the principle that the
+court has jurisdiction to settle matters submitted to it by the parties.
+See Section 2010 (authority of court). The section is also consistent
+with the rule that the court may reserve jurisdiction to divide
+community property that has become tenancy in common by
+operation of law upon dissolution or separation. See, e.g., Marriage
+of Borges, 83 Cal.App.3d 771, 148 Cal.Rptr. 118 (1978); Comment,
+Post-Dissolution Suits to Divide Community Property: A Proposal for
+Legislative Action, 10 Pac. L.J. 825 (1979).
+Section 2650 supplements the other provisions of this division by
+giving the court express jurisdiction over joint tenancy or tenancy in
+common separate property submitted by a party in a proceeding for
+division of the community estate.
+Property subject to division
+includes property acquired by the parties either before or during
+marriage. It also includes property acquired or situated either in this
+state or elsewhere. For a special rule governing treatment of real
+property situated in another state, see Section 2660 (community and
+quasi-community property). See also Section 2011 (jurisdiction over
+property of spouse served by publication). The court’s jurisdiction
+extends only to the interests of the spouses, whether equal or
+unequal, and the court may not affect interests of third parties in the
+property. The interests of third parties may be subject to partition
+pursuant to Title 10.5 (commencing with Section 872.010) of Part 2
+of the Code of Civil Procedure.
+It should be noted that division of property pursuant to this section
+is subject to the same limitations applicable to division of the
+community estate. Therefore, an express agreement of the parties
+precluding partition or other division of the property and providing a
+mechanism for dispute resolution or otherwise governing their rights
+in the property prevails over this section. See Section 2550 (equal
+division of community estate “[e]xcept upon the written agreement of
+the parties’).
+For background on former Civ. Code § 4800.4, see Recommendation Relating to Dividing Jointly Owned Property Upon Marriage
+Dissolution, 18 Cal. L. Revision Comm’n Reports 147 (1986); 18 Cal.
+L. Revision Comm’n Reports 365 (1986). [23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+
+,
+
+IN ANOTHER
+
+Property § 236
+
+191
+
+§ 2660
+
+DIVISION
+
+OF PROPERTY
+Judiciary on Assembly Bill 124, 10 Cal. L. Revision Comm’n Reports
+
+Fall, 75 Neb. 104, 113 N.W. 175 (1907), aff'd, Fall v. Eastin, 215 U.S.
+1 (1909).
+Section 2660 requires that the court first attempt to effect the
+equal division of the community property and quasi-community
+property required by this division without making any change in the
+nature of the interests held in the real property situated in the other
+state. This will be the result where the value of the other community
+and quasi-community property is equal to or exceeds the value of the
+real property situated in the other state that is subject to division.
+Where the court determines that the real property situated in
+another state or an interest in such property must be transferred from
+one party to the other to effect the equal division of community and
+quasi-community property required by this division, the court may
+order the parties to execute the necessary conveyances or to take
+other actions—such as selling the property and including the
+proceeds in the property division—that may be necessary to effect an
+equal division of the community and quasi-community property, and
+may enforce its order by contempt proceedings. If a party refuses to
+execute the instrument necessary to effect the transfer or sale of the
+property or to take some other necessary action, the problem may be
+dealt with by awarding the money value of the property or interest
+therein to the other party, which award must be given full faith and
+credit. Fall v. Fall, 75 Neb. 104, 113 N.W. 175 (1907), aff'd, Fall v.
+Eastin, 215 U.S. 1 (1909).
+
+1042-43 (1971).
+
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Commentary
+
+For discussion of Section 2660, see In re Marriage of Fink, 25 Cal.3d
+877, 883, 160 Cal.Rptr. 516 (1979), and In re Marriage of Economou,
+224 Cal. App.3d 1466, 1479, 274 Cal.Rptr. 473 (1990).
+Research References
+Forms
+
+4 California
+
+Transactions
+
+Forms--Estate
+
+Planning
+
+§ 19:19, Quasi-
+
+Community Property.
+West’s California Code Forms, Family § 2550, Comment Overview-
+
+Manner of Division of Community Estate.
+West’s California Judicial Council Forms FL-160, Property Declaration.
+West’s California Judicial Council Forms FL-161, Continuation
+
+of
+
+Property Declaration.
+West’s California Judicial Council Forms FL-345, Property Order
+Attachment to Judgment.
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+(2018), Statutory Rule.
+11 Witkin, California Summary
+(2018), Illustrations.
+
+For background on former Civ. Code § 4800.5, see Recommenda-
+
+tion Relating to Quasi-Community Property, 9 Cal. L. Revision
+Comm’n Reports 113 (1969); Report of Assembly Committee on
+
+192
+
+10th Community
+
+Property § 269
+
+10th Community
+
+Property § 270
+
+Division 8
+
+CUSTODY
+
+OF CHILDREN
+
+Part
+Section
+1. Definitions and General Provisions .............. 3000
+2. Right to Custody of Minor Child ................ 3020
+3. Uniform Child Custody Jurisdiction and Enforcement Act’...
+a
+3400
+
+10 Witkin, California Summary 10th Parent and Child § 287 (2018),
+Investigation of Child Abuse Allegations.
+10 Witkin, California Summary 10th Parent and Child § 368 (2018),
+Other Proceedings Stayed.
+10 Witkin, California Summary 10th Parent and Child § 439 (2018),
+Support During Action.
+
+Part 1
+
+DEFINITIONS
+
+§ 3002.
+
+AND GENERAL
+
+PROVISIONS
+
+Chapter
+
+custody.
+
+Section
+
+MEE D-DDCTIMIEIOIS 2k F200 cs
+
+2.
+
+CHAPTER
+
+1.
+
+3010
+
+Law Revision Commission
+Enactment
+
+DEFINITIONS
+
+§ 3000.
+
+Unless
+
+Joint custody.
+Joint legal custody.
+Joint physical custody.
+Sole legal custody.
+Sole physical custody.
+
+[Revised Comment]
+
+Research References
+
+Forms
+
+1 California Transactions Forms--Family Law § 2:69, Terminology of
+Custody.
+
+2 California Transactions Forms--Family Law § 5:2, Overview.
+
+Construction of division
+
+the provision or context
+
+otherwise
+
+Treatises and Practice Aids
+
+requires, the
+
+definitions in this chapter govern the construction of this
+division. (Stats.1992, c. 162 (A.B.2650), § 10, operative Jan.
+1, 1994.)
+
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+
+§ 3003.
+Law Revision Commission Comments
+
+Section 3000 is new and is comparable
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+to Section
+
+50.
+
+Joint legal custody
+
+“Joint legal custody” means that both parents shall share
+the right and the responsibility to make the decisions relating
+
+Enactment [Revised Comment]
+
+[23
+
+to the health, education, and welfare of a child.
+
+(Stats. 1992,
+
+c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Research References
+
+Law Revision Commission Comments
+
+Forms
+
+Enactment
+
+1 California Transactions Forms--Family Law § 2:70, Deciding
+Custody.
+1 California Transactions Forms--Family Law § 3:2, Child Custody.
+1 California Transactions Forms--Family Law § 3:4, Subject Matter
+Jurisdiction for Custody Determinations.
+
+[Revised Comment]
+
+Section 3003 continues former Civil Code Section 4600.5(d)(5)
+without change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Research References
+Forms
+
+Treatises and Practice Aids
+
+11 Witkin, California Summary
+
+Comments
+
+Section 3002 continues former Civil Code Section 4600.5(d)(1)
+without change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Section
+3000.
+Construction of division.
+
+3002.
+3003.
+3004.
+3006.
+3007.
+
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1,
+
+1994.)
+
+tose itescvoie's 0p Lovell oye eh aves 3000
+
+General Provisions .....................000000
+
+Joint custody
+
+“Joint custody” means joint physical custody and joint legal
+
+10th Community
+
+1 California Transactions Forms--Family Law § 2:69, Terminology of
+Custody.
+1 California Transactions Forms--Family Law § 3:9, Statutory Custody Definitions.
+
+Property § 285
+
+(2018), Nature of Theory.
+11 Witkin, California Summary 10th Husband and Wife § 3 (2018),
+Statutory Framework.
+
+1 California
+
+11 Witkin, California Summary 10th Husband and Wife § 189
+(2018), Hearing, Incidental Orders, and Judgment.
+10 Witkin, California Summary 10th Parent and Child § 85 (2018),
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 3:15, Overview;
+
+Scope of Agreement.
+‘1 California Transactions Forms--Family Law § 3:53, Sample Basic
+
+Custody Provisions.
+2 California Transactions Forms--Family Law § 5:16, School and
+Extracurricular Activities; Religious Upbringing; Medical Care.
+West’s California Judicial Council Forms FL-341(C), Children’s
+Holiday Schedule Attachment.
+West’s California Judicial Council Forms FL-341(D), Additional
+Provisions-Physical Custody Attachment.
+
+In General.
+10 Witkin, California Summary 10th Parent and Child § 195 (2018),
+Statutory Framework.
+
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+10 Witkin, California Summary 10th Parent and Child § 238 (2018),
+Biologically Unrelated Person Opposed by Parent.
+
+193
+
+§ 3003
+
+CUSTODY
+
+West’s California Judicial Council Forms
+Custody Attachment.
+
+FL-341(E),
+
+OF CHILDREN
+
+Joint Legal
+
+Law Revision Commission
+Enactment
+
+Section 3007 continues former Civil Code Section 4600.5(d)(2)
+without change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+
+§ 3004.
+
+Comments
+
+[Revised Comment]
+
+Research References
+Forms
+
+Joint physical custody
+
+“Joint physical custody” means that each of the parents
+shall have significant periods of physical custody.
+Joint
+physical custody shall be shared by the parents in such a way
+so as to assure a child of frequent and continuing contact with
+
+1 California Transactions Forms--Family Law § 2:69, Terminology of
+Custody.
+1 California Transactions Forms--Family Law § 3:9, Statutory Custody Definitions.
+2 California Transactions Forms--Family Law § 5:2, Overview.
+
+both parents, subject to Sections 3011 and 3020. (Stats.1992,
+c. 162 (A.B.2650), § 10, operative Jan. 1, 1994. Amended by
+
+Treatises and Practice Aids
+
+Stats.1997, c. 849 (A.B.200), § 1.)
+
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+10 Witkin, California Summary 10th Parent and Child § 259 (2018),
+Showing Required to Obtain Evidentiary Hearing.
+
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 3004 continues former Civil Code Section 4600.5(d)(3)
+without change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+CHAPTER 2.
+
+GENERAL PROVISIONS
+
+Section
+3010. Custody of unemancipated minor children.
+
+Research References
+Forms
+
+3011.
+
+Best interests of child; considerations.
+
+1 California Transactions Forms--Family Law § 2:69, Terminology of
+Custody.
+
+3012.
+
+Use of telepresence in child custody proceedings.
+
+3010.
+
+Custody of unemancipated minor children
+(a) The mother of an unemancipated minor child and the
+father, if presumed to be the father under Section Is are
+equally entitled to the custody of the child.
+
+1 California Transactions Forms--Family Law § 3:18, Overview.
+
+1 California Transactions Forms--Family Law § 3:53, Sample Basic
+Custody Provisions.
+Treatises and Practice Aids
+
+(b) If one parent is dead, is unable or refuses to take
+custody, or has abandoned the child, the other parent is
+entitled to custody of the child. (Added by Stats.1993, c. 219
+(A.B.1500), § 115.5.)
+
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+
+§ 3006.
+
+Sole legal custody
+
+“Sole legal custody” means that one parent shall have the
+right and the responsibility to make the decisions relating to
+the health, education, and welfare of a child.
+162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Law Revision Commission Comments
+Enactment
+
+(Stats. 1992, c.
+
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 3006 continues former Civil Code Section 4600.5(d)(4)
+without change. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+The
+
+abandonment
+
+standard
+
+in former
+
+Civil Code
+
+Section
+
+197,
+
+which referred to abandonment of the family, has been revised in
+subdivision (b) to refer to abandonment of the child. This is not a
+substantive change, but recognizes that where child custody is the
+
+Research References
+Forms
+
+issue, abandonment of the child is the relevant consideration.
+
+This
+
+change is also made for general consistency with judicial standards
+stated elsewhere concerning parental rights and child custody. See
+Sections 3011 (factors considered in determining best interest of
+child), 3040 (preference in ordering custody), 7822 (proceeding to
+declare child free from parental custody and control on ground of
+
+1 California Transactions Forms--Family Law § 2:69, Terminology of
+Custody.
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+
+abandonment);
+
+see also Jn re Guardianship of Schwartz, 171 Cal.
+
+633, 635, 154 P. 304 (1915); Guardianship of Case, 57 Cal.App.2d
+844, 848, 135 P.2d 681 (1943).
+For additional rights dependent on the right to custody, see Part 1
+(commencing with Section 7500) of Division 12. [23 Cal.L.Rev.
+Comm. Reports 1 (1993)].
+
+10 Witkin, California Summary 10th Parent and Child § 259 (2018), |
+
+Showing Required to Obtain Evidentiary Hearing.
+
+§ 3007.
+
+[Revised Comment]
+
+Section 3010 restates the general right to custody in former Civil
+Code Section 197 without substantive change. The word “unemancipated” has been substituted for “unmarried.”
+This is not a
+substantive change, but resolves a conflict with the rules governing
+emancipation of minors. See Section 7002 (conditions of emancipation).
+
+Sole physical custody
+
+“Sole physical custody” means that a child shall reside with
+and be under the supervision of one parent, subject to the
+power of the court to order visitation.
+(Stats.1992, c. 162
+
+Commentary
+
+See In re Phoenix B., 218 Cal.App.3d 787, 267 Cal.Rptr. 269 (1990)
+(dependency proceeding initiated on mother’s involuntary hospital-
+
+(A.B.2650), § 10, operative Jan. 1, 1994.)
+
+194
+
+DEFINITIONS
+
+AND
+
+GENERAL
+
+ization dismissed when presumed natural father ready and able to
+take custody of child).
+Absent a court order affecting custody, this section provides that a
+mother and a man presumed to be the father under Section 7611
+have an equal right to custody of an unemancipated minor child. On
+March 9, 1999, the Supreme Court denied review and depublished
+the Court of Appeal opinion in People v. Zeghtchanian, 79 Cal.Rptr.2d
+866 (1998), in which the Court of Appeal ruled that when a parent is
+prosecuted for child-stealing under Penal Code Section 278, the
+prosecution bears the burden of showing that the parent does not
+have a right to custody of the child and that the parent took the child
+from a person or agency that had “lawful custody” of the child; the
+Court of Appeal also ruled that the invalidity of a custody order may
+be asserted as a defense to a Section 278 prosecution.
+See also People v. Johnson, 151, Cal.App.3d 1021, 1024, 199
+Cal.Rptr. 231 (1984) (dismissing charges of child abduction and false
+imprisonment against child’s natural presumed father who had not
+been served with court order awarding custody of children to
+mother). Compare People v. Carrillo, 162 Cal.App.3d 585, 208
+Cal.Rptr. 684 (1984) (nonpresumed natural father has no Section
+3010 right to custody and hence may be prosecuted for child stealing
+when taking child from unwed mother). But cf. Adoption of Kelsey S.,
+I Cal.4th 816, 4 Cal.Rptr.2d 615 (1992), discussed in Section 7611,
+Commentary. See also In re Guardianship of Donaldson, 178 Cal.
+App.3d 477, 486, 223 Cal.Rptr. 707 (1986) (at father’s death, mother
+entitled to sole custody of children whose custody had been granted
+to father in marital dissolution order).
+
+of sexual
+
+assault
+
+or domestic
+
+violence.
+
+As used
+
+in this
+
+paragraph, “abuse against a child” means “child abuse and
+neglect” as defined in Section 11165.6 of the Penal Code and
+
+abuse against any of the other persons described in * * *
+clause (ii) or (iii) of subparagraph
+defined in Section 6203.
+
+(A)
+
+means
+
+“‘abuse”
+
+as
+
+(3) The nature and amount of contact with both parents,
+
+except as provided in Section 3046.
+
+(4) The habitual or continual
+
+illegal use of controlled
+
+substances, the habitual or continual abuse of alcohol, or the
+
+habitual or continual abuse of prescribed controlled substances by either parent. Before considering these allegations, the court may first require independent corroboration,
+including, but not limited to, written reports from law
+enforcement agencies, courts, probation departments, social
+welfare agencies, medical facilities, rehabilitation facilities, or
+
+other public agencies or nonprofit organizations providing
+drug and alcohol abuse services. As used in this paragraph,
+“controlled substances” has the same meaning as defined in
+the California Uniform Controlled Substances Act, Division
+
+10 (commencing with Section 11000) of the Health and Safety
+Code.
+(S)(A) When allegations about a parent pursuant to * * *
+
+paragraphs (2) or (4) have been brought to the attention of
+the court in the current proceeding, and the court makes an
+order for sole or joint custody to that parent, the court shall
+state its reasons in writing or on the record.
+In these
+circumstances, the court shall ensure that any order regarding
+custody or visitation is specific as to time, day, place, and
+manner of transfer of the child as set forth in subdivision (c)
+of Section 6323.
+
+Research References
+Forms
+
+2 California Transactions Forms--Family Law § 5:2, Overview.
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 111 (2018),
+Private Adoptions.
+10 Witkin, California Summary 10th Parent and Child § 195 (2018),
+Statutory Framework.
+10 Witkin, California Summary 10th Parent and Child § 218 (2018),
+Current Statute: No Preference.
+
+§ 3011.
+
+§ 3011
+
+PROVISIONS
+
+* * * (B) This paragraph does not apply if the parties
+stipulate in writing or on the record regarding custody or
+visitation.
+b) Notwithstanding
+subdivision (a), the court shall not
+consider the sex, gender identity, gender expression, or sexual
+orientation of a parent, legal guardian, or relative in determining the best interests of the child. (Added by Stats. 1993,
+c. 219 (A.B.1500), § 115.5. Amended by Stats.1996, c. 835
+
+Best interests of child; considerations
+
+(a) In making a determination of the best interests of the
+child in a proceeding described in Section 3021, the court
+shall, among any other factors it finds relevant * * * and
+consistent with Section 3020, consider all of the following:
+
+(A.B.2474), § 1; Stats.1996, c. 836 (S.B.384), § 1.5; Stats.
+1997, c. 849 (A.B.200), § 2; Stats.1999, c. 980 (A.B.1671),
+§ 4; Stats.2012, c. 258 (A.B.2365), § 1; Stats.2018, c. 941
+(A.B.2044), § 1, eff: Jan. 1, 2019; Stats.2019, c. 115 (A.B.
+1817), § 23, eff. Jan. 1, 2020; Stats.2019, c. 551 (S.B.495), § 1,
+eff. Jan. 1, 2020.)
+
+(1) The health, safety, and welfare of the child.
+
+* * * (2)(A) A history of abuse by one parent or any
+other person seeking custody against any of the following:
+
+(i) A child to whom * * * the parent or person seeking
+custody is related by blood or affinity or with whom * * * the
+parent or person seeking custody has had a. caretaking
+relationship, no matter how temporary.
+
+Law Revision Commission Comments
+Enactment
+
+(ii) The other parent.
+(iii) A parent, current spouse, or cohabitant, of the parent
+or person seeking custody, or a person with whom the parent
+
+[Revised Comment]
+
+Section 3011 continues former Civil Code Section 4608 without
+substantive change. The reference to “a proceeding described in
+Section 3021” has been substituted for the former reference to a
+“proceeding under this title,” which referred to the custody title of
+the former Family Law Act (former Title 4 (commencing with former
+Civil Code Section 4600) of Part 5 of Division 4 of the Civil Code).
+See Section 3021 (application of custody provisions) & Comment.
+For provisions adopting this section by reference, see Sections 3020
+(legislative findings and declarations), 3040 (order of preference in
+ordering custody), 3080 (presumption for joint custody where parents
+agree to joint custody), 3081 (joint custody order absent agreement
+of parents).
+
+Or person seeking custody has a dating or engagement
+relationship.
+(B) As a prerequisite to considering allegations of abuse,
+the court may require independent corroboration, including,
+but not limited to, written reports by law enforcement
+agencies, child protective services or other social welfare
+agencies, courts, medical facilities, or other public agencies or
+private nonprofit organizations providing services to victims
+
+195
+
+§ 3011
+
+CUSTODY
+
+OF CHILDREN
+1 California Transactions Forms--Family Law § 2:70, Deciding
+Custody.
+1 California Transactions Forms--Family Law § 2:76, Drug and
+Alcohol Use.
+
+For provisions in this division referring to the best interest of the
+child, see Sections 3031 (custody order not to be inconsistent with
+civil or criminal protective orders), 3041 (additional requirements of
+custody award to nonparent), 3082 (statement by court of reasons for
+grant or denial of joint custody request), 3087 (modification or
+termination of joint custody order), 3100 (visitation rights of a
+parent), 3101 (visitation rights of stepparent), 3102 (visitation rights
+of grandparent and other relatives where parent of unmarried minor
+child is deceased), 3103 (visitation rights of grandparent in proceeding described in Section 3021), 3114 (recommendation for appointment of counsel for minor child), 3120 (independent action for
+exclusive custody), 3133 (temporary custody order upon request of
+district attorney), 3150 (appointment of private counsel to represent
+child in custody or visitation proceeding), 3161 (purpose of mediation), 3162 (uniform standards of practice for mediation), 3184
+(recommendations that counsel be appointed for minor child), 3190
+(order requiring counseling), 3191 (purpose of counseling), 3403
+(jurisdictional requirements).
+[23 Cal.L.Rev.Comm. Reports 1
+
+1 California Transactions Forms--Family Law § 3:2, Child Custody.
+
+1 California Transactions Forms--Family Law § 3:8, No Statutory
+Custody Preferences.
+1 California Transactions seis he
+Law § 3:11, Permanent
+Custody.
+1 California Transactions Forms--Family Law § 3:16, Identifying
+Areas of Parental Decision Making and Participation.
+2 California Transactions Forms--Family Law § 5:2, Overview.
+West’s California Code Forms, Family § 3120, Comment Overview-
+
+Action for Exclusive Custody.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+GC-212,
+
+Confidential
+
+Guardian Screening Form.
+Treatises and Practice Aids
+
+(1993)].
+Commentary
+
+11 Witkin, California Summary 10th Husband and Wife § 74 (2018),
+Evidence of Misconduct is Ordinarily Inadmissible.
+
+In re Jaime G. v. H.L., 25 Cal.App.5th 794, 236 Cal.Rptr.3d 209
+
+10 Witkin, California Summary 10th Parent and Child § 197 (2018),
+
+(2018), reversed a trial court award of custody to a child’s father after
+
+Best Interest of Child.
+10 Witkin, California Summary 10th Parent and Child § 198 (2018),
+Discretion of Court.
+10 Witkin, California Summary 10th Parent and Child § 199 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 201 (2018),
+Substance Abuse.
+10 Witkin, California Summary 10th Parent and Child § 212 (2018),
+Other Factors.
+10 Witkin, California Summary 10th Parent and Child § 220 (2018),
+Statutory Order of Preference.
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+10 Witkin, California Summary 10th Parent and Child § 226 (2018),
+Procedure.
+10 Witkin, California Summary 10th Parent and Child § 263 (2018),
+Stipulation for Temporary Custody.
+10 Witkin, California Summary 10th Parent and Child § ou (2018),
+Investigation of Child Abuse Allegations.
+10 Witkin, California Summary 10th Parent and Child § 288 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 290 (2018),
+Mediation Proceeding.
+
+finding that the father had physically abused the child’s mother,
+because the trial court failed to make all the statutory findings
+required by section 3044 (b) to rebut the custodial presumption
+against a person who has perpetrated domestic violence. In re Jamie
+G. additionally relied on subsection (e)(1) of this section, which
+requires that a court must state its reasons in writing or on the record
+when it awards custody to a parent against whom allegations of
+domestic violence have been brought in the proceeding. The holding
+of In re Jaime G. is now incorporated into the text of this section.
+In granting a father’s motion to modify a final child custody. order,
+Christina L. v. Chauncey B., 229 Cal.App.4th 731, 177 Cal.Rptr.3d 178
+(2014), held that the trial court erred in not considering an existing
+domestic violence restraining order against the father in determining
+the child’s best interest under this section; in not applying the section
+3044 rebuttable presumption that the father should not have custody
+because of his history of domestic violence within the past five years;
+and in not requiring that the father show changed circumstances
+justifying modification of the final custody order.
+Wainwright v. Superior Court, 84 Cal.App.4th 262, 100 Cal.Rptr.2d
+
+749 (2000), holds that subsection (d) does not authorize the family
+court to order drug testing of parents in custody proceedings.
+Wainwright reasons that the independent corroboration requirement
+is intended to protect parents from drug abuse allegations, not to
+enable the court to subject them to drug testing.
+For discussion of custody modification and ““move-away” requests,
+
+§ 3012.
+
+Use of telepresence in child custody proceedings
+
+J.M. v. G.H., 228 Cal.App.4th 925, 175 Cal.Rptr.3d 371 (2014), which
+declined to apply the compelling circumstances requirement to the
+separation of stepsiblings.
+
+(a) If a party’s deportation or detention by the United
+States Immigration and Customs Enforcement of the Department of Homeland Security will have a material effect on
+* * * the person’s ability, or anticipated ability, to appear in
+person at a child custody proceeding, the court shall, upon
+motion of the party, allow the party to present testimony and
+evidence and participate in mandatory child custody media-
+
+Research References
+
+telephone, video teleconferencing, or other electronic means
+
+see Section 3022, Commentary.
+
+In re Marriage of Williams, 88 Cal.App.4th 808, 105 Cal.Rptr.2d 923
+(2001), holds that family court may enter an order that separates
+siblings only when compelling circumstances require separation in
+order to serve the children’s best interests. With Williams, compare
+
+tion
+
+by electronic
+
+means,
+
+including,
+
+but
+
+not
+
+limited
+
+to,
+
+that provide remote access to the hearing, to the extent that
+
+Forms
+
+this technology is reasonably available to the court and
+protects the due process rights of all parties.
+
+California Practice Guide: Rutter Family Law Forms Form 1:32,
+Glossary of Common Family Law Terms, Phrases and Concepts
+(Enclosure to Form 1:31).
+California Practice Guide: Rutter Family Law Forms Form 5:5, Ex
+Parte Application and Request for Order Re Child Custody,
+Visitation and Property Control.
+California Practice Guide: Rutter Family Law Forms Form 7:19.2,
+Request for Order Re Move-Away Request.
+
+(b) This section does not authorize the use of electronic
+recording for the purpose of taking the official record of
+these proceedings. (Added by Stats.2015, c. 69 (A.B.365),
+§ 1, eff: Jan.
+
+1, 2016.
+
+Amended
+
+(A.B.1817), § 24, eff. Jan. 1, 2020.)
+
+196
+
+by Stats.2019,
+
+c.. 115
+
+RIGHT
+
+TO CUSTODY
+
+OF MINOR
+Section
+
+Research References
+
+cy and financial ability of party; report to Legislature.
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 334 (2018),
+Notice and Hearing.
+
+§ 3020.
+
+RIGHT TO CUSTODY OF MINOR CHILD
+Chapter
+Section
+deeiGeneral Provisions «.. oi 66 <+s peysyuerter
+pee seine 3020
+2. Matters to be Considered in Granting Custody.... 3040
+3. Temporary Custody Order During Pendency of
+Proceeding, . 4! 5 n5e tte pay
+heeMa eer is
+3060
+A nJoint:'Gustody in.
+cxagcadegse
+ote
+ante:
+as 3080
+5. Visitation Rights.................
+0.0.00 eee eee 3100
+6. Custody Investigation and Report ............... 3110
+7. Action for Exclusive Custody.................... 3120
+8. Location of Missing Party or Child .............. 3130
+9. Check to Determine Whether Child is Missing
+IROTSOM (olsnco Fo rete: aristerr choke ek ena eases eer: 3140
+10. Appointment of Counsel to Represent Child....... 3150
+11. Mediation of Custody and Visitation Issues ....... 3160
+12. Counseling of Parents and Child ................ 3190
+13. Supervised Visitation and Exchange Services,
+Education, and Counseling ................... 3200
+
+1.
+
+GENERAL
+
+children have the right to be safe and free from abuse, and
+
+that the perpetration of child abuse or domestic violence in a
+household where a child resides is detrimental to the health,
+safety, and welfare of the child.
+
+(b) The Legislature finds and declares that it is the public
+policy of this state to ensure that children have frequent and
+continuing contact with both parents after the parents have
+separated or dissolved their marriage, or ended their relationship, and to encourage parents to share the rights and
+responsibilities of child rearing in order to effect this policy,
+except when the contact would not be in the best interests of
+the child, as provided in subdivisions (a) and (c) of this
+section and Section 3011.
+(c) When the policies set forth in subdivisions (a) and (b)
+of this section are in conflict, a court’s order regarding
+physical or legal custody or visitation shall be made in a
+
+PROVISIONS
+
+Section
+3020.
+3021.
+
+manner
+
+Legislative findings and declarations; public policy.
+Application of part.
+3022.
+Order for custody.
+3022.3. Statement of decision.
+3022.5. Motion by parent for reconsideration of child custody
+order after conviction of spouse for false accusation
+of child abuse against parent.
+3023.
+Sole contested issue or order for separate trial on
+issue; preference for trial date.
+3024.
+Notice to other parent of change of residence of
+child.
+3025.
+Parental access to records.
+3025.5. Psychological evaluations of children; confidentiality;
+exceptions; confidential information contained in
+child custody evaluation reports.
+3026. + Family reunification services.
+3027.
+Allegations of child abuse or child sexual abuse.
+3027.1. False accusations of child abuse or neglect during
+child custody proceedings; knowledge; penalties.
+3027.5.
+
+3028.
+3029.
+3030.
+
+3030.5.
+3031.
+3032.
+
+Sexual abuse of child;
+
+report or treatment;
+
+murderers;
+
+custody
+
+that ensures
+
+the health, safety, and welfare of the
+
+child and the safety of all family members.
+(d) The Legislature finds and declares that it is the public
+policy of this state to ensure that the sex, gender identity,
+gender expression, or sexual orientation of a parent, legal
+guardian, or relative is not considered in determining the best
+
+interests of the child. (Stats.1992, c. 162 (A.B.2650), § 10,
+operative Jan. 1, 1994.
+Amended by Stats.1993, c. 219
+(A.B.1500), § 116; Stats.1997, c. 849 (A.B.200), § 3; Stats.
+1999, c. 980 (A.B.1671), § 5; Stats.2018, c. 941 (A.B.2044),
+§ 2, eff. Jan. 1, 2019; Stats.2019, c. 551 (S.B.495), § 2, eff: Jan.
+I, 2020.)
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 3020 continues the first paragraph of former Civil Code
+Section 4600(a) without substantive change. See also Sections 2253
+(determining custody in nullity proceeding), 3021 (application of
+part). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+limita-
+
+tions on custody or visitation.
+Compensation; failure to assume caretaker responsibility; thwarting of other parent’s visitation or
+custody rights; attorney’s fees.
+Noncustodial parent’s liability for support if custodial
+parent is receiving AFDC assistance; order.
+Sex offenders;
+
+Legislative findings and declarations; public policy
+
+(a) The Legislature finds and declares that it is the public
+policy of this state to ensure that the health, safety, and
+welfare of children shall be the court’s primary concern in
+determining the best interests of children when making any
+orders regarding the physical or legal custody or visitation of
+children. The Legislature further finds and declares that
+
+Part 2
+
+CHAPTER
+
+§ 3020
+
+CHILD
+
+Commentary
+
+For discussion of custody modification and “move-away” requests,
+see Section 3022, Commentary.
+In a relocation case (see Family Code § 7501 and commentary to
+that section), Wilson v. Shea, 87 Cal.App.4th 887, 104 Cal.Rptr.2d 880
+(2001), invokes the subsection (b) legislative purpose of assuring a
+child’s frequent and continuing contact with both parents to justify
+§ 4057 (b)(5) reduction of the guideline child support amount by an
+amount intended to cover the noncustodial parent’s transportation
+expenses in visiting the child.
+Holding that the trial court abused its discretion in separating two
+siblings without a careful analysis of (1) the actual impact of one
+child’s disability on the other child and (2) the impact of separation
+on both children, In re Marriage of Heath, 122 Cal.App.4th 444, 18
+
+and visitation;
+
+child support; disclosure of information relating to
+custodial parent.
+Modification or termination of order for physical or
+legal custody or unsupervised visitation order; sex
+offenders required to be registered.
+Protective or restraining orders; findings; transfer of
+children; detail specific custody or visitation orders; required presence of third party.
+Pilot program to provide interpreter in child custody
+or protective order cases; lack of English proficien-
+
+Cal.Rptr.3d 760 (2004), discerns, in Welfare and Institutions Code
+
+197
+
+§ 3020
+
+CUSTODY
+
+OF CHILDREN
+10 Witkin, California Summary 10th Parent
+Substance Abuse.
+10 Witkin, California Summary 10th Parent
+In General.
+10 Witkin, California Summary 10th Parent
+Finality of Order.
+10 Witkin, California Summary 10th Parent
+Statutory Order of Preference.
+
+§§ 366.26(c)(1)(E) and 16002.5, which treat the placement of
+children in foster homes, a state policy that the sibling bond should
+be preserved whenever
+
+possible.
+
+However,
+
+J.M.
+
+v. G.H.,
+
+228 Cal.
+
+App.4th 925, 175 Cal.Rptr.3d 371 (2014), declined to apply the same
+standard to the separation of stepsiblings.
+Research References
+Forms
+
+§ 3021.
+
+Application of part
+This part applies in any of the following:
+(a) A proceeding for dissolution of marriage.
+(b) A proceeding for nullity of marriage.
+(c) A proceeding for legal separation of the parties.
+(d) An action for exclusive custody pursuant to Section
+
+West’s California Code Forms, Family § 3022, Comment Overview-
+
+Order for Custody.
+
+3120.
+
+1, Petition for
+
+(e) A proceeding to determine physical or legal custody or
+for visitation in a proceeding pursuant to the Domestic
+Violence Prevention Act (Division 10 (commencing with
+Section 6200)).
+In an action under Section 6323, nothing in this subdivision
+shall be construed to authorize physical or legal custody, or
+visitation rights, to be granted to any party to a Domestic
+Violence Prevention Act proceeding who has not established
+a parent and child relationship pursuant to paragraph (2) of
+subdivision (a) of Section 6323.
+(f) A proceeding to determine physical or legal custody or
+visitation in an action pursuant to the Uniform Parentage Act
+(Part 3 (commencing with Section 7600) of Division 12).
+(g) A proceeding to determine physical or legal custody or
+visitation in an action brought by the district attorney
+pursuant to Section 17404.
+(Added by Stats.1993, c. 219
+(A.B.1500), § 116.11. Amended by Stats.1996, c. 1075 (S.B.
+1444), § 9; Stats.1997, c. 396 (S.B.564), § 1; Stats.1999, c.
+980 (A.B.1671), § 6; Stats.2000, c. 135 (A.B.2539), § 58.)
+
+Freedom from Parental Control-Abandonment.
+Code
+
+Forms,
+
+Probate
+
+§ 1514
+
+Form
+
+and Child § 220 (2018),
+
+Agreement.
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+
+California
+
+and Child § 214 (2018),
+
+10 Witkin, California Summary 10th Parent and Child § 365 (2018),
+Nature of Action.
+10 Witkin, California Summary 10th Parent and Child § 417 (2018),
+Applicability of Family Code Custody Provisions.
+15 Witkin, California Summary 10th Wills and Probate § 983 (2018),
+Factors Considered in Appointment.
+15 Witkin, California Summary 10th Wills and Probate § 987 (2018),
+Illustrations.
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+West’s
+
+and Child § 213 (2018),
+
+10 Witkin, California Summary 10th Parent and Child § 221 (2018),
+Statutory Rule.
+10 Witkin, California Summary 10th Parent and Child § 225 (2018),
+Statutory Authorization.
+10 Witkin, California Summary 10th Parent and Child § 227 (2018),
+Nature of Right.
+10 Witkin, California Summary 10th Parent and Child § 263 (2018),
+Stipulation for Temporary Custody.
+10 Witkin, California Summary 10th Parent and Child § 288 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 292 (2018),
+
+California Practice Guide: Rutter Family Law Forms Form 1:32,
+Glossary of Common Family Law Terms, Phrases and Concepts
+(Enclosure to Form 1:31).
+California Practice Guide: Rutter Family Law Forms Form 5:2,
+Request for Order Re Child Custody, Child Support, Spousal
+Support, Attorney Fees, etc.
+California Practice Guide: Rutter Family Law Forms Form 5:5, Ex
+Parte Application and Request for Order Re Child Custody,
+Visitation and Property Control.
+1 California Transactions Forms--Family Law § 2:70, Deciding
+Custody.
+1 California Transactions Forms--Family Law § 3:2, Child Custody.
+1 California Transactions Forms--Family Law § 3:4, Subject Matter
+Jurisdiction for Custody Determinations.
+1 California Transactions Forms--Family Law § 3:8, No Statutory
+Custody Preferences.
+1 California Transactions Forms--Family Law § 3:11, Permanent
+Custody.
+1 California Transactions Forms--Family Law § 4:104, Paternity
+Acknowledgment.
+2 California Transactions Forms--Family Law § 5:2, Overview.
+2 California Transactions Forms--Family Law § 5:3, Rights of
+Nonparents Generally.
+
+West’s California Code Forms, Family § 7841 Form
+
+and Child § 201 (2018),
+
+1, Order
+
+Appointing Guardian of Minor-Judicial Council Form GC-240.
+West’s California Judicial Council Forms DV-140, Child Custody and
+Visitation Order.
+West’s California Judicial Council Forms FL-341, Child Custody and
+Visitation (Parenting Time) Order Attachment.
+West’s California Judicial Council Forms FL-356, Request for
+Special Immigrant Juvenile Findings-Family Law.
+West’s California Judicial Council Forms JV-200, Custody OrderJuvenile-Final Judgment.
+West’s California Judicial Council Forms JV-205, Visitation Order-
+
+Juvenile.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Husband and Wife § 378
+(2018), Procedure.
+11 Witkin, California Summary 10th Husband and Wife § 393
+(2018), Temporary Custody and Visitation.
+16 Witkin, California Summary 11th Juvenile Court Law § 447
+(2018), Statutory Procedure is Exclusive.
+10 Witkin, California Summary 10th Parent and Child § 78 (2018),
+Visitation Privileges.
+
+Law Revision Commission Comments
+
+10 Witkin, California Summary 10th Parent and Child § 194 (2018),
+
+Enactment
+
+In General.
+10 Witkin, California Summary 10th Parent and Child § 195 (2018),
+Statutory Framework.
+10 Witkin, California Summary 10th Parent and Child § 200 (2018),
+Negative Presumption from Perpetration of Domestic Violence.
+
+[Revised Comment]
+
+Section 3021 is a new provision that generalizes the parts of former
+
+Civil Code Sections 4351.5, 4600.1, 4600.5, 4602, 4606, 4608.1, 4609,
+and 4611 stating the scope of application of the former sections. The
+former provisions applied to proceedings under the former Family
+
+198
+
+RIGHT
+
+TO CUSTODY
+
+Law Act (former Part 5 (commencing with former Section 4000) of
+Division 4 of the Civil Code), which included proceedings for
+dissolution of marriage, nullity of marriage, and legal separation of
+the parties, and actions for exclusive custody.
+This section expands the application of this part to proceedings in
+which custody or visitation is determined in an action pursuant to the
+Domestic Violence Prevention Act or the Uniform Parentage Act.
+Application of this part to these acts provides a complete set of rules
+where custody or visitation is determined in proceedings pursuant to
+these acts, as well as providing for related matters such as investigations, appointment of counsel to represent the child, mediation, and
+counseling.
+See also Prob. Code § 1514 (Fam. Code §§ 3040-3043 applicable
+in proceeding to establish guardianship of person). For provisions
+excluding application of this part, see Section 7807 (specific provisions not applicable in proceeding to terminate parental rights
+pursuant to Uniform Parentage Act); Welf. & Inst. Code § 366.26
+(specific provisions not applicable to dependency proceedings). [23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Enactment
+
+Commentary
+Note that 2013 amendments to Code of Civil Procedure section
+583.161 expanded the definition of petitions and orders that are not
+subject to mandatory dismissal, including petitions and orders
+under this section.
+In re Marriage of Olson, 238 Cal.App.4th 1458, 190 Cal.Rptr.3d 715
+(2015), holds that a parent who defaulted in a dissolution proceeding
+
+has. standing to seek modification of child custody without seeking
+relief from the default.
+Relying on this section and § 2010(b), In re Marriage of Jensen, 114
+Cal.App.4th 587, 7 Cal.Rptr.3d 701 (2003), review denied, held that a
+court lacks jurisdiction to enforce the terms of a marital settlement
+agreement, incorporated into a judgment of dissolution, that required an adult disabled child living in Thailand to visit his father in
+California and required the child’s mother to encourage and
+implement visitation and give the father written updates on the
+child’s activities.
+Even though a dissolution judgment has been entered, a stipulation of the parties signed during dissolution proceedings allowing
+mutual discovery of psychological evidence “through the pendency of
+this action” is enforceable throughout a child’s minority because
+family court has continuing jurisdiction over child custody matters. In
+re Marriage of Kreiss, 122 Cal.App.4th 1082, 19 Cal.Rptr.3d 260 (2004).
+For custody modification, see generally In re Marriage of Carney, 24
+Cal.3d 725, 157 Cal.Rptr. 383 (1979) (court may modify custody only
+upon a showing of “changed circumstances”); Montenegro v. Diaz, 26
+Cal.4th 249, 27 P.3d 289, 109 Cal.Rptr.2d 575 (2001) (a custody order
+stipulated by the parties is a final judicial determination of custody
+for purposes of the “changed circumstances” rule only if there is
+clear affirmative indication that the parties intended such result;
+otherwise the “best interests” test applies in a modification proceeding); In re Marriage of Lewin, 186 CalApp.3d 1482, 1488, 231
+Cal.Rptr. 433 (1986) (where mother’s custody of child was based
+solely on pendente lite stipulation, no need to show “changed
+circumstances” at custody hearing); Jn re Marriage of Rose and
+Richardson, 102 Cal.App.4th 941, 126 Cal.Rptr.2d 45 (2002) (initial
+custody order awarding mother custody pursuant to parents’ stipulation did not constitute final judicial custody determination within the
+meaning of Montenegro v. Diaz; thus trial court should not have
+applied the “changed circumstances” test in a “move away” case, but
+should instead have made a de novo “best interests” child custody
+determination). Ragghanti v. Reyes, 123 Cal.App.4th 989, 20 Cal.
+Rptr.3d 522 (2004), approved, in a move-away case involving a 5—
+year-old temporary custody order, the trial court’s application of the
+“best interests,” rather than the “changed circumstances” standard.
+Keith R. v. Superior Court, 174 Cal.App.4th 1047, 96 Cal.Rptr.3d 298
+
+Research References
+Forms
+
+California Practice Guide: Rutter Family Law Forms Form 5:5, Ex
+Parte Application and Request for Order Re Child Custody,
+Visitation and Property Control.
+California Practice Guide: Rutter Family Law Forms Form 7:17,
+Notice of Motion and Declaration for Joinder (Grandparent
+Visitation Claim).
+California Practice Guide: Rutter Family Law Forms Form 7:18,
+Complaint for Joinder (Grandparent Visitation Claim).
+California Practice Guide: Rutter Family Law Forms Form 7:19,
+Memorandum in Support of Motion and Declaration for Joinder
+(Grandparent Visitation Claim).
+1 California Transactions Forms--Family Law § 3:4, Subject Matter
+Jurisdiction for Custody Determinations.
+2 California Transactions Forms--Family Law § 5:2, Overview.
+
+Treatises and Practice Aids
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+Comments
+
+[Revised Comment]
+
+Section 3022 continues without substantive change the first sentence of the second paragraph of former Civil Code Section 4600(a).
+The former reference to “any proceeding where there is at issue the
+custody of a minor child” has been omitted.
+See Section 3021
+(application of part). As to the court’s jurisdiction, see Sections
+3400-3425 (Uniform Child Custody Jurisdiction Act), See also Code
+Civ. Proc. § 917.7 (order not automatically stayed by appeal). [23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Even though a dissolution judgment has been entered, a stipulation of the parties signed during dissolution proceedings allowing
+mutual discovery of psychological evidence “through the pendency of
+this action” is enforceable throughout a child’s minority because
+family court has continuing jurisdiction over child custody matters. Jn
+re Marriage of Kreiss, 122 Cal.App.4th 1082, 19 Cal. Rptr.3d 260 (2004).
+
+California
+
+§ 3022
+
+CHILD
+Law Revision Commission
+
+Commentary
+
+11 Witkin,
+
+OF MINOR
+
+§ 387
+
+(2018), Support Person for Victim.
+10 Witkin, California Summary 10th Parent and Child § 197 (2018),
+Best Interest of Child.
+10 Witkin, California Summary 10th Parent and Child § 201 (2018),
+Substance Abuse.
+10 Witkin, California Summary 10th Parent and Child § 229 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 417 (2018),
+Applicability of Family Code Custody Provisions.
+10 Witkin, California Summary 10th Parent and Child § 425 (2018),
+Modification of Order.
+
+(2009), holds that a domestic violence order issued in a dissolution
+
+proceeding, which granted the abused parent sole legal and physical
+custody of a child, does not constitute a final custody determination
+for purposes of Montenegro. Thus the trial court erred in applying the
+“changed circumstances” rather than the “best interest” standard to
+a move-away request in a child custody case.
+In granting a father’s motion to modify a final child custody order,
+Christina L. v. Chauncey B., 229 Cal.App.4th 731, 177 Cal.Rptr.3d 178
+(2014), held that the trial court erred in not requiring that the father
+show changed circumstances justifying modification of a final custody
+
+§ 3022. Order for custody
+The court may, during the pendency of a proceeding or at
+any time thereafter, make an order for the custody of a child
+during minority that seems necessary or proper. (Formerly
+§ 3021, enacted by Stats.1992, c. 162 (A.B.2650), § 10,
+operative Jan. 1, 1994. Renumbered § 3022 and amended by
+Stats.1993, c. 219 (A.B.1500), § 116.12.)
+
+199
+
+
