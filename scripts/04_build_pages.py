@@ -133,12 +133,21 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
         "",
         f"# {title}",
         "",
-        f"**Division {div_key}** — California Family Code",
-        "",
     ]
     if not secs:
         lines += ["_No sections extracted for this division yet._", ""]
         return "\n".join(lines)
+
+    lines += ["## Sections", ""]
+    for s in secs[:50]:  # inline TOC for first 50 sections
+        sec_url = (
+            "https://leginfo.legislature.ca.gov/faces/codes_displaySection"
+            f".xhtml?lawCode=FAM&sectionNum={s['sectionNumber']}."
+        )
+        lines.append(f"- [{s['sectionNumber']}]({sec_url})")
+    if len(secs) > 50:
+        lines.append(f"- ... and {len(secs) - 50} more")
+    lines += ["", "---", ""]
 
     for s in secs:
         sec_url = (
@@ -146,10 +155,7 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
             f".xhtml?lawCode=FAM&sectionNum={s['sectionNumber']}."
         )
         lines += [
-            f"### Section {s['sectionNumber']}",
-            "",
-            f"*[View on California Legislative Information]({sec_url})*",
-            "",
+            f"### {s['sectionNumber']}",
             "",
             clean_text(s["text"]),
             "",
@@ -167,7 +173,7 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
 
 def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -> str:
     """Wrap bare 'Section X' mentions with links."""
-    present = {m.group(1) for m in re.finditer(r"^### Section (\S+)", content, re.M)}
+    present = {m.group(1) for m in re.finditer(r"^### (\S+)", content, re.M)}
     if not present:
         return content
 
@@ -195,10 +201,10 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
 
 
 def style_emphasis(content: str) -> str:
-    """Replace '* * *' omitted-text markers with a simple callout."""
+    """Replace '* * *' omitted-text markers with a borderless callout."""
     return content.replace(
         "* * *",
-        "<aside class=\"omit-note\">[text omitted in source]</aside>",
+        "<aside class=\"callout\">[text omitted in source]</aside>",
     )
 
 
@@ -246,7 +252,7 @@ def main() -> None:
         count = len(by_div.get(float(div_key), []))
         home.append(
             f'<a class="division-card" href="/{slug}">\n'
-            f'  <div class="division-card-title">Division {div_key}: {title}</div>\n'
+            f'  <div class="division-card-title">{title}</div>\n'
             f'  <div class="division-card-meta">{count} sections</div>\n'
             f'</a>'
         )

@@ -24,58 +24,70 @@ navigation:
         contents:
           - page: Home
             path: docs/pages/home.mdx
-            icon: home
-          - page: Division 1 — Preliminary Provisions and Definitions
-            path: docs/pages/preliminary-provisions.mdx
-            icon: book-open
-          - page: Division 2 — General Provisions
+      - section: Preliminary Provisions and Definitions
+        contents:
+          - page: General Provisions
             path: docs/pages/marriage.mdx
-            icon: file-text
-          - page: Division 2.5 — Domestic Partner Registration
+      - section: Domestic Partner Registration
+        contents:
+          - page: Registration
             path: docs/pages/division-2.5-domestic-partners.mdx
-            icon: heart
-          - page: Division 3 — Marriage
+      - section: Marriage
+        contents:
+          - page: Marriage
             path: docs/pages/division-3-marriage.mdx
-            icon: ring
-          - page: Division 4 — Rights and Obligations During Marriage
+      - section: Rights and Obligations During Marriage
+        contents:
+          - page: Rights and Obligations
             path: docs/pages/division-4-rights-during-marriage.mdx
-            icon: scale
-          - page: Division 5 — Conciliation Proceedings
+      - section: Conciliation Proceedings
+        contents:
+          - page: Conciliation
             path: docs/pages/division-5-conciliation.mdx
-            icon: handshake
-          - page: Division 6 — Nullity, Dissolution, and Legal Separation
+      - section: Nullity, Dissolution, and Legal Separation
+        contents:
+          - page: Dissolution
             path: docs/pages/division-6-dissolution.mdx
-            icon: file-x
-          - page: Division 7 — Division of Property
+      - section: Division of Property
+        contents:
+          - page: Property Division
             path: docs/pages/division-7-property.mdx
-            icon: house
-          - page: Division 8 — Custody of Children
+      - section: Custody of Children
+        contents:
+          - page: Custody
             path: docs/pages/division-8-custody.mdx
-            icon: baby
-          - page: Division 9 — Support
+      - section: Support
+        contents:
+          - page: Support
             path: docs/pages/division-9-support.mdx
-            icon: dollar-sign
-          - page: Division 10 — Prevention of Domestic Violence
+      - section: Prevention of Domestic Violence
+        contents:
+          - page: Domestic Violence
             path: docs/pages/division-10-domestic-violence.mdx
-            icon: shield
-          - page: Division 11 — Minors
+      - section: Minors
+        contents:
+          - page: Minors
             path: docs/pages/division-11-minors.mdx
-            icon: user
-          - page: Division 12 — Parent and Child Relationship
+      - section: Parent and Child Relationship
+        contents:
+          - page: Parent and Child
             path: docs/pages/division-12-parent-child.mdx
-            icon: users
-          - page: Division 13 — Adoption
+      - section: Adoption
+        contents:
+          - page: Adoption
             path: docs/pages/division-13-adoption.mdx
-            icon: heart
-          - page: Division 14 — Family Law Facilitator Act
+      - section: Family Law Facilitator Act
+        contents:
+          - page: Family Law Facilitator
             path: docs/pages/division-14-family-law-facilitator.mdx
-            icon: briefcase
-          - page: Division 17 — Support Services
+      - section: Support Services
+        contents:
+          - page: Support Services
             path: docs/pages/division-17-support-services.mdx
-            icon: heart-handshake
-          - page: Division 20 — Pilot Projects
+      - section: Pilot Projects
+        contents:
+          - page: Pilot Projects
             path: docs/pages/division-20-pilot-projects.mdx
-            icon: flask-conical
 colors:
   accent-primary:
     light: "#000000"
