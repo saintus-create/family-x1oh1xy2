@@ -1,14 +1,5 @@
 #!/usr/bin/env python3
-"""
-04_build_pages.py
------------------
-Rebuild the Fern docs site from the extracted Family Code data.
-
-Emits clean Markdown so Fern's built-in theme handles fonts, spacing,
-TOC sidebar, and responsive layout automatically.
-
-Run:  python3 04_build_pages.py
-"""
+"""Format and normalize all Fern docs files consistently."""
 from __future__ import annotations
 
 import json
@@ -17,9 +8,9 @@ from pathlib import Path
 
 REPO = Path.cwd()
 PAGES_DIR = REPO / "fern" / "docs" / "pages"
-SECTIONS_FILE = REPO / "family_code_sections.json"
 XREF_FILE = REPO / "fam_cross_references.json"
 
+SECTIONS_FILE = REPO / "family_code_sections.json"
 DIVISIONS = {
     1: ("Preliminary Provisions and Definitions", "preliminary-provisions"),
     2: ("General Provisions", "marriage"),
@@ -103,19 +94,11 @@ def build_pages(sections: list[dict]) -> dict[float, list[dict]]:
 
 
 def clean_text(text: str) -> str:
-    """Prepare raw statute text for Markdown rendering.
-
-    - Fix OCR hyphenation artifacts ("communi- ty" -> "community").
-    - Join soft line breaks (PDF extraction artifacts) into sentences.
-    - Collapse multiple blank lines.
-    """
+    """Prepare raw statute text for Markdown rendering."""
     text = re.sub(r"\b(\w+)-\s+", r"\1", text)
     text = re.sub(r"([A-Za-z0-9,;:])\s*\n(?=[A-Za-z0-9])", r"\1 ", text)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
-    # Drop bare section-number TOC fragments ("3002." alone on a line) and
-    # the one-line description that follows — index entries leaked from the
-    # annotated source, not statute text.
     text = re.sub(r"^\s*\d{3,4}\.\s*$\n(?:[A-Z][^\n]*\n)?", "", text, flags=re.M)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
@@ -156,7 +139,8 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
 
 def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -> str:
     """Wrap bare 'Section X' mentions with links."""
-    present = {m.group(1) for m in re.finditer(r"^### \[Section (\S+)", content, re.M)}
+    # Headings now use bare numbers: ### [200](url)
+    present = {m.group(1) for m in re.finditer(r"^### \[(\S+)\]", content, re.M)}
     if not present:
         return content
 
@@ -183,14 +167,6 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
     return content
 
 
-def style_emphasis(content: str) -> str:
-    """Replace '* * *' omitted-text markers with a simple callout."""
-    return content.replace(
-        "* * *",
-        "<aside class=\"omit-note\">[text omitted in source]</aside>",
-    )
-
-
 def main() -> None:
     PAGES_DIR.mkdir(parents=True, exist_ok=True)
     data = json.loads(SECTIONS_FILE.read_text(encoding="utf-8"))
@@ -209,7 +185,6 @@ def main() -> None:
         content = render_page(div_key, div_info, secs)
         if xrefs:
             content = inject_cross_refs(content, xrefs, div_sections)
-        content = style_emphasis(content)
         (PAGES_DIR / f"{div_info[1]}.mdx").write_text(content, encoding="utf-8")
         generated.append((div_key, div_info[1], len(secs)))
         print(f"page: {div_info[1]}.mdx ({len(secs)} sections)")

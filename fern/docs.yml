@@ -24,58 +24,58 @@ navigation:
         contents:
           - page: Home
             path: docs/pages/home.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: home
           - page: Division 1 — Preliminary Provisions and Definitions
             path: docs/pages/preliminary-provisions.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: book-open
           - page: Division 2 — General Provisions
             path: docs/pages/marriage.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: file-text
           - page: Division 2.5 — Domestic Partner Registration
             path: docs/pages/division-2.5-domestic-partners.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: heart
           - page: Division 3 — Marriage
             path: docs/pages/division-3-marriage.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: ring
           - page: Division 4 — Rights and Obligations During Marriage
             path: docs/pages/division-4-rights-during-marriage.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: scale
           - page: Division 5 — Conciliation Proceedings
             path: docs/pages/division-5-conciliation.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: handshake
           - page: Division 6 — Nullity, Dissolution, and Legal Separation
             path: docs/pages/division-6-dissolution.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: file-x
           - page: Division 7 — Division of Property
             path: docs/pages/division-7-property.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: house
           - page: Division 8 — Custody of Children
             path: docs/pages/division-8-custody.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: baby
           - page: Division 9 — Support
             path: docs/pages/division-9-support.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: dollar-sign
           - page: Division 10 — Prevention of Domestic Violence
             path: docs/pages/division-10-domestic-violence.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: shield
           - page: Division 11 — Minors
             path: docs/pages/division-11-minors.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: user
           - page: Division 12 — Parent and Child Relationship
             path: docs/pages/division-12-parent-child.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: users
           - page: Division 13 — Adoption
             path: docs/pages/division-13-adoption.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: heart
           - page: Division 14 — Family Law Facilitator Act
             path: docs/pages/division-14-family-law-facilitator.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: briefcase
           - page: Division 17 — Support Services
             path: docs/pages/division-17-support-services.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: heart-handshake
           - page: Division 20 — Pilot Projects
             path: docs/pages/division-20-pilot-projects.mdx
-            icon: docs/assets/icon-circle.svg
+            icon: flask-conical
 colors:
   accent-primary:
     light: "#000000"
@@ -99,8 +99,21 @@ css:
 typography:
   headingsFont:
     name: Public Sans
+    weight: 700
   bodyFont:
     name: Public Sans
+    weight: 400
+  fontSize:
+    base: 17px
+    headings:
+      h1: 2rem
+      h2: 1.5rem
+      h3: 1.25rem
+  lineHeight:
+    body: 1.7
+    headings: 1.25
+  letterSpacing:
+    headings: 0.01em
 ai-search:
   location:
     - docs

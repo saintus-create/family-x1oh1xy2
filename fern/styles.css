@@ -1,12 +1,14 @@
-/* Minimal overrides on top of Fern's built-in docs theme. */
-@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+/* Minimal overrides on top of Fern's built-in docs theme.
+   Typography (font, sizes, line-height) is configured in docs.yml. */
 
-/* The typography block in docs.yml declares these; Fern uses them
-   for headings/body.  The @import above ensures the font is actually
-   available in the browser. */
-
-/* Statutory reading: slightly wider measure for long code text */
-.markdown { max-width: 52rem; }
+/* Section titles: xl size for scanability */
+.markdown h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
 
 /* Each section gets a subtle divider for scanability */
 .statute { border-top: 1px solid var(--border, #e5e5e5); padding-top: 1.25rem; margin-top: 1.25rem; }
