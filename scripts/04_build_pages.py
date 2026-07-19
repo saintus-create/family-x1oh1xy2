@@ -119,6 +119,14 @@ def clean_text(text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"^\s*\d{3,4}\.\s*$\n(?:[A-Z][^\n]*\n)?", "", text, flags=re.M)
     text = re.sub(r"\n{3,}", "\n\n", text)
+    # Remove Markdown italic artifacts from PDF extraction
+    # ("* *", "* x *", "*.*", "* this section *" etc.).
+    text = re.sub(r"\*\s*\*\s*", " ", text)
+    text = re.sub(r"\*\s*x\s*\*\s*", "", text)
+    text = re.sub(r"\*\.\s*", "", text)
+    # Strip any remaining lone italic markers: *word* or _word_
+    text = re.sub(r"\*([^*\n]+)\*", r"\1", text)
+    text = re.sub(r"_([^_\n]+)_", r"\1", text)
     return text.strip()
 
 
