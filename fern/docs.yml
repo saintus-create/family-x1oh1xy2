@@ -1,10 +1,10 @@
 # yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
 
 instances:
-  - url: family.docs.buildwithfern.com
+  - url: https://family.docs.buildwithfern.com
     edit-this-page:
       github:
-        owner: fern-starter
+        owner: saintus-create
         repo: family-x1oh1xy2
         branch: main
       launch: dashboard
@@ -37,7 +37,7 @@ navigation:
           - page: Division 2.5 — Domestic Partner Registration
             path: docs/pages/division-2.5-domestic-partners.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 3 — Marriage: Rights and Obligations
+          - page: "Division 3 — Marriage: Rights and Obligations"
             path: docs/pages/division-3-marriage.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 4 — Property Rights
