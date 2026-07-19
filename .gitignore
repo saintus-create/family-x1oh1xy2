@@ -1,0 +1,9 @@
+# Source PDFs (262M) — kept locally, not committed
+*.pdf
+
+# Intermediate extracted text
+pdf_text/
+
+# Python caches
+__pycache__/
+*.pyc

@@ -1,0 +1,4710 @@
+§ 7572
+
+PARENT
+
+AND
+
+CHILD
+
+the fact that the child support order satisfies section 7612(c) does not
+make the support obligor a presumed parent. The effect of Cheyenne
+B. was that the child, who initially had one adjudicated nonpresumptive biological father and one unadjudicated presumptive father,
+ultimately had no presumed father.
+Note that a voluntary declaration of paternity not only has the
+force and effect of a judgment of paternity, but also entitles the
+declarer to presumed father status under section 7576.
+In re Mary G., 151 Cal. App.4th 184, 59 Cal.Rpir.3d 703 (2007), held
+that this section violates the equal protection and full faith and credit
+clauses insofar as it would deny presumed father status to a man on
+the sole basis that his voluntary acknowledgement of paternity was
+executed in Michigan, rather than California.
+
+10 Witkin, California Summary 10th Parent and Child § 22 (2018),
+Declaration of Paternity at Birth.
+
+§ 7573. Voluntary declaration of paternity; establishment
+of paternity; force and effect
+Section operative until Jan. 1, 2020. See,
+also, § 7573 operative Jan. 1, 2020.
+
+(a) Except as provided in Sections 7575, 7576, 7577, and
+7612, a completed voluntary declaration of paternity, as
+described
+
+in Section
+
+7574,
+
+that has been
+
+filed with
+
+the
+
+Department of Child Support Services shall establish the
+paternity of a child and shall have the same force and effect
+as a judgment for paternity issued by a court of competent
+jurisdiction. The voluntary declaration of paternity shall be
+recognized as a basis for the establishment of an order for
+child custody, visitation, or child support.
+(b) This section shall remain in effect only until January 1,
+2020, and as of that date is repealed.
+
+RELATIONSHIP
+
+Research References
+Forms
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parenting Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+West’s California Judicial Council Forms JV-500, Paternity Inquiry.
+
+(Added by Stats.1996, c.
+
+1062 (A.B.1832), § 6. Amended by Stats.1998, c. 858 (A.B.
+2169), § 5; Stats.2000, c. 808 (A.B.1358), § 73, eff. Sept. 28,
+2000; Stats.2011, c. 185 (A.B.1349), § 1; Stats.2018, c. 876
+(A.B.2684), § 32, eff. Jan. 1, 2019.)
+
+Treatises and Practice Aids
+
+16 Witkin, California Summary 11th Juvenile Court Law § 276
+(2018), Determination of Parentage.
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+10 Witkin, California Summary 10th Parent and Child § 25 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 26 (2018),
+Genetic Testing.
+
+Repeal
+
+For repeal of this section, see its terms.
+Commentary
+
+Kevin Q. v. Lauren W., 175 Cal.App.4th 1119, 95 Cal.Rptr.3d 477
+(2009), review denied, held that a voluntary declaration of paternity
+
+signed when a child already had a section 7611(d) presumed father
+had the effect of rebutting the latter’s presumption of paternity under
+section 7612(c), because this section gives a voluntary declaration of
+paternity the force and effect of a judgment of paternity. Mitigating
+Kevin Q., section 7612(d), added in 2011, grants any section 7611
+presumed father, including a subsection (d) presumed father, the
+right to file a petition to set aside a voluntary declaration within two
+years of its making. By contrast, under section 7612(e), also added by
+the 2011 legislation, when parenthood is presumed under section
+7450 or subsections (a),(b), or (c) of section 7611 (but not subsection
+(d)), any subsequent voluntary declaration of paternity by another
+person is automatically invalid.
+In re Levi H., 197 Cal.App.4th 1279, 128 Cal.Rptr.3d 814 (2011),
+holds that when a voluntary declaration of paternity qualifies for
+section 7612(c) treatment, the presumption of paternity arising under
+section 7611(d) is rebutted by another man’s voluntary declaration of
+paternity, and there is no need to engage in a section 7612(b)
+weighing analysis.
+However, when a child has both an alleged biological father, whose
+paternity is at issue in a dependency proceeding, and a presumed
+father, a court must hold an evidentiary hearing on the issue
+biological paternity. If the court concludes that one man is the
+biological father and the other man is a presumed father, the court
+must perform a section 7612(b) balancing analysis to determine
+
+§ 7573. Voluntary declaration of parentage;
+force and effect
+
+signed record;
+
+Section operative Jan. 1, 2020. See, also,
+$ 7573 operative until Jan. 1, 2020.
+
+(a) The following persons may sign a voluntary declaration
+of parentage to establish the parentage of the child:
+(1) An unmarried woman who gave birth to the child and
+another person who is a genetic parent.
+(2) A married or unmarried woman who gave birth to the
+child and another person who is a parent under Section 7613
+of a child conceived through assisted reproduction.
+(b) A voluntary declaration of parentage shall be in a
+record signed by the woman who gave birth to the child and
+by either the only possible genetic parent other than the
+woman who gave birth or the intended parent of a child
+conceived through assisted reproduction, and the signatures
+shall be attested by a notary or witnessed.
+
+(c) Except as provided by Section 7580, a voluntary
+declaration of parentage takes effect on the filing of the
+document with the Department of Child Support Services.
+
+which man should be considered the child’s father. In re P.A., 198
+
+Cal. App.4th 974, 130 Cal.Rptr.3d 556 (2011). In re P.A. concludes that
+
+a finding that a man is a biological father is not a paternity judgment
+for purposes of section 7612(c). In re P.A. interprets subsection (c) to
+
+(d) Except as provided in Sections 7573.5, 7575, 7576,
+7577, and 7580, a completed voluntary declaration of parentage that complies with this chapter and that has been filed
+with the Department of Child Support Services is equivalent
+to a judgment of parentage of the child and confers on the
+declarant all rights and duties of a parent.
+
+refer to a judgment that already exists when the instant action arises.
+
+In re P.A. relies on In re A.A., discussed below in the Commentary to
+this section. By contrast, In re Cheyenne B., 203 Cal.App.4th 1361, 138
+Cal.Rptr.3d 267 (2012), review denied, holds that a pre-existing
+
+judgment that a man is the father of a child for child support
+purposes is a paternity judgment within the meaning of section
+7612(c) and therefore may preclude another man from establishing
+that the is a presumed father under section 7611(d). Nevertheless,
+
+(e) The court shall give full faith and credit to a voluntary
+declaration of parentage effective in another state if the
+
+500
+
+DETERMINATION
+declaration was in a signed record and otherwise complies
+with the law of the other state.
+(f) This section shall become operative on January 1, 2020.
+
+(b) The form described in subdivision (a) shall contain, at
+a minimum, the following:
+(1) The name and the signature of the mother.
+(2) The name and the signature of the father.
+(3) The name of the child.
+(4) The date of birth of the child.
+(5) A statement by the mother that she has read and
+
+(Added by Stats.2018, c. 876 (A.B.2684), § 33, eff. Jan. 1, 2019,
+operative Jan. 1, 2020.)
+Research References
+Forms
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+understands the written materials described in Section 7572,
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+
+that the man who has signed the voluntary declaration of
+paternity is the only possible father, and that she consents to
+the establishment of paternity by signing the voluntary
+declaration of paternity.
+(6) A statement by the father that he has read and
+
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+
+West’s California Judicial Council Forms JV-500, Paternity Inquiry.
+Treatises and Practice Aids
+
+understands the written materials described in Section 7572,
+
+16 Witkin, California Summary 11th Juvenile Court Law § 276
+(2018), Determination of Parentage.
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+10 Witkin, California Summary 10th Parent and Child § 25 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 26 (2018),
+Genetic Testing.
+
+§ 7573.5.
+
+Void voluntary declaration of parentage;
+
+that he understands that by signing the voluntary declaration
+of paternity he is waiving his rights as described in the written
+materials, that he is the biological father of the child, and that
+
+he consents to the establishment of paternity by signing the
+voluntary declaration of paternity.
+(7) The name and the signature of the person who
+witnesses the signing of the declaration by the mother and the
+father.
+(c) This section shall remain in effect only until January 1,
+
+condi-
+
+tions; notice
+
+2020, and as of that date is repealed.
+
+(a) A voluntary declaration of parentage is void if, at the
+time of signing, any of the following are true:
+(1) A person other than the woman who gave birth to the
+child or a person seeking to establish parentage through a
+voluntary declaration of parentage is a presumed parent
+under Section 7540 or subdivision (a), (b), or (c) of Section
+7611.
+(2) A court has entered a judgment of parentage of the
+child.
+(3), Another person has signed a valid voluntary declaration of parentage.
+(4) The child has a parent under Section 7613 or 7962
+other than the signatories.
+(5) The person seeking to establish parentage is a sperm or
+ova donor under subdivision (b) or (c) of Section 7613.
+(6) The person seeking to establish parentage asserts that
+* * * the person is a parent under Section 7613 and the child
+was not conceived through assisted reproduction.
+(b) In an action in which a party is seeking a determination
+that a voluntary declaration of parentage is void under this
+section, notice shall be provided pursuant to Section 7635.
+
+(Added by Stats. 1996, c.
+
+1062 (A.B.1832), § 8. Amended by Stats.2000, c. 808 (A.B.
+1358), § 74, eff. Sept. 28, 2000; Stats.2018, c. 876 (A.B.2684),
+
+§ 35, eff. Jan. 1, 2019.)
+
+:
+
+Repeal
+
+For repeal of this section, see its terms.
+Research References
+Forms
+
+1 California Transactions Forms--Family Law § 4:105, Declaration
+
+of Paternity.
+2 California Transactions Forms--Family Law § 5:9, Use of Parenting Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+West’s California Code Forms, Family § 7570, Comment Overview-
+
+Establishment of Paternity by Voluntary Declaration.
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 21 (2018),
+In General.
+
+§ 7574.
+
+Voluntary declaration of parentage; form
+(a) The voluntary declaration of parentage shall be executed on a form developed by the Department of Child Support
+Services in consultation with the State Department of Public
+Health and groups addressing child support, child custody,
+
+* x *
+"(Added by Stats.2018, c. 876 (A.B.2684), § 34, eff.
+Jan. 1, 2019, operative Jan. 1, 2020. Amended by Stats.2019, c.
+115 (A.B.1817), § 83, eff. Jan. 1, 2020.)
+§ 7574.
+
+§ 7574
+
+OF PATERNITY
+
+assisted reproduction issues, and lesbian, gay, bisexual, and
+
+Voluntary declaration of paternity; form
+
+transgender rights.
+(b) The form described in subdivision (a) shall contain, at
+a minimum, all of the following:
+(1) The name and the signature of the woman who gave
+birth to the child.
+(2) The name and the signature of the person seeking to
+establish parentage.
+
+Section operative until Jan. 1, 2020. See,
+also, § 7574 operative Jan. 1, 2020.
+
+(a) The voluntary declaration of paternity shall be executed on a form developed by the Department of Child Support
+Services in consultation with the State Department of Health
+Services, the California Family Support Council, and child
+support advocacy groups.
+
+501
+
+§ 7574
+
+PARENT
+
+AND
+
+CHILD
+
+RELATIONSHIP
+limited circumstances and is barred
+effective date of the declaration.
+
+(3) The name of the child.
+(4) The date of birth of the child.
+(5) For a voluntary declaration of parentage signed pursuant to paragraph (1) of subdivision (a) of Section 7573, all of
+the following:
+(A) A statement by the woman who gave birth that * * *
+the woman is unmarried and understands the written materials described in Section 7572, that the person who is signing
+the voluntary declaration of parentage is the only possible
+genetic parent other than the woman who gave birth, that the
+woman who gave birth consents to the establishment of
+parentage by the genetic parent signing the voluntary declaration of parentage, and that the woman who gave birth
+understands that a challenge by a signatory to a valid
+declaration of parentage is permitted only under limited
+circumstances and is barred two years after the effective date
+of the declaration.
+(B) A statement by the * * * person signing the voluntary
+declaration of parentage that * * * the person has read and
+
+two years
+
+after the
+
+(7) The name and the signature of the person
+witnesses the signing of the declaration.
+
+who
+
+* * *
+(Added by Stats.2018, c. 876 (A.B.2684), $ 36, eff.
+Jan. 1, 2019, operative Jan. 1, 2020. Amended by Stats.2019, c.
+115 (A.B.1817), § 84, eff. Jan. 1, 2020.)
+Research References
+Forms
+
+1 California Transactions Forms--Family Law § 4:105, Declaration
+of Paternity.
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+West’s California Code Forms, Family § 7570, Comment OverviewEstablishment of Paternity by Voluntary Declaration.
+Treatises and Practice Aids
+
+understands the written materials described in Section 7572,
+
+10 Witkin, California Summary 10th Parent and Child § 21 (2018),
+In General.
+
+understands that by signing the voluntary declaration of
+parentage * * * the person is waiving * * * rights as
+described in the written materials, that * * * the person is
+the genetic parent of the child, that * * * the person
+consents to the establishment of parentage by signing the
+voluntary declaration of parentage, that * * * the person is
+assuming all the rights and responsibilities of a parent and
+
+§ 7575. Rescission of voluntary declaration
+factors; action to set aside
+
+of paternity;
+
+Section operative until Jan. 1, 2020. See,
+also, § 7575 operative Jan. 1, 2020.
+
+(a) Either parent may rescind the voluntary declaration of
+paternity by filing a rescission form with the Department of
+Child Support Services within 60 days of the date of execution
+of the declaration by the attesting father or attesting mother,
+whichever signature is later, unless a court order for custody,
+visitation, or child support has been entered in an action in
+which the signatory seeking to rescind was a party. The
+Department of Child Support Services shall develop a form
+to be used by parents to rescind the declaration of paternity
+and instruction on how to complete and file the rescission
+with the Department of Child Support Services. The form
+shall include a declaration under penalty of perjury completed by the person filing the rescission form that certifies that a
+copy of the rescission form was sent by any form of mail
+requiring a return receipt to the other person who signed the
+voluntary declaration of paternity. A copy of the return
+receipt shall be attached to the rescission form when filed
+with the Department of Child Support Services. The form
+and instructions shall be written in simple, easy to understand
+language and shall be made available at the local family
+support office and the office of local registrar of births and
+deaths. The department shall, upon written request, provide
+to a court or commissioner a copy of any rescission form filed
+with the department that is relevant to proceedings before
+the court or commissioner.
+
+wishes to be named on the child’s birth certificate, and that
+
+* * * the person understands that a challenge by a signatory
+to a valid declaration of parentage is permitted only under
+limited circumstances and is barred two years after the
+effective date of the declaration.
+(6) For a voluntary declaration of parentage signed pursuant to paragraph (2) of subdivision (a) of Section 7573, all of
+the following:
+(A) A statement by the woman who gave birth that * * *
+the woman has read and understands the written materials
+described in Section 7572, that the person who is signing the
+voluntary declaration of parentage is the intended parent of a
+child conceived. through assisted reproduction, that the
+woman who gave birth consents to the establishment of
+parentage by the other person signing the voluntary declaration of parentage, and that the woman who gave birth
+understands that a challenge by a signatory to a_ valid
+declaration of parentage is permitted only under limited
+circumstances and is barred two years after the effective date
+of the declaration.
+(B) A statement that the person seeking to establish
+parentage has read and understands the written materials
+described in Section 7572, understands that by signing the
+voluntary declaration of. parentage * * * the person is
+waiving * * * rights as described in the written materials,
+
+(b)(1) Notwithstanding Section 7573, if the court finds that
+the man who signed the voluntary declaration is not identified
+as a genetic parent of the child under Section 7555, the court
+may set aside the voluntary declaration of paternity unless the
+court determines that denial of the action to set aside the
+voluntary declaration of paternity is in the best interest of the
+child, after consideration of all of the following factors:
+
+that * * * the person is the intended parent of the child
+conceived through assisted reproduction, that * * * the
+person consents to the establishment of parentage by signing
+the voluntary declaration of parentage, that * * * the person
+Is assuming all the rights and responsibilities of a parent and
+wishes to be named on the child’s birth certificate, and that
+* * * the person understands that a challenge by a signatory
+
+to a valid declaration of parentage is permitted only under
+
+(A) The age of the child.
+
+502
+
+DETERMINATION
+
+(B) The length of time since the execution of the voluntary
+declaration of paternity by the man who signed the voluntary
+declaration.
+
+(3) Any order for custody, visitation, or child support shall
+remain in effect until the court determines that the voluntary
+declaration of paternity should be set aside, subject to the
+court’s power to modify the orders as otherwise provided by
+law.
+(4) Nothing in this section is intended to restrict a court
+from acting as a court of equity.
+(5) If the voluntary declaration of paternity is set aside
+pursuant to paragraph (1), the court shall order that the
+mother, child, and alleged father submit to genetic tests
+pursuant to Chapter 2 (commencing with Section 7550). If
+the court finds that the person who executed the voluntary
+declaration of paternity is not identified as the genetic parent
+of the child under Section 7555, the question of paternity
+shall be resolved accordingly. If the person who executed the
+declaration as the father of the child is not excluded as a
+possible father, the question of paternity shall be resolved as
+otherwise provided by law. If the person who executed the
+declaration of paternity is ultimately determined to be the
+father of the child, any child support that accrued under an
+order based upon the voluntary declaration of paternity shall
+remain due and owing.
+(6) The Judicial Council shall develop the forms and
+procedures necessary to effectuate this subdivision.
+(d) This section shall remain in effect only until January 1,
+
+(C) The nature, duration, and quality of any relationship
+between the man who signed the voluntary declaration and
+the child, including the duration and frequency of any time
+periods during which the child and the man who signed the
+voluntary declaration resided in the same household or
+enjoyed a parent-child relationship.
+(D) The request of the man who signed the voluntary
+declaration that the parent-child relationship continue.
+
+(E) Notice by the biological father of the child that he
+does not oppose preservation of the relationship between the
+man who signed the voluntary declaration and the child.
+(F) The benefit or detriment to the child in establishing
+the biological parentage of the child.
+
+(G) Whether the conduct of the man who signed the
+voluntary declaration has impaired the ability to ascertain the
+identity of, or get support from, the biological father.
+(H) Additional factors deemed by the court to be relevant
+to its determination of the best interest of the child.
+(2) If the court denies the action, the court shall state on
+the record the basis for the denial of the action and any
+supporting facts.
+
+2020, and as of that date is repealed.
+
+or
+
+‘in an
+
+action
+
+to
+
+determine
+
+the
+
+existence
+
+(Added by Stats. 1996, c.
+
+1062 (A.B.1832), § 10. Amended by’ Stats.1997, c. 599
+(A.B.573), § 43; Stats.1998, c. 485 (A.B.2803), § 69; Stats.
+1998, c. 858 (A.B.2169), § 6; Stats.1999, c. 83 (S.B.966), § 54;
+Stats.1999, c. 652 (S.B.240), § 11; Stats.1999, c. 653 (A.B.
+380), § 10.5; Stats.2000, c. 808 (A.B.1358), § 75, eff. Sept. 28,
+2000; Stats.2002, c. 927 (A.B.3032), § 3.3; Stats.2004, c. 849
+(A.B.252), § 1; Stats.2018, c. 876 (A.B.2684), § 37, eff. Jan. 1,
+2019.)
+
+(3)(A) The notice of motion for genetic tests under this
+section may be filed not later than two years from the date of
+the child’s birth by a local child support agency, the mother,
+the man who signed the voluntary declaration as the child’s
+father,
+
+§ 7575
+
+OF PATERNITY
+
+or
+
+nonexistence of the father and child relationship pursuant to
+Section 7630 or in any action to establish an order for child
+custody, visitation, or child support based upon the voluntary
+declaration of paternity.
+
+Repeal
+
+(B) The local child support agency’s authority under this
+subdivision is limited to those circumstances where there is a
+conflict between a voluntary acknowledgment of paternity
+and a judgment of paternity or a conflict between two or
+more voluntary acknowledgments of paternity.
+(4) The notice of motion for genetic tests pursuant to this
+section shall be supported by a declaration under oath
+submitted by the moving party stating the factual basis for
+putting the issue of paternity before the court.
+(c)(1) Nothing in this chapter shall be construed to
+prejudice or bar the rights of either parent to file an action or
+motion to set aside the voluntary declaration of paternity on
+any of the grounds described in, and within the time limits
+specified in, Section 473 of the Code of Civil Procedure. If
+the action or motion to set aside a judgment is required to be
+filed within a specified time period under Section 473 of the
+Code of Civil Procedure, the period within which the action
+or motion to set aside the voluntary declaration of paternity
+must be filed shall commence on the date that the court
+makes an initial order for custody, visitation, or child support
+based upon a voluntary declaration of paternity.
+(2) The parent or local child support agency seeking to set
+aside the voluntary declaration of paternity shall have the
+burden of proof.
+
+For repeal of this section, see its terms.
+Commentary
+
+In re Jovanni B., 221 Cal.App.4th 1482, 165 Cal.Rptr.3d 430 (2013),
+held that the juvenile court erroneously dismissed a man who had
+signed a voluntary declaration of paternity from dependency proceedings, without determining whether the man was the child’s
+presumed father under section 7611(d). However, the California
+Supreme Court granted review, 317 P.3d 1182 (2014), superseding In re
+Brianna M., 163 Cal.Rptr.3d 665 (2013), where the juvenile court
+excused from a dependency proceeding a man who signed.a voluntary
+declaration of paternity, on the basis of DNA tests showing that he
+was not the father, without considering whether he was a presumed
+father under section (d). The California Supreme Court later
+dismissed review for failure of petitioner to file an opening brief, 330
+
+P.3d 327 (2014).
+JR. v. D.P., 212 Cal_App.4th 374, 150 Cal. Rptr.3d 882 (2012), review
+denied, affirmed a trial court decision resolving conflicting section
+7611(d) presumptions of paternity in favor of a Kelsey S. father,
+rather than the mother’s husband who had been her boyfriend at the
+time of the child’s conception and birth, lived with the child and
+mother, and raised the child as his own. The court reasoned that
+
+resolving the conflict in favor of the Kelsey S. biological father would
+serve the child’s best interests, because if the presumption were
+resolved in favor of the mother’s husband, the mother would have
+prevented contact between the biological father and the child. In/.R.,
+
+the court also affirmed the trial court’s rescission of the husband’s
+
+503
+
+§ 7575
+
+PARENT
+
+AND
+
+CHILD
+
+RELATIONSHIP
+
+voluntary declaration of paternity on the ground that the mother
+committed perjury in attesting that no other man could be the father
+of her child, when she already knew that the Kelsey S. father was the
+child’s biological father.
+
+1 California Transactions Forms--Family Law § 4:105, Declaration
+of Paternity.
+2 California Transactions Forms--Family Law § 5:4, Rights of De
+Facto Parents.
+
+After a trial court granted a married mother’s motion, under this
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+
+section, to set aside a declaration of paternity, the trial court erred in
+ordering genetic testing in an action brought by the putative nonmarital father of the child in order to establish the putative father’s
+paternity of the child because, under section 7630, the putative father
+had no standing to bring a paternity action once his declaration of
+paternity had been set aside. H.S. v. Superior Court, 183 Cal.App.4th
+1502, 108 Cal.Rptr.3d 723 (2010).
+In re J.L., 159 Cal.App.4th 1010, 72 Cal.Rptr.3d 27 (2008), review
+denied, held that a biological father had standing in a dependency
+proceeding to challenge another man’s voluntary declaration of
+paternity under subsection (b)(1) and (b)(3)(A) by virtue of each of
+the following: (1) his standing to bring a section 7630(b) proceeding
+to declare his paternity of a child; (2) his participation in a
+proceeding to establish child custody based on the voluntary declaration; and (3) his status as a Kelsey S. constitutionally presumed father,
+that is, a father who accepted his parental obligations as soon as
+reasonably possible. But cf. In re ChristopherM, 113 Cal.App.4th 155,
+6 Cal.Rptr.3d 197. (2003) (limiting the parties who may make a
+(b)(3)(a) motion).
+In re William K., 161 Cal.App.4th 1, 73 Cal.Rptr.3d 737 (2008),
+review denied, held that the juvenile court properly declined, in a
+dependency proceeding, to grant the motion of a sex offender, who
+was a biological father but not a presumed or Kelsey S. father, to set
+aside a declaration of paternity executed by another man who had a
+parent-child relationship with the child but was not the child’s
+biological father. The court invoked the subsection (b)(1) ground
+that setting aside the declaration of paternity would not be in the best
+interest of the child.
+Applying subsection (b)(3)(A) and section 7646(a)(2), County of
+Orange v. Superior Court, 155 Cal.App.4th 1253, 66 Cal.Rptr.3d 689
+(2007), concluded that a motion to set aside a paternity judgment
+based on a voluntary declaration of paternity is untimely when it is
+filed more than two years after the child’s birth.
+Gabriel P. v. Suedi D., 141 Cal.App.4th 850, 46 Cal.Rptr.3d 437
+
+Partners Are Biological Parents.
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+2 California Transactions Forms--Family Law § 6:8, Consent
+
+2 California Transactions Forms--Family Law § 6:11, Initiating
+Proceeding Under Uniform Parentage Act [Fam C §§ 7600 to
+7730].
+2 California Transactions Forms--Family Law § 6:40, Structuring the
+Adoption.
+2 California Transactions Forms--Family Law § 6:47, Matters to
+Consider in Drafting Petition for Independent Adoption of
+Unmarried Minor.
+2 California
+
+Forms--Family
+
+Law
+
+§ 6:72, Petition
+
+to
+
+Application for Order to Terminate Parental Rights of Alleged
+Father Who Waived Notice or Denied Paternity.
+
+2 California Transactions Forms--Family Law § 7:38, Parentage and
+Birth Certificate.
+2 California Transactions Forms--Family Law § 7:86, Overview.
+West’s California Code Forms, Family § 7570, Comment OverviewEstablishment of Paternity by Voluntary Declaration.
+West’s California Code Forms, Family § 7575 Form 2, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity.
+West’s California Code Forms, Family § 7575 Form 3, Responsive
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity.
+
+(2006), held that where there were two presumptive fathers, one a
+
+West’s California Judicial Council Forms FL-272, Notice of Motion
+
+to Set Aside
+
+mother, the trial court erred in setting aside the latter’s voluntary
+declaration of paternity without joining him as a necessary party in
+the biological father’s paternity action, assessing his relationship to
+the child, and, under Section 7612, weighing the presumptions
+supporting the presumed father status of each of the two men. The
+court reasoned that this result is also required by subsection (b)(1) of
+this section, which provides that a court may set aside a voluntary
+declaration of paternity unless it determines that declining to do so
+would serve the best interests of the child.
+
+Judgment of Paternity.
+
+West’s California Judicial Council Forms FL-274, Information Sheet
+
+for Completing Notice of Motion to Set Aside Judgment of
+Paternity.
+West’s California Judicial Council Forms FL-276, Response to
+Notice of Motion to Set Aside Judgment of Paternity.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-278,
+
+Order
+
+After
+
+Hearing on Motion to Set Aside Judgment of Paternity.
+West’s California Judicial Council Forms FL-280, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity.
+West’s California Judicial Council Forms FL-281, Information Sheet
+for Completing Request for Hearing and Application to Set
+Aside Voluntary Declaration of Paternity.
+West’s California Judicial Council Forms FL-285, Responsive Declaration to Application to Set Aside Voluntary Declaration of
+Paternity.
+
+Research References
+Forms
+
+1 California Transactions Forms--Family Law § 3:126, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity [Form FI-280].
+1 California Transactions Forms--Family Law § 3:126.50, Informa-
+
+West’s
+
+tion Sheet for Completing Request for Hearing and Application
+to Set Aside Voluntary Declaration of Paternity [Form FI-281].
+Forms--Family
+
+Transactions
+
+Terminate Parental Rights of Alleged Father.
+2 California Transactions Forms--Family Law § 6:74, Petition to
+Terminate Parental Rights of Alleged Father Served With
+Notice of Alleged Paternity Without Timely Response.
+2 California Transactions Forms--Family Law § 6:75, Order Terminating Parental Rights of Alleged Father Served With Notice of
+Alleged Paternity Without Timely Response.
+2 California Transactions Forms--Family Law § 6:76, Ex Parte
+
+biological father and one a father by virtue of his voluntary
+declaration of paternity and subsequent marriage to the child’s
+
+1 California Transactions
+
+for
+
+Adoption of Unmarried Minor.
+
+California
+
+Judicial
+
+Hearing on Motion
+Paternity.
+
+Law § 3:127, Responsive
+
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity [Form FI-285].
+1 California Transactions Forms--Family Law § 3:128, Order After
+Hearing on Motion to Set Aside Voluntary Declaration of
+Paternity [Form Fl-290].
+
+Council
+
+Forms
+
+FL-290,
+
+Order
+
+After
+
+to Set Aside Voluntary Declaration
+
+of
+
+Treatises and Practice Aids
+
+16 Witkin, California Summary 11th Juvenile Court Law § 277
+(2018), Standing to Challenge Voluntary Declaration of Paterni-
+
+ty.
+
+504
+
+DETERMINATION
+
+§ 7575
+
+OF PATERNITY
+
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+
+2 California Transactions Forms--Family Law § 5:4, Rights of De
+Facto Parents.
+
+10 Witkin, California Summary
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+10th Parent and Child § 24 (2018),
+
+Rescinding Declaration.
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+
+10 Witkin, California Summary 10th Parent and Child § 25 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 26 (2018),
+Genetic Testing.
+10 Witkin, California Summary 10th Parent and Child § 27 (2018),
+Action to Set Aside Declaration.
+10 Witkin, California Summary 10th Parent and Child § 61 (2018),
+Where Mother Marries Other Than Biological Father.
+10 Witkin, California Summary
+
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+2 California Transactions Forms--Family Law § 6:8, Consent
+2 California
+
+10th Parent and Child § 73 (2018),
+
+2 California
+
+§ 7575. Rescission of voluntary declaration of parentage;
+form; limitations
+Section operative Jan. 1, 2020. See, also,
+§$ 7575 operative until Jan. 1, 2020.
+
+Forms--Family
+
+Law
+
+§ 6:11,
+
+Transactions
+
+Forms--Family
+
+Law
+
+Initiating
+
+§ 6:47, Matters
+
+Consider in Drafting Petition for Independent
+Unmarried Minor.
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+to
+
+Adoption
+
+of
+
+§ 6:72, Petition
+
+to
+
+§ 6:74, Petition
+
+to
+
+Terminate Parental Rights of Alleged Father.
+2 California
+
+(a) Either parent may rescind the voluntary declaration of
+parentage by filing a rescission form with the Department of
+Child Support Services within 60 days of the date of execution
+of the declaration by the attesting parents, whichever signa-
+
+Transactions
+
+Forms--Family
+
+Law
+
+Terminate Parental Rights of Alleged Father Served
+Notice of Alleged Paternity Without Timely Response.
+
+With
+
+2 California Transactions Forms--Family Law § 6:75, Order Termi-
+
+nating Parental Rights of Alleged Father Served With Notice of
+Alleged Paternity Without Timely Response.
+
+ture is later, unless a court order for custody, visitation, or
+
+child support has been entered in an action in which the
+signatory seeking to rescind was a party. The Department of
+Child Support Services shall develop a form to be used by
+parents to rescind the declaration of parentage and instructions on how to complete and file the rescission with the
+Department of Child Support Services.
+The form shall
+include a declaration under penalty of perjury completed by
+the person filing the rescission form that certifies that a copy
+of the rescission form was sent by any form of mail requiring
+a return receipt to the other person who signed the voluntary
+declaration of parentage. A copy of the return receipt shall
+be attached to the rescission form when filed with the
+Department of Child Support Services.
+The form and
+instructions shall be written in simple, easy to understand
+language and shall be made available at the local family
+support office and the office of local registrar of births and
+deaths. The department shall, upon written request, provide
+to a court or commissioner a copy of any rescission form filed
+with the department that is relevant to proceedings before
+the court or commissioner.
+(b) This section shall become operative on January 1,
+
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 6:76,
+
+Ex
+
+Parte
+
+Application for Order to Terminate Parental Rights of Alleged
+Father Who Waived Notice or Denied Paternity.
+2 California Transactions Forms--Family Law § 7:38, Parentage and
+Birth Certificate.
+2 California Transactions Forms--Family Law § 7:86, Overview.
+West’s California Code Forms, Family § 7570, Comment Overview-
+
+Establishment of Paternity by Voluntary Declaration.
+West’s California Code Forms, Family § 7575 Form 2, Request for
+
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity.
+West’s California Code Forms, Family § 7575 Form 3, Responsive
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity.
+West’s California Judicial Council Forms FL-272, Notice of Motion
+
+to Set Aside Judgment of Paternity.
+West’s California Judicial Council Forms FL-274, Information Sheet
+
+for Completing Notice of Motion to Set Aside Judgment of
+Paternity.
+West’s California Judicial Council Forms FL-276, Response to
+Notice of Motion to Set Aside Judgment of Paternity.
+West’s
+
+California
+
+Judicial
+
+Council
+
+Forms
+
+FL-278,
+
+Order
+
+After
+
+Hearing on Motion to Set Aside Judgment of Paternity.
+West’s California Judicial Council Forms FL-280, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity.
+
+(Added by Stats.2018, c. 876 (A.B.2684), § 38, eff: Jan.
+
+_ 1, 2019, operative Jan. 1, 2020.)
+
+West’s California Judicial Council Forms FL-281, Information Sheet
+
+Research References
+
+for Completing Request for Hearing and Application to Set
+Aside Voluntary Declaration of Paternity.
+West’s California Judicial Council Forms FL-285, Responsive Declaration to Application to Set Aside Voluntary Declaration of
+Paternity.
+West’s California Judicial Council Forms FL-290, Order After
+Hearing on Motion to Set Aside Voluntary Declaration of
+Paternity.
+
+Forms
+
+1 California Transactions Forms--Family Law § 3:126, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity [Form FI-280].
+1 California Transactions Forms--Family
+
+Transactions
+
+Proceeding Under Uniform Parentage Act [Fam C §§ 7600 to
+7730].
+2 California Transactions Forms--Family Law § 6:40, Structuring the
+Adoption.
+
+In General.
+
+2020.
+
+for
+
+Adoption of Unmarried Minor.
+
+Law § 3:126.50, Informa-
+
+tion Sheet for Completing Request for Hearing and Application
+to Set Aside Voluntary Declaration of Paternity [Form FI-281].
+1 California Transactions Forms--Family Law § 3:127, Responsive
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity [Form FI-285].
+1 California Transactions Forms--Family Law § 3:128, Order After
+Hearing on Motion to Set Aside Voluntary Declaration of
+Paternity [Form FI-290].
+1 California Transactions Forms--Family Law § 4:105, Declaration
+of Paternity.
+
+Treatises and Practice Aids
+16 Witkin, California Summary 11th Juvenile Court Law § 277
+(2018), Standing to Challenge Voluntary Declaration of Paterni-
+
+ty.
+
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+
+505
+
+§ 7575
+
+PARENT
+
+AND
+
+CHILD
+
+Commentary
+
+10 Witkin, California Summary 10th Parent and Child § 24 (2018),
+Rescinding Declaration.
+10 Witkin, California Summary 10th Parent and Child § 25 (2018),
+In General.
+10 Witkin, California Summary
+
+Note that a voluntary declaration of paternity not only entitles the
+declarer to presumed father status under section this section, but also
+has the force and effect of a judgment of paternity under section
+
+10th Parent and Child § 26 (2018),
+
+7573. Additionally, see Commentary to sections 7573, 7611, and 7612.
+
+Genetic Testing.
+10 Witkin, California Summary 10th Parent and Child § 27 (2018),
+Action to Set Aside Declaration.
+10 Witkin, California Summary 10th Parent and Child § 61 (2018),
+Where Mother Marries Other Than Biological Father.
+10 Witkin, California Summary
+
+RELATIONSHIP
+
+Research References
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+
+10th Parent and Child § 73 (2018),
+
+10 Witkin, California Summary 10th Parent and Child § 57 (2018),
+
+In General.
+
+In General.
+
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+
+§ 7576. Voluntary declaration of paternity; presumption;
+admissibility of evidence; rebuttal; construction with
+other presumptions of paternity
+Section operative until Jan. 1, 2020.
+
+In General.
+
+§ 7576. Challenging
+limitations
+
+See, also, § 7576
+
+voluntary
+
+declaration
+
+of parentage;
+
+operative Jan. 1, 2020, and § 7581 operative Jan.
+1, 2020.
+
+Section operative Jan. 1, 2020. See, also,
+§ 7576 operative until Jan. 1, 2020.
+
+The following provisions shall apply for voluntary declarations signed on or before December 31, 1996.
+
+(a) After the period for rescission provided in Section
+7575 expires, but not later than two years after the effective
+date provided in subdivision (c) of Section 7573 of a
+voluntary declaration of parentage, a signatory of the voluntary declaration of parentage may commence a proceeding to
+challenge the declaration on the basis of fraud, duress, or
+material mistake of fact.
+(b) The limitations period provided in subdivision (a) shall
+not apply if the voluntary declaration of parentage is void
+under Section 7573.5.
+(c) This section shall become operative on January 1, 2020.
+(Added by Stats.2018, c. 876 (A.B.2684), § 40, eff. Jan. 1, 2019,
+
+(a) Except as provided in subdivision (d), the child of a
+woman and a man executing a declaration of paternity under
+this chapter is conclusively presumed to be the man’s child.
+The presumption under this section has the same force and
+effect as the presumption under Section 7540.
+(b) A voluntary declaration of paternity shall be recognized as the basis for the establishment of an order for child
+custody or support.
+(c) In any action to rebut the presumption created by this
+section, a voluntary declaration of paternity shall be admissible as evidence to determine paternity of the child named in
+the voluntary declaration of paternity.
+
+operative Jan. 1, 2020.)
+Research References
+Treatises and Practice Aids
+
+(d) The presumption established by this chapter may be
+rebutted by any person by requesting blood or genetic tests
+pursuant to Chapter 2 (commencing with Section 7550). The
+notice of motion for blood or genetic tests pursuant to this
+section shall be supported by a declaration under oath
+submitted by the moving party stating the factual basis for
+placing the issue of paternity before the court. The notice of
+motion for blood or genetic tests shall be made within three
+years from the date of execution of the declaration by the
+attesting father, or by the attesting mother, whichever signature is later. The two-year statute of limitations specified in
+subdivision (b) of Section 7541 is inapplicable for purposes of
+this section.
+
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+
+10 Witkin, California Summary 10th Parent and Child § 57 (2018),
+In General.
+
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+In General.
+
+§ 7577. Voluntary declaration of paternity; minor parents;
+validity; rescission; presumption; admissibility
+Section operative until Jan. 1, 2020.
+See, also,
+$ 7577 operative Jan. 1, 2020, and § 7580 operative
+
+Jan. 1, 2020.
+(a) Notwithstanding Section 7573, a voluntary declaration
+of paternity that is signed by a minor parent or minor parents
+shall not establish paternity until 60 days after both parents
+have reached the age of 18 years or are emancipated,
+whichever first occurs.
+
+(e) A presumption under this chapter shall override all
+Statutory
+
+presumptions
+
+of paternity
+
+except
+
+a presumption
+
+arising under Section 7540 or 7555, or as provided in Section
+7612.
+(f) This section shall remain in effect only until January 1,
+
+2020, and as of that date is repealed.
+1062 (A.B.1832), § 12. Amended
+
+(b) A parent who signs a voluntary declaration of paternity
+when he or she is a minor may rescind the voluntary
+declaration of paternity at any time up to 60 days after the
+parent reaches the age of 18 or becomes emancipated
+whichever first occurs. +
+(c) A voluntary declaration of paternity signed by a minor
+creates a rebuttable presumption of paternity until the date
+that it establishes paternity as specified in subdivision (a).
+
+(Added by Stats.1996, c.
+by Stats.2011, c. 185
+
+ae dues § 2; Stats.2018, c. 876 (A.B.2684), § 39, eff. Jan.
+, 2019.)
+Repeal
+
+For repeal of this section, see its terms.
+
+506
+
+DETERMINATION
+
+OF PATERNITY
+
+§ 7577
+
+(d) A voluntary declaration of paternity signed by a minor
+shall be admissible as evidence in any civil action to establish
+paternity of the minor named in the voluntary declaration.
+
+(g) The court may grant the petition to set aside the
+voluntary declaration of parentage only if the court finds that
+setting aside the voluntary declaration of parentage is in the
+
+(e) A voluntary declaration of paternity that is signed by a
+minor shall not be admissible as evidence in a criminal
+prosecution for violation of Section 261.5 of the Penal Code.
+
+best interest of the child, based on consideration of all of the
+
+following factors:
+(1) The age of the child.
+(2) The length of time since the effective date of the
+voluntary declaration of parentage.
+(3) The nature, duration, and quality of any relationship
+between the person who signed the voluntary declaration of
+parentage and the child, including the duration and frequency
+of any time periods during which the child and the person
+resided in the same household or enjoyed a parent and child
+relationship.
+(4) The request of the person who signed the voluntary
+declaration of parentage that the parent and child relationship continue.
+(5) If the person challenges a voluntary declaration of
+parentage signed pursuant to paragraph (1) of subdivision (a)
+of Section 7573, the court shall additionally consider all of the
+following:
+(A) Notice by the genetic parent of the child that the
+genetic parent does not oppose preservation of the relationship between the person who signed the declaration of
+parentage and the child.
+(B) Whether any conduct of the person who signed the
+voluntary declaration has impaired the ability to ascertain the
+identity of, or obtain support from, the genetic parent.
+(6) Additional factors deemed by the court to be relevant
+to its determination of the best interest of the child.
+(h) If the voluntary declaration of parentage is challenged
+by a person who is presumed to be a parent under subdivision
+(d) of Section 7611, the court’s ruling on the petition to set
+aside the voluntary declaration of parentage shall, in addition
+to the factors under subdivision (g), also take into account the
+nature, duration, and quality of the relationship between the
+petitioning party and the child and the benefit or detriment to
+the child of continuing that relationship.
+(i) If the court denies the petition to set aside the
+voluntary declaration of parentage, the court shall state on
+the record the basis for the denial of the action and any
+supporting facts.
+(j)(1) If the court grants the petition to set aside the
+voluntary declaration of parentage, the court shall adjudicate
+parentage pursuant to Section 7612.
+(2) An order for custody, visitation, or child support shall
+remain in effect until the court determines that the voluntary
+declaration of parentage should be set aside, subject to the
+court’s power to modify the orders as otherwise provided by
+law.
+
+(f) This section shall remain in effect only until January 1,
+2020, and as of that date is repealed. (Added by Stats. 1996, c.
+1062. (A.B.1832), § 13. Amended by Stats.2018, c. 876
+
+(A.B.2684), § 41, eff: Jan. 1, 2019.)
+Repeal
+
+For repeal of this section, see its terms.
+Research References
+Forms
+
+1 California Transactions
+
+Forms--Family
+
+Law § 4:105, Declaration
+
+of Paternity.
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+In General.
+
+§ 7577. Rules applying to challenge of valid voluntary
+declaration of parentage brought by person not signatory to declaration
+
+The following rules apply in an action to challenge a valid
+voluntary declaration of parentage brought by a person who
+is not a signatory to the declaration. This section does not
+apply to a voluntary declaration of parentage that is void
+under Section 7573.5.
+(a) A person has standing under this section if * * * the
+person is an alleged genetic parent who is not a donor under
+Section 7613, is a presumed parent under Section 7611, or
+any person who has standing under Section 7630.
+(b) The petition challenging a voluntary declaration of
+parentage pursuant to this section shall be supported by a
+declaration under oath alleging specific facts to support
+standing under this section.
+(c) If the court holds a hearing to determine standing, the
+hearing shall be held on an expedited basis. If the person
+challenging the voluntary declaration of parentage is an
+alleged genetic parent, genetic testing shall be ordered on an
+expedited basis.
+
+(d) The action shall be filed not later than two years after
+the effective date of the declaration. This limitations period
+does not apply if the voluntary declaration of parentage is
+void under Section 7573.5.
+
+(e) Notice shall be provided to the signatories of the
+declaration and to any person entitled to notice under
+Section 7635. A person who asserts a claim to parentage
+under this division shall be joined in the action.
+
+(k) * * * This section * * * does not prejudice or bar the
+rights of a person who is not a signatory and has standing
+under subdivision (a) to file an action or motion to set aside
+the voluntary declaration of parentage on any of the grounds
+
+(f) With respect to whether the voluntary declaration of
+parentage should be set aside, the person petitioning to set
+aside the voluntary declaration of parentage shall have the
+burden of proof by a preponderance of the evidence.
+
+described in, and within the time limits specified in, Section
+
+473 of the Code of Civil Procedure. If the action or motion
+to set aside a judgment is required to be filed within a
+specified time period under Section 473 of the Code of Civil
+
+507
+
+§ 7577
+
+PARENT
+
+AND
+
+CHILD
+
+both signatories. have reached 18 years
+emancipated, whichever first occurs.
+
+Procedure, the period within which the action or motion to
+set aside the voluntary declaration of parentage must be filed
+shall commence on the date that the court makes an initial
+order for custody, visitation, or child support based upon a
+voluntary declaration of parentage.
+
+of age
+
+or
+
+are
+
+(b) A person who signs a voluntary declaration of parentage * * * asa minor may rescind the voluntary declaration of
+parentage at any time up to 60 days after the signatory
+reaches 18 years of age or becomes emancipated, whichever
+first occurs.
+
+(l) * * * This section * * * does not restrict a court from
+acting as a court of equity.
+
+(m) The Judicial Council shall develop the forms
+procedures necessary to effectuate this section.
+
+RELATIONSHIP
+
+(c) A voluntary declaration of parentage signed by a minor
+creates a rebuttable presumption for or against parentage
+until the date that it establishes parentage as specified in
+subdivision (a).
+
+and
+
+* * * (Added by Stats.2018, c. 876 (A.B.2684), § 42, eff.
+Jan. 1, 2019, operative Jan. 1, 2020. Amended by Stats.2019, c.
+115 (A.B.1817), § 85, eff. Jan. 1, 2020.)
+Research References
+
+(d) A voluntary declaration of parentage signed by a minor
+shall be admissible as evidence in a civil action to establish
+parentage of the minor named in the voluntary declaration.
+
+1 California Transactions Forms--Family Law § 4:105, Declaration
+of Paternity.
+
+(e) A voluntary declaration of parentage that is signed by a
+minor shall not be admissible as evidence in a criminal
+prosecution for violation of Section 261.5 of the Penal Code.
+
+Forms
+
+* * *
+(Added by Stats.2018, c. 876 (A.B.2684), § 44, eff.
+Jan. 1, 2019, operative Jan. 1, 2020. Amended by Stats.2019, c.
+115 (A.B.1817), § 86, eff: Jan. 1, 2020.)
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary
+Effect of Declaration.
+
+10th Parent and Child § 23 (2018),
+
+10 Witkin, California Summary 10th Parent and Child § 521 (2018),
+
+§ 7581. Voluntary declaration of paternity; presumption;
+admissibility of evidence; rebuttal; construction with
+other presumptions of paternity
+
+In General.
+
+§ 7578. Parties to proceeding to challenge declaration;
+nonsuspension of legal responsibilities during the pendency of proceeding; new birth certificate
+
+Section operative Jan, 1, 2020.
+
+See, also,
+
+§ 7576 operative until Jan. 1, 2020.
+
+(a) Every signatory to a voluntary declaration of parentage
+shall be made a party to a proceeding to challenge the
+declaration.
+
+The following provisions shall apply for voluntary declarations signed on or before December 31, 1996.
+
+(a) Except as provided in subdivision (d), the child of a
+woman and a man executing a declaration of paternity under
+this chapter is conclusively presumed to be the man’s child.
+The presumption under this section has the same force and
+effect as the presumption under Section 7540.
+
+(b) By signing a voluntary declaration, a signatory submits
+to personal jurisdiction in this state in a proceeding to
+challenge the declaration, effective on the filing of the
+declaration with the Department of Child Support Services.
+
+(c) The court shall not suspend the legal responsibilities
+arising from a voluntary declaration of parentage, including
+the duty to pay child support, during the pendency of a
+proceeding to challenge the voluntary declaration of parentage, unless the party challenging the declaration shows good
+cause.
+
+(b) A voluntary declaration of paternity shall be recognized as the basis for the establishment of an order for child
+custody or support.
+(c) In an action to rebut the presumption created by this
+section, a voluntary declaration of paternity shall be admissible as evidence to determine paternity of the child named in
+the voluntary declaration of paternity.
+
+(d) A party challenging a voluntary declaration of parentage has the burden of proof by a preponderance of the
+evidence.
+
+(d) The presumption established by this section may be
+rebutted by any person by requesting genetic testing pursuant
+to Chapter 2 (commencing with Section 7550). The notice of
+motion for genetic testing pursuant to this section shall be
+supported by a declaration under oath submitted by the
+moving party stating the factual basis for placing the issue of
+paternity before the court. The notice of motion for genetic
+testing shall be made within three years from the date of
+execution of the declaration by the attesting father, or by the
+attesting mother, whichever signature is later. The two-year
+statute of limitations specified in subdivision (b) of Section
+7541 is inapplicable for purposes of this section.
+
+(e) If the judgment or order of the court is at variance with
+the child’s birth certificate, the court shall order that a new
+
+birth certificate be issued as prescribed in Article 2 (commencing with Section 102725) of Chapter 5 of Part 1 of
+Division 102 of the Health and Safety Code.
+(f) This section shall become operative on January 1, 2020,
+(Added by Stats.2018, c. 876 (A.B.2684), § 43, eff: Jan. 1, 2019,
+operative Jan. 1, 2020.)
+§ 7580. Voluntary declaration of parentage; minor parents; validity; rescission; presumption; admissibility
+
+(e) A presumption under this section shall override all
+statutory presumptions of paternity, except a presumption
+arising under Section 7540, a claim made pursuant to Section
+
+(a) Notwithstanding subdivision (c) of Section 7573, a
+voluntary declaration of parentage that is signed by a minor
+parent * * * does not establish parentage until 60 days after
+
+7555, or as provided in Section 7612.
+
+508
+
+UNIFORM
+
+PARENTAGE
+
+(f) This section shall become operative on January 1, 2020.
+(Added by Stats.2018, c. 876 (A.B.2684), § 45, eff: Jan. 1, 2019,
+
+received adequate notice and there is no basis for personal jurisdiction. It is immaterial whether the action was filed primarily to obtain
+federal immigration law protection from abuse, neglect, or abandon-
+
+operative Jan. 1, 2020.)
+
+ment.
+Research References
+
+Part 3
+
+UNIFORM
+
+Forms
+
+PARENTAGE
+
+1 California Transactions Forms--Estate Planning § 6:11, Existence
+
+ACT
+
+of Relationship.
+
+Chapter
+Section
+Pep AeCMeral Provisions «iifscid ecco o see eh preparers 7600
+2. Establishing Parent and Child Relationship....... 7610
+
+3.
+4.
+5.
+
+Jurisdiction and Venue ........................ 7620
+Determination of Parent and Child Relationshipart ie bsrantesoadesenit
+£1a0 -matisce bese ate! toe 7630
+Termination of Parental Rights in Adoption
+
+6.
+
+Proceedings: 1:3/.6,. aids th) fagemearitat:
+od Sloe 26% 7660
+Protective and Restraining Orders............... 7700
+
+CHAPTER
+
+1.
+
+GENERAL
+
+1 California Transactions Forms--Estate Planning § 6:52, Matters to
+
+Consider in Drafting Class Gifts.
+1 California Transactions Forms--Family Law § 3:4, Subject Matter
+
+Jurisdiction for Custody Determinations.
+2 California
+
+2 California
+
+2 California
+
+§ 5:31,
+
+Parenting
+
+Transactions
+
+Forms--Family
+
+Law § 6:10, Initiating
+Overview;
+
+2 California Transactions Forms--Family Law § 7:28, Overview.
+
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 7:46,
+
+In
+
+Vitro
+
+Surrogacy Agreement Between Intended Parents and Surrogate
+
+Couple; Intended Parents Are Genetic Parents.
+2 California
+
+§ 7600. Short title
+This part may be cited as the Uniform Parentage Act.
+(Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1, 1994.)
+
+Enactment
+
+Law
+
+2 California Transactions Forms--Family Law § 7:45, Artificial
+Insemination Surrogacy Agreement Between Intended Father
+and Surrogate Couple.
+
+or
+
+“Assisted reproduction” and “assisted reproduction
+agreement” defined.
+
+Law Revision Commission
+
+Forms--Family
+
+Gestational Surrogacy Agreements.
+2 California Transactions Forms--Family Law § 7:7, Gestational
+Surrogacy Agreements Using Donated Egg and Sperm.
+
+nation of application.
+
+7606.
+
+Transactions
+
+Proceeding Under Fam. Code, §§ 7800 et seq.
+2 California Transactions Forms--Family Law § 7:6,
+
+_Pendente lite relief of custody or visitation order on
+finding of parent-child relationship.
+7604.5. Pregnancy, childbirth and genetic testing bills as
+evidence.
+7605. — Attorney’s fees and costs; court findings; standard
+temporary orders; time for determi-
+
+and
+
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+
+7604.
+
+modification;
+
+§ 5:1, Nature
+
+Agreement Providing for Joint Legal and Sole Physical Custody
+Where Both Partners Are Biological Parents of Child.
+2 California Transactions Forms--Family Law § 6:2, Governing Law.
+
+Application of § 3140.
+
+augmentation
+
+Law
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+2 California Transactions Forms--Family Law § 5:30, Parenting
+Agreement Providing for Joint Legal and Joint Physical Custody
+Where Both Partners Are Biological Parents of Child.
+
+Section
+
+fees and costs;
+
+Forms--Family
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+PROVISIONS
+
+for awarding
+
+Transactions
+
+Purpose of Parenting Agreement.
+
+7600. . Short title.
+7601. . “Natural parent” defined; “parent and child relationship” defined; finding of parent and child relationship with more than two parents; interpretation of
+reference to two parents.
+7602.
+Application regardless of marital status of parents.
+7603.
+
+§ 7600
+
+ACT
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 7:47,
+
+In
+
+Vitro
+
+Fertilization Surrogacy Agreement Between Intended Mother
+and Surrogate Using Donated Genetic Material.
+West’s California Code Forms, Family § 6200, Comment OverviewPrevention of Domestic Violence.
+
+Comments
+
+West’s California Code Forms, Family § 6340, Comment Overview-
+
+Issuance of Orders After Notice and Hearing.
+
+[Revised Comment]
+
+West’s California Judicial Council Forms
+
+Section 7600 continues former Civil Code Section 7000 without
+substantive change. This section is similar to Section 27 of the
+Uniform Parentage Act (1973). See also Sections 3 (construction of
+provisions drawn from uniform acts), 13 (severability of provisions).
+[23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+DV-180, Agreement
+
+Judgment of Parentage.
+West’s California Judicial Council Forms FL-220,
+Petition to Establish Parental Relationship.
+West’s California Judicial Council
+
+Forms
+
+and
+
+Response
+
+to
+
+FL-230, Declaration
+
+for
+
+Default or Uncontested Judgment.
+West’s California Judicial Council Forms FL-235, Advisement and
+
+Commentary
+
+Waiver of Rights Re: Establishment of Parental Relationship.
+West’s California Judicial Council Forms FL-240, Stipulation for
+Entry of Judgment Re: Establishment of Parental Relationship.
+West’s California Judicial Council Forms FL-250, Judgment.
+
+Note that 2013 amendments to Code of Civil Procedure section
+583.161 expanded the definition of petitions and orders that are not
+subject to mandatory dismissal, including petitions and orders
+under this section.
+For general discussion of the Uniform Parentage Act, see Johnson
+v. Calvert, 5 Cal.4th 84, 19 Cal.Rptr.2d 494 (1993), cert. denied 510
+
+Treatises and Practice Aids
+
+8 Witkin, California Summary 10th Constitutional Law § 851 (2018),
+In General.
+
+U.S. 874, 114 S.Ct. 206, 126 L.Ed.2d 163 (1993). See also Section
+7610, Commentary.
+
+11 Witkin,
+
+California
+
+Summary
+
+10th
+
+Husband
+
+(2018), In General.
+11 Witkin, California Summary 10th Husband
+(2018), Domestic Violence.
+11 Witkin, California-Summary 10th Husband
+(2018), Temporary Custody and Visitation.
+
+In Bianka M. v. Superior Court, 5 Cal.5th 1004, 423 P.3d 334, 236
+
+Cal.Rptr.3d 610 (2018), the California Supreme Court held that a
+child’s nonresident, noncustodial parent need not be joined as a party
+in a Uniform Parentage Act action seeking Code of Civil Procedure
+§ 155 special immigrant juvenile findings, when the parent has
+
+509
+
+and
+
+Wife
+
+§ 373
+
+and Wife
+
+§ 375
+
+and Wife
+
+§ 393
+
+§ 7600
+
+PARENT
+
+AND
+
+CHILD
+
+RELATIONSHIP
+
+11 Witkin, California
+(2018), Support.
+
+Summary
+
+10th Husband
+
+and
+
+Wife
+
+§ 395
+
+14
+
+Summary
+
+10th
+
+and
+
+Wife
+
+§ 398
+
+162 (A.B.2650), § 10, operative Jan. 1, 1994. .Amended by
+Stats.2013, c. 510 (A.B.1403), § 1; Stats.2013, .c. 564 (S.B.
+27498 sede)
+
+11 Witkin, California Summary 10th Husband and Wife
+(2018), Orders Included in Judgment.
+16 Witkin, California Summary 11th Juvenile Court Law
+(2018), In General.
+
+§ 404
+
+Law Revision Commission Comments
+
+16 Witkin,
+
+§ 312
+
+Witkin,
+
+California
+
+Husband
+
+(2018), Custody and Visitation.
+
+California
+
+Summary
+
+11th
+
+Juvenile
+
+Court
+
+Law
+
+§ 274
+
+Enactment
+
+Section 7601 continues former Civil Code Section 7001 without
+substantive change. This section is the same in substance as Section
+1 of the Uniform Parentage Act (1973). .[23 Cal.L.Rev.Comm.
+Reports 1 (1993)].
+
+(2018), In General.
+16 Witkin, California Summary 11th Juvenile Court Law § 754
+(2018), Findings.
+10 Witkin, California Summary 10th Parent and Child § 9 (2018),
+Development of Law.
+
+Commentary
+
+10 Witkin, California Summary 10th Parent and Child § 14 (2018),
+
+This section and section 7612 have been amended to provide that a
+child may have more than two legal parents, where having only two
+legal parent would be detrimental to the child, overturning In re M.C.,
+
+In General.
+10 Witkin, California Summary 10th Parent and Child § 31 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 57 (2018),
+In General.
+10 Witkin, California Summary
+
+[Revised Comment]
+
+195 Cal.App.4th 197, 123 Cal.Rptr.3d 856 (2011), which held that
+when a dependent child had more than two presumed parents, the
+court was required to resolve the conflicting presumptions of
+parentage by reducing the number of presumed parents to no more
+than two. To the extent that any cases discussed in the Commentary
+to this Chapter rely on the prior rule that a child may have only two
+parents and only one father, those cases no longer express controlling law. Nevertheless, prior case law may still be controlling on
+other issues and those cases might still yield the same results under
+
+10th Parent and Child § 79 (2018),
+
+Who May Bring Action.
+10 Witkin, California Summary 10th Parent and Child § 85 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 91 (2018),
+Hearing and Order.
+10 Witkin, California Summary 10th Parent and Child § 208 (2018),
+Agreement Between Parents.
+10 Witkin, California Summary 10th Parent and Child § 238 (2018),
+Biologically Unrelated Person Opposed by Parent.
+10 Witkin, California Summary 10th Parent and Child § 368 (2018),
+Other Proceedings Stayed.
+10 Witkin, California Summary 10th Parent and Child § 417 (2018),
+Applicability of Family Code Custody Provisions.
+
+revised section 7612(c).
+
+For general discussion of the Uniform Parentage Act, see Johnson
+v. Calvert, 5 Cal.4th 84, 19 Cal.Rptr.2d 494 (1993), cert. denied 510
+
+U.S. 874, 114 §.Ct. 206, 126 L.Ed.2d 163 (1993). See also Section
+7610, Commentary.
+
+Invoking subsection (b) of this section and section 7630(c), Dent v.
+Wolf, 15 Cal.App.5th 230, 222 Cal.Rptr.3d 846 (2017), held that'a 69year-old woman could bring an action to declare’her putative father’s
+paternity many years after his death even though the woman did not
+seek any financial benefit.
+
+10 Witkin, California Summary 10th Parent and Child § 424 (2018),
+
+In General.
+14 Witkin, California Summary 10th Wills and Probate § 103 (2018),
+
+Out of Wedlock Children.
+14 Witkin, California Summary 10th Wills and Probate § 108 (2018),
+Parent and Child Relationship.
+14 Witkin, California Summary 10th Wills and Probate §. 300 (2018),
+Nature and Scope of Statute.
+
+Research References
+Forms
+
+1 California Transactions: Forms--Family Law § 3:4, Subject Matter
+Jurisdiction for Custody Determinations.
+2 California Transactions Forms--Family Law § 5:9, Use of Parenting Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+
+§ 7601. “Natural parent” defined; “parent and child relationship” defined; finding of parent and child relationship with more than two parents; interpretation of
+reference to two parents
+
+(a) “Natural parent” as used in this code means a nonadoptive parent established under this part, whether biologically related to the child or not.
+(b) “Parent and child relationship”, as used in. this part
+means the legal relationship existing between a child and the
+child’s natural or adoptive parents incident to which the law
+confers or imposes rights, privileges, duties, and obligations.
+The term includes the mother and child relationship and the
+father and child relationship.
+(c) This part does not preclude a finding that a child has a
+parent and child relationship with more than two parents.
+‘(d) For purposes of state law, administrative regulations,
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 5 (2018),
+Nature and Effect of Classification,
+10 Witkin, California Summary 10th Parent and Child § 10 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 11 (2038),
+Child May Have More Than Two Parents.
+10 Witkin, California Summary 10th Parent and Child § 42 (2018),
+Where Child Would Have Fewer Than Two Parents.
+10 Witkin, California Summary 10th Parent and Child § 79 (2018),
+Who May Bring Action.
+
+court rules, government policies, common law, and any other
+
+§ 7602.
+
+provision or source of law governing the rights, protections,
+benefits, responsibilities, obligations, and duties,of parents,
+any reference to two parents shall be interpreted to apply to
+every parent of a child where that child has been found to
+have more than two parents under this part... (Stats. 1992, c.
+
+Application regardless of marital status of parents
+
+The parent and child relationship extends equallyto every
+child and to every parent, regardless of the marital status of
+the parents.
+
+Jan. 1, 1994.)
+
+510
+
+(Stats.1992, c. 162 (A,.B.2650), § 10, operative
+
+UNIFORM
+
+PARENTAGE
+
+certain Penal Code provisions not allowed unsupervised visitation),
+3131 (action by district attorney where child taken or detained in
+violation of visitation order), 3160-3186 (mediation of custody or
+visitation issues); Code Civ. Proc. § 917.7 (order not automatically
+stayed by appeal). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+Section 7602 continues former Civil Code Section 7002 without
+change. This section is the same as Section 2 of the Uniform
+
+Parentage Act (1973).
+
+[23 Cal.L.Rev.Comm.
+
+§ 7605
+
+ACT
+
+Reports 1 (1993)].
+
+Commentary
+
+Research References
+
+Barkaloff v. Woodward,
+
+47 Cal.App.4th 393, 55 Cal.Rptr.2d 167
+
+Treatises and Practice Aids
+
+(1996), holds that a trial court lacks jurisdiction under the Domestic
+
+10 Witkin, California Summary 10th Parent and Child § 5 (2018),
+Nature and Effect of Classification.
+10 Witkin, California Summary 10th Parent and Child § 10 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 208 (2018),
+Agreement Between Parents.
+
+Violence Prevention Act (DVPA)
+
+§ 7603.
+
+(Section 6200 et seq.) and the
+Uniform Parentage Act (UPA) (Section 7600 et seq.) to award
+visitation rights to a man who is not the father of the child and who
+was never married to the child’s mother when both the child’s mother
+and the child’s biological father object to visitation, even though such
+visitation may be in the child’s best interests. Barkaloff holds that
+jurisdiction to order visitation of minor children under the DVPA is
+limited, pursuant to Section 6323, to cases where there is a marital
+relationship between the parties. 47 Cal.App.4th at 398. Jurisdiction
+to order visitation of a child under the UPA is limited to claims by
+persons who are, or are presumed to be, a child’s natural parent. 47
+Cal.App.4th at 399.
+
+Application of § 3140
+
+Section 3140 is applicable to proceedings pursuant to this
+part. (Stats.1992, c. 162 (A.B.2650), § 10, operative Jan. 1,
+1994.)
+Law Revision Commission Comments
+Enactment
+
+Research References
+Forms
+
+[Revised Comment]
+
+1 California Transactions Forms--Family Law § 3:4, Subject Matter
+Jurisdiction for Custody Determinations.
+
+Section 7603 continues former Civil Code Section 7017.6 without
+substantive change.
+There is no comparable provision in the
+Uniform Parentage Act (1973). [23 Cal.L.Rev.Comm. Reports 1
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+West’s California Judicial Council Forms DV-140, Child Custody and
+Visitation Order.
+
+(1993)].
+Research References
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 12 (2018),
+General Provisions.
+
+West’s California Judicial Council Forms FL-341, Child Custody and
+
+Visitation (Parenting Time) Order Attachment.
+
+§ 7604. Pendente lite relief of custody or visitation order on
+finding of parent-child relationship
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 78 (2018),
+Visitation Privileges.
+
+A court may order pendente lite relief consisting of a
+custody or visitation order pursuant to Part 2 (commencing
+with Section 3020) of Division 8, if the court finds both of the
+following:
+(a) A parent and child relationship exists pursuant to
+Section 7540 or 7541.
+(b) The custody or visitation order would be in the best
+interest of the child. (Stats.1992, c. 162 (A.B.2650), § 10,
+operative Jan. 1, 1994.
+Amended by Stats.1993, c. 219
+(A.B.1500), § 175.5; Stats.2018, c. 876 (A.B.2684), § 46, eff.
+Jan. 1, 2019.)
+
+§ 7604.5. Pregnancy, childbirth and genetic testing bills as
+evidence
+Notwithstanding any other provision of law, bills for
+pregnancy, childbirth, and genetic testing shall be admissible
+as evidence without third-party foundation testimony and
+
+shall constitute prima facie evidence of costs incurred for
+those services. (Added by Stats.1997, c. 599 (A.B.573), § 44.)
+Research References
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 12 (2018),
+General Provisions.
+
+Law Revision Commission Comments
+Enactment
+
+[Revised Comment]
+
+§ 7605. Attorney’s fees and costs; court findings; standard
+for awarding fees and costs; augmentation or modification; temporary orders; time for determination of
+application
+(a) In any proceeding to establish physical or legal custody
+of a child or a visitation order under this part, and in any
+proceeding subsequent to entry of a related judgment, the
+court shall ensure that each party has access to legal
+representation to preserve each party’s rights by ordering, if
+necessary based on the income and needs assessments, one
+
+Section 7604 continues without substantive change the first paragraph of former Civil Code Section 7004.5. The last two paragraphs
+
+of former Civil Code Section 7004.5 are superseded. There is no
+comparable provision in the Uniform Parentage Act (1973).
+In the introductory clause, a reference to Part 2 (commencing with
+Section 3020) of Division 8 has been substituted for narrower
+references to former Civil Code Sections 4600 and 4601. This
+supersedes the last two paragraphs of former Civil Code Section
+7004.5 and is not a substantive change.
+The substance of the
+superseded paragraphs is contained in Section 3100(b) of Part 2 of
+Division 8, made expressly applicable to a determination of custody
+or visitation under this section.
+See also Sections 200 (jurisdiction in superior court), 3011 (factors
+in determining best interest of child), 3030 (parent convicted under
+
+party, except a government entity, to pay to the other party,
+
+or to the other party’s attorney, whatever amount is reasonably necessary for attorney’s fees and for the cost of
+
+sit
+
+§ 7605
+
+PARENT
+
+AND
+
+CHILD
+
+RELATIONSHIP
+relied on section 2032, which
+
+maintaining or defending the proceeding during the pendency of the proceeding.
+
+(b). When a request for attorney’s fees and costs is made
+under this section, the court shall make findings on whether
+an award of attorney’s fees and costs is appropriate, whether
+there is a disparity in access to funds to retain counsel, and
+whether one party is able to pay for legal representation of
+both parties. If the findings demonstrate disparity in access
+and ability to pay, the court shall make an order awarding
+attorney’s fees and costs. A party who lacks the financial
+ability to hire an attorney may request, as an in pro per
+litigant, that the court order the other party, if that other
+party has the financial ability, to pay a reasonable amount to
+allow the unrepresented party to retain an attorney in a
+timely manner before proceedings in the matter go forward.
+
+of
+
+Forms
+
+West’s California Judicial Council Forms FL-158, Supporting Declaration for Attorney’s Fees and Costs Attachment.
+West’s California Judicial Council Forms FL-319, Request for
+Attorney’s Fees and Costs Attachment.
+Treatises and Practice Aids
+
+11 Witkin, California Summary 10th Husband and Wife § 196
+(2018), Types of Actions.
+10 Witkin, California Summary 10th Parent and Child § 13 (2018),
+Attorneys’ Fees and Costs.
+10 Witkin, California Summary 10th Parent and Child § 70 (2018),
+Judgment.
+
+(d) The court shall augment or modify the original award
+for attorney’s fees and costs as may be reasonably necessary
+for the prosecution or defense of a proceeding described in
+subdivision (a), or any proceeding related thereto, including
+after any appeal has been concluded.
+
+§ 7606. “Assisted reproduction”
+tion agreement” defined
+
+and “assisted
+
+reproduc-
+
+As used in this part, the following definitions shall apply:
+(a) “Assisted reproduction” means conception by any
+means other than sexual intercourse.
+(b) “Assisted reproduction agreement” means a written
+contract that includes a person who intends to be the legal
+parent of a child or children born through assisted reproduction and that defines the terms of the relationship between
+the parties to the contract.
+(Added by Stats.2006, c. 806
+(S.B.1325), § 1.)
+
+(e) Except as provided in subdivision (f), an application for
+a temporary order making, augmenting, or modifying an
+award of attorney’s fees, including a reasonable retainer to
+hire an attorney, or costs, or both, shall be made by motion
+
+on notice or by an order to show cause during the pendency
+of any proceeding described in subdivision (a).
+
+(f) The court shall rule on an application for fees under
+this section within 15 days of the hearing on the motion or
+order to show cause. An order described in subdivision (a)
+may be made without notice by an oral motion in open court
+at either of the following times:
+
+Research References
+Forms
+
+(1) At the time of the hearing of the cause on.the merits.
+
+2 California Transactions
+Facilitator.
+
+(2) At any time before entry of judgment against a party
+whose default has been entered pursuant to Section 585 or
+586 of the Code of Civil Procedure. The court shall rule on
+any motion made pursuant to this subdivision within 15 days
+and prior to the entry of any judgment. (Added by Stats.2004,
+c. 472 (A.B.2148), § 7. Amended by Stats.2006, c. 538
+(S.B.1852), § 160; Stats.2012, c. 107 (A.B.1406), § 3.)
+
+Forms--Family Law § 7:8.50, Surrogacy
+
+Treatises and Practice Aids
+
+10 Witkin, California Summary 10th Parent and Child § 45 (2018),
+In General.
+
+CHAPTER 2. ESTABLISHING PARENT
+AND CHILD RELATIONSHIP
+
+Commentary
+For claims arising before the effective date. of this section, RobertJ.
+v. Catherine D., 134 Cal.App.4th 1392, 37 Cal.Rptr.3d 104 (2005),
+
+Section
+
+7610.
+7611.
+7611.5.
+
+held that Section 7640 also grants the trial court
+
+discretion to award
+
+standards for awards
+
+Research References
+
+(c) Attorney’s fees and costs within this section may be
+awarded for legal services rendered or costs incurred before
+or after the commencement of the proceeding.
+
+review denied,
+
+establishes
+
+attorney’s fees in marital dissolution cases,
+A parent who successfully defended against an attempt to modify a
+child custody order was not entitled to prevailing party fees under
+section 3452, which applies only to enforcement proceedings. However, the parent could recover under this section to the extent the court
+finds fee-shifting appropriate. N.S. v. D.M., 21 Cal.App.5th 1040, 231
+Cal. Rptr.3d 67 (2018).
+
+attorney’s fees on matters relating to custody,
+
+visitation, and support that arise after paternity is adjudicated.
+Assuming, arguendo, that this section applies to paternity determinations, Darab N. y. Olivera, 31 Cal.App.5th 1134, 242 Cal.Rptr.3d
+(2019), affirmed a trial court’s denial of a mother’s request for
+attorney’s fees and costs on the ground that “reasonably necessary”
+includes judicial discretion to take into account the behavior of
+mother’s attorney. Additionally, the attorney fees and costs sought by
+the mother would be “difficult to justify” in light of the court’s rulings
+on the merits.
+In applying this section and section 7640 to a request for attorney’s
+fees in a paternity proceeding, Kevin Q. v. Lauren W., 195 Cal.App.4th
+633, 124 Cal.Rptr.3d 676 (2011), holds that a trial court properly
+
+7612.
+
+7612.
+
+7613.
+
+512
+
+Method of establishment.
+Status as natural parent; presumption; conditions.
+Presumption against natural father status; Section
+7611 inapplicable.
+| Presumption as natural parent; rebuttable presumption; conflicting presumptions; more than two
+' persons with claim to parentage; petition to set
+aside voluntary declaration of paternity; invalid
+voluntary declarations of paternity.
+| Presumption as natural parent; rebuttable presumption; conflicting presumptions; more than two
+persons with claim to parentage; person’s offer or
+refusal to sign voluntary declaration of parentage.
+Conception through assisted reproduction with semen or ova donated by donor other than spouse;
+
+UNIFORM
+
+PARENTAGE
+
+Section
+7613.5.
+7614.
+§ 7610.
+
+donation. In other words, the intent of the parties on the question of
+maternity had no bearing on the result.
+Although K.M., narrowly distinguishes Steven S. v. Deborah D., 127
+Cal.App.4th 319, 25 Cal.Rptr.3d 482 (2005), K.M. may be understood
+to undermine the rationale of Stephen S., in which the court of appeal
+held that when a child is conceived by the artificial insemination of an
+unmarried mother with sperm provided by a licensed physician, the
+biological father of the child may not assert parental rights even
+though he once had an intimate sexual relationship with the mother
+and had some social role in the child’s life. Stephen S. reasoned that
+once the trial court determined that the child was conceived by
+
+consent of another intended parent; treatment as
+natural parent; treatment of semen or ova donors.
+Intended parent; use of forms.
+Written promise to furnish support; enforcement;
+confidentiality.
+Method of establishment
+
+The parent and child relationship may be established as
+follows:
+(a) Between a child and the natural parent, it may be
+established by proof of having given birth to the child, or
+under this part.
+(b) Between a child and an adoptive parent, it may be
+established by proof of adoption. (Stats.1992, c. 162 (A.B.
+2650), § 10, operative Jan. 1, 1994. Amended by Stats.2013, c.
+510 (A.B.1403), § 2.)
+
+artificial
+
+rather
+
+than
+
+natural
+
+conception,
+
+Section
+
+108, 117 P.3d 660, 33 Cal.Rptr.3d 46 (2005), the California Supreme
+
+Court held that in a child support action filed by a county district
+attorney, a woman who agreed to raise children with her lesbian
+partner, supported her partner’s artificial insemination by means of
+an anonymous donor, and received the resulting twins into her home
+and held them out as her own children was a Section 7611(d)
+presumed parent. Moreover, invoking Section 7612(a), the Supreme
+Court held that a child support action was not an “appropriate
+action” in which to rebut the Section 7611(d) presumption. Consequently the woman was subject to the parental child support
+obligation. Charisma R. vy. Kristina S., 140 Cal.App.4th 301, 44
+Cal.Rptr.3d 332 (2006), extends Elisa B. by applying it when a child’s
+biological mother opposed her former lesbian partner’s petition to
+establish a parental relationship with a child conceived and born
+during their relationship. Charisma R. reasons that the preferences of
+a biological parent are immaterial in determining whether another
+person is a presumed parent under Section 7611(d) or whether,
+under Section 7612(a), rebuttal of presumed parent status is appropriate. On remand, Charisma R. v. Kristina S., 175 Cal.App.4th 361, 96
+Cal.Rptr.3d 26 (2009), held that section 7611(d) presumed parenthood requires only that a former domestic partner have received the
+child into her home and openly held the child out as her own; it does
+not require the former partner to co-parent for any particular length
+of time.
+
+[Revised Comment]
+
+Section 7610 continues former Civil Code Section 7003 without
+change. This section is the same in substance as Section 3 of the
+Uniform Parentage Act (1973), except that Section 7610 omits the
+Uniform Parentage Act reference to the Revised Uniform Adoption
+Act. [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Commentary
+Johnson y. Calvert, 5 Cal.4th 84, 19 Cal.Rptr.2d 494 (1993), cert.
+
+denied 510 U.S. 874, 114 S.Ct.206, 126 L.Ed.2d 163 (1993), holds that
+California law recognizes only one “natural mother” and that when
+genetic endowment and fetal gestation are not provided by the same
+woman, the woman who intended to bring about the birth of the child
+and to raise the child is the “natural mother.” Johnson v. Calvert also
+states, in dictum, that gestational surrogacy contracts do not violate
+public policy and that in “true egg donation,” where a donor’s
+fertilized ovum is implanted in an infertile woman’s uterus, the latter
+is the “natural mother” because she is the intended social mother.
+Compare In re Marriage of Moschetta, 25 Cal.App.4th 1218, 30
+Cal. Rptr.2d 893 (1994). (In a traditional surrogacy arrangement, that
+is, where the surrogate mother provides both the ovum and the
+womb,
+
+insemination,
+
+7613(b) applied to bar the semen donor from asserting his parentage
+of the child.
+In a companion case to K.M., Elisa B. v. Superior Court, 37 Cal.4th
+
+Law Revision Commission Comments
+Enactment
+
+§ 7610
+
+ACT
+
+In another companion case, Kristine H. v. Lisa R., 37 Cal.4th 156,
+
+117 P.3d 690, 33 Cal.Rptr.3d 81 (2005), the California Supreme Court
+used the doctrine of estoppel to reach a similar result when a former
+lesbian partner of a child’s mother sought custody of the child after
+the parties’ separation. During the mother’s pregnancy the partners
+sought and secured a judgment that they are the “only legally
+recognized parents [of the unborn child] and take full and complete
+legal, custodial and financial responsibility of said child.” Without
+deciding whether the judgment was enforceable, the Supreme Court
+held that the mother was estopped to attack the validity of a
+judgment to which she had stipulated.
+Elisa B. and Kristine H. overruled earlier court of appeal decisions
+declining to accord parental status to a parent’s lesbian partner, such
+as Nancy S. v. Michele G., 228 Cal.App.3d 831, 279 Cal.Rptr. 212
+(1991) and Curiale vy. Reagan, 222 Cal.App.3d 1597, 1600, 272
+Cal. Rptr. 520 (1990).
+S.Y. v. S.B., 201 Cal.App.4th 1023, 134 Cal.Rptr.3d 1 (2011), review
+denied, held that a woman who fully embraced the rights and
+obligations of being a parent to her same-sex partner’s adopted
+children was properly found to be a section 7611(d) presumed parent
+when the woman spent three or four nights a week at the children’s
+home and openly held the children out as her own children. Whether
+the adoptive mother intended her partner to have parental rights was
+immaterial. See also R.M. v. T.A., 233 Cal.App.4th 760, 182 Cal.
+Rptr.3d 836 (2015), in which the court relied on S.Y. v. S.B. to reject a
+mother’s argument that her intent, as opposed to her behavior, was
+determinative on whether her former partner was a presumed parent
+of her child.
+
+the surrogate mother is a birth parent, and her consent is
+
+required under Section 8814 before the child may be adopted by
+another. Thus the terms of the traditional surrogacy contract are
+unenforceable insofar as they purport to create maternal rights in a
+different woman.)
+Relying on Johnson v. Calvert, and reasoning by analogy from
+Section 7613, In re Marriage of Buzzanca, 61 Cal.App.4th 1410, 72
+Cal.Rptr.2d 280 (1998), review denied June 10, 1998, holds that a
+husband who, with his wife, consented to the artificial insemination
+
+of a surrogate mother by an unknown donor for the purpose of
+bearing a child for the couple, is the legal father of the child.
+Similarly, the same principle applies, in conjunction with Section
+7610 (a), to justify the conclusion that the wife is the child’s legal
+mother.
+K.M. v. E.G., 37 Cal.4th 130, 117 P.3d 673, 33 Cal.Rptr.3d 61
+(2005), holds that Section 7613(b) has no application when a’ woman
+in a lesbian relationship provides ova to impregnate her partner in
+order to produce children who will be raised in their joint home.
+Consequently, the California Supreme Court recognized the ova
+donor’s claim to parental status, holding that both the woman who
+provided the ova and the woman who bore the resulting twin children
+were the children’s parents even though the ova donor did not hold
+the resultant children out as her own natural children within the
+meaning of Section 7611(d) and the trial court found that she
+formally relinquished any claim to offspring resulting from her ova
+
+513
+
+§ 7610
+
+PARENT
+
+AND
+
+CHILD
+
+although the attempted marriage is or could be declared
+
+Robert B. v. Susan B., 109 Cal.App.4th 1109, 135 Cal.Rptr.2d 785
+(2003), review denied September 10, 2003, sorts out parentage that has
+been confused by clinical error. In Robert B., a couple:and a single
+woman sought the reproductive assistance of a fertility clinic. For the
+couple, the clinic was to fertilize the eggs of an anonymous donor
+with the husband’s sperm. The single woman was to receive an
+embryo created from anonymous egg and sperm donors, Through
+clinical error, the single woman received one of the couple’s embryos
+and she gave birth to a son. The wife gave birth to a daughter. Thus
+the two infants were siblings. The single woman and the: couple
+disputed parentage of the son. The court held that the husband was
+the father under § 7630, the single woman who carried the child to
+
+invalid, and either of the following is true:
+
+(1) If the attempted marriage could be declared invalid
+only by a court, the child is born during the attempted
+marriage, or within 300 days after its termination by death,
+annulment, declaration of invalidity, or divorce.
+
+(2) If the attempted marriage is invalid without a court
+order, the child is born within 300 days after the termination
+of cohabitation.
+(c) After the child’s birth, the presumed parent and the
+child’s natural mother have married, or attempted to marry,
+each other by a marriage solemnized in apparent compliance
+with law, although the attempted marriage is or could be
+declared invalid, and either of the following is true:
+(1) With * * * the presumed parent’s consent, the presumed parent is named as the child’s parent on the child’s
+
+term was the mother under this section, and the father’s wife had no
+
+standing to bring an action to determine the existence or nonexistence of a mother-child relationship under § 7650. In concluding
+that the husband was the father, the court reasoned that § 7613(b)
+was inapplicable because the husband provided semen for the
+purpose of inseminating only his wife.
+Research References
+
+birth certificate.
+
+(2) The presumed parent is obligated to support the child
+under a written voluntary promise or by court order.
+
+Forms
+
+2 California Transactions Forms--Family Law § 7:63, Application of
+Fam C § 7613 to Egg Donors.
+
+(d) The presumed parent receives the child into * * *
+their home and openly holds out the child as * * * their
+natural child.
+
+West’s California Code Forms, Family § 7610, Comment Overview-
+
+Establishing Parent and Child Relationship.
+
+Sea eae
+
+Treatises and Practice Aids
+
+(e) The child is in utero after, the death of the decedent
+
+10 Witkin, California Summary 10th Parent and Child § 9 (2018),
+Development of Law.
+
+10 Witkin, California
+In General.
+10 Witkin, California
+In General.
+10 Witkin, California
+In General.
+10 Witkin, California
+
+RELATIONSHIP
+
+and the conditions set forth in Section 249.5 of the Probate
+Code are satisfied.
+(Stats.1992, c. 162. (A.B.2650), $ 10,
+operative Jan. 1, 1994.
+Amended by Stats.1993, c. 219
+(A.B.1500), § 176; Stats.1994, c. 1269 (A.B.2208), § 53;
+Stats.2004, c. 775 (A.B.1910), § 1; Stats.2013, c. 510 (A.B.
+1403), § 3; Stats.2019, c. 115 (A.B.1817), § 87, eff. Jan. 1,
+2020.)
+
+Summary 10th Parent and Child § 10 (2018),
+Summary 10th Parent and Child § 14 (2018),
+Summary 10th Parent and Child § 28 (2018),
+
+Summary 10th Parent and Child § 39 (2018),
+
+Statutory Rule.
+Law Revision Commission Comments
+
+10 Witkin, California Summary 10th Parent and Child § 41 (2018),
+Nonbiological Parent as Presumed Parent.
+10 Witkin, California Summary 10th Parent and Child § 49 (2018),
+Where Intended Mother is Genetic Mother.
+10 Witkin, California Summary 10th Parent and Child § 50 (2018),
+Where Intended Mother is Not Genetic Mother.
+10 Witkin, California Summary 10th Parent and Child § 51 (2018),
+Assisted Reproduction Agreements for Gestational Carriers.
+
+Enactment
+
+10 Witkin, California Summary 10th Parent and Child § 80 (2018),
+
+Who May Not Bring Action.
+
+§ 7611.
+
+Status
+
+as natural
+
+parent;
+
+presumption;
+
+[Revised Comment]
+
+Section 7611 continues former Civil Code Section 7004(a) without
+substantive change. This section is the same in substance as Section
+4(a) of the Uniform Parentage Act (1973). In subdivision (a),
+‘Sjudgment” has been substituted for “decree.”
+This is not a
+substantive change. See Section 100 (“‘judgment” includes decree, as
+appropriate). See also Section 7612 (nature of paternity presumptions). [23 Cal.L.Rev.Comm. Reports 1 (1993)].
+Commentary
+
+condi-
+
+Sections 7601 and 7612 have been amended to provide that a child
+may have more than two legal parents, where haying only two legal
+parent would be detrimental to the child, overturning In re M.C., 195
+Cal.App.4th 197, 123 Cal.Rptr.3d 856 (2011), which held that when a
+dependent child had more than two presumed parents, the court was
+required to resolve the conflicting presumptions of parentage by
+reducing the number of presumed parents to no more than two. To
+the extent that any cases discussed in the Commentary to this
+Chapter rely on the prior rule that a child may have only two parents
+and only one father, those cases no longer express controlling law.
+Nevertheless prior case law may still be controlling on other issues
+and those cases might still yield the same results under revised
+
+tions
+
+A person is presumed to be the natural parent of a child if
+the person meets the conditions provided in Chapter 1
+(commencing with Section 7540) or Chapter 3 (commencing
+with Section 7570) of Part 2 or in any of the following
+subdivisions:
+(a) The presumed parent and the child’s natural mother
+
+are, or haye been, married to each other and the child is born
+during the marriage, or within 300 days after the marriage is
+terminated by death, annulment, declaration of invalidity, or
+divorce, or after a judgment of separation is entered by a
+
+section 7612(c).
+
+In re Jovanni B., 221 Cal.App.4th 1482, 165 Cal.Rptr.3d 430 (2013),
+held that the juvenile court erroneously dismissed a’ man who had
+signed a voluntary declaration of paternity from dependency proceedings, without determining whether the man was the child’s
+presumed father under section subsection (d). However, the Califor-
+
+court.
+
+(b). Before the child’s birth, the presumed parent and the
+child’s natural mother have attempted to marry each, other by
+a marriage solemnized in apparent compliance with law,
+
+514
+
+UNIFORM
+
+PARENTAGE
+
+nia Supreme Court granted review, 317 P.3d 1182 (2014), superseding
+
+§ 7611
+
+ACT
+
+P.A. relies on In re A.A., discussed below in the Commentary to this
+section.
+By contrast, In re Cheyenne B., 203 Cal.App.4th 1361, 138
+Cal.Rptr.3d 267 (2012), review denied, holds that a pre-existing
+judgment that a man is the father of a child for child support
+purposes is a paternity judgment within the meaning of section
+7612(c) and therefore may preclude another man from establishing
+that the is a presumed father under section 7611(d). Nevertheless,
+the fact that the child support order satisfies section 7612(c) does not
+make the support obligor a presumed parent. The effect of Cheyenne
+B. was that the child, who initially had one adjudicated nonpresumptive biological father and one unadjudicated presumptive father,
+
+In re Brianna M., 163 Cal. Rptr.3d 665 (2013), where the juvenile court
+
+excused from a dependency proceeding a man who signed a voluntary
+declaration of paternity, on the basis of DNA tests showing that he
+was not the father, without considering whether he was a presumed
+father under section (d). The California Supreme Court later
+dismissed review for failure of petitioner to file an opening brief, 330
+P.3d 327 (2014).
+Jason P. v. Danielle S., 226 Cal.App.4th 167, 171 Cal.Rptr.3d 789
+(2014), review denied, held that even though section 7613(b) precluded a sperm donor from establishing paternity by virtue of his
+biological relationship to the child, a sperm donor could establish his
+paternity under subsection (d) of this section, based on his openly
+holding out the child as his natural child and receiving him into his
+home. On remand, Jason P. v. Danielle S., 9 Cal.App.5th 1000, 215
+Cal. Rptr.3d 542 (2017), review denied, affirmed a trial court judgment
+that a sperm donor was a subsection (d) presumed father based on
+evidence that he received the child into his home and held him out as
+his own.
+To the same effect, see County of Orange v. Cole, 14 Cal.App.5th
+504, Cal.Rptr.3d 740 (2017), holding that a man can be a sperm donor
+but nevertheless be a presumed subsection (d) parent and thus
+responsible for child support.
+W.S. v. S.T., 20 Cal.App.sth 132, 228 Cal.Rptr.3d 756 (20018),
+review denied, cert. denied, affirmed a trial court’s ruling that a
+biological father who, although he physically received the child into
+
+ultimately had no presumed father.
+In re Mary G., 151 Cal.App.4th 184, 59 Cal-Rptr.3d 703 (2007), held
+that this section violates the equal protection and full faith and credit
+clauses insofar as it would deny presumed father status to a man on
+the sole basis that his voluntary acknowledgement of paternity was
+executed
+
+in Michigan,
+
+rather than California.
+
+But see Kevin
+
+Q.,
+
+immediately above, which follows section 7573 in characterizing the
+voluntary declarant as a legal father, rather than merely a presumptive father.
+See generally In re Sarah C., 8 Cal.App.4th 964, 11 Cal.Rptr.2d 414
+(1992) (sufficiency of evidence to conclude that man was not a
+“presumed father’’). Although Section 7612 requires that the plaintiff
+produce clear and convincing evidence to overcome a Section 7611
+presumption of paternity, the plaintiff need only establish by a
+preponderance of the evidence that a putative natural father is the
+father of the child. Walsh v. Palma, 154 Cal.App.3d 290, 293, 201
+Cal.Rptr. 142 (1984). A man claiming the status of “presumed father”
+must prove the facts that give rise to the presumption of parenthood.
+Thus a man making a subsection (d)*claim must show by a
+preponderance of the evidence that he received the child into his
+home and held the child out as his natural child. In re Spencer W., 48
+Cal.App.4th 1647, 56 Cal.Rptr.2d 524 (1996), review denied October 23,
+
+his home, did not assume parental obligations and duties, was not a
+
+subsection (d) presumed father.
+Although a child’s biological father was a presumed parent for
+purposes of section subsection (d) because he held the child out as
+his own and received him into his home during the first years of the
+child’s life, he was not eligible to be a third parent under section
+7612, when he had no existing relationship with the child, who
+already had a mother and a presumed father. In re L.L., 13
+Cal. App. 5th 1302, 220 Cal.Rptr.3d 904 (2017).
+Kevin Q. v. Lauren W., 175 Cal.App.4th 1119, 95 Cal.Rptr.3d 477
+(2009), review denied, held that a voluntary declaration of paternity
+signed when a child already had a subsection (d) presumed father
+had the effect of rebutting the latter’s presumption of paternity under
+section 7612(c), because section 7573 gives a voluntary declaration of
+paternity the force and effect of a judgment of paternity. Mitigating
+Kevin Q., subsection 7612(d), added in 2011, grants any man
+presumed a father under this section, including a subsection (d)
+presumed father, the right to file a petition to set aside the voluntary
+declaration of another man within two years of its making. By
+
+1996.
+In re J.O., 178 Cal.App.4th 139, 100 Cal.Rptr.3d 276 (2009), holds
+that in a dependency proceeding a juvenile court erred in finding that
+a man’s subsection (d) presumed father status was rebutted by his
+failure to contact or provide support for his children, when rebuttal
+of the man’s presumed father status would leave the children without
+any father.
+Although an unwed father is a section 7636 father because he has
+been judicially determined to be the children’s father and has been
+ordered to pay child support, he is not a “presumed father” under
+this section because he never lived with the children or openly held
+them out to be his own. Therefore, in a dependency proceeding, a
+juvenile court could deny him reunification services because only
+
+contrast, under section 7612(e), also added by the 2011 legislation,
+
+when parenthood is presumed under section 7450 or under subsections (a),(b), or (c) of this section (but not subsection (d)), any
+subsequent voluntary declaration of paternity by another person is
+~ automatically invalid.
+In re Levi H., 197 Cal.App.4th 1279, 128 Cal.Rptr.3d 814 (2011),
+holds that when a voluntary declaration of paternity qualifies for
+section 7612(c) treatment, the presumption of paternity arising under
+subsection (d) of this section is rebutted by another man’s voluntary
+declaration of paternity, and there is no need to engage in a section
+7612(b) weighing analysis.
+
+presumed fathers are entitled to reunification services. In re E.O., 182
+
+Cal. App.4th 722, 107 Cal.Rpir.3d 1 (2010), review denied. E.O. reasons
+that the category ""presumed father” functions in dependency cases
+to identify social fathers, even those who may not be biological
+fathers, while the issue in a paternity proceeding brought against an
+unwed father is biological paternity.
+Compare In re Bryan D., 199 Cal.App.4th 127, 130 Cal.Rptr.3d 821
+
+(2011), which sustained a juvenile court’s finding that a dependent
+child’s grandmother was not a presumed mother within the meaning
+of subsection (d). Although the grandmother received the child into
+her home and performed all parental responsibilities with respect to
+
+‘However, when a child has both an alleged biological father, whose
+
+the child, there was no evidence that she ever held the child out as
+
+paternity is at issue in a dependency proceeding, and a presumed
+father, a court must hold an evidentiary hearing on the issue
+biological paternity. If the court concludes that one man is the
+
+her own child rather than as a grandchild. However, the juvenile
+court abused its discretion in denying the grandmother party de facto
+parent status when the grandmother’s conduct was the cause of the
+dependency proceeding but was not fundamentally inconsistent with
+the role of a parent. For the definition of a de facto parent, see
+
+biological father and one man is a presumed father, the court must
+perform a section 7612(b) balancing to determine which man should
+be considered the child’s father. In re P.A., 198 Cal.App.4th 974, 130
+Cal.Rptr.3d 556 (2011). In re P.A. concludes that a finding that a man
+
+California Rules of Court, Rule 5.502(10) and accompanying Com-
+
+is a biological father is not a paternity judgment for purposes of
+section 7612(c). In re P.A. interprets section 7612(c) to refer solely to
+a judgment that already exists when the instant action arises. In re
+
+mentary.
+
+Craig L. v. Sandy S., 125 Cal.-App.4th 36, 22 Cal. Rptr.3d 606 (2004),
+holds that when a mother and her husband, who are cohabiting as
+
+515
+
+§ 7611
+
+PARENT
+
+AND
+
+CHILD
+
+RELATIONSHIP
+The presumption that a woman was.a subsection (d) parent was
+not rebutted by her former same-sex partner’s single parent adoption
+of the child. L.M. v. M.G., 208 Cal.App.4th 133, 145 Cal.Rptr.3d 97
+
+husband and wife, permit an alleged biological father to receive her
+child in his home and hold the child out as his own and the two-year
+limitation of Section 7541(b) has not yet expired, the alleged
+biological father. mayassert the subsection (d) presumption; the
+husband may assert only the subsection (a) rebuttable presumption,
+as contrasted with the Section 7540-conclusive presumption; and the
+court must apply the Section 7612(b) rubric to determine which
+presumption is the weightier. Only when) the court determines that
+the subsection (d) presumption is the weightier may the alleged
+biological father obtain blood tests under Section 7541(b).
+The California Supreme Court held in Elisa B. v. Superior Court, 37
+
+(2012).
+Amy G. v. M.W., 142 Cal.App.4th 1, 47 Cal.Rptr.3d 297 (2006),
+review denied Nov. 29, 2006, held that a wife who has accepted into
+
+the marital household a child that her husband fathered in an
+extramarital relationship, may not assert that she is a presumed
+mother for purposes of section 7540 or subsection (a) or (d) of this
+section when the child’s biological mother timely asserts her parental
+interest in the child, the identity,of the child’s father is undisputed,
+
+and he is a party in the proceeding and represents his wife’s interests
+as well as his own.
+Adoption of Kelsey S., 1 Cal.4th 816, 4 Cal.Rptr.2d 615 (1992) holds
+that Sections 7611 and 7664 are unconstitutional insofar as they allow
+a mother unilaterally to prevent a natural father from becoming a
+“presumed father” and then allow the state to terminate his parental
+rights merely upon a showing of “best interest of the child.” Kelsey S.
+holds that the parental rights of an unwed father who demonstrates
+full commitment to his parental responsibilities may only be terminated by a showing of parental unfitness. To demonstrate full
+commitment, he must show willingness to assume full custody, not
+just to block adoption. Jd. at 849. For clarification of Kelsey S., see
+Adoption of Michael H., 10 Cal.4th 1043, 898 P.2d 891, 43 Cal.Rptr.2d
+445 (1995) (unwed father who is not a “presumed father” has no
+federal constitutional right to withhold consent to adoption at his
+child’s birth unless he proves that he demonstrated a full commitment to parental responsibilities as soon as he learned that the
+mother was pregnant with his child): See also In re Zacharia D., 6
+Cal.4th 435, 862 P.2d 751, 24 Cal.Rptr.2d 751 (1993) (father who did
+
+Cal.4th 108, 117 P.3d 660, 33 Cal.Rptr.3d 46 (2005), a child support
+action filed by a county district attorney, that a woman who agreed to
+raise children with her lesbian partner, supported her partner’s
+artificial insemination by means of an anonymous donor, and
+received the resulting twins into her home and held them out as her
+own children was a subsection (d) presumed parent. Moreover,
+invoking Section 7612 (a), the Supreme Court held that a child
+
+support action was not an “appropriate action” in which to rebut the
+subsection (d) presumption. Consequently the woman was subject to
+the parental child support obligation. Charisma R. v. Kristina S., 140
+Cal.App.4th 301, 44 CalRptr.3d 332 (2006), extends Elisa B. by
+applying it when a child’s biological mother opposed her former
+lesbian partner’s petition to establish a parental relationship with a
+child conceived and born during their relationship. Charisma R.
+reasons that the preferences of a biological parent are immaterial in
+determining whether another person is a presumed parent under
+subsection (d) or whether, under Section 7612(a), rebuttal of
+presumed parent status is appropriate..On remand, Charisma R. v.
+Kristina S., 175 Cal:App.4th 361, 96 Cal.Rptr.3d 26 (2009); held that
+subsection (d) presumed parenthood: requires only that a+ former
+domestic partner have received the child into her home and openly
+held the child out as her own; it does not require the former partner
+to co-parent for any particular length of time.
+Note that section 297.5(d) gives California registered domestic
+partners the same rights and obligations as spouses with respect to a
+child. A registered domestic partner who consents to insemination of
+the other partner or a third party for the purpose of conceiving a
+child for the partners should be able to avail himself or herself of the
+section 7613 rights and obligations of the husband of a wife
+
+not come
+
+forward
+
+to assume
+
+responsibilities);
+
+In re Ariel H., 73
+
+Cal.App.4th 70, 86 Cal.Rptr.2d 125 (1999) (15-year-old father who did
+not come forward to assume his responsibilities); and Adoption of
+Arthur M., 149 Cal.App.4th 704, 57 Cal.Rptr.3d 259 (2007), review
+denied June 20, 2007 (unwed father not entitled to withhold his
+consent to adoption because father, who allegedly feared criminal
+prosecution for date rape, failed to promptly assume responsibility
+for the child upon learning of the mother’s pregnancy). Compare Jn
+re Julia U., 64 Cal-App.4th 532, 74 Cal.Rptr.2d 920 (1998) (juvenile
+court deprived unwed biological father who promptly came forward
+and demonstrated a full commitment to his parental responsibilities
+of his constitutional rights by refusing him reunification services and
+terminating his parental rights). See also Adoption of Baby Boy W.,
+
+artificially inseminated with his consent. Thus, recourse to subsection
+
+(d) presumed parenthood may be unnecessary.
+In the companion case of Kristine H. v. Lisa R., 37 Cal.4th 156, 117
+
+232 Cal.App.4th 438, 181 Cal.Rptr.3d 130 (2015), review denied.
+Adoption of Alexander M., 94 Cal.App.4th 430, 114 Cal.Rptr.2d 218
+(2001), holds that a biological father may establish paternity under
+§ 7631, but whether an adoption should proceed or the biological
+father should retain his parental rights shall be decided under the
+best interests of the child standard (§ 7664(b)), unless the father
+proves that he has demonstrated a full commitment. to parental
+responsibilities in accordance with Kelsey S., in which case the father
+shall\be awarded custody unless:such award would be detrimental to
+
+P.3d 690, 33 Cal.Rptr.3d 81 (2005), the California Supreme Court
+
+used the doctrine of estoppel to reach a similar result when a former
+lesbian partner of a child’s mother sought custody of the child after
+the parties’ separation. During the mother’s pregnancy the partners
+sought and secured a judgment that they are the “only legally
+recognized parents [of the unborn child] and take full and complete
+legal, custodial and financial responsibility of said child.” Without
+deciding whether the agreement was enforceable, the Supreme Court
+held that the mother was estopped to attack the validity of a
+judgment to which she had stipulated.
+Elisa B. and Kristine H. overruled earlier court of appeal decisions
+declining to accord parental status to a parent’s lesbian partner. Such
+decisions include Nancy S. v. Michele.G., 228 Cal.App.3d 831, 279
+Cal.Rptr..212 (1991) and Curiale vy. Reagan, 222 Cal.App.3d 1597,
+1600, 272 Cal.Rptr. 520 (1990).
+S.Y. v. S.B., 201 Cal.App.4th 1023, 134 Cal.Rptr.3d 1 (2011), review
+denied, held that a woman who fully embraced the. rights and
+obligations of being a parent to her same-sex partner’s adopted
+children was properly found to be a subsection (d) presumed parent
+when the woman spent three or four nights\a week at the children’s
+home and openly held the children out as her own children; Whether
+
+the child under § 3041.
+
+In re D.A., 204 Cal.App.4th 811, 139 Cal.Rptr.3d 222 (2012), holds
+that a man who came forward to accept all the responsibilities of
+parenthood but was prevented from becoming a presumed father
+under subsection (d), was a Kelsey S. presumed father even though he
+did not accept those responsibilities until tests established his
+biological paternity, when another man might have been the child’s
+biological father. Compare In re William K. 161 Cal.App.4th 1, 73
+Cal.Rptr.3d 737 (2008), where a man was denied Kelsey S. status
+because he did not immediately accept paternal responsibilities
+although he indicated willingness to take a paternity test, when the
+parents planned the pregnancy and there never was any doubt about
+the identity of the biological father.
+Adoption of H.R., 205 Cal.App.4th 455, 140 Cal.Rptr.3d 327 (2012),
+held that a man who attempted to marry the mother during her
+pregnancy, attended prenatal appointments with her, petitioned the
+
+the adoptive mother intended her partner to have parental rights was
+immaterial, To the same effect, see E.C. v. JV, 202 Cal.App.4th 1076,
+
+136 Cal. Rptr.3d 339 (2012).
+
+516
+
+UNIFORM
+
+PARENTAGE
+
+court to establish his paternity before the child was born, and was
+willing and able to take immediate custody of the child, but was
+prevented from establishing subsection (d) presumed father status by
+the mother, was a Kelsey S. father despite his failure to pay for
+pregnancy and birth-related expenses commensurate with his ability
+to do so. However, Adoption of T.K., 240 Cal.App.4th 1392, 194
+Cal. Rptr.3d 606 (2015), review denied, affirming an order terminating
+an unwed father’s parental rights after finding that he was not a
+Kelsey S. father, disagreed with Adoption of H.R., on the ground that
+a Kelsey S. full commitment to parental responsibilities requires, at a
+minimum, a demonstrated willingness to support the child financially
+and’ to support the mother emotionally during the pregnancy.
+Consequently, other factors may be considered only after both
+requirements have been satisfied.
+In re D.S., 230 Cal.App.4th 1238, 179 Cal.Rptr.3d 348 (2014), held
+that once a juvenile court made a finding, supported by substantial
+evidence, that a child’s biological father had not done all he could
+reasonably do under the circumstances to assume parental responsibilities, the court erred in treating him as a Kelsey S. father and
+concluding that the Kelsey S. presumption in favor of the biological
+father outweighed a stepfather’s subsection (d) presumption of
+parenthood.
+
+§ 7611
+
+ACT
+
+after the child’s birth, is insufficient to constitute subsection (d)
+receipt of the child into the father’s home, with the result that the
+unwed father was not a presumed father. Charisma R. v. Kristina S.,
+175 Cal.App.4th 361, 96 Cal.Rptr.3d 26 (2009), held that subsection
+(d) presumed parenthood requires only that a’ former domestic
+partner have received the child into her home and openly held the
+child out as her own; it does not require the former partner to’ coparent for any particular length of time.
+
+The Indian Child Welfare Act of 1974 [25 U.S.C. Sections 1901 et
+seq.] preempts inconsistent provisions of the California version of the
+Uniform Parentage Act. See In re Adoption of Lindsay C., 229
+
+Cal.App.3d 404, 408, 280 Cal.Rptr. 194 (1991), review. denied 7/11/91
+(Indian Child Welfare Act preempts California provisions. when
+noncustodial father is Indian even though custodial mother is not
+Indian). But see Matter of Adoption of Crews, 118 Wash.2d 561, 825
+
+P.2d 305 (1992).
+In In re Nicholas H., 28 Cal.App.4th 56, 407A, 46 P.3d 932, 120
+Cal. Rptr.2d 146 (2002), the California Supreme Court interpreted the
+“in an appropriate action” language of § 7612(a) to limit the rebuttal
+of presumed fatherhood to cases where rebuttal is appropriate rather
+than to allow it\in all cases. In Nicholas H., a dependency proceeding,
+a fit presumptive father seeking to assume parental obligations
+admitted that he was not the child’s biological father. In reversing the
+court of appeal, which had held that his admission and the mother’s
+testimony to the same effect rebutted the presumption that he was
+
+Purporting to rely on Zacharia D., supra, In re Vincent M., 161
+
+Cal.App:4th 943, 74 Cal.Rptr.3d 755 (2008), review denied, holds that a
+biological father who is not a presumed father under this section and
+whose paternity was concealed from him by the mother, but who does
+
+not come forward in a dependency proceeding until after the
+reunification period has ended, cannot be treated as a Kelsey S. father
+entitled to reunification services without regard to the best interests
+of the child, who was placed with prospective adoptive parents when
+he was four days old and was thriving in their home for nine months
+before the biological father asserted his Kelsey S. claim. Vincent M.
+states, in dictum, that after the reunification period has expired, the
+biological father’s only remedy is a Welfare and Institutions Code
+section 388 modification petition, which requires changed circumstances or new evidence showing that it is in the child’s best interest
+to grant the biological father custody or reunification services.
+The first paragraph of this section includes persons who have
+properly executed voluntary declarations of paternity. See In re Liam
+L., 84 Cal.App.4th 739, 101 Cal.Rptr.2d 13 (2000) (man may be
+presumed father solely on the basis of his voluntary declaration of
+paternity).
+Scott v. Thompson, 184 Cal.App.4th 1506, 109° Cal.Rptr.3d 846
+
+the child’s father, the supreme court held that when no other man
+
+was asserting paternity and a presumed father sought to accept the
+responsibilities of paternity, an “appropriate action” was lacking. The
+supreme court opined that an “appropriate action” for rebuttal of a
+presumption of paternity might be one in which two men seek to
+establish paternity of a child or one in which a presumed father seeks
+to avoid the responsibilities of paternity. The court emphasized that
+it did not reach the question posed by Steven W. and Kiana A.,
+discussed
+
+in the
+
+Commentary
+
+to § 7612.
+
+Nor
+
+did
+
+it reach
+
+the
+
+question addressed by Jn re Jerry P., to which the California Supreme
+Court granted review on May 1, 2002 (46 P.3d 331, 119 Cal.Rptr.2d
+
+856), ordered published on June 6, 2002 (47 P.3d 988, 121 Cal.
+Rptr.2d 106), and dismissed review and remanded on August 28,
+2002 (53 P.3d 133, 124 Cal.Rptr.2d 718). The published opinion of
+the court of appeal in Jerry P., 95 Cal.App.4th 793, 116 Cal.Rptr.2d
+123 (2002), held that the status of “presumed father” for purposes of
+a dependency proceeding (see Welfare and Institutions Code
+§ 361.5(a)) suffices to qualify that person for child welfare services,
+including reunification services, without any inquiry whether the
+presumed father is also the biological father. Jerry P. reasoned that
+while the purpose of the paternity presumption (§ 7611) in the
+paternity provisions of the Family Code (§§ 7500-7952) is evidentiaty, that same presumption is used in the Welfare and Institutions
+Code solely for the purpose of identifying fathers by reference to
+their familial bonds to a dependent child. Jerry P. was followed in In
+re Raphael P. II, 97 Cal.App.4th 716, 118 Cal.Rptr.2d 610 (2002),
+review denied June 19, 2002; which holds, in a dependency proceeding,
+
+(2010), review denied, holds that, under section 7630, a decedent’s
+
+sibling has no standing in a wrongful death action to challenge the
+paternity of a person presumed to be decedent’s father under
+
+subsection (a) of this section.
+For the meaning of subsection (b)(2) “cohabitation,” see Section
+7540, Commentary. For discussion of subsection (d) “constructive
+receipt,” see Kelsey S., supra, 1 Cal.4th at 827. See also Comino v.
+Kelley, 25 Cal.App.4th 678, 30 Cal.Rptr.2d 728 (1994), review denied
+9/7/94 (trial court properly refused to apply the Section 7540
+conclusive presumption even though husband and wife were cohabiting at the time of conception when their marriage was one of
+financial convenience only and the putative father subsequently
+received the child and mother into his home and held the child out as
+his own, giving rise to presumptive paternity under Section 7611 (d));
+and Brian C. v. Ginger K., 77 Cal.App.4th 1198, 92 Cal.Rptr.2d 294
+(2000) (holding that trial court should not have applied the conclusive presumption of § 7540 when (1) at the birth of the child, the
+mother and her husband were not living together—although they
+subsequently reconciled; (2) the biological father developed a
+substantial parent-child relationship with the child from the child’s
+birth until a year and a half later; and (3) the biological father
+received the child into his home and acknowledged the child as his
+own (subsection (d) of this section). In re Tanis H., 59 Cal.App.4th
+1218, 69 Cal.Rptr.2d 380 (1997), held that an unwed biological
+father’s cohabitation with the mother when she was pregnant, but not
+
+that Family Code §§ 7551 and 7554 do not authorize the trial court
+
+to order genetic testing of a man who meets the requirements of
+presumed fatherhood. Raphael P. also observes that § 7551 allows a
+court to order paternity testing only when paternity is a relevant fact,
+which it arguably is not in a dependency proceeding when a man
+claims presumptive paternity and no other man asserts paternity. In
+re T.R., 132 Cal.App.4th 1202, 34 Cal.Rptr.3d 215 (2005), inverts the
+case law doctrine that, depending on the context, Section 7611
+presumptions may not be rebuttable by evidence of non-paternity.
+Although a child’s step-father received the child into his home and
+openly held 'the child as his own natural child, 7:R: concludes that, for
+purposes of a dependency proceeding where biological paternity is
+immaterial, the Section’7611(d) presumption of paternity is rebutted
+under this section by the step-father’s inappropriate conduct and
+prior convictions for sexually molesting children.
+
+517
+
+§ 7611
+
+PARENT
+
+AND
+
+CHILD
+
+have accepted a putative father’s express or implied representation
+that he is the child’s father and (2) the representation continue for a
+sufficient time to establish a parent-child relationship and frustrate
+the opportunity of discovering the child’s biological father. Clevenger
+v. Clevenger, 189 Cal.App.2d 658, 11 Cal.Rptr.707 (1961). For a review
+of the parentage-by-estoppel cases, see In re Marriage of Pedregon,
+107 Cal.App.4th 1284, 132 Cal.Rptr.2d 861 (2003) (requiring husband
+to pay child support for his divorced wife’s child even though he was
+not the biological father.) Although all the parentage-by-estoppel
+cases have involved men, the doctrine would seem equally applicable
+to women.
+County of San Diego v. Arzaga, 152 Cal.App.4th 1336, 62 Cal.Rptr.3d
+329 (2007), held that a trial court erred in applying the doctrine of
+parentage by estoppel to a man who did not know that he was not the
+child’s biological father and who stopped acting as the child’s father
+when he received negative paternity test results. Arzaga restricts
+application of the doctrine to a man who holds himself out as a
+child’s father while knowing that he is not in fact the child’s biological
+father.
+
+In re D.M., 210 Cal.App.4th 541, 148 Cal.Rptr.3d 349 (2012), review
+denied, held that an alleged father who was not the child’s biological
+father,
+
+was
+
+not
+
+married
+
+to the
+
+mother,
+
+and
+
+did
+
+not. meet
+
+the
+
+requirements for a statutory father could not, in a dependency
+proceeding, be a constitutionally presumed father under Kelsey S. and
+Jerry P. because he did not have an “existing familial bond with the
+
+child.”
+In re A.A., 114 Cal.App.4th 771, 7 Cal.Rptr.3d 755 (2003), review
+denied, held that in a dependency proceeding in which the child was
+declared a dependent, removed from his mother’s care, and placed
+with a man who was a presumed father because he had long held the
+child out as his own, the juvenile court erred in finding that the
+child’s biological father was a presumed father and that the man who
+held the child out as his own was merely a de facto parent. In other
+words, the court’s determination of biological fatherhood in favor of
+one man does not necessarily defeat another man’s presumed father
+status when the two issues arise in the same action. The court
+reasoned that § 7612(c) provides that a judgment establishing
+paternity by another man rebuts a presumption of paternity arising
+under this section. As no judgment had yet issued when the juvenile
+court made its finding of biological paternity, the requirement of a
+judgment was not satisfied in that proceeding. In Jn re Jesusa V., 32
+Cal.4th 588, 10 Cal.Rptr.3d 205, 85 P.3d 2 (2004), held that in a
+dependency proceeding concerning the placement of a child whose
+mother was hospitalized because she had been beaten and raped by
+the child’s biological father, the trial court properly applied this
+
+Research References
+Forms
+
+1 California Transactions Forms--Family Law § 3:126, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+Paternity [Form FI-280].
+1 California Transactions Forms--Family Law § 3:126.50, Informa-
+
+section and § 7612 in finding that both the biological father and the
+
+tion Sheet for Completing Request for Hearing and Application
+to Set Aside Voluntary Declaration of Paternity [Form FI-281].
+1 California Transactions Forms--Family Law § 3:127, Responsive
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity [Form FI-285].
+
+mother’s husband had the status of presumed father and in selecting
+the man who was not the child’s biological father as the presumed
+father for purposes of the dependency proceeding. The Supreme
+Court emphasized that the designation of the mother’s husband as
+“presumed father’ for purposes of the dependency proceeding did
+not terminate the parental rights of the other presumed father, who
+was also the biological father. Librers v. Black, 129 Cal.App.4th 114,
+28 Cal.Rptr.3d 188 (2005), holds that the analysis of Jesusa V. applies
+equally to paternity actions that are not part of dependency cases and
+that the trial court erred in finding that a man who asserted
+subsection (d) presumed father status lacked standing to bring a
+paternity action to assert that status because he was not the child’s
+biological father. Librers points. out that Section 7630 (b) grants any
+“interested party” standing to bring an action to determine the
+existence of a father and child relationship presumed under subsection (d).
+In re Karen C., 101 Cal.App.4th 932, 124 Cal.Rptr.2d 677 (2002),
+extends to women asserting the status of “presumed mother” the rule
+of In re Nicholas H., supra. Nicholas H. holds that the subsection (d)
+presumption of paternity arising from a man’s reception of a child
+into his home may, according to § 7612(a), be disputed only “in an
+appropriate action.” In re Salvador M., 111 Cal.App.4th 1353, 4
+Cal.Rptr.3d 705 (2003), held that the juvenile court erred in not
+granting presumed mother status to a dependent child’s adult half-
+
+1 California Transactions Forms--Family Law § 3:128, Order After
+
+Hearing on Motion to Set Aside Voluntary Declaration
+Paternity [Form FI-290].
+
+of Paternity.
+2 California Transactions Forms--Family Law § 5:4, Rights of De
+Facto Parents.
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+2 California Transactions Forms--Family Law § 6:8, Consent for
+Adoption of Unmarried Minor.
+2. California Transactions Forms--Family Law § 6:11, Initiating
+Proceeding Under Uniform Parentage Act [Fam C §§ 7600 to
+7730].
+.
+2 California Transactions Forms--Family Law § 6:40, Structuring the
+Adoption.
+2 California
+
+Code
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 6:47, Matters
+
+Consider in Drafting Petition for Independent
+Unmarried Minor.
+
+sister had established herself as the child’s presumed mother long
+before she admitted to school authorities that she was not the child’s
+biological mother. The court reasoned that this was not an appropriate case to allow rebuttal of the parental presumption because there
+was no competing maternal interest and the mother-child relationship was well established.
+In re Cody B., 153 Cal.App.4th 1004, 63 Cal.Rptr.3d 652 (2007), held
+that a juvenile court lacked jurisdiction to entertain a mother’s
+request to be designated a child’s presumed mother under subsection
+(d) after the mother’s parental rights had been terminated under
+and Institutions
+
+of
+
+1 California Transactions Forms--Family Law § 4:105, Declaration
+
+sister who cared for the child since their mother’s death, when the
+
+Welfare
+
+RELATIONSHIP
+
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+to
+
+Adoption
+
+of
+
+§ 6:72, Petition
+
+to
+
+§ 6:74, Petition
+
+to
+
+Terminate Parental Rights of Alleged Father.
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+Terminate Parental Rights of Alleged Father Served
+Notice,of Alleged Paternity Without Timely Response.
+
+With
+
+2 California Transactions Forms--Family Law § 6:75, Order Termi-
+
+nating Parental Rights of Alleged Father Served With Notice of
+Alleged Paternity Without Timely Response.
+2 California Transactions Forms--Family Law § 6:76, Ex Parte
+Application for Order to Terminate Parental Rights of Alleged
+Father Who Waived Notice or Denied Paternity.
+
+section 366.26, reasoning that the
+
+mother’s request constituted an impermissible collateral attack on
+the judgment terminating her parental rights.
+Even though a person has rebutted the subsection (d) presumption
+of paternity, he may still be required to support a child under the
+doctrine of parentage by estoppel, which requires that (1) the child
+
+2 California Transactions Forms--Family Law § 6:77, Order Termi-
+
+nating Parental Rights of Alleged Father Who Waived Notice.
+2 California Transactions Forms--Family Law § 7:38, Parentage and
+Birth Certificate.
+
+518
+
+UNIFORM
+
+PARENTAGE
+
+10 Witkin, California Summary 10th Parent
+In General.
+10 Witkin, California Summary 10th Parent
+Nature and Effect.
+10 Witkin, California Summary 10th Parent
+Constitutional Challenges.
+10 Witkin, California Summary 10th Parent
+Cohabitation Requirement.
+10 Witkin, California Summary 10th Parent
+Blood Test Disproving Paternity.
+10 Witkin, California Summary 10th Parent
+In General.
+
+2 California Transactions Forms--Family Law § 7:86, Overview.
+2 California Transactions Forms--Family Law § 7:96, California
+
+Statutory Form for Assisted Reproduction-Intent to be ParentsMarried Spouses or Registered Domestic Partners Using Assisted Reproduction to Conceive a Child (Form 1).
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 7:97,
+
+California
+
+Statutory Form for Assisted Reproduction-Intent to be ParentsUnmarried, Intended Parents Using Intended Parent’s Sperm to
+Conceive a Child (Form 2).
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 7:98,
+
+California
+
+Statutory Form for Assisted Reproduction-Intent to be ParentsIntended Parents Conceiving a Child Using Eggs from One
+Parent and the Other Parent Will Give Birth (Form 3).
+
+Overview-
+
+Conclusive Presumption as Child of Marriage.
+West’s California Code Forms, Family § 7610, Comment Overview-
+
+Establishing Parent and Child Relationship.
+West’s California Code Forms, Family § 7613 Form 1, Consent by
+Husband to Artificial Insemination of Wife.
+Overview-
+
+Determining Parent and Child Relationship.
+West’s California Code Forms, Family § 7630 Form 2, Complaint to
+
+Establish Nonexistence of Parental Relationship.
+West’s California Code Forms, Family § 7660, Comment Overview-
+
+Termination of Parental Rights in Adoption Proceedings.
+West’s. California Code Forms, Family § 8600, Comment Overview-
+
+Adoption of Unmarried Minors.
+West’s California Judicial Council Forms JV-505, Statement Regarding Parentage (Juvenile).
+Treatises and Practice Aids
+
+California Practice Guide Civil Procedure before Trial Statutes of
+Limitations Ch. 4-J, Miscellaneous Actions.
+
+Personal Injury (The Rutter Group, California Practice. Guide) Ch.
+3-G, Independent Damages Claims.
+8 Witkin, California Summary 10th Constitutional Law § 847 (2018),
+Right to Withhold Consent to Adoption.
+1 Witkin, California Summary 10th Contracts § 1061 (2018), Payment of Support Due to Mistaken Belief of Biological Fatherhood.
+Summary
+
+10th
+
+Husband
+
+and
+
+Wife
+
+§ 395
+
+Summary
+
+11th Juvenile
+
+Court
+
+Law
+
+§ 274
+
+(2018), Support.
+16 Witkin,
+
+California
+
+(2018), In General.
+16 Witkin, California Summary 11th Juvenile Court Law § 276
+(2018), Determination of Parentage.
+16 Witkin,
+
+California
+
+Summary
+
+11th Juvenile
+
+Court
+
+Law
+
+§ 277
+
+(2018), Standing to Challenge Voluntary Declaration of Paterni-
+
+16 Witkin, California Summary 11th Juvenile Court Law § 278
+(2018), Constitutional Rights of Man Seeking Presumed Father
+Status.
+16 Witkin,
+
+California
+
+Summary
+
+11th Juvenile
+
+Court
+
+Law
+
+§ 279
+
+Law
+
+§ 376
+
+(2018), Conduct Precluding Presumed Father Status.
+16 Witkin,
+
+California
+
+Summary
+
+11th Juvenile
+
+Court
+
+and Child § 16 (2018),
+and Child § 17 (2018),
+
+and Child § 20 (2018),
+
+and Child § 21 (2018),
+
+Genetic Testing.
+10 Witkin, California Summary 10th Parent and Child § 27 (2018),
+Action to Set Aside Declaration.
+10 Witkin, California Summary 10th Parent and Child § 28 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 29 (2018),
+Birth During Marriage.
+10 Witkin, California Summary 10th Parent and Child § 30 (2018),
+Subsequent Marriage.
+10 Witkin, California Summary 10th Parent and Child § 31 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 33 (2018),
+Rejection of Constructive Receipt Doctrine.
+10 Witkin, California Summary 10th Parent and Child § 34 (2018),
+Duration of Reception.
+10 Witkin, California Summary 10th Parent and Child § 35 (2018),
+Rebuttal in Appropriate Action.
+,
+10 Witkin, California Summary 10th Parent and Child § 36 (2018),
+Illustrations.
+10 Witkin, California Summary 10th Parent and Child § 37 (2018),
+Child in Utero.
+10 Witkin, California Summary 10th Parent and Child § 39 (2018),
+Statutory Rule.
+10 Witkin, California Summary 10th Parent and Child § 40 (2018),
+Weighing of Conflicting Interests is Required.
+10 Witkin, California Summary 10th Parent and Child § 41 (2018),
+Nonbiological Parent as Presumed Parent.
+10 Witkin, California Summary 10th Parent and Child § 42 (2018),
+Where Child Would Have Fewer Than Two Parents.
+10 Witkin, California Summary 10th Parent and Child § 43 (2018),
+Kelsey S. Father as Presumed Father.
+10 Witkin, California Summary 10th Parent and Child § 44 (2018),
+No Presumption in Cases of Rape.
+10 Witkin, California Summary 10th Parent and Child § 45 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 50 (2018),
+Where Intended Mother is Not Genetic Mother.
+10 Witkin, California Summary 10th Parent and Child § 52 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 53 (2018),
+Lesbian Partner Who is Not Biological Mother of Child.
+10 Witkin, California Summary 10th Parent and Child § 54 (2018),
+Domestic Partner Who Donated Her Ova to Partner to Conceive Child.
+10 Witkin, California Summary 10th Parent and Child § 55 (2018),
+Estoppel to Deny Motherhood of Lesbian Partner.
+10 Witkin, California Summary 10th Parent and Child § 56 (2018),
+Determination of Rights of Biological Mother, Presumed Mother, and Kelsey S. Father.
+10 Witkin, California Summary 10th Parent and Child § 58 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 59 (2018),
+Birth During Marriage or Subsequent Marriage.
+
+Issuance of Orders After Notice and Hearing.
+
+California
+
+and Child § 15 (2018), .
+
+10 Witkin, California Summary 10th Parent and Child § 26 (2018),
+
+West’s California Code Forms, Family § 6340, Comment Overview-
+
+11 Witkin,
+
+and Child § 14 (2018),
+
+Effect of Declaration.
+
+Statutory Form for Assisted Reproduction-Intent to be ParentsIntended Parents Using Known Sperm, Egg Donor to Conceive
+Child (Form 4).
+
+West’s California Code Forms, Family § 7630, Comment
+
+§ 7611
+
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+
+2 California Transactions Forms--Family Law § 7:98.50, California
+
+West’s California Code Forms, Family § 7540, Comment
+
+ACT
+
+_ (2018), Persons Entitled to Services.
+10. Witkin, California Summary 10th Parent and Child § 5 (2018),
+Nature and Effect of Classification.
+10 Witkin, California Summary 10th Parent and Child § 9 (2018),
+Development of Law.
+10 Witkin, California Summary 10th Parent and Child § 11 (2018),
+Child May Have More Than Two Parents.
+
+519
+
+§ 7611
+
+PARENT
+
+AND
+
+CHILD
+
+misdemeanor unlawful sexual intercourse under Penal Code § 261.5
+
+10 Witkin, California Summary 10th Parent and Child § 60 (2018),
+Reception Into Home or Child in Utero.
+10 Witkin, California Summary 10th Parent and Child § 61 (2018),
+Where Mother Marries Other Than Biological Father.
+10 Witkin, California Summary 10th Parent and Child § 62 (2018),
+Where Mother Marries After Complaint is Filed.
+10 Witkin, California Summary 10th Parent and Child § 63 (2018),
+Where Child is Born After Mother’s Divorce.
+10 Witkin, California Summary 10th Parent and Child § 66 (2018),
+Joinder and Alignment of Parties.
+10 Witkin, California Summary 10th Parent and Child § 78 (2018),
+Visitation Privileges.
+10 Witkin, California Summary 10th Parent and Child § 79 (2018),
+Who May Bring Action.
+10 Witkin, California Summary 10th Parent and Child § 80 (2018),
+Who May Not Bring Action.
+10 Witkin, California Summary 10th Parent and Child § 82 (2018),
+When Action is Not Appropriate.
+10 Witkin, California Summary 10th Parent and Child § 83 (2018),
+Notice of Adoption Proceeding.
+10 Witkin, California Summary 10th Parent and Child § 88 (2018),
+Statutory Requirements.
+10 Witkin, California Summary 10th Parent and Child § 90 (2018),
+Constitutional Rights of Natural Father.
+10 Witkin, California Summary 10th Parent and Child § 127 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 129 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 208 (2018),
+Agreement Between Parents.
+10 Witkin, California Summary 10th Parent and Child § 218 (2018),
+Current Statute: No Preference.
+
+was not barred from bringing an action to declare his paternity under
+Family Code § 7631, for the purpose of asserting his status as a
+presumed father under the constitutional holding of Adoption of
+Kelsey S. (see commentary to § 7611) and withholding his consent to
+the child’s adoption. Kyle F. concluded that this section was
+inapplicable because the father was never charged and the child was
+conceived when the father was 18 and the mother was 16.
+Research References
+Forms
+
+West’s California Judicial Council Forms JV-505, Statement Regard-
+
+ing Parentage (Juvenile).
+Treatises and Practice Aids
+
+8 Witkin, California Summary 10th Constitutional Law § 847 (2018),
+Right to Withhold Consent to Adoption.
+10 Witkin, California Summary 10th Parent and Child § 44 (2018),
+No Presumption in Cases of Rape.
+
+§ 7612. Presumption as natural parent; rebuttable presumption; conflicting presumptions; more than two
+persons with claim to parentage; petition to set aside
+voluntary declaration of paternity; invalid voluntary
+declarations of paternity
+Section operative until Jan. 1, 2020. See,
+also, § 7612 operative Jan. 1, 2020.
+
+(a) Except as provided in Chapter 1 (commencing with
+Section 7540) and Chapter 3 (commencing with Section 7570)
+of Part 2, a presumption under Section 7611 is a rebuttable
+presumption affecting the burden of proof and may be
+rebutted in an appropriate action only by clear and convincing evidence.
+(b) If two or more presumptions arise under Section 7611
+that conflict with each other, or if one or more presumptions
+under Section 7611 conflict with a claim by a person
+identified as a genetic parent pursuant to Section 7555, the
+presumption that on the facts is founded on the weightier
+considerations of policy and logic controls. If one of the
+presumed parents is also a presumed parent under Section
+7540, the presumption arising under Section 7540 may only
+be rebutted pursuant to Section 7541.
+(c) In an appropriate action, a court may find that more
+than two persons with a claim to parentage under this division
+are parents if the court finds that recognizing only two
+parents would be detrimental to the child. In determining
+
+10 Witkin, California Summary 10th Parent and Child § 238 (2018),
+Biologically Unrelated Person Opposed by Parent.
+10 Witkin, California Summary 10th Parent and Child § 239 (2018),
+Former Same-Sex Partner Opposed by Other Partner,
+6 Witkin, California Summary 10th Torts § 1553 (2018), Child of
+Presumed Parent.
+14 Witkin, California Summary 10th Wills and Probate § 108 (2018),
+Parent and Child Relationship.
+
+§ 7611.5. Presumption against natural father status;
+tion 7611 inapplicable
+
+Sec-
+
+Where Section 7611 does not apply, a man shall not be
+presumed to be the natural father of a child if either of the
+following is true:
+(a) The
+
+child was
+
+conceived
+
+as a result of an act in
+
+violation of Section 261 of the Penal Code and the father was
+convicted of that violation.
+
+(b) The child was
+
+conceived
+
+as a result of an act in
+
+detriment to the child, the court shall consider all relevant
+factors, including, but not limited to, the harm of removing
+the child from a stable placement with a parent who has
+fulfilled the child’s physical needs and the child’s psychological needs for care and affection, and who has assumed that
+
+violation of Section 261.5 of the Penal Code, the father was
+
+convicted of that violation, and the mother was under the age
+of 15 years and the father was 21 years of age or older at the
+time of conception. (Added by Stats.1993, c. 219 (A.B.1500),
+$2177)
+
+role for a substantial period of time. A finding of detriment
+to the child does not require a finding of unfitness of any of
+the parents or persons with a claim to parentage.
+(d) Unless a court orders otherwise after making the
+determination specified in subdivision (c), a presumption
+under Section 7611 is rebutted by a judgment establishing
+parentage of the child by another person.
+(e) Within two years of the execution of a voluntary
+declaration of paternity, a person who is presumed to be a
+parent under Section 7611 may file a petition pursuant to
+
+Law Revision Commission Comments
+Enactment
+
+RELATIONSHIP
+
+[Revised Comment]
+
+Section 7611.5 continues former Civil Code Section 7004(b)
+without substantive change.
+[23 Cal.L.Rev.Comm. Reports 1
+(1993)].
+Commentary
+In re Kyle F., 112 Cal.App.4th 538, 5 Cal.Rptr.3d 190 (2003), review
+denied, holds that an unwed father who could have been charged with
+
+520
+
+UNIFORM
+
+PARENTAGE
+
+Section 7630 to set aside a voluntary declaration of paternity.
+The court’s ruling on the petition to set aside the voluntary
+declaration of paternity shall be made taking into account the
+validity of the voluntary declaration of paternity, the best
+interests of the child based upon the court’s consideration of
+the factors set forth in subdivision (b) of Section 7575, and
+the best interests of the child based upon the nature,
+duration, and quality of the petitioning party’s relationship
+with the child and the benefit or detriment to the child of
+continuing that relationship.
+In the event of a conflict
+between the presumption under Section 7611 and the voluntary declaration of paternity, the weightier considerations of
+policy and logic shall control.
+(f) A voluntary declaration of paternity is invalid if, at the
+time the declaration was signed, any of the following conditions exist:
+(1) The child already had a presumed parent under
+Section 7540.
+(2) The child already had a presumed parent under
+subdivision (a), (b), or (c) of Section 7611.
+(3) The man signing the declaration is a sperm donor,
+consistent with subdivision (b) of Section 7613.
+(g) A person’s offer or refusal to sign a voluntary declaration of paternity may be considered as a factor, but shall not
+be determinative, as to the issue of legal parentage in any
+proceedings regarding the establishment or termination of
+parental rights.
+(h) This section shall remain in effect only until January 1,
+2020, and as of that date is repealed.
+(A.B.2650), § 10, operative Jan. 1, 1994.
+
+ling law. Nevertheless, prior case law may still be controlling on
+other issues and those cases might still yield the same results under
+revised section 7612(c).
+
+Subsection (c) now provides that a child may have more than two
+legal parents, overturning In re M.C., 195 Cal.App.4th 197, 123
+Cal. Rptr.3d 856 (2011), which held that when a dependent child had
+
+more than two presumed parents, the court was required to resolve
+the conflicting presumptions of parentage by reducing the number of
+presumed parents to no more than two.
+In re Donovan J., 244 Cal.App.4th 1075, 198 Cal.Rptr.3d 550 (2016),
+
+holds that, for purposes of subsection (c), “an appropriate action”
+requires that there already be an. existing parent-child relationship
+between the child and the person who claims third-parent status, so
+
+that recognizing only two parents would be detrimental to the child.
+Martinez v. Vaziri, 246 Cal.App.4th 373, 200 Cal.Rptr.3d 884 (2016),
+
+held that, in determining whether there is a subsection (c) “stable
+placement,” the trial court erred in focusing solely on the living
+arrangements of the adult parties rather than the extent to which the
+third-parent claimant satisfied the child’s physical and psychological
+needs. Martinez also considers whether each of the child’s biological
+parents has an existing parental relationship to the child and, if not,
+whether denying parental status to the third-parent claimant would
+effectively leave the child with only one parent.
+Although a child’s biological father was a presumed parent for
+purposes of section 7611(d) because he held the child out as his own
+and received him into his home during the first years of the child’s
+
+life, he was not eligible to be a third parent under this section when
+he had no existing relationship with the child, who already had a
+mother and a presumed father. In re L.L., 13 Cal.App.5th 1302, 220
+
+Cal.Rptr.3d 904 (2017).
+In re M.R., 7 Cal.App.5th 886, 212 Cal. Rptr.3d 807 (2017), affirmed
+a juvenile court ruling that a child had two presumed fathers when
+ample evidence showed that recognizing only one presumed father
+would be detrimental to the child.
+CA. v. C.P, 29 Cal.App.5th 27, 240 Cal.Rpir.3d 38 (2018), review
+denied, affirmed a trial court finding that the biological father of a
+child conceived as a result of a wife’s extramarital affair was a child’s
+parent where the mother and her husband allowed the biological
+father to act as an alternate parent to the child, welcoming the child
+into his home and holding the child out as his own. The court of
+appeal rejected the argument that the marital presumption of
+paternity prevailed over the section 7611(d) rebuttable presumption
+of paternity and that subsection (d) of this section can have no
+application when the child’s marital parents have a stable marriage.
+In re J.O., 178 Cal.App.4th 139, 100 Cal.Rptr.3d 276 (2009), holds
+that in a dependency proceeding a juvenile court erred in finding that
+a man’s section 7611(d). presumed father status was rebutted by his
+failure to contact or provide support for his children, when rebuttal
+of the man’s presumed father status would leave the children without
+any father.
+Kevin Q. v. Lauren W., 175 Cal.App.4th 1119, 95 Cal.Rptr.3d 477
+(2009), review denied, held that a voluntary declaration of paternity
+signed when a child already had a section 7611(d) presumed father
+had the effect of rebutting the latter’s presumption of paternity under
+subsection (c), because section 7573 gives a voluntary declaration of
+paternity the force and effect of a judgment of paternity. Mitigating
+
+(Stats.1992, c. 162
+Amended by Stats.
+
+1993, c. 219 (A.B.1500), § 178; Stats.1994, c. 1269 (A.B.
+2208), § 54; Stats.2008, c. 534 (S.B.1726), § 1; Stats.2011, c.
+185 (A.B.1349), § 3; Stats.2013, c. 510 (A.B.1403), § 4;
+Stats.2013, c. 564 (S.B.274), § 6.5; Stats.2015, c. 91 (A.B.
+1049), § 1, eff. Jan. 1, 2016; Stats.2016, c.. 86 (S.B.1171),
+§ 129, eff. Jan. 1, 2017; Stats.2018, c. 876 (A.B.2684), § 47,
+eff. Jan. 1, 2019.)
+Repeal
+
+For repeal of this section, see its terms.
+Law Revision Commission Comments
+Enactment
+
+§ 7612
+
+ACT
+
+[Revised Comment]
+
+Section 7612 continues former Civil Code Section 7004(c) without
+- substantive change. This section is similar to Section 4(b) of the
+Uniform Parentage Act (1973). In subdivision (c), “judgment” has
+been substituted for “decree.” This is not a substantive change. See
+Section 100 (“judgment’” includes decree, as appropriate).
+[23
+Cal.L.Rev.Comm. Reports 1 (1993)].
+
+Kevin
+
+Commentary
+
+Q., subsection
+
+(d), added
+
+in 2011, grants any section 7611
+
+presumed father, including a subsection (d) presumed father, the
+right to file a petition to set aside a voluntary declaration within two
+years of its making. By contrast, under section (e), also added by the
+2011 legislation, when parenthood is presumed under section 7450. or
+subsections (a),(b), or (c) of section 7611 (but not subsection (d)),
+any subsequent voluntary declaration of paternity by another person
+is automatically invalid
+
+Section 7601 and this section have been amended to provide that a
+child may have more than two legal parents, where having only two
+legal parent would be detrimental to the child, overturning In re M.C.,
+195 Cal.App.4th 197, 123 Cal.Rptr.3d 856 (2011), which held that
+when a dependent child had more than two presumed parents, the
+court was required to resolve the conflicting presumptions of
+parentage by reducing the number of presumed parents to no more
+than two. To the extent that any cases discussed in the Commentary
+to this Chapter rely on the prior rule that a child may have only two
+parents and only one father, those cases no longer express control-
+
+In re Levi H., 197 Cal.App.4th 1279, 128 Cal.Rptr.3d 814 (2011),
+holds that when a voluntary declaration of paternity qualifies for
+section (c) treatment, the presumption of paternity arising under
+
+section 7611(d) is rebutted by another man’s voluntary declaration of
+
+521
+
+§ 7612
+
+PARENT
+
+AND
+
+CHILD
+
+placed with a man who was a presumed father because he had long
+held the child out as his own, the juvenile court erred in finding that
+the child’s biological father was a presumed father and that the man
+who held the child out as his own was merely a de facto parent. In
+other words, the court’s determination of biological fatherhood in
+favor of one man does not necessarily defeat another man’s
+presumed father status when the two issues arise in the same action.
+The court reasoned that subsection (c) of this section provides that a
+judgment establishing paternity by another man rebuts a presumption
+of paternity arising under § 7611. As no judgment had yet issued
+when the juvenile court made its finding of biological paternity, the
+requirement of a judgment was not satisfied in that proceeding. In re
+Jesusa V., 32 Cal.4th 588, 10 Cal.Rptr.3d 205, 85 P.3d 2 (2004), held
+that in a dependency proceeding concerning the placement of a child
+whose mother was hospitalized because she had been beaten and
+raped by the child’s biological father, the trial court properly applied
+§ 7611 and this section in finding that both the biological father and
+the mother’s husband had the status of presumed father and in
+selecting the man who was not the child’s biological father as the
+presumed father for purposes of the dependency proceeding. The
+Supreme Court emphasized that the designation of the mother’s
+husband as presumed father for purposes of the dependency
+proceeding did not terminate the parental rights of the other
+
+paternity, and there is no need to engage in a subsection (b) weighing
+analysis.
+However, when a child has both an alleged biological father, whose
+
+paternity is at issue in a dependency proceeding, and a presumed
+father, a court must hold an evidentiary hearing on the issue
+biological paternity. If the court concludes that one man is the
+biological father and the other man is a presumed father, the court
+must perform a subsection (b) balancing to determine which man
+should be considered the child’s father. In re P.A., 198 Cal.App.4th
+974, 130 Cal.Rptr.3d 556 (2011). In re P.A. concludes that a finding
+
+that a man is a biological father is not a paternity judgment for
+purposes of subsection (c). In re P.A. interprets subsection (c) to refer
+to a judgment that already exists when the instant action arises. In re
+P.A. relies on In re A.A., discussed below in the Commentary to this
+
+section.
+By contrast, In re Cheyenne B., 203 Cal.App.4th 1361, 138
+Cal.Rptr.3d 267 (2012), review denied, holds that a pre-existing
+judgment that a man is the father of a child for child support
+purposes is a paternity judgment within the meaning of subsection (c)
+and therefore may preclude another man from establishing that the is
+a presumed father under section 7611(d). Nevertheless, the fact that
+the child support order satisfies subsection (c) does not make the
+support obligor a presumed parent. The effect of Cheyenne B. was
+that the child, who initially had one adjudicated nonpresumptive
+biological father and one unadjudicated presumptive father, ultimately had no presumed father.
+For discussion and application of subsection (b), see Steven W. v.
+Matthew S., 33 Cal.App.4th 1108, 39 Cal. Rptr.2d 535 (1995), where the
+mother’s separated husband invoked the Section 7611(a) presumption of paternity and the mother’s cohabitant invoked the Section
+7611(d) presumption. The court held that the social relationship
+between the cohabitant and the child weighed in favor of treating the
+presumption in the cohabitant’s favor as the controlling presumption
+under subsection (b). The court did not seem to realize that, unlike
+the Section 7540 conclusive presumption, the Section 7611 presumptions are rebuttable, and that blood tests clearly excluded the
+cohabitant, while demonstrating a high degree of probability that the
+husband was the father. Compare Barkaloff v. Woodward, 47 Cal.
+App.4th 393, 399, 55 Cal.Rptr.2d 167 (1996) (although a man is
+presumed to be the father of a child under Section 7611(d) when he
+receives the child into his home and holds the child out as his natural
+child, this presumption is rebuttable and is overcome by a judgment
+establishing that another man is the biological father of the child).
+For discussion of the evidentiary standards for rebutting Section 7611
+presumptions, see Section 7611, Commentary.
+The methodology of Steven W. was applied, in dictum, in the
+context of a dependency proceeding in In re Kiana A., 93 Cal.App.4th
+1109,
+
+113 Cal.Rptr.2d
+
+669
+
+(2001), where
+
+there were
+
+two
+
+RELATIONSHIP
+
+presumed father, who was also the biological father.
+
+Librers v. Black,
+
+129 Cal.App.4th 114, 28 Cal.Rptr.3d 188 (2005), holds that the
+analysis of Jesusa V. applies equally to paternity actions that are not
+part of dependency cases and that the trial court erred in finding that
+a man who asserted Section 7611(d) presumed father status lacked
+standing to bring a paternity action to assert that status because he
+was not the child’s biological father. Librers points out that Section
+7630(b) grants any “interested party” standing to bring an action to
+determine the existence of a father and child relationship presumed
+under subsection (d).
+Gabriel P. v. Suedi D., 141 Cal.App.4th 850, 46 Cal.Rptr.3d 437
+(2006), held that where there were two presumptive fathers, one a
+biological father and the other a father by virtue of his voluntary
+declaration of paternity and subsequent marriage to the child’s
+mother, the trial court erred in setting aside the latter’s voluntary
+declaration of paternity without joining him as a necessary party in
+the biological father’s paternity action, assessing his relationship to
+the child, and weighing the presumptions supporting the presumed
+father status of each of the two men. The court reasoned that this
+result is also required by Section 7675(b)(1), which provides that a
+court may set aside a voluntary declaration of paternity unless it
+determines that declining to do so would serve the best interests of
+the child.
+On March 30, 2004, the California Supreme Court denied review
+
+and ordered depublication of the court of appeal opinion in Jn re R.R.
+The depublished opinion, 9 Cal.Rptr.3d 188 (2004), had ruled that
+where the mother’s husband was a conclusively presumed father
+under §§ 7540 and 7541 because there was no challenge to his
+paternity during the two years following the child’s birth, but a blood
+test later ruled out husband as the biological father and husband was
+released from his court-ordered reunification plan, the juvenile court
+
+§ 7611
+
+presumptive fathers and the juvenile court applied subsection (b) of
+this section to award the presumption to a man who may not have
+been the biological father. The court of appeal found that the other
+presumptive father, who may also have been the biological father,
+had waived his right to genetic testing in the juvenile court
+proceeding by failing to seek testing, although a request for genetic
+testing, which was denied by the juvenile court, had been made by the
+other presumptive father and the Department of Social Services.
+Kiana A. additionally states, by way of dictum, that even if the
+biological father could have raised the issue of paternity, his
+challenge would not necessarily have defeated the nonbiological
+father’s § 7611(d) presumption of paternity, which arose from
+receiving a child into one’s home and holding the child out as one’s
+natural child. But see Family Code § 7630(b), which provides that
+“[aJny interested party may bring an action at any time for the
+purpose of determining the existence or nonexistence of the father
+and child relationship presumed under subdivision (d) of Section
+7611.” In re A.A., 114 Cal.App.4th 771, 7 Cal.Rptr.3d 755 (2003),
+review denied, held that in a dependency proceeding in which the
+child was declared a dependent, removed from his mother’s care, and
+
+erred in ordering adoptive placement before terminating the rights of
+the mother’s husband because he remained the presumptive father
+even though he had been ruled out at the biological father.
+Compare In re Nicholas H., 28 Cal.4th 56, 407A, 46 P.3d 932, 120
+
+Cal.Rptr.2d 146 (2002), in which the California Supreme Court
+interpreted the “in an appropriate action” language of § 7612(a) to
+limit the rebuttal of presumed fatherhood to cases where rebuttal is
+
+appropriate rather than to allow it in all cases. In Nicholas H., a
+dependency proceeding, a fit presumptive father seeking to assume
+parental obligations admitted that he was not the child’s biological
+
+father. In reversing the court of appeal, which had held that his
+admission and the mother’s testimony to the same effect rebutted the
+presumption that he was the child’s father, the supreme court held
+that when no other man was asserting paternity and a presumed
+
+522
+
+UNIFORM
+
+PARENTAGE
+
+father sought to accept the responsibilities of paternity, an “appropriate action” was lacking. The supreme court opined that an “appropriate action” for rebuttal of a presumption of paternity might be one in
+which two men seek to establish paternity of a child or one in which a
+
+purposes of a dependency proceeding where biological paternity is
+immaterial, the Section 7611(d) presumption of paternity is rebutted
+under this section by the step-father’s inappropriate conduct and
+prior convictions for sexually molesting children. For further discussion of the use of paternity presumptions in dependency proceedings,
+see commentary to Welfare and Institutions Code Section 361.5.
+
+presumed father seeks to avoid the responsibilities of paternity. The
+court emphasized that it did not reach the question posed by Steven
+W. and Kiana A., discussed immediately above. Nor did it reach the
+question addressed by In re Jerry P., to which the California Supreme
+Court granted review on May 1, 2002 (46 P.3d 331, 119 Cal.Rptr.2d
+856), ordered published on June 6, 2002 (47 P.3d 988, 121 Cal.
+Rptr.2d 106), and dismissed review and remanded on August 28,
+2002 (53 P.3d 133, 124 Cal.Rptr.2d 718). The published opinion of
+the court of appeal in Jerry P., 95 Cal.App.4th 793, 116 Cal.Rptr.2d
+123 (2002), held that the status of “presumed father” for purposes of
+a dependency proceeding (see Welfare and Institutions Code § 361.5
+(a)) suffices to qualify that person for child welfare services, including
+reunification services, without any inquiry whether the presumed
+father is also the biological father. Jerry P. reasoned that while the
+purpose of the paternity presumption (§ 7611) in the paternity
+provisions of the Family Code (§§ 7500-7952) is evidentiary, that
+same presumption is used in the Welfare and Institutions Code solely
+for the purpose of identifying fathers by reference to their familial
+bonds to a dependent child. Jerry P. was followed in Jn re Raphael P.
+
+In re D:S., 207 Cal.App.4th 1088, 143 Cal.Rptr.3d 918 (2012), held
+that when a child has a natural mother, a child’s stepmother may not
+challenge the natural mother’s maternity under this section, even
+though the stepmother could be found to be a section 7611(d)
+presumed parent. Jn re D.S. reasoned that this is not an “appropriate
+action” within the meaning of subsection (a) of this section. If, as it
+appeared, the natural mother has abandoned the child, the appropriate action is a stepparent adoption proceeding.
+Research References
+Forms
+
+Hearing and Application to Set Aside Voluntary Declaration of
+
+Paternity [Form FI-280].
+1 California Transactions Forms--Family Law § 3:126.50, Information Sheet for Completing Request for Hearing and Application
+to Set Aside Voluntary Declaration of Paternity [Form FI-281].
+1 California Transactions
+
+19, 2002, which holds, in a dependency proceeding, that Family Code
+testing of a man who meets the requirements of presumed fatherhood. Raphael P. also observes that § 7551 allows a court to order
+paternity testing only when paternity is a relevant fact, which it
+arguably is not in a dependency proceeding when a man claims
+presumptive paternity and no other man asserts paternity.
+In re D.M., 210 Cal.App.4th 541, 148 Cal.Rptr.3d 349 (2012), review
+denied, held that an alleged father who was not the child’s biological
+married
+
+to the mother,
+
+and
+
+did not meet
+
+Forms--Family
+
+Law
+
+§ 3:127, Responsive
+
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity [Form FI-285].
+
+§§ 7551 and 7554 do not authorize the trial court to order genetic
+
+not
+
+;
+
+1 California Transactions Forms--Family Law § 3:126, Request for
+
+II, 97 Cal.App.4th 716, 118 Cal.Rptr.2d 610 (2002), review denied June
+
+father, was
+
+§ 7612
+
+ACT
+
+1 California Transactions
+
+Forms--Family
+
+Law § 3:128, Order After
+
+Hearing on Motion to Set Aside Voluntary Declaration of
+Paternity [Form FI-290].
+1 California Transactions Forms--Family Law § 4:105, Declaration
+of Paternity.
+a
+2 California Transactions
+
+Forms--Family
+
+Law § 5:4, Rights of De
+
+Facto Parents.
+
+the
+
+2 California Transactions. Forms--Family Law § 5:9, Use of Parent-
+
+requirements for a statutory father could not, in a dependency
+proceeding, be a constitutionally presumed father under Kelsey S. and
+Jerry P. because he did not have an “existing familial bond with the
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’, Relationship Where Both
+Partners Are Biological Parents.
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+2 California Transactions Forms--Family Law § 6:8, Consent for
+Adoption of Unmarried Minor,
+2 California Transactions Forms--Family Law. § 6:11, Initiating
+Proceeding Under Uniform Parentage Act [Fam C §§ 7600 to
+
+child.”
+JR. v. D.P., 212 Cal.App.4th 374, 150 Cal.Rptr.3d 882 (2012), review
+denied, affirmed a trial court decision resolving conflicting section
+7611(d) presumptions of paternity in favor of a Kelsey S. father,
+rather than the mother’s husband, who had been her boyfriend at the
+time of the child’s conception and birth, lived with the child and
+
+7730].
+
+mother, and raised the child as his own. The court reasoned that
+
+2 California Transactions Forms--Family Law § 6:40, Structuring the
+Adoption.
+2 California Transactions. Forms--Family Law § 6:47, Matters to
+Consider in Drafting Petition for Independent Adoption of
+Unmarried Minor.
+2 California Transactions Forms--Family Law. § 6:72, Petition to
+Terminate Parental Rights of Alleged Father.
+2 California Transactions Forms--Family Law. §. 6:74, Petition to
+Terminate Parental Rights of Alleged Father Served With
+Notice of Alleged Paternity Without Timely Response.
+2 California Transactions Forms--Family Law § 6:75, Order Terminating Parental Rights of Alleged Father Served With Notice of
+Alleged Paternity Without Timely Response.
+
+resolving the conflict in favor of the Kelsey S. biological father would
+serve the child’s best interests because if the presumption were
+resolved in favor of the mother’s husband, the mother would have
+
+prevented contact between the biological father and the child.
+In re Karen C., 101 Cal.App.4th 932, 124 Cal.Rptr.2d 677 (2002),
+extends to women asserting the status of “presumed mother” the rule
+
+of In re Nicholas H., supra. Nicholas H. holds that the § 7611 (d)
+presumption of paternity arising from a man’s reception of a child
+into his home may, according to subsection (a), be disputed only “in
+an appropriate action,’ In re Salvador M., 111 Cal.App.4th 1353, 4
+Cal.Rptr.3d 705 (2003), held that the juvenile court erred in not
+granting presumed mother status to a dependent child’s adult halfsister who cared for the child since their mother’s death, when the
+sister had established herself as the child’s presumed mother long
+before she admitted to school authorities that she was not the child’s
+biological mother. The court reasoned that this was not an appropriate case to allow rebuttal of the parental presumption because there
+was no competing maternal interest and the mother-child relationship was well established.
+In re T.R., 132 Cal.App.4th 1202, 34 Cal.Rptr.3d 215 (2005), inverts
+
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 6:76,
+
+Ex
+
+Parte
+
+Application for Order to Terminate Parental Rights of Alleged
+Father Who Waived Notice or Denied Paternity.
+2 California Transactions Forms--Family Law § 7:38, Parentage and
+Birth Certificate.
+2 California Transactions Forms--Family Law § 7:86, Overview.
+West’s California Judicial Council Forms JV-505, Statement Regard-
+
+ing Parentage (Juvenile).
+
+the case law doctrine that, depending on the context, Section 7611
+Treatises and Practice Aids
+
+presumptions may not be rebuttable by evidence of non-paternity.
+Although a child’s step-father received the child into his home and
+
+8 Witkin, California Summary 10th Constitutional Law § 847 (2018),
+Right to Withhold Consent to Adoption.
+
+openly held the child as his own natural child, 7.R. concludes that, for
+
+523
+
+§ 7612
+16 Witkin,
+
+PARENT
+California
+
+Summary
+
+11th
+
+Juvenile
+
+Court
+
+AND
+Law
+
+CHILD
+
+RELATIONSHIP
+
+presumed parents is also a presumed parent under Section
+7540, the presumption arising under Section 7540 may only
+be rebutted pursuant to Section 7541.
+(c) In an appropriate action, a court may find that more
+than two persons with a claim to parentage under this division
+are parents if the court finds that recognizing only two
+parents would be detrimental to the child. In determining
+
+§ 277
+
+(2018), Standing to Challenge Voluntary Declaration of Paterni-
+
+ty.
+16 Witkin, California Summary 11th Juvenile Court Law § 278
+(2018), Constitutional Rights of Man Seeking Presumed Father
+Status.
+16 Witkin, California Summary 11th Juvenile Court Law § 339
+(2018), In General.
+10 Witkin, California Summary 10th Parent and Child § 11 (2018),
+Child May Have More Than Two Parents.
+10 Witkin, California Summary 10th Parent and Child § 15 (2018),
+Nature and Effect.
+10 Witkin, California Summary 10th Parent and Child § 20 (2018),
+Blood Test Disproving Paternity.
+10 Witkin, California Summary 10th Parent and Child § 21 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 23 (2018),
+Effect of Declaration.
+10 Witkin, California Summary 10th Parent and Child § 27 (2018),
+Action to Set Aside Declaration.
+
+detriment to the child, the court shall consider all relevant
+factors, including, but not limited to, the harm of removing
+
+the child from a stable placement with a parent who has
+fulfilled the child’s physical needs and the child’s psychological needs for care and affection, and who has assumed that
+
+role for a substantial period of time. A finding of detriment
+to the child does not require a finding of unfitness of any of
+the parents or persons with a claim to parentage.
+(d) Unless a court orders otherwise after making the
+determination specified in subdivision (c), a presumption
+under Section 7611 is rebutted by a judgment establishing
+parentage of the child by another person.
+(e) A person’s offer or refusal to sign a voluntary declaration of parentage may be considered as a factor, but shall not
+be determinative, as to the issue of legal parentage in a
+proceeding regarding the establishment or termination of
+parental rights.
+(f) This section shall become operative on January 1, 2020.
+
+10 Witkin, California Summary 10th Parent and Child § 28 (2018),
+In General.
+10 Witkin, California Summary 10th Parent and Child § 31 (2018),
+In General.
+
+10 Witkin, California Summary 10th Parent and Child § 35 (2018),
+Rebuttal in Appropriate Action.
+10 Witkin, California Summary 10th Parent and Child § 39 (2018),
+Statutory Rule.
+10 Witkin, California Summary 10th Parent and Child § 40 (2018),
+Weighing of Conflicting Interests is Required.
+10 Witkin, California Summary 10th Parent and Child § 41 (2018),
+Nonbiological Parent as Presumed Parent.
+10 Witkin, California Summary 10th Parent and Child § 42 (2018),
+Where Child Would Have Fewer Than Two Parents.
+10 Witkin, California Summary 10th Parent and Child § 53 (2018),
+Lesbian Partner Who is Not Biological Mother of Child.
+10 Witkin, California Summary 10th Parent and Child § 56 (2018),
+Determination of Rights of Biological Mother, Presumed Mother, and Kelsey S. Father.
+
+(Added by Stats.2018, c. 876 (A.B.2684), § 48, eff. Jan. 1, 2019,
+operative Jan. 1, 2020.)
+Research References
+Forms
+
+1 California Transactions Forms--Family Law § 3:126, Request for
+Hearing and Application to Set Aside Voluntary Declaration of
+
+Paternity [Form Fl-280].
+1 California Transactions Forms--Family Law § 3:126.50, Informa-
+
+tion Sheet for Completing Request for Hearing and Application
+to Set Aside Voluntary Declaration of Paternity [Form Fl-281].
+1 California Transactions Forms--Family Law § 3:127, Responsive
+Declaration to Application to Set Aside Voluntary Declaration
+of Paternity [Form FI-285].
+
+10 Witkin, California Summary 10th Parent and Child § 62 (2018),
+
+Where Mother Marries After Complaint is Filed.
+10 Witkin, California Summary 10th Parent and Child § 79 (2018),
+Who May Bring Action.
+10 Witkin, California Summary 10th Parent and Child § 82 (2018),
+When Action is Not Appropriate.
+
+1 California Transactions Forms--Family Law § 3:128, Order After
+
+Hearing on Motion to Set Aside Voluntary Declaration of
+Paternity [Form FI-290].
+1 California Transactions Forms--Family Law § 4:105, Declaration
+of Paternity.
+2 California Transactions Forms--Family Law § 5:4, Rights of De
+_ Facto Parents.
+
+10 Witkin, California Summary 10th Parent and Child § 238 (2018),
+
+Biologically Unrelated Person Opposed by Parent.
+
+§ 7612. Presumption as natural parent; rebuttable presumption; conflicting presumptions; more than two
+persons with claim to parentage; person’s offer or
+refusal to sign voluntary declaration of parentage
+Section operative Jan. 1, 2020. See, also,
+§ 7612 operative until Jan. 1, 2020.
+
+2 California Transactions Forms--Family Law § 5:9, Use of Parent-
+
+ing Agreement to Define Rights and Responsibilities Relating to
+Child on Termination of Partners’ Relationship Where Both
+Partners Are Biological Parents.
+2 California Transactions Forms--Family Law § 6:3, Definitions.
+2 California Transactions Forms--Family Law § 6:8, Consent
+
+for
+
+Adoption of Unmarried Minor.
+2 California Transactions Forms--Family Law § 6:11, Initiating
+Proceeding Under Uniform Parentage Act [Fam C §§ 7600 to
+7730].
+2 California Transactions Forms--Family Law § 6:40, Structuring the
+Adoption.
+
+(a) Except as provided in Chapter 1 (commencing with
+Section 7540) and Chapter 3 (commencing with Section 7570)
+of Part 2, a presumption under Section 7611 is a rebuttable
+presumption affecting the burden of proof and may be
+rebutted in an appropriate action only by clear and convincing evidence.
+(b) If two or more presumptions arise under Section 7611
+that conflict with each other, or if one or more presumptions
+under Section 7611 conflict with a claim by a person
+identified as a genetic parent pursuant to Section 7555, the
+presumption that on the facts is founded on the weightier
+considerations of policy and logic controls, If one of the
+
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 6:47, Matters
+
+to
+
+Consider in Drafting Petition for Independent Adoption of
+Unmarried Minor.
+2 California Transactions Forms--Family Law § 6:72, Petition to
+Terminate Parental Rights of Alleged Father.
+2 California
+
+Transactions
+
+Forms--Family
+
+Law
+
+§ 6:74, Petition to
+
+Terminate Parental Rights of Alleged Father Served With
+Notice of Alleged Paternity Without Timely Response.
+
+524
+
+
