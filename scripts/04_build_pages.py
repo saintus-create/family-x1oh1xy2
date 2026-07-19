@@ -27,15 +27,15 @@ PAGES_DIR = REPO / "fern" / "docs" / "pages"
 SECTIONS_FILE = REPO / "family_code_sections.json"
 XREF_FILE = REPO / "fam_cross_references.json"
 
-# Division -> (title, slug) — covers the full FAM code.
+# Division -> (title, slug) — official California Family Code divisions.
 DIVISIONS = {
-    1: ("Preliminary Provisions", "preliminary-provisions"),
-    2: ("Marriage", "marriage"),
+    1: ("Preliminary Provisions and Definitions", "preliminary-provisions"),
+    2: ("General Provisions", "marriage"),
     "2.5": ("Domestic Partner Registration", "division-2.5-domestic-partners"),
-    3: ("Rights and Obligations During Marriage", "division-3-marriage"),
-    4: ("Property Rights", "division-4-rights-during-marriage"),
+    3: ("Marriage", "division-3-marriage"),
+    4: ("Rights and Obligations During Marriage", "division-4-rights-during-marriage"),
     5: ("Conciliation Proceedings", "division-5-conciliation"),
-    6: ("Dissolution of Marriage", "division-6-dissolution"),
+    6: ("Nullity, Dissolution, and Legal Separation", "division-6-dissolution"),
     7: ("Division of Property", "division-7-property"),
     8: ("Custody of Children", "division-8-custody"),
     9: ("Support", "division-9-support"),
@@ -44,7 +44,6 @@ DIVISIONS = {
     12: ("Parent and Child Relationship", "division-12-parent-child"),
     13: ("Adoption", "division-13-adoption"),
     14: ("Family Law Facilitator Act", "division-14-family-law-facilitator"),
-    15: ("Conservatorship and Guardianship", "division-15-conservatorship"),
     17: ("Support Services", "division-17-support-services"),
     20: ("Pilot Projects", "division-20-pilot-projects"),
 }
@@ -55,28 +54,37 @@ def division_of(section_number: str) -> float:
         n = float(section_number)
     except ValueError:
         return 0.0
-    # Family Code division boundaries (approximate, by leading digits)
+    # California Family Code division boundaries (official, by section number).
+    # Section 1000/1100 -> Div 4; 2000-2452 -> Div 6; 1800-1852 -> Div 5.
     if n < 200:
         return 1
-    if n < 300:
+    if n < 297:
         return 2
+    if 297 <= n <= 299.6:
+        return 2.5
     if n < 400:
-        return 2.5 if 297 <= n <= 299.6 else 2
+        return 2
     if n < 700:
         return 3
-    if n < 1000:
+    if n < 1104:
         return 4
-    if n < 1100:
-        return 5
+    if n < 1800:
+        return 4
     if n < 2000:
-        return 6
+        return 5
     if n < 2500:
-        return 7
+        return 6
     if n < 3000:
-        return 8
+        return 7
     if n < 3500:
+        return 8
+    if n < 3600:
         return 9
-    if n < 6200:
+    if n < 3700:
+        return 9
+    if n < 4000:
+        return 9
+    if n < 5000:
         return 9
     if n < 6500:
         return 10
@@ -85,7 +93,7 @@ def division_of(section_number: str) -> float:
     if n < 7500:
         return 12
     if n < 8600:
-        return 12  # parent-child / presumptive parent
+        return 12
     if n < 10000:
         return 13
     if n < 17000:
@@ -116,7 +124,7 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
         "",
         f"# {title}",
         "",
-        f"**Division {div_key}** — California Family Code",
+        f'<span class="division-label">**Division {div_key}** — California Family Code</span>',
         "",
     ]
     if not secs:
@@ -172,6 +180,9 @@ def style_emphasis(content: str) -> str:
     - '* * *' (omitted-text marker) -> a callout note block.
     - remaining inline '*text*' -> colored <span class="em"> (no underline).
     """
+    # 0) Clean common OCR hyphenation artifacts: a word broken across a line
+    #    with a stray hyphen + space, e.g. "communi- ty" -> "community".
+    content = re.sub(r"\b(\w+)-\s+", r"\1", content)
     # 1) Omitted-text ellipses: '* * *' on its own line or inline.
     content = content.replace("* * *", '<aside class="omit-note">[text omitted in source]</aside>')
 
@@ -189,6 +200,28 @@ def style_emphasis(content: str) -> str:
         content,
     )
     content = content.replace('<span class="em"></span>', "")
+
+    # 3) Prose double-quotes -> colored <span class="quoted">.
+    #    Only wraps word-bounded "..." in body text; URLs/attributes/YAML
+    #    are not emitted as bare quotes by this pipeline, so they're safe.
+    def _quote(m):
+        inner = m.group(1)
+        if not inner.strip():
+            return m.group(0)
+        # Skip URLs / HTML attributes (href=, class=, etc.).
+        if inner.startswith("http") or ":" in inner.split(" ")[0] and inner.split(" ")[0] in (
+            "href", "class", "src", "alt", "title", "rel", "id"
+        ):
+            return m.group(0)
+        return f'<span class="quoted">"{inner}"</span>'
+
+    # Negative lookbehind for '=' so attribute values (href=", class=) are skipped.
+    # Only run on the page BODY (after frontmatter), so the title: "..." value
+    # is never wrapped.
+    parts = content.split("\n---\n", 1)
+    if len(parts) == 2:
+        body = re.sub(r'(?<![=\w])"([A-Za-z][^"]*?)"', _quote, parts[1])
+        content = parts[0] + "\n---\n" + body
     return content
 
 
@@ -206,7 +239,7 @@ def main() -> None:
     div_sections = {s["sectionNumber"] for s in sections}
 
     for div_key, div_info in DIVISIONS.items():
-        secs = by_div.get(div_key, [])
+        secs = by_div.get(float(div_key), [])
         content = render_page(div_key, div_info, secs)
         if xrefs:
             content = inject_cross_refs(content, xrefs, div_sections)

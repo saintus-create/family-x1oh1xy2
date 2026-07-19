@@ -6,6 +6,7 @@
   --color-muted: #666666;
   --color-border: #e5e5e5;
   --color-link: #000000;
+  --color-accent: #2563eb;
   --font-sans: 'Public Sans', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
   --max-width: 90ch;
@@ -110,6 +111,18 @@ a.xref::after {
 }
 
 a.xref:hover::after { opacity: 1; background-color: var(--color-link); }
+
+/* Colored quotation marks / quoted spans */
+.quoted,
+q {
+  color: var(--color-accent);
+}
+
+/* Division title label */
+.division-label {
+  color: var(--color-accent);
+  font-weight: 600;
+}
 
 code {
   font-family: var(--font-mono);

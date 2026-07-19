@@ -25,56 +25,50 @@ navigation:
           - page: Home
             path: docs/pages/home.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Preliminary Provisions
+          - page: Division 1 — Preliminary Provisions and Definitions
             path: docs/pages/preliminary-provisions.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 1 — Definitions
-            path: docs/pages/division-1-definitions.mdx
-            icon: docs/assets/icon-circle.svg
-          - page: Division 2 — Marriage
+          - page: Division 2 — General Provisions
             path: docs/pages/marriage.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 2.5 — Domestic Partner Registration
             path: docs/pages/division-2.5-domestic-partners.mdx
             icon: docs/assets/icon-circle.svg
-          - page: "Division 3 — Marriage: Rights and Obligations"
+          - page: Division 3 — Marriage
             path: docs/pages/division-3-marriage.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 4 — Property Rights
+          - page: Division 4 — Rights and Obligations During Marriage
             path: docs/pages/division-4-rights-during-marriage.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 5 — Conciliation Proceedings
             path: docs/pages/division-5-conciliation.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 6 — Dissolution
+          - page: Division 6 — Nullity, Dissolution, and Legal Separation
             path: docs/pages/division-6-dissolution.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 7 — Division of Property
             path: docs/pages/division-7-property.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 8 — Custody
+          - page: Division 8 — Custody of Children
             path: docs/pages/division-8-custody.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 9 — Support
             path: docs/pages/division-9-support.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 10 — Domestic Violence
+          - page: Division 10 — Prevention of Domestic Violence
             path: docs/pages/division-10-domestic-violence.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 11 — Minors
             path: docs/pages/division-11-minors.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 12 — Parent and Child
+          - page: Division 12 — Parent and Child Relationship
             path: docs/pages/division-12-parent-child.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 13 — Adoption
             path: docs/pages/division-13-adoption.mdx
             icon: docs/assets/icon-circle.svg
-          - page: Division 14 — Family Law Facilitator
+          - page: Division 14 — Family Law Facilitator Act
             path: docs/pages/division-14-family-law-facilitator.mdx
-            icon: docs/assets/icon-circle.svg
-          - page: Division 15 — Conservatorship and Guardianship
-            path: docs/pages/division-15-conservatorship.mdx
             icon: docs/assets/icon-circle.svg
           - page: Division 17 — Support Services
             path: docs/pages/division-17-support-services.mdx
