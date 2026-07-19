@@ -107,15 +107,16 @@ def clean_text(text: str) -> str:
 
     - Fix OCR hyphenation artifacts ("communi- ty" -> "community").
     - Join soft line breaks (PDF extraction artifacts) into sentences.
-    - Collapse multiple blank lines.
+    - Strip all-caps OCR artifacts.
+    - Drop bare section-number TOC fragments.
+    - Normalize whitespace.
     """
     text = re.sub(r"\b(\w+)-\s+", r"\1", text)
     text = re.sub(r"([A-Za-z0-9,;:])\s*\n(?=[A-Za-z0-9])", r"\1 ", text)
+    # Strip all-caps OCR artifacts (e.g. "WELFARE AND INSTITUTIONS CODE").
+    text = re.sub(r"\b[A-Z]{3,}(?:\s+[A-Z]{3,})*\b", "", text)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
-    # Drop bare section-number TOC fragments ("3002." alone on a line) and
-    # the one-line description that follows — index entries leaked from the
-    # annotated source, not statute text.
     text = re.sub(r"^\s*\d{3,4}\.\s*$\n(?:[A-Z][^\n]*\n)?", "", text, flags=re.M)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
@@ -145,18 +146,28 @@ def render_page(div_key, div_info, secs: list[dict]) -> str:
             f".xhtml?lawCode=FAM&sectionNum={s['sectionNumber']}."
         )
         lines += [
-            f"### [{s['sectionNumber']}]({sec_url})",
+            f"### Section {s['sectionNumber']}",
+            "",
+            f"*[View on California Legislative Information]({sec_url})*",
+            "",
             "",
             clean_text(s["text"]),
             "",
             "",
         ]
+    lines.append(
+        "<div class=\"source-note\">\n\n"
+        "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition). "
+        "Derived from the [California Legislative Information]"
+        "(https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM) Family Code.\n\n"
+        "</div>"
+    )
     return "\n".join(lines)
 
 
 def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -> str:
     """Wrap bare 'Section X' mentions with links."""
-    present = {m.group(1) for m in re.finditer(r"^### \[Section (\S+)", content, re.M)}
+    present = {m.group(1) for m in re.finditer(r"^### Section (\S+)", content, re.M)}
     if not present:
         return content
 
@@ -175,7 +186,7 @@ def inject_cross_refs(content: str, xrefs: list[dict], div_sections: set[str]) -
         if f'href="{url}"' in content:
             continue
         pattern = re.compile(
-            r"(?<![={\"<])(?<!href=\")\b" + re.escape(frag) + r"\b(?![}>])"
+            r"(?<![={\"<])(?<!href=\")(?<!###\s)\b" + re.escape(frag) + r"\b(?![}>])"
         )
         content = pattern.sub(
             lambda mm, u=url: f'<a href="{u}">{mm.group(0)}</a>', content
@@ -227,17 +238,28 @@ def main() -> None:
         "",
         "The complete California Family Code, presented verbatim.",
         "",
-        "## Divisions",
+        '<div class="division-grid">',
         "",
     ]
     for div_key in sorted(DIVISIONS.keys(), key=lambda k: float(k)):
         title, slug = DIVISIONS[div_key]
-        home.append(f"- [Division {div_key}: {title}](/{slug})")
+        count = len(by_div.get(float(div_key), []))
+        home.append(
+            f'<a class="division-card" href="/{slug}">\n'
+            f'  <div class="division-card-title">Division {div_key}: {title}</div>\n'
+            f'  <div class="division-card-meta">{count} sections</div>\n'
+            f'</a>'
+        )
     home += [
+        "</div>",
         "",
         "---",
         "",
-        "*Source: California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition), derived from the [California Legislative Information](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM) Family Code.*",
+        "<div class=\"source-note\">\n\n",
+        "**Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition). "
+        "Derived from the [California Legislative Information]"
+        "(https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM) Family Code.\n\n",
+        "</div>",
         "",
     ]
     (PAGES_DIR / "home.mdx").write_text("\n".join(home), encoding="utf-8")

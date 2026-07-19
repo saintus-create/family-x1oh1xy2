@@ -106,7 +106,7 @@ typography:
   fontSize:
     base: 17px
     headings:
-      h1: 2rem
+      h1: 2.25rem
       h2: 1.5rem
       h3: 1.25rem
   lineHeight:

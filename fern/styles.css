@@ -1,18 +1,33 @@
-/* Minimal overrides on top of Fern's built-in docs theme.
-   Typography (font, sizes, line-height) is configured in docs.yml. */
+/* Overrides on top of Fern's built-in docs theme. */
 
-/* Section titles: xl size for scanability */
-.markdown h3 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  margin-top: 2.5rem;
-  margin-bottom: 0.75rem;
-  line-height: 1.2;
+/* Wider measure for long statute text */
+.markdown { max-width: 52rem; }
+
+/* Spacing between statute sections */
+.statute + .statute {
+  border-top: 1px solid var(--border, #e5e5e5);
+  padding-top: 1.5rem;
+  margin-top: 1.5rem;
 }
 
-/* Each section gets a subtle divider for scanability */
-.statute { border-top: 1px solid var(--border, #e5e5e5); padding-top: 1.25rem; margin-top: 1.25rem; }
-.statute:first-child { border-top: none; padding-top: 0; margin-top: 0; }
+/* Section heading style */
+.markdown h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+/* Section reference link */
+.statute-ref {
+  font-size: 0.85rem;
+  color: var(--muted, #6b6b6b);
+  margin-bottom: 0.75rem;
+}
+.statute-ref a {
+  color: var(--muted, #6b6b6b);
+}
 
 /* Omitted-text callout */
 .omit-note {
@@ -24,7 +39,7 @@
   font-style: italic;
 }
 
-/* Dark mode border/muted vars if Fern doesn't set them */
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --border: #2c2c2c;
@@ -34,4 +49,42 @@
 html[data-theme="dark"] {
   --border: #2c2c2c;
   --muted: #9a9a9a;
+}
+
+/* Division cards on home page */
+.division-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.division-card {
+  padding: 1.25rem;
+  border: 1px solid var(--border, #e5e5e5);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--fg, #1a1a1a);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.division-card:hover {
+  border-color: var(--accent, #7a1f1f);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.division-card-title {
+  font-weight: 700;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+.division-card-meta {
+  font-size: 0.85rem;
+  color: var(--muted, #6b6b6b);
+}
+
+/* Source note footer */
+.source-note {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border, #e5e5e5);
+  font-size: 0.85rem;
+  color: var(--muted, #6b6b6b);
 }
