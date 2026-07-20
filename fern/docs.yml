@@ -7,7 +7,6 @@ instances:
         owner: saintus-create
         repo: family-x1oh1xy2
         branch: main
-      launch: dashboard
 title: California Family Code
 layout:
   searchbar-placement: header
@@ -108,7 +107,6 @@ theme:
 landing-page:
   page: Home
   path: docs/pages/home.mdx
-  slug: /
 css:
   - styles.css
 typography:
@@ -124,7 +122,7 @@ typography:
 ai-search:
   location:
     - docs
-favicon: Scottsboro_Boys_Freed287287____Downloads____2024-jan_____Users.Jpeg
+favicon: docs/assets/favicon.svg
 logo:
-  dark: Scottsboro_Boys_Freed287287____Downloads____2024-jan_____Users.Jpeg
-  light: Scottsboro_Boys_Freed287287____Downloads____2024-jan_____Users.Jpeg
+  dark: docs/assets/fern-logo-white.svg
+  light: docs/assets/logo-light.svg
