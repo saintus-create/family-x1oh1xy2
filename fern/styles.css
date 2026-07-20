@@ -1,6 +1,8 @@
-/* Minimal overrides — only for custom HTML elements Fern doesn't style. */
+/* ============================================================
+   California Family Code — Custom Styles
+   ============================================================ */
 
-/* Freight Text Pro (self-hosted) */
+/* Self-hosted font */
 @font-face {
   font-family: "Freight Text Pro";
   src: url("/assets/freighttext-pro-book.otf") format("opentype");
@@ -9,37 +11,289 @@
   font-display: swap;
 }
 
-/* Remove default link underlines globally */
+/* Strip default link underlines globally */
 a { text-decoration: none; }
 
-/* Division cards on home page */
+
+/* ============================================================
+   HOME PAGE — Division cards
+   ============================================================ */
+.hero {
+  padding: 2.5rem 0 1.5rem;
+}
+.search-bridge {
+  margin-top: 1.25rem;
+}
+.search-bridge input {
+  width: 100%;
+  max-width: 480px;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border, #e5e5e5);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  background: var(--bg-card, #f9f9f9);
+  color: var(--fg, #1a1a1a);
+  outline: none;
+}
+.search-bridge input:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.12);
+}
 .division-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  grid-auto-rows: 1fr;
-  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
   margin-top: 2rem;
 }
 .division-card {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1.75rem 1.5rem;
-  background: #f5f5f5;
+  padding: 1.6rem 1.25rem;
+  background: var(--bg-card, #f5f5f5);
+  border: 1px solid var(--border, #e5e5e5);
   border-radius: 10px;
-  text-decoration: none;
   color: var(--fg, #1a1a1a);
-  min-height: 100px;
-  transition: background 0.15s, box-shadow 0.15s;
+  min-height: 90px;
+  transition: background 0.15s, box-shadow 0.15s, border-color 0.15s;
 }
 .division-card:hover {
-  background: #eeeeee;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  background: #eff6ff;
+  border-color: #93c5fd;
+  box-shadow: 0 4px 14px rgba(59,130,246,0.12);
   text-decoration: none;
 }
 .division-card-title {
   font-weight: 700;
-  font-size: 1.05rem;
-  margin: 0;
+  font-size: 1rem;
   text-align: center;
+}
+
+
+/* ============================================================
+   INDEX PAGES — Section card grid
+   ============================================================ */
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(106px, 1fr));
+  gap: 0.55rem;
+  margin-top: 1.5rem;
+}
+.section-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 0.4rem;
+  background: var(--bg-card, #f8fafc);
+  border: 1px solid var(--border, #e2e8f0);
+  border-radius: 7px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.87rem;
+  color: var(--fg, #1e293b);
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s, box-shadow 0.15s, color 0.15s;
+}
+.section-card:hover {
+  background: #eff6ff;
+  border-color: #93c5fd;
+  box-shadow: 0 2px 8px rgba(59,130,246,0.13);
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+
+/* ============================================================
+   SECTION PAGES — Statutory text
+   ============================================================ */
+
+/* Subsection markers: (a), (b), (1), (i), (A) */
+.subsec {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.7rem;
+  height: 1.7rem;
+  padding: 0 0.3rem;
+  background: #1e3a5f;
+  color: #e8f0fe;
+  border-radius: 4px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  font-family: ui-monospace, "Cascadia Code", monospace;
+  margin-right: 0.4rem;
+  margin-bottom: 0.1rem;
+  vertical-align: middle;
+  flex-shrink: 0;
+  letter-spacing: 0.03em;
+}
+
+/* Statute cross-reference links — pill chips */
+.statute-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+  padding: 0.1rem 0.5rem;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+  border-radius: 9999px;
+  font-size: 0.82em;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s;
+}
+.statute-link::after {
+  content: " ↗";
+  font-size: 0.75em;
+  opacity: 0.6;
+}
+.statute-link:hover {
+  background: #dbeafe;
+  border-color: #93c5fd;
+  text-decoration: none;
+}
+
+/* Truncated excerpt indicator */
+.excerpt-end {
+  color: #9ca3af;
+  font-style: italic;
+  font-size: 0.88em;
+}
+.excerpt-end::before { content: " "; }
+
+
+/* ============================================================
+   CASE CALLOUTS
+   ============================================================ */
+.case-callout {
+  position: relative;
+  padding: 1rem 1.25rem 1rem 3.1rem;
+  background: #f8f8ff;
+  border-left: 4px solid #6366f1;
+  border-radius: 0 10px 10px 0;
+  margin: 1.25rem 0;
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+.case-callout::before {
+  content: "⚖";
+  position: absolute;
+  left: 0.8rem;
+  top: 1rem;
+  font-size: 1.1rem;
+  opacity: 0.45;
+  line-height: 1;
+}
+.case-callout strong {
+  display: block;
+  font-size: 0.92rem;
+  color: #3730a3;
+  margin-bottom: 0.35rem;
+}
+.case-callout p {
+  margin: 0.3rem 0 0;
+}
+.case-callout .case-statutes {
+  margin-top: 0.6rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #e0e7ff;
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+
+/* ============================================================
+   SOURCE / BACK NOTES
+   ============================================================ */
+.source-note {
+  font-size: 0.79rem;
+  color: #6b7280;
+  border-top: 1px solid var(--border, #f1f5f9);
+  margin-top: 2rem;
+  padding-top: 0.7rem;
+  line-height: 1.6;
+}
+.source-note a {
+  color: #4f46e5;
+  font-weight: 500;
+}
+.source-note a:hover {
+  text-decoration: underline;
+}
+/* Back-to-division link — inline chip style */
+.source-note[style*="Back"],
+div.source-note:first-of-type {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  padding-top: 0;
+  border-top: none;
+  border-bottom: 1px solid var(--border, #f1f5f9);
+  padding-bottom: 0.7rem;
+}
+
+
+/* ============================================================
+   DARK MODE
+   ============================================================ */
+@media (prefers-color-scheme: dark) {
+  .division-card {
+    background: #18181b;
+    border-color: #2a2a2a;
+    color: #e5e5e5;
+  }
+  .division-card:hover {
+    background: #1e2b3c;
+    border-color: #3b82f6;
+    box-shadow: 0 4px 14px rgba(59,130,246,0.2);
+  }
+  .section-card {
+    background: #18181b;
+    border-color: #2a2a2a;
+    color: #e5e5e5;
+  }
+  .section-card:hover {
+    background: #1e2b3c;
+    border-color: #3b82f6;
+    color: #93c5fd;
+  }
+  .subsec {
+    background: #3b5998;
+    color: #dbeafe;
+  }
+  .statute-link {
+    background: #1e2b3c;
+    color: #93c5fd;
+    border-color: #2d4a6e;
+  }
+  .statute-link:hover {
+    background: #263c52;
+    border-color: #3b82f6;
+  }
+  .case-callout {
+    background: #18182a;
+    border-left-color: #818cf8;
+  }
+  .case-callout strong {
+    color: #a5b4fc;
+  }
+  .case-callout .case-statutes {
+    border-top-color: #2d2d50;
+    color: #9ca3af;
+  }
+  .source-note {
+    color: #9ca3af;
+    border-top-color: #2a2a2a;
+  }
+  .source-note a { color: #818cf8; }
+  .search-bridge input {
+    background: #18181b;
+    border-color: #2a2a2a;
+    color: #e5e5e5;
+  }
+  .search-bridge input:focus {
+    border-color: #818cf8;
+    box-shadow: 0 0 0 3px rgba(129,140,248,0.15);
+  }
 }
