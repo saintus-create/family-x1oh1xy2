@@ -26,67 +26,71 @@ navigation:
             path: docs/pages/home.mdx
       - section: Preliminary Provisions and Definitions
         contents:
-          - page: General Provisions
+          - page: Division Index
+            path: docs/pages/preliminary-provisions.mdx
+      - section: General Provisions
+        contents:
+          - page: Division Index
             path: docs/pages/marriage.mdx
       - section: Domestic Partner Registration
         contents:
-          - page: Registration
+          - page: Division Index
             path: docs/pages/division-2.5-domestic-partners.mdx
       - section: Marriage
         contents:
-          - page: Marriage
+          - page: Division Index
             path: docs/pages/division-3-marriage.mdx
       - section: Rights and Obligations During Marriage
         contents:
-          - page: Rights and Obligations
+          - page: Division Index
             path: docs/pages/division-4-rights-during-marriage.mdx
       - section: Conciliation Proceedings
         contents:
-          - page: Conciliation
+          - page: Division Index
             path: docs/pages/division-5-conciliation.mdx
       - section: Nullity, Dissolution, and Legal Separation
         contents:
-          - page: Dissolution
+          - page: Division Index
             path: docs/pages/division-6-dissolution.mdx
       - section: Division of Property
         contents:
-          - page: Property Division
+          - page: Division Index
             path: docs/pages/division-7-property.mdx
       - section: Custody of Children
         contents:
-          - page: Custody
+          - page: Division Index
             path: docs/pages/division-8-custody.mdx
       - section: Support
         contents:
-          - page: Support
+          - page: Division Index
             path: docs/pages/division-9-support.mdx
       - section: Prevention of Domestic Violence
         contents:
-          - page: Domestic Violence
+          - page: Division Index
             path: docs/pages/division-10-domestic-violence.mdx
       - section: Minors
         contents:
-          - page: Minors
+          - page: Division Index
             path: docs/pages/division-11-minors.mdx
       - section: Parent and Child Relationship
         contents:
-          - page: Parent and Child
+          - page: Division Index
             path: docs/pages/division-12-parent-child.mdx
       - section: Adoption
         contents:
-          - page: Adoption
+          - page: Division Index
             path: docs/pages/division-13-adoption.mdx
       - section: Family Law Facilitator Act
         contents:
-          - page: Family Law Facilitator
+          - page: Division Index
             path: docs/pages/division-14-family-law-facilitator.mdx
       - section: Support Services
         contents:
-          - page: Support Services
+          - page: Division Index
             path: docs/pages/division-17-support-services.mdx
       - section: Pilot Projects
         contents:
-          - page: Pilot Projects
+          - page: Division Index
             path: docs/pages/division-20-pilot-projects.mdx
 colors:
   accent-primary:
@@ -109,13 +113,13 @@ css:
   - styles.css
 typography:
   headingsFont:
-    name: Public Sans
+    name: Freight Text Pro
     weight: 700
   bodyFont:
-    name: Public Sans
+    name: Freight Text Pro
     weight: 400
   codeFont:
-    name: Public Sans
+    name: Freight Text Pro
     weight: 400
 ai-search:
   location:
