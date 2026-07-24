@@ -278,20 +278,39 @@ CASE_ANNOTATION_PAGES = [
 
 # OCR artefacts: stray page headers, running chapter headers, etc.
 _NOISE_PATTERNS = [
+    r'^\s*\[Revised Comment\].*$',   # Blumberg annotation markers
+    r'^\s*\[New\]\s*$',
+    r'^\s*\[Amended.*?\]\s*$',
+    r'^DEFINITIONS\s*$',             # OCR running headers
+    r'^PREVENTION\s*$',
+    r'^MARRIAGE\s*$',
+    r'^SUPPORT\s*$',
+    r'^ADOPTION\s*$',
+    r'^DISSOLUTION\s*$',
     r'\bRIGHT\s+TO\s+CUSTODY\b',
     r'\bCUSTODY\s+OF\s+(MINOR|CHILDREN)\b',
     r'\bOF\s+DOMESTIC\s+VIOLENCE\b',
     r'\bPRELIMINARY\s+PROVISIONS\b\s*§\s*\d+',
     r'\bCHILD\s+SUPPORT\b\s+§\s*\d+',
     r'\bDIVISION\s+\d+\b',
-    r'\bPART\s+\d+\b(?!\s+of)',     # part headers (not "Part 2 of Division")
-    r'^\s*§\s+\d[\d.]*\s*$',        # bare section number lines
+    r'\bPART\s+\d+\b(?!\s+of)',
+    r'^\s*§\s+\d[\d.]*\s*$',
     r'\bFamily Violence Appellate Project\b',
     r'\b\d+\s+RIGHT\b',
-    r'\bWITKIN\b.*?\(\d{4}\)',
+    # Witkin treatise references (not statutory language)
+    r'\d+\s+Witkin,\s+California\s+Summary.*?(?:\(\d{4}\)|$)',
+    r'Treatises and Practice Aids.*$',
     r'^\s*ok\s*$',
     r'^\s*\*+\s*$',
-    r'^\s*\d{1,3}\s*$',             # stray page numbers
+    r'^\s*\d{1,3}\s*$',
+    # Stats. enactment lines
+    r'^\(Added by\s+Stats\.',
+    r'^\(Amended by\s+Stats\.',
+    r'^Stats\.\d{4},',
+    r'^Enactment\s*$',
+    r'^Comments\s*$',
+    r'^Construction of code.*$',
+    r'^the provision\s*$',
 ]
 _NOISE_RE = re.compile(
     '|'.join(_NOISE_PATTERNS),
@@ -430,30 +449,91 @@ def build_section_registry() -> dict:
     return registry
 
 
+def _clean_case_description(desc: str, name: str, citation: str) -> str:
+    """
+    Strip the embedded 'Name v. Name (year) citation' header that
+    _case_entries.json puts at the start of every description.
+    Also strips trailing page-break noise.
+    """
+    if not desc:
+        return ""
+    # Remove leading "Name (year) citation\n" pattern
+    # e.g. "X.K. v. M.C. (2025) 112 Cal.App.5th 1287  In this case..."
+    header_pat = re.compile(
+        r'^' + re.escape(name) + r'\s*\(\d{4}\)\s+\d+\s+Cal\..*?\d+\s+',
+        re.IGNORECASE,
+    )
+    desc = header_pat.sub('', desc, count=1).strip()
+    # Collapse double spaces from PDF extraction
+    desc = re.sub(r'  +', ' ', desc)
+    return desc.strip()
+
+
+def _extract_statutes_from_description(desc: str) -> str:
+    """
+    Pull the 'Statutes used or affected: ...' line out of a description
+    if the statutes field itself is truncated.
+    """
+    m = re.search(
+        r'Statut(?:es?|es used(?: or affected)?)\s*[:\-]\s*(.+?)(?:\n|$)',
+        desc, re.IGNORECASE,
+    )
+    return m.group(1).strip() if m else ""
+
+
 def build_case_map() -> dict:
     """
     Return dict: section_number_str -> list of case dicts.
-    Merges _section_case_map.json (section-keyed) with _case_entries.json
-    (global list with statutes field).
+
+    Strategy:
+    - _section_case_map.json has section->cases with compendium_section but
+      truncated descriptions and statutes.
+    - _case_entries.json has longer descriptions (still cut off) but no
+      compendium_section.
+    - We merge them: use _section_case_map.json for structure/compendium_section,
+      but replace description with the longer version from _case_entries.json
+      where available.
     """
     case_map = defaultdict(list)
+
+    # Build lookup from _case_entries.json by normalised name
+    entries = load_json(CASE_ENTRIES_JSON, [])
+    entries_by_name: dict[str, dict] = {}
+    for e in entries:
+        key = re.sub(r'\s+', ' ', e.get("name", "")).strip().lower()
+        entries_by_name[key] = e
 
     # Primary: _section_case_map.json
     raw = load_json(SECTION_CASE_MAP, {})
     for sec_num, cases in raw.items():
         for case in cases:
-            case_map[str(sec_num)].append(case)
+            name = case.get("name", "")
+            key = re.sub(r'\s+', ' ', name).strip().lower()
 
-    # Secondary: _case_entries.json — parse statutes field to find sections
-    entries = load_json(CASE_ENTRIES_JSON, [])
-    for entry in entries:
-        statutes = entry.get("statutes", "")
-        found_sections = re.findall(r'\b(\d{4,5}(?:\.\d+)?)\b', statutes)
-        for sec in found_sections:
-            # Only add if not already present (by name)
-            existing_names = {c.get("name") for c in case_map[sec]}
-            if entry.get("name") not in existing_names:
-                case_map[sec].append(entry)
+            # Try to find a longer description in _case_entries.json
+            entry = entries_by_name.get(key)
+            if entry:
+                long_desc = _clean_case_description(
+                    entry.get("description", ""), name, entry.get("citation", "")
+                )
+                # Prefer longer cleaned description
+                if len(long_desc) > len(case.get("description", "")):
+                    case = dict(case)
+                    case["description"] = long_desc
+                # Fix truncated statutes: re-extract from description
+                if case.get("statutes", "").rstrip().endswith((",", ";")):
+                    extracted = _extract_statutes_from_description(long_desc)
+                    if extracted:
+                        case["statutes"] = extracted
+                # Fix citation (add ordinal if missing page number)
+                raw_cite = entry.get("citation", case.get("citation", ""))
+                if raw_cite and not re.search(r'\d+$', raw_cite):
+                    pass  # leave as-is
+                elif raw_cite:
+                    case = dict(case)
+                    case["citation"] = raw_cite
+
+            case_map[str(sec_num)].append(case)
 
     return dict(case_map)
 
@@ -475,6 +555,84 @@ def build_cross_ref_map() -> dict:
 # MDX PAGE GENERATION
 # ──────────────────────────────────────────────────────────────────────────────
 
+# Known section titles for common/important sections
+# (avoids relying entirely on OCR-noisy first-line extraction)
+_KNOWN_TITLES: dict[str, str] = {
+    "6200": "Domestic Violence Prevention Act",
+    "6201": "Legislative Findings",
+    "6202": "Definitions govern construction",
+    "6203": '"Abuse" defined',
+    "6204": '"Abuse" includes coercive control',
+    "6205": '"Affinity" defined',
+    "6206": '"Coercive control" defined',
+    "6209": '"Protective order" defined',
+    "6210": '"Disturbing the peace" defined',
+    "6211": '"Domestic violence" defined',
+    "6215": '"Emergency protective order" defined',
+    "6218": '"Protective order" defined',
+    "6220": '"Petitioner" and "respondent" defined',
+    "6300": "Issuance of protective orders",
+    "6301": "Persons who may seek protective order",
+    "6320": "Orders enjoining harassment, contact, or abuse",
+    "6321": "Exclusive possession of residence",
+    "6322": "Protective orders for children",
+    "6323": "Protection of animals",
+    "6324": "Control of property",
+    "6325": "Temporary child custody",
+    "6340": "Issuance after notice and hearing",
+    "6341": "Fees and costs",
+    "6344": "Attorney fees",
+    "6345": "Duration of orders",
+    "6380": "Registration of orders",
+    "3044": "Presumption against custody for perpetrators of DV",
+    "3011": "Best interest of child",
+    "3020": "Legislative findings; health, safety, and welfare",
+    "3022": "Custody orders",
+    "3024": "Notice of change of residence",
+}
+
+
+def _extract_section_title(cleaned_text: str, sec_num: str) -> str:
+    """
+    Extract a short, clean title for the section heading.
+    Priority: known titles dict > first non-noise line of text.
+    No em-dashes. No brackets. No ALL CAPS.
+    """
+    # 1. Check known titles first
+    if sec_num in _KNOWN_TITLES:
+        return _KNOWN_TITLES[sec_num]
+
+    if not cleaned_text:
+        return ""
+
+    # 2. Try to extract from first meaningful line
+    for line in cleaned_text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        # Skip lines that are noise even after cleaning
+        if re.match(r'^\[', line):          # [Revised Comment] etc
+            continue
+        if re.match(r'^\(', line):          # starts with subsection marker
+            continue
+        if re.match(r'^\d', line):          # starts with number
+            continue
+        if line.isupper():                  # ALL CAPS running header
+            continue
+        if len(line) > 90:                  # too long to be a title
+            continue
+        if re.search(r'§\s*\d', line):      # contains section reference
+            continue
+        # Looks like a title
+        # Convert to sentence case (only uppercase first letter)
+        title = line[0].upper() + line[1:] if line else line
+        # Remove any trailing period
+        title = title.rstrip('.')
+        return title
+
+    return ""
+
+
 def _section_slug(div_prefix: str, sec_num: str) -> str:
     """e.g. "division-10-domestic-violence", "6203" → "division-10-domestic-violence-section-6203" """
     return f"{div_prefix}-section-{sec_num}"
@@ -488,32 +646,42 @@ def _leginfo_url(sec_num: str) -> str:
 
 
 def _render_case_callout(case: dict) -> str:
-    name = _clean_text(case.get("name", "Unknown"))
-    # Strip artefact prefixes like "B. Cases \n \nX v. Y" → clean name
+    name = case.get("name", "Unknown").strip()
     name = re.sub(r'^[A-Z]\.\s*Cases?\s*\n\s*\n?\s*', '', name).strip()
     year = case.get("year", "")
-    citation = case.get("citation", "")
-    description = _clean_text(case.get("description", ""))
-    statutes = case.get("statutes", "")
+    citation = case.get("citation", "").strip()
+    description = case.get("description", "").strip()
+    statutes = case.get("statutes", "").strip()
 
-    # Build a clean label
+    # Fix citation: "112 Cal.App.5" -> "112 Cal.App.5th" (add ordinal if missing)
+    citation = re.sub(r'(Cal\.(?:App\.)?\d+)$', lambda m: m.group(1) + 'th', citation)
+    # Strip page number from end of citation for display (keep vol + reporter)
+    cite_display = re.sub(r'\s+\d+$', '', citation).strip()
+    if not cite_display:
+        cite_display = citation
+
     label = f"{name} ({year})" if year else name
-    full_cite = f"{citation}th" if citation and not citation.endswith(("th", "d", "st")) else citation
 
     lines = [
         '<div class="case-callout">',
         f'<strong>{label}</strong>',
         '',
-        f'*{full_cite}*',
+        f'*{cite_display}*',
         '',
     ]
     if description:
-        # Truncate very long descriptions gracefully
-        if len(description) > 900:
-            description = description[:900].rsplit(' ', 1)[0] + '…'
+        # Clean up double-spaces from PDF extraction
+        description = re.sub(r'  +', ' ', description)
+        # Remove any embedded statute line at the end of description
+        description = re.sub(
+            r'\n?Statut(?:es?|es used(?: or affected)?)\s*[:\-].*$',
+            '', description, flags=re.IGNORECASE | re.DOTALL,
+        ).strip()
         lines.append(description)
         lines.append('')
     if statutes:
+        # Remove trailing comma/semicolon from truncated statutes
+        statutes = statutes.rstrip(', ;')
         lines.append(f'<span class="case-statutes">Statutes: {statutes}</span>')
     lines.append('</div>')
     return '\n'.join(lines)
@@ -557,16 +725,11 @@ def generate_section_page(
     div_number = div_info["number"]
     sec_slug   = _section_slug(div_info["section_prefix"], sec_num)
 
-    # Heading: use first non-empty line of text as the section title
+    # ── Extract a real section title from the statutory text ─────────────────
     raw_text = section.get("text", "")
-    # Try to extract a title from the first line
-    first_line = raw_text.split("\n")[0].strip() if raw_text else ""
-    # Remove leading artefacts
-    first_line = re.sub(r'^§\s*\d[\d.]*\s*', '', first_line).strip()
-    if len(first_line) > 80 or not first_line:
-        sec_title = ""
-    else:
-        sec_title = first_line
+    # Clean the text first so title detection works on noise-free content
+    cleaned_for_title = _clean_text(raw_text)
+    sec_title = _extract_section_title(cleaned_for_title, sec_num)
 
     description = sec_title if sec_title else f"California Family Code section {sec_num}"
 
@@ -575,14 +738,15 @@ def generate_section_page(
 
     parts = []
 
-    # ── Front-matter ──────────────────────────────────────────────────────────
-    parts.append(textwrap.dedent(f"""\
-        ---
-        title: "{sec_num} — {div_title}"
-        description: "{description[:160]}"
-        slug: {sec_slug}
-        ---
-    """))
+    # ── Front-matter (no em-dash anywhere) ───────────────────────────────────
+    fm_title = f"{sec_num}. {sec_title}" if sec_title else f"Section {sec_num}"
+    parts.append(
+        f'---\n'
+        f'title: "{fm_title}"\n'
+        f'description: "{description[:160]}"\n'
+        f'slug: {sec_slug}\n'
+        f'---\n'
+    )
 
     # ── Breadcrumb ────────────────────────────────────────────────────────────
     icon_svg = '<svg style="display:inline;width:12px;height:12px;vertical-align:-1px;margin-right:4px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>'
@@ -593,12 +757,12 @@ def generate_section_page(
         f'</div>\n'
     )
 
-    # ── Section heading ───────────────────────────────────────────────────────
+    # ── Section heading (number + title, no em-dash) ──────────────────────────
     if sec_title:
-        parts.append(f"# {sec_num} — {sec_title}")
+        parts.append(f"# {sec_num}. {sec_title}")
     else:
-        parts.append(f"# {sec_num}")
-    parts.append(f"\n{div_title}\n")
+        parts.append(f"# Section {sec_num}")
+    parts.append(f"\n*{div_title}*\n")
 
     # ── Case callouts (before statutory text, per annotated code tradition) ──
     if cases:
