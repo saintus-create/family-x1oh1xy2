@@ -564,13 +564,11 @@ def generate_section_page(
     # Remove leading artefacts
     first_line = re.sub(r'^§\s*\d[\d.]*\s*', '', first_line).strip()
     if len(first_line) > 80 or not first_line:
-        sec_title = f"§ {sec_num}"
+        sec_title = ""
     else:
         sec_title = first_line
 
-    # Clean page title (no quotes around § in YAML)
-    page_title = f"§ {sec_num} — {div_title}"
-    description = sec_title if sec_title != f"§ {sec_num}" else f"California Family Code § {sec_num}"
+    description = sec_title if sec_title else f"California Family Code section {sec_num}"
 
     formatted_text = _format_statute_text(raw_text)
     source_url = section.get("source_url") or _leginfo_url(sec_num)
@@ -580,24 +578,27 @@ def generate_section_page(
     # ── Front-matter ──────────────────────────────────────────────────────────
     parts.append(textwrap.dedent(f"""\
         ---
-        title: "§ {sec_num} — {div_title}"
+        title: "{sec_num} — {div_title}"
         description: "{description[:160]}"
         slug: {sec_slug}
         ---
     """))
 
     # ── Breadcrumb ────────────────────────────────────────────────────────────
+    icon_svg = '<svg style="display:inline;width:12px;height:12px;vertical-align:-1px;margin-right:4px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>'
     parts.append(
-        f'<div class="source-note">'
-        f'← <a href="/{div_slug}">Division {div_number}: {div_title}</a>'
+        f'<div class="source-note">\n'
+        f'  {icon_svg}\n'
+        f'  <a href="/{div_slug}">{div_title}</a>\n'
         f'</div>\n'
     )
 
     # ── Section heading ───────────────────────────────────────────────────────
-    parts.append(f"# § {sec_num}")
-    if sec_title and sec_title != f"§ {sec_num}":
-        parts.append(f"\n*{sec_title}*")
-    parts.append("")
+    if sec_title:
+        parts.append(f"# {sec_num} — {sec_title}")
+    else:
+        parts.append(f"# {sec_num}")
+    parts.append(f"\n{div_title}\n")
 
     # ── Case callouts (before statutory text, per annotated code tradition) ──
     if cases:
@@ -620,7 +621,7 @@ def generate_section_page(
     parts.append(textwrap.dedent(f"""\
         <div class="source-note">
 
-        **Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).\\
+        Source: California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).
         [View on California Legislative Information]({source_url})
 
         </div>
@@ -687,53 +688,96 @@ def generate_division_index(
 # HOME PAGE
 # ──────────────────────────────────────────────────────────────────────────────
 
+# Division metadata for home page rows
+_DIVISION_META = {
+    "preliminary-provisions":          "Definitions, construction, general rules",
+    "marriage":                        "Validity, licenses, solemnization, rights",
+    "division-2.5-domestic-partners":  "Registration, rights, and dissolution",
+    "division-3-marriage":             "Validity, enforcement, disclosure requirements",
+    "division-4-rights-during-marriage": "Community property, fiduciary duties, liability",
+    "division-5-conciliation":         "Conciliation court, counseling, jurisdiction",
+    "division-6-dissolution":          "Nullity, dissolution, legal separation, summary dissolution",
+    "division-7-property":             "Community estate, retirement plans, pensions",
+    "division-8-custody":              "Custody orders, visitation, mediation, jurisdiction",
+    "division-9-support":              "Child support, spousal support, family support",
+    "division-10-domestic-violence":   "DVPA, protective orders, emergency orders, enforcement",
+    "division-11-minors":              "Age of majority, contracts, emancipation",
+    "division-12-parent-child":        "Establishing parentage, voluntary declarations, Uniform Parentage Act",
+    "division-13-adoption":            "Agency, independent, stepparent, adult adoptions",
+    "division-14-family-law-facilitator": "Facilitator offices, services, funding",
+    "division-17-support-services":    "Department of Child Support Services, enforcement",
+    "division-20-pilot-projects":      "Legislative pilot programs and special provisions",
+}
+
+_BOOK_ICON = (
+    '<svg class="division-row-icon" viewBox="0 0 24 24" fill="none" '
+    'stroke="currentColor" stroke-width="1.75" stroke-linecap="round" '
+    'stroke-linejoin="round">'
+    '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>'
+    '<path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>'
+    '</svg>'
+)
+_ARROW_ICON = (
+    '<svg class="division-row-arrow" viewBox="0 0 24 24" fill="none" '
+    'stroke="currentColor" stroke-width="1.75">'
+    '<polyline points="9 18 15 12 9 6"/>'
+    '</svg>'
+)
+
+
 def generate_home_page() -> str:
-    cards = []
+    rows = []
     for key, div in DIVISION_STRUCTURE.items():
         num   = div["number"]
         title = div["title"]
         slug  = div["slug"]
-        label = f"Division {num}" if num not in ("Preliminary",) else "Preliminary Provisions"
-        cards.append(
-            f'<a class="division-card" href="/{slug}">\n'
-            f'  <div class="division-card-title">{label}<br/><small>{title}</small></div>\n'
+        num_display = "Prelim." if num == "Preliminary" else str(num)
+        meta  = _DIVISION_META.get(key, "")
+        rows.append(
+            f'<a class="division-row" href="/{slug}">\n'
+            f'  <span class="division-row-num">{num_display}</span>\n'
+            f'  {_BOOK_ICON}\n'
+            f'  <div class="division-row-body">\n'
+            f'    <div class="division-row-title">{title}</div>\n'
+            f'    <div class="division-row-meta">{meta}</div>\n'
+            f'  </div>\n'
+            f'  {_ARROW_ICON}\n'
             f'</a>'
         )
 
-    cards_block = "\n".join(cards)
+    rows_block = "\n\n".join(rows)
 
-    return textwrap.dedent(f"""\
-        ---
-        slug: home
-        title: California Family Code
-        description: "The complete annotated California Family Code — statutes, case law, and cross-references."
-        layout: custom
-        no-image-zoom: true
-        ---
-
-        <div class="hero">
-
-        # California Family Code
-
-        The complete text of the California Family Code, annotated with case law
-        and cross-references. Source: Blumberg, *California Family Code Annotated*
-        (2020 Desktop Edition).
-
-        </div>
-
-        <div class="division-grid">
-
-        {cards_block}
-
-        </div>
-
-        <div class="source-note">
-
-        **Source:** California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).\\
-        [California Legislative Information](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM)
-
-        </div>
-    """)
+    return (
+        "---\n"
+        "slug: home\n"
+        "title: California Family Code\n"
+        'description: "Complete annotated statutes with case law and cross-references."\n'
+        "layout: custom\n"
+        "no-image-zoom: true\n"
+        "---\n"
+        "\n"
+        '<div class="home-hero">\n'
+        "\n"
+        "# California Family Code\n"
+        "\n"
+        "Complete statutory text with case annotations and cross-references.\n"
+        "Source: Blumberg, _California Family Code Annotated_ (2020).\n"
+        "\n"
+        "</div>\n"
+        "\n"
+        '<div class="division-list">\n'
+        "\n"
+        + rows_block + "\n"
+        "\n"
+        "</div>\n"
+        "\n"
+        '<div class="source-note">\n'
+        "\n"
+        "Source: California Family Code Annotated (Grace Ganz Blumberg, 2020 Desktop Edition).\n"
+        "[California Legislative Information](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=FAM)\n"
+        "\n"
+        "</div>\n"
+    )
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -820,127 +864,132 @@ def _yml_page(indent: int, label: str, path: str) -> str:
 
 def generate_docs_yml(division_nav: dict) -> str:
     """
-    Rebuild fern/docs.yml preserving all existing config keys
-    while replacing the navigation section entirely.
+    Rebuild fern/docs.yml with slim navigation:
+    - Overview section with Home page
+    - Divisions section with one entry per division index page (no section entries)
+    - Case Annotations section with one entry per annotation page
 
     division_nav: dict keyed by div_slug →
-        { "label": str, "index_path": str, "sections": [(label, path), ...] }
+        { "label": str, "index_path": str }
+      (groups/section entries are intentionally ignored)
     """
 
-    # ── Static header (preserved from original) ───────────────────────────────
-    header = textwrap.dedent("""\
-        # yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
+    # Sidebar labels — short, title-case, no div number prefix, no em-dash
+    _DIV_SIDEBAR_LABELS = {
+        "preliminary-provisions":            "Preliminary Provisions",
+        "marriage":                          "Marriage",
+        "division-2.5-domestic-partners":    "Domestic Partner Registration",
+        "division-3-marriage":               "Premarital Agreements",
+        "division-4-rights-during-marriage": "Rights During Marriage",
+        "division-5-conciliation":           "Conciliation Proceedings",
+        "division-6-dissolution":            "Dissolution and Separation",
+        "division-7-property":               "Division of Property",
+        "division-8-custody":                "Custody of Children",
+        "division-9-support":                "Support",
+        "division-10-domestic-violence":     "Prevention of Domestic Violence",
+        "division-11-minors":                "Minors",
+        "division-12-parent-child":          "Parent and Child Relationship",
+        "division-13-adoption":              "Adoption",
+        "division-14-family-law-facilitator":"Family Law Facilitator Act",
+        "division-17-support-services":      "Support Services",
+        "division-20-pilot-projects":        "Pilot Projects",
+    }
 
-        instances:
-          - url: https://family.docs.buildwithfern.com
-            edit-this-page:
-              github:
-                owner: saintus-create
-                repo: family-x1oh1xy2
-                branch: main
-        title: California Family Code
-        layout:
-          searchbar-placement: header
-          page-width: wide
-          tabs-placement: header
-        tabs:
-          code:
-            display-name: Family Code
-            icon: docs/assets/icon-circle.svg
-        navigation:
-          - tab: code
-            layout:
-    """)
+    # Case annotation sidebar labels (short, no roman numeral prefix)
+    _CASE_SIDEBAR_LABELS = {
+        "abuse-definition":               "What is Abuse",
+        "issuing-dv-restraining-orders":  "Issuing Restraining Orders",
+        "modifying-terminating-dvro":     "Modifying and Terminating",
+        "renewing-dv-restraining-orders": "Renewing Restraining Orders",
+        "custody-visitation":             "Custody and Visitation",
+        "mutual-restraining-orders":      "Mutual Restraining Orders",
+        "juvenile-dependency":            "Juvenile Dependency",
+        "special-immigrant-juvenile":     "Special Immigrant Juvenile",
+        "spousal-support":                "Spousal Support",
+        "dvro-firearms":                  "Firearms and Orders",
+        "dv-as-tort":                     "DV as a Tort",
+        "attorney-fees-costs":            "Attorney Fees and Costs",
+        "vexatious-litigant":             "Vexatious Litigant",
+        "other-cases":                    "Other Cases",
+    }
 
-    lines = [header.rstrip()]
+    lines = []
+    lines.append("# yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json")
+    lines.append("")
+    lines.append("instances:")
+    lines.append("  - url: https://family.docs.buildwithfern.com")
+    lines.append("    edit-this-page:")
+    lines.append("      github:")
+    lines.append("        owner: saintus-create")
+    lines.append("        repo: family-x1oh1xy2")
+    lines.append("        branch: main")
+    lines.append("")
+    lines.append("title: California Family Code")
+    lines.append("")
+    lines.append("layout:")
+    lines.append("  searchbar-placement: header")
+    lines.append("  page-width: wide")
+    lines.append("  tabs-placement: header")
+    lines.append("")
+    lines.append("tabs:")
+    lines.append("  code:")
+    lines.append("    display-name: Family Code")
+    lines.append("    icon: docs/assets/icon-circle.svg")
+    lines.append("")
+    lines.append("navigation:")
+    lines.append("  - tab: code")
+    lines.append("    layout:")
 
-    # ── Home ──────────────────────────────────────────────────────────────────
-    lines.append("              - section: Family Code")
-    lines.append("                contents:")
-    lines.append('                  - page: Home')
-    lines.append('                    path: docs/pages/home.mdx')
+    # ── Overview ──────────────────────────────────────────────────────────────
+    lines.append("      - section: Overview")
+    lines.append("        contents:")
+    lines.append("          - page: Home")
+    lines.append("            path: docs/pages/home.mdx")
+    lines.append("")
 
-    # ── Each division ─────────────────────────────────────────────────────────
-    for div_slug, nav in division_nav.items():
-        div_label    = nav["label"]
-        index_path   = nav["index_path"]
-        sec_groups   = nav["groups"]          # list of {"group_label": str, "pages": [...]}
-        case_pages   = nav.get("case_pages", [])
+    # ── Divisions ─────────────────────────────────────────────────────────────
+    lines.append("      - section: Divisions")
+    lines.append("        contents:")
+    for div_slug in DIVISION_STRUCTURE:
+        label = _DIV_SIDEBAR_LABELS.get(div_slug, DIVISION_STRUCTURE[div_slug]["title"])
+        path  = f"docs/pages/{div_slug}.mdx"
+        lines.append(f"          - page: {label}")
+        lines.append(f"            path: {path}")
+    lines.append("")
 
-        lines.append(f"              - section: {json.dumps(div_label)}")
-        lines.append( "                contents:")
-        # Division index page
-        lines.append(f"                  - page: Division Index")
-        lines.append(f"                    path: {index_path}")
-
-        for grp in sec_groups:
-            grp_label = grp["group_label"]
-            pages     = grp["pages"]         # [(page_label, path), ...]
-            if not pages:
-                continue
-            lines.append(f"                  - section: {json.dumps(grp_label)}")
-            lines.append( "                    contents:")
-            for page_label, page_path in pages:
-                lines.append(f"                      - page: {json.dumps(page_label)}")
-                lines.append(f"                        path: {page_path}")
-
-        if case_pages:
-            lines.append( "                  - section: \"Case Annotations\"")
-            lines.append( "                    contents:")
-            for page_label, page_path in case_pages:
-                lines.append(f"                      - page: {json.dumps(page_label)}")
-                lines.append(f"                        path: {page_path}")
-
-    # ── Case Annotations (top-level) ──────────────────────────────────────────
-    lines.append("              - section: \"Case Annotations\"")
-    lines.append("                contents:")
+    # ── Case Annotations ──────────────────────────────────────────────────────
+    lines.append("      - section: Case Annotations")
+    lines.append("        contents:")
     for long_title, slug, _ in CASE_ANNOTATION_PAGES:
-        # short sidebar label
-        short = long_title.split(". ", 1)[-1][:55]
-        lines.append(f"                  - page: {json.dumps(short)}")
-        lines.append(f"                    path: docs/pages/case-annotations/{slug}.mdx")
+        label = _CASE_SIDEBAR_LABELS.get(slug, long_title.split(". ", 1)[-1][:55])
+        lines.append(f"          - page: {label}")
+        lines.append(f"            path: docs/pages/case-annotations/{slug}.mdx")
+    lines.append("")
 
-    # ── Static footer (colors, theme, etc.) ───────────────────────────────────
-    footer = textwrap.dedent("""\
-        colors:
-          accent-primary:
-            light: "#1b3a5c"
-            dark:  "#c8d8ea"
-          background:
-            light: "#ffffff"
-            dark:  "#0a0a0a"
-          border:
-            light: "#e0e4e9"
-            dark:  "#2a2a2a"
-        theme:
-          page-actions: toolbar
-          footer-nav: minimal
-        landing-page:
-          page: Home
-          path: docs/pages/home.mdx
-        css:
-          - styles.css
-        typography:
-          headingsFont:
-            name: Freight Text Pro
-            weight: 700
-          bodyFont:
-            name: Freight Text Pro
-            weight: 400
-          codeFont:
-            name: Freight Text Pro
-            weight: 400
-        ai-search:
-          location:
-            - docs
-        favicon: docs/assets/favicon.svg
-        logo:
-          dark:  docs/assets/fern-logo-white.svg
-          light: docs/assets/logo-light.svg
-    """)
+    # ── Colors, theme, assets ─────────────────────────────────────────────────
+    lines.append("colors:")
+    lines.append("  accent-primary:")
+    lines.append('    light: "#0066cc"')
+    lines.append('    dark: "#4da6ff"')
+    lines.append("  background:")
+    lines.append('    light: "#ffffff"')
+    lines.append('    dark: "#0a0a0a"')
+    lines.append("  border:")
+    lines.append('    light: "#e5e5e5"')
+    lines.append('    dark: "#2a2a2a"')
+    lines.append("")
+    lines.append("theme:")
+    lines.append("  page-actions: toolbar")
+    lines.append("  footer-nav: minimal")
+    lines.append("")
+    lines.append("landing-page:")
+    lines.append("  page: Home")
+    lines.append("  path: docs/pages/home.mdx")
+    lines.append("")
+    lines.append("css:")
+    lines.append("  - styles.css")
 
-    lines.append(footer)
-    return "\n".join(lines)
+    return "\n".join(lines) + "\n"
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -1150,30 +1199,14 @@ def run(
     # ── 8. Rebuild docs.yml ───────────────────────────────────────────────────
     print("\n[8] Rebuilding fern/docs.yml…")
 
-    division_nav: dict = {}
-    for div_slug, sec_nums in div_sections.items():
-        div_info = DIVISION_STRUCTURE[div_slug]
-        prefix   = div_info["section_prefix"]
-        number   = div_info["number"]
-        title    = div_info["title"]
-
-        index_path = f"docs/pages/{div_slug}.mdx"
-        label = f"Division {number} — {title}" if number != "Preliminary" else "Preliminary Provisions"
-
-        groups_raw = _group_sections(sec_nums, target_group_size=60)
-        groups = []
-        for grp in groups_raw:
-            pages = [
-                (f"§ {n}", f"docs/pages/{_section_slug(prefix, n)}.mdx")
-                for n in grp["sec_nums"]
-            ]
-            groups.append({"group_label": grp["group_label"], "pages": pages})
-
-        division_nav[div_slug] = {
-            "label": label,
-            "index_path": index_path,
-            "groups": groups,
+    # Slim nav — only division index paths, no section entries
+    division_nav: dict = {
+        div_slug: {
+            "label": DIVISION_STRUCTURE[div_slug]["title"],
+            "index_path": f"docs/pages/{div_slug}.mdx",
         }
+        for div_slug in DIVISION_STRUCTURE
+    }
 
     yml_content = generate_docs_yml(division_nav)
     DOCS_YML.write_text(yml_content, encoding="utf-8")
