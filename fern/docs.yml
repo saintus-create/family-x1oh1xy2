@@ -98,15 +98,25 @@ navigation:
 
 colors:
   accent-primary:
+<<<<<<< HEAD
     light: "#0066cc"
     dark: "#4da6ff"
+=======
+    light: "#0969da"
+    dark: "#2f81f7"
+>>>>>>> a89e1b52 (USWDS Integration)
   background:
     light: "#ffffff"
-    dark: "#0a0a0a"
+    dark: "#0d1117"
   border:
+<<<<<<< HEAD
     light: "#e5e5e5"
     dark: "#2a2a2a"
 
+=======
+    light: "#d0d7de"
+    dark: "#30363d"
+>>>>>>> a89e1b52 (USWDS Integration)
 theme:
   page-actions: toolbar
   footer-nav: minimal
