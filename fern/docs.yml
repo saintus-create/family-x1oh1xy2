@@ -30,40 +30,480 @@ navigation:
 
       - section: Divisions
         contents:
-          - page: Preliminary Provisions
-            path: docs/pages/preliminary-provisions.mdx
-          - page: Marriage
-            path: docs/pages/marriage.mdx
-          - page: Domestic Partner Registration
-            path: docs/pages/division-2.5-domestic-partners.mdx
-          - page: Premarital Agreements
-            path: docs/pages/division-3-marriage.mdx
-          - page: Rights During Marriage
-            path: docs/pages/division-4-rights-during-marriage.mdx
-          - page: Conciliation Proceedings
-            path: docs/pages/division-5-conciliation.mdx
-          - page: Dissolution and Separation
-            path: docs/pages/division-6-dissolution.mdx
-          - page: Division of Property
-            path: docs/pages/division-7-property.mdx
-          - page: Custody of Children
-            path: docs/pages/division-8-custody.mdx
-          - page: Support
-            path: docs/pages/division-9-support.mdx
-          - page: Prevention of Domestic Violence
-            path: docs/pages/division-10-domestic-violence.mdx
-          - page: Minors
-            path: docs/pages/division-11-minors.mdx
-          - page: Parent and Child Relationship
-            path: docs/pages/division-12-parent-child.mdx
-          - page: Adoption
-            path: docs/pages/division-13-adoption.mdx
-          - page: Family Law Facilitator Act
-            path: docs/pages/division-14-family-law-facilitator.mdx
-          - page: Support Services
-            path: docs/pages/division-17-support-services.mdx
-          - page: Pilot Projects
-            path: docs/pages/division-20-pilot-projects.mdx
+          - section: Preliminary Provisions and Definitions
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/preliminary-provisions.mdx
+              - section: "General Provisions"
+                collapsed: true
+                contents:
+                  - page: "§ 1"
+                    path: docs/pages/preliminary-provisions-section-1.mdx
+                  - page: "§ 1.5"
+                    path: docs/pages/preliminary-provisions-section-1.5.mdx
+                  - page: "§ 2"
+                    path: docs/pages/preliminary-provisions-section-2.mdx
+                  - page: "§ 3"
+                    path: docs/pages/preliminary-provisions-section-3.mdx
+                  - page: "§ 3.5"
+                    path: docs/pages/preliminary-provisions-section-3.5.mdx
+                  - page: "§ 3.62"
+                    path: docs/pages/preliminary-provisions-section-3.62.mdx
+                  - page: "§ 3.7"
+                    path: docs/pages/preliminary-provisions-section-3.7.mdx
+                  - page: "§ 4"
+                    path: docs/pages/preliminary-provisions-section-4.mdx
+                  - page: "§ 5"
+                    path: docs/pages/preliminary-provisions-section-5.mdx
+                  - page: "§ 6"
+                    path: docs/pages/preliminary-provisions-section-6.mdx
+                  - page: "§ 7"
+                    path: docs/pages/preliminary-provisions-section-7.mdx
+                  - page: "§ 8"
+                    path: docs/pages/preliminary-provisions-section-8.mdx
+                  - page: "§ 9"
+                    path: docs/pages/preliminary-provisions-section-9.mdx
+                  - page: "§ 10"
+                    path: docs/pages/preliminary-provisions-section-10.mdx
+                  - page: "§ 11"
+                    path: docs/pages/preliminary-provisions-section-11.mdx
+                  - page: "§ 11.3"
+                    path: docs/pages/preliminary-provisions-section-11.3.mdx
+                  - page: "§ 12"
+                    path: docs/pages/preliminary-provisions-section-12.mdx
+                  - page: "§ 12.5"
+                    path: docs/pages/preliminary-provisions-section-12.5.mdx
+                  - page: "§ 13"
+                    path: docs/pages/preliminary-provisions-section-13.mdx
+                  - page: "§ 13.5"
+                    path: docs/pages/preliminary-provisions-section-13.5.mdx
+                  - page: "§ 14"
+                    path: docs/pages/preliminary-provisions-section-14.mdx
+                  - page: "§ 15"
+                    path: docs/pages/preliminary-provisions-section-15.mdx
+                  - page: "§ 16"
+                    path: docs/pages/preliminary-provisions-section-16.mdx
+                  - page: "§ 17"
+                    path: docs/pages/preliminary-provisions-section-17.mdx
+                  - page: "§ 17.1"
+                    path: docs/pages/preliminary-provisions-section-17.1.mdx
+                  - page: "§ 18"
+                    path: docs/pages/preliminary-provisions-section-18.mdx
+                  - page: "§ 19"
+                    path: docs/pages/preliminary-provisions-section-19.mdx
+                  - page: "§ 20"
+                    path: docs/pages/preliminary-provisions-section-20.mdx
+                  - page: "§ 21"
+                    path: docs/pages/preliminary-provisions-section-21.mdx
+                  - page: "§ 22"
+                    path: docs/pages/preliminary-provisions-section-22.mdx
+                  - page: "§ 23"
+                    path: docs/pages/preliminary-provisions-section-23.mdx
+                  - page: "§ 24"
+                    path: docs/pages/preliminary-provisions-section-24.mdx
+                  - page: "§ 25"
+                    path: docs/pages/preliminary-provisions-section-25.mdx
+                  - page: "§ 25.8"
+                    path: docs/pages/preliminary-provisions-section-25.8.mdx
+                  - page: "§ 26"
+                    path: docs/pages/preliminary-provisions-section-26.mdx
+                  - page: "§ 27"
+                    path: docs/pages/preliminary-provisions-section-27.mdx
+                  - page: "§ 28"
+                    path: docs/pages/preliminary-provisions-section-28.mdx
+                  - page: "§ 29"
+                    path: docs/pages/preliminary-provisions-section-29.mdx
+                  - page: "§ 30"
+                    path: docs/pages/preliminary-provisions-section-30.mdx
+                  - page: "§ 31"
+                    path: docs/pages/preliminary-provisions-section-31.mdx
+                  - page: "§ 32"
+                    path: docs/pages/preliminary-provisions-section-32.mdx
+                  - page: "§ 33"
+                    path: docs/pages/preliminary-provisions-section-33.mdx
+                  - page: "§ 34"
+                    path: docs/pages/preliminary-provisions-section-34.mdx
+                  - page: "§ 35"
+                    path: docs/pages/preliminary-provisions-section-35.mdx
+                  - page: "§ 36"
+                    path: docs/pages/preliminary-provisions-section-36.mdx
+                  - page: "§ 36.5"
+                    path: docs/pages/preliminary-provisions-section-36.5.mdx
+                  - page: "§ 37"
+                    path: docs/pages/preliminary-provisions-section-37.mdx
+                  - page: "§ 38"
+                    path: docs/pages/preliminary-provisions-section-38.mdx
+                  - page: "§ 39"
+                    path: docs/pages/preliminary-provisions-section-39.mdx
+                  - page: "§ 40"
+                    path: docs/pages/preliminary-provisions-section-40.mdx
+                  - page: "§ 41"
+                    path: docs/pages/preliminary-provisions-section-41.mdx
+                  - page: "§ 43"
+                    path: docs/pages/preliminary-provisions-section-43.mdx
+                  - page: "§ 43.1"
+                    path: docs/pages/preliminary-provisions-section-43.1.mdx
+                  - page: "§ 43.4"
+                    path: docs/pages/preliminary-provisions-section-43.4.mdx
+                  - page: "§ 43.5"
+                    path: docs/pages/preliminary-provisions-section-43.5.mdx
+                  - page: "§ 43.56"
+                    path: docs/pages/preliminary-provisions-section-43.56.mdx
+                  - page: "§ 43.6"
+                    path: docs/pages/preliminary-provisions-section-43.6.mdx
+                  - page: "§ 44"
+                    path: docs/pages/preliminary-provisions-section-44.mdx
+                  - page: "§ 45"
+                    path: docs/pages/preliminary-provisions-section-45.mdx
+                  - page: "§ 46"
+                    path: docs/pages/preliminary-provisions-section-46.mdx
+                  - page: "§ 47"
+                    path: docs/pages/preliminary-provisions-section-47.mdx
+                  - page: "§ 47.5"
+                    path: docs/pages/preliminary-provisions-section-47.5.mdx
+                  - page: "§ 48"
+                    path: docs/pages/preliminary-provisions-section-48.mdx
+                  - page: "§ 48.4"
+                    path: docs/pages/preliminary-provisions-section-48.4.mdx
+                  - page: "§ 48.7"
+                    path: docs/pages/preliminary-provisions-section-48.7.mdx
+                  - page: "§ 49"
+                    path: docs/pages/preliminary-provisions-section-49.mdx
+                  - page: "§ 50"
+                    path: docs/pages/preliminary-provisions-section-50.mdx
+                  - page: "§ 51"
+                    path: docs/pages/preliminary-provisions-section-51.mdx
+                  - page: "§ 52"
+                    path: docs/pages/preliminary-provisions-section-52.mdx
+                  - page: "§ 52.4"
+                    path: docs/pages/preliminary-provisions-section-52.4.mdx
+                  - page: "§ 52.45"
+                    path: docs/pages/preliminary-provisions-section-52.45.mdx
+                  - page: "§ 54"
+                    path: docs/pages/preliminary-provisions-section-54.mdx
+                  - page: "§ 55"
+                    path: docs/pages/preliminary-provisions-section-55.mdx
+                  - page: "§ 56"
+                    path: docs/pages/preliminary-provisions-section-56.mdx
+                  - page: "§ 56.103"
+                    path: docs/pages/preliminary-provisions-section-56.103.mdx
+                  - page: "§ 57"
+                    path: docs/pages/preliminary-provisions-section-57.mdx
+                  - page: "§ 58"
+                    path: docs/pages/preliminary-provisions-section-58.mdx
+                  - page: "§ 59"
+                    path: docs/pages/preliminary-provisions-section-59.mdx
+                  - page: "§ 61"
+                    path: docs/pages/preliminary-provisions-section-61.mdx
+                  - page: "§ 62"
+                    path: docs/pages/preliminary-provisions-section-62.mdx
+                  - page: "§ 63"
+                    path: docs/pages/preliminary-provisions-section-63.mdx
+                  - page: "§ 64"
+                    path: docs/pages/preliminary-provisions-section-64.mdx
+                  - page: "§ 65"
+                    path: docs/pages/preliminary-provisions-section-65.mdx
+                  - page: "§ 66"
+                    path: docs/pages/preliminary-provisions-section-66.mdx
+                  - page: "§ 67"
+                    path: docs/pages/preliminary-provisions-section-67.mdx
+                  - page: "§ 69"
+                    path: docs/pages/preliminary-provisions-section-69.mdx
+                  - page: "§ 70"
+                    path: docs/pages/preliminary-provisions-section-70.mdx
+                  - page: "§ 71"
+                    path: docs/pages/preliminary-provisions-section-71.mdx
+                  - page: "§ 72"
+                    path: docs/pages/preliminary-provisions-section-72.mdx
+                  - page: "§ 73.5"
+                    path: docs/pages/preliminary-provisions-section-73.5.mdx
+                  - page: "§ 74"
+                    path: docs/pages/preliminary-provisions-section-74.mdx
+                  - page: "§ 77.5"
+                    path: docs/pages/preliminary-provisions-section-77.5.mdx
+                  - page: "§ 78"
+                    path: docs/pages/preliminary-provisions-section-78.mdx
+                  - page: "§ 78.5"
+                    path: docs/pages/preliminary-provisions-section-78.5.mdx
+                  - page: "§ 79"
+                    path: docs/pages/preliminary-provisions-section-79.mdx
+                  - page: "§ 79.5"
+                    path: docs/pages/preliminary-provisions-section-79.5.mdx
+                  - page: "§ 80"
+                    path: docs/pages/preliminary-provisions-section-80.mdx
+                  - page: "§ 80.4"
+                    path: docs/pages/preliminary-provisions-section-80.4.mdx
+                  - page: "§ 80.5"
+                    path: docs/pages/preliminary-provisions-section-80.5.mdx
+                  - page: "§ 81.5"
+                    path: docs/pages/preliminary-provisions-section-81.5.mdx
+                  - page: "§ 84"
+                    path: docs/pages/preliminary-provisions-section-84.mdx
+                  - page: "§ 85"
+                    path: docs/pages/preliminary-provisions-section-85.mdx
+                  - page: "§ 85.4"
+                    path: docs/pages/preliminary-provisions-section-85.4.mdx
+                  - page: "§ 86"
+                    path: docs/pages/preliminary-provisions-section-86.mdx
+                  - page: "§ 87"
+                    path: docs/pages/preliminary-provisions-section-87.mdx
+                  - page: "§ 88"
+                    path: docs/pages/preliminary-provisions-section-88.mdx
+                  - page: "§ 89"
+                    path: docs/pages/preliminary-provisions-section-89.mdx
+                  - page: "§ 90"
+                    path: docs/pages/preliminary-provisions-section-90.mdx
+                  - page: "§ 91"
+                    path: docs/pages/preliminary-provisions-section-91.mdx
+                  - page: "§ 92"
+                    path: docs/pages/preliminary-provisions-section-92.mdx
+                  - page: "§ 92.5"
+                    path: docs/pages/preliminary-provisions-section-92.5.mdx
+                  - page: "§ 93"
+                    path: docs/pages/preliminary-provisions-section-93.mdx
+                  - page: "§ 94"
+                    path: docs/pages/preliminary-provisions-section-94.mdx
+                  - page: "§ 95"
+                    path: docs/pages/preliminary-provisions-section-95.mdx
+                  - page: "§ 96"
+                    path: docs/pages/preliminary-provisions-section-96.mdx
+                  - page: "§ 97"
+                    path: docs/pages/preliminary-provisions-section-97.mdx
+                  - page: "§ 100"
+                    path: docs/pages/preliminary-provisions-section-100.mdx
+                  - page: "§ 101"
+                    path: docs/pages/preliminary-provisions-section-101.mdx
+                  - page: "§ 102"
+                    path: docs/pages/preliminary-provisions-section-102.mdx
+                  - page: "§ 103"
+                    path: docs/pages/preliminary-provisions-section-103.mdx
+                  - page: "§ 104"
+                    path: docs/pages/preliminary-provisions-section-104.mdx
+                  - page: "§ 105"
+                    path: docs/pages/preliminary-provisions-section-105.mdx
+                  - page: "§ 106.1"
+                    path: docs/pages/preliminary-provisions-section-106.1.mdx
+                  - page: "§ 106.7"
+                    path: docs/pages/preliminary-provisions-section-106.7.mdx
+                  - page: "§ 107"
+                    path: docs/pages/preliminary-provisions-section-107.mdx
+                  - page: "§ 108"
+                    path: docs/pages/preliminary-provisions-section-108.mdx
+                  - page: "§ 111.5"
+                    path: docs/pages/preliminary-provisions-section-111.5.mdx
+                  - page: "§ 113"
+                    path: docs/pages/preliminary-provisions-section-113.mdx
+                  - page: "§ 114"
+                    path: docs/pages/preliminary-provisions-section-114.mdx
+                  - page: "§ 115"
+                    path: docs/pages/preliminary-provisions-section-115.mdx
+                  - page: "§ 116"
+                    path: docs/pages/preliminary-provisions-section-116.mdx
+                  - page: "§ 116.11"
+                    path: docs/pages/preliminary-provisions-section-116.11.mdx
+                  - page: "§ 116.20"
+                    path: docs/pages/preliminary-provisions-section-116.20.mdx
+                  - page: "§ 116.50"
+                    path: docs/pages/preliminary-provisions-section-116.50.mdx
+                  - page: "§ 116.81"
+                    path: docs/pages/preliminary-provisions-section-116.81.mdx
+                  - page: "§ 116.87"
+                    path: docs/pages/preliminary-provisions-section-116.87.mdx
+                  - page: "§ 120"
+                    path: docs/pages/preliminary-provisions-section-120.mdx
+                  - page: "§ 121"
+                    path: docs/pages/preliminary-provisions-section-121.mdx
+                  - page: "§ 124"
+                    path: docs/pages/preliminary-provisions-section-124.mdx
+                  - page: "§ 125"
+                    path: docs/pages/preliminary-provisions-section-125.mdx
+                  - page: "§ 126"
+                    path: docs/pages/preliminary-provisions-section-126.mdx
+                  - page: "§ 127"
+                    path: docs/pages/preliminary-provisions-section-127.mdx
+                  - page: "§ 128"
+                    path: docs/pages/preliminary-provisions-section-128.mdx
+                  - page: "§ 128.5"
+                    path: docs/pages/preliminary-provisions-section-128.5.mdx
+                  - page: "§ 128.6"
+                    path: docs/pages/preliminary-provisions-section-128.6.mdx
+                  - page: "§ 128.7"
+                    path: docs/pages/preliminary-provisions-section-128.7.mdx
+                  - page: "§ 130"
+                    path: docs/pages/preliminary-provisions-section-130.mdx
+                  - page: "§ 132"
+                    path: docs/pages/preliminary-provisions-section-132.mdx
+                  - page: "§ 134"
+                    path: docs/pages/preliminary-provisions-section-134.mdx
+                  - page: "§ 136"
+                    path: docs/pages/preliminary-provisions-section-136.mdx
+                  - page: "§ 136.2"
+                    path: docs/pages/preliminary-provisions-section-136.2.mdx
+                  - page: "§ 138"
+                    path: docs/pages/preliminary-provisions-section-138.mdx
+                  - page: "§ 140"
+                    path: docs/pages/preliminary-provisions-section-140.mdx
+                  - page: "§ 141"
+                    path: docs/pages/preliminary-provisions-section-141.mdx
+                  - page: "§ 142"
+                    path: docs/pages/preliminary-provisions-section-142.mdx
+                  - page: "§ 143"
+                    path: docs/pages/preliminary-provisions-section-143.mdx
+                  - page: "§ 144"
+                    path: docs/pages/preliminary-provisions-section-144.mdx
+                  - page: "§ 145"
+                    path: docs/pages/preliminary-provisions-section-145.mdx
+                  - page: "§ 146"
+                    path: docs/pages/preliminary-provisions-section-146.mdx
+                  - page: "§ 147"
+                    path: docs/pages/preliminary-provisions-section-147.mdx
+                  - page: "§ 150"
+                    path: docs/pages/preliminary-provisions-section-150.mdx
+                  - page: "§ 151"
+                    path: docs/pages/preliminary-provisions-section-151.mdx
+                  - page: "§ 152"
+                    path: docs/pages/preliminary-provisions-section-152.mdx
+                  - page: "§ 153"
+                    path: docs/pages/preliminary-provisions-section-153.mdx
+                  - page: "§ 154"
+                    path: docs/pages/preliminary-provisions-section-154.mdx
+                  - page: "§ 155"
+                    path: docs/pages/preliminary-provisions-section-155.mdx
+                  - page: "§ 156"
+                    path: docs/pages/preliminary-provisions-section-156.mdx
+                  - page: "§ 158"
+                    path: docs/pages/preliminary-provisions-section-158.mdx
+                  - page: "§ 160"
+                    path: docs/pages/preliminary-provisions-section-160.mdx
+                  - page: "§ 161"
+                    path: docs/pages/preliminary-provisions-section-161.mdx
+                  - page: "§ 162"
+                    path: docs/pages/preliminary-provisions-section-162.mdx
+                  - page: "§ 163"
+                    path: docs/pages/preliminary-provisions-section-163.mdx
+                  - page: "§ 169"
+                    path: docs/pages/preliminary-provisions-section-169.mdx
+                  - page: "§ 170"
+                    path: docs/pages/preliminary-provisions-section-170.mdx
+                  - page: "§ 170.3"
+                    path: docs/pages/preliminary-provisions-section-170.3.mdx
+                  - page: "§ 170.4"
+                    path: docs/pages/preliminary-provisions-section-170.4.mdx
+                  - page: "§ 175"
+                    path: docs/pages/preliminary-provisions-section-175.mdx
+                  - page: "§ 177"
+                    path: docs/pages/preliminary-provisions-section-177.mdx
+                  - page: "§ 180"
+                    path: docs/pages/preliminary-provisions-section-180.mdx
+                  - page: "§ 182"
+                    path: docs/pages/preliminary-provisions-section-182.mdx
+                  - page: "§ 185"
+                    path: docs/pages/preliminary-provisions-section-185.mdx
+                  - page: "§ 186"
+                    path: docs/pages/preliminary-provisions-section-186.mdx
+                  - page: "§ 189"
+                    path: docs/pages/preliminary-provisions-section-189.mdx
+                  - page: "§ 196"
+                    path: docs/pages/preliminary-provisions-section-196.mdx
+                  - page: "§ 197"
+                    path: docs/pages/preliminary-provisions-section-197.mdx
+
+          - section: Division 2 — Marriage
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/marriage.mdx
+
+          - section: Division 2.5 — Domestic Partner Registration
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-2.5-domestic-partners.mdx
+
+          - section: Division 3 — Premarital Agreements
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-3-marriage.mdx
+
+          - section: Division 4 — Rights and Obligations During Marriage
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-4-rights-during-marriage.mdx
+
+          - section: Division 5 — Conciliation Proceedings
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-5-conciliation.mdx
+
+          - section: Division 6 — Nullity, Dissolution, and Legal Separation
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-6-dissolution.mdx
+
+          - section: Division 7 — Division of Property
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-7-property.mdx
+
+          - section: Division 8 — Custody of Children
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-8-custody.mdx
+
+          - section: Division 9 — Support
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-9-support.mdx
+
+          - section: Division 10 — Prevention of Domestic Violence
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-10-domestic-violence.mdx
+
+          - section: Division 11 — Minors
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-11-minors.mdx
+
+          - section: Division 12 — Parent and Child Relationship
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-12-parent-child.mdx
+
+          - section: Division 13 — Adoption
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-13-adoption.mdx
+
+          - section: Division 14 — Family Law Facilitator Act
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-14-family-law-facilitator.mdx
+
+          - section: Division 17 — Support Services
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-17-support-services.mdx
+
+          - section: Division 20 — Pilot Projects
+            collapsed: true
+            contents:
+              - page: Overview
+                path: docs/pages/division-20-pilot-projects.mdx
 
       - section: Case Annotations
         contents:
