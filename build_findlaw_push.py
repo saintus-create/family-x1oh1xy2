@@ -566,7 +566,11 @@ def main():
     for f in PAGES_DIR.glob("*.mdx"):
         m = re.match(r"^(.+)-section-([\d.]+)\.mdx$", f.stem)
         if m:
-            existing_file_map[m.group(2)] = m.group(1)
+            sec, prefix = m.group(2), m.group(1)
+            # Prefer longer/more-specific prefix (e.g. "division-2.5-domestic-partners"
+            # beats "marriage" for the shared § 297–299 range)
+            if sec not in existing_file_map or len(prefix) > len(existing_file_map[sec]):
+                existing_file_map[sec] = prefix
 
     div_sections_map: dict[str, list[str]] = defaultdict(list)
     for sec_num in registry:
