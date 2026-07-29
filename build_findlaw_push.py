@@ -564,7 +564,7 @@ def main():
     print("\n[3] Assigning sections to divisions…")
     existing_file_map: dict[str, str] = {}
     for f in PAGES_DIR.glob("*.mdx"):
-        m = re.match(r"^(.+)-section-([\d.]+)\.mdx$", f.stem)
+        m = re.match(r"^(.+)-section-([\d.]+)$", f.stem)
         if m:
             sec, prefix = m.group(2), m.group(1)
             # Prefer longer/more-specific prefix (e.g. "division-2.5-domestic-partners"
