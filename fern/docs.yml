@@ -59,173 +59,6 @@ navigation:
             contents:
               - page: Overview
                 path: docs/pages/division-4-rights-during-marriage.mdx
-              - section: "Chapter 1 — Definitions"
-                collapsed: true
-                contents:
-                  - page: "§ 700."
-                    path: docs/pages/division-4-rights-during-marriage-section-700..mdx
-              - section: "Chapter 2 — Relation Of Spouses"
-                collapsed: true
-                contents:
-                  - page: "§ 720."
-                    path: docs/pages/division-4-rights-during-marriage-section-720..mdx
-                  - page: "§ 721."
-                    path: docs/pages/division-4-rights-during-marriage-section-721..mdx
-              - section: "Chapter 1 — Community Property"
-                collapsed: true
-                contents:
-                  - page: "§ 760."
-                    path: docs/pages/division-4-rights-during-marriage-section-760..mdx
-                  - page: "§ 761."
-                    path: docs/pages/division-4-rights-during-marriage-section-761..mdx
-              - section: "Chapter 3 — Property Rights During Marriage"
-                collapsed: true
-                contents:
-                  - page: "§ 750."
-                    path: docs/pages/division-4-rights-during-marriage-section-750..mdx
-                  - page: "§ 751."
-                    path: docs/pages/division-4-rights-during-marriage-section-751..mdx
-                  - page: "§ 752."
-                    path: docs/pages/division-4-rights-during-marriage-section-752..mdx
-                  - page: "§ 753."
-                    path: docs/pages/division-4-rights-during-marriage-section-753..mdx
-                  - page: "§ 754."
-                    path: docs/pages/division-4-rights-during-marriage-section-754..mdx
-                  - page: "§ 755."
-                    path: docs/pages/division-4-rights-during-marriage-section-755..mdx
-              - section: "Chapter 2 — Separate Property"
-                collapsed: true
-                contents:
-                  - page: "§ 770."
-                    path: docs/pages/division-4-rights-during-marriage-section-770..mdx
-                  - page: "§ 771."
-                    path: docs/pages/division-4-rights-during-marriage-section-771..mdx
-                  - page: "§ 772."
-                    path: docs/pages/division-4-rights-during-marriage-section-772..mdx
-              - section: "Chapter 3 — Damages For Injuries To Married Person"
-                collapsed: true
-                contents:
-                  - page: "§ 780."
-                    path: docs/pages/division-4-rights-during-marriage-section-780..mdx
-                  - page: "§ 781."
-                    path: docs/pages/division-4-rights-during-marriage-section-781..mdx
-                  - page: "§ 782."
-                    path: docs/pages/division-4-rights-during-marriage-section-782..mdx
-                  - page: "§ 782.5"
-                    path: docs/pages/division-4-rights-during-marriage-section-782.5.mdx
-                  - page: "§ 783."
-                    path: docs/pages/division-4-rights-during-marriage-section-783..mdx
-              - section: "Chapter 5 — Transmutation Of Property"
-                collapsed: true
-                contents:
-                  - page: "§ 850."
-                    path: docs/pages/division-4-rights-during-marriage-section-850..mdx
-                  - page: "§ 851."
-                    path: docs/pages/division-4-rights-during-marriage-section-851..mdx
-                  - page: "§ 852."
-                    path: docs/pages/division-4-rights-during-marriage-section-852..mdx
-                  - page: "§ 853."
-                    path: docs/pages/division-4-rights-during-marriage-section-853..mdx
-              - section: "Chapter 4 — Presumptions Concerning Nature Of Property"
-                collapsed: true
-                contents:
-                  - page: "§ 802."
-                    path: docs/pages/division-4-rights-during-marriage-section-802..mdx
-                  - page: "§ 803."
-                    path: docs/pages/division-4-rights-during-marriage-section-803..mdx
-              - section: "Chapter 3 — Reimbursement"
-                collapsed: true
-                contents:
-                  - page: "§ 920."
-                    path: docs/pages/division-4-rights-during-marriage-section-920..mdx
-              - section: "Chapter 4 — Transitional Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 930."
-                    path: docs/pages/division-4-rights-during-marriage-section-930..mdx
-                  - page: "§ 931."
-                    path: docs/pages/division-4-rights-during-marriage-section-931..mdx
-              - section: "Chapter 5 — Liability For Death Or Injury"
-                collapsed: true
-                contents:
-                  - page: "§ 1000."
-                    path: docs/pages/division-4-rights-during-marriage-section-1000..mdx
-              - section: "Chapter 2 — General Rules Of Liability"
-                collapsed: true
-                contents:
-                  - page: "§ 910."
-                    path: docs/pages/division-4-rights-during-marriage-section-910..mdx
-                  - page: "§ 911."
-                    path: docs/pages/division-4-rights-during-marriage-section-911..mdx
-                  - page: "§ 912."
-                    path: docs/pages/division-4-rights-during-marriage-section-912..mdx
-                  - page: "§ 913."
-                    path: docs/pages/division-4-rights-during-marriage-section-913..mdx
-                  - page: "§ 914."
-                    path: docs/pages/division-4-rights-during-marriage-section-914..mdx
-                  - page: "§ 915."
-                    path: docs/pages/division-4-rights-during-marriage-section-915..mdx
-                  - page: "§ 916."
-                    path: docs/pages/division-4-rights-during-marriage-section-916..mdx
-              - section: "Chapter 1 — Definitions"
-                collapsed: true
-                contents:
-                  - page: "§ 900."
-                    path: docs/pages/division-4-rights-during-marriage-section-900..mdx
-                  - page: "§ 902."
-                    path: docs/pages/division-4-rights-during-marriage-section-902..mdx
-                  - page: "§ 903."
-                    path: docs/pages/division-4-rights-during-marriage-section-903..mdx
-              - section: "Part 4 — Management And Control Of Marital Property"
-                collapsed: true
-                contents:
-                  - page: "§ 1100."
-                    path: docs/pages/division-4-rights-during-marriage-section-1100..mdx
-                  - page: "§ 1101."
-                    path: docs/pages/division-4-rights-during-marriage-section-1101..mdx
-                  - page: "§ 1102."
-                    path: docs/pages/division-4-rights-during-marriage-section-1102..mdx
-                  - page: "§ 1103."
-                    path: docs/pages/division-4-rights-during-marriage-section-1103..mdx
-              - section: "Chapter 2 — Uniform Premarital Agreement Act"
-                collapsed: true
-                contents:
-                  - page: "§ 1600."
-                    path: docs/pages/division-4-rights-during-marriage-section-1600..mdx
-                  - page: "§ 1601."
-                    path: docs/pages/division-4-rights-during-marriage-section-1601..mdx
-                  - page: "§ 1610."
-                    path: docs/pages/division-4-rights-during-marriage-section-1610..mdx
-                  - page: "§ 1611."
-                    path: docs/pages/division-4-rights-during-marriage-section-1611..mdx
-                  - page: "§ 1612."
-                    path: docs/pages/division-4-rights-during-marriage-section-1612..mdx
-                  - page: "§ 1613."
-                    path: docs/pages/division-4-rights-during-marriage-section-1613..mdx
-                  - page: "§ 1614."
-                    path: docs/pages/division-4-rights-during-marriage-section-1614..mdx
-                  - page: "§ 1615."
-                    path: docs/pages/division-4-rights-during-marriage-section-1615..mdx
-                  - page: "§ 1616."
-                    path: docs/pages/division-4-rights-during-marriage-section-1616..mdx
-                  - page: "§ 1617."
-                    path: docs/pages/division-4-rights-during-marriage-section-1617..mdx
-              - section: "Chapter 1 — General Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 1500."
-                    path: docs/pages/division-4-rights-during-marriage-section-1500..mdx
-                  - page: "§ 1501."
-                    path: docs/pages/division-4-rights-during-marriage-section-1501..mdx
-                  - page: "§ 1502."
-                    path: docs/pages/division-4-rights-during-marriage-section-1502..mdx
-                  - page: "§ 1503."
-                    path: docs/pages/division-4-rights-during-marriage-section-1503..mdx
-              - section: "Chapter 3 — Agreements Between Spouses"
-                collapsed: true
-                contents:
-                  - page: "§ 1620."
-                    path: docs/pages/division-4-rights-during-marriage-section-1620..mdx
 
           - section: "Division 5 — Conciliation Proceedings"
             collapsed: true
@@ -238,309 +71,6 @@ navigation:
             contents:
               - page: Overview
                 path: docs/pages/division-6-dissolution.mdx
-              - section: "Chapter 4 — Protective And Restraining Orders"
-                collapsed: true
-                contents:
-                  - page: "§ 2040."
-                    path: docs/pages/division-6-dissolution-section-2040..mdx
-                  - page: "§ 2040."
-                    path: docs/pages/division-6-dissolution-section-2040..mdx
-                  - page: "§ 2041."
-                    path: docs/pages/division-6-dissolution-section-2041..mdx
-                  - page: "§ 2045."
-                    path: docs/pages/division-6-dissolution-section-2045..mdx
-                  - page: "§ 2047."
-                    path: docs/pages/division-6-dissolution-section-2047..mdx
-                  - page: "§ 2049."
-                    path: docs/pages/division-6-dissolution-section-2049..mdx
-              - section: "Chapter 5 — Notice To Insurance Carriers"
-                collapsed: true
-                contents:
-                  - page: "§ 2050."
-                    path: docs/pages/division-6-dissolution-section-2050..mdx
-                  - page: "§ 2051."
-                    path: docs/pages/division-6-dissolution-section-2051..mdx
-                  - page: "§ 2052."
-                    path: docs/pages/division-6-dissolution-section-2052..mdx
-                  - page: "§ 2053."
-                    path: docs/pages/division-6-dissolution-section-2053..mdx
-              - section: "Chapter 8 — Uniform Divorce Recognition Act"
-                collapsed: true
-                contents:
-                  - page: "§ 2090."
-                    path: docs/pages/division-6-dissolution-section-2090..mdx
-                  - page: "§ 2091."
-                    path: docs/pages/division-6-dissolution-section-2091..mdx
-                  - page: "§ 2092."
-                    path: docs/pages/division-6-dissolution-section-2092..mdx
-                  - page: "§ 2093."
-                    path: docs/pages/division-6-dissolution-section-2093..mdx
-              - section: "Chapter 6 — Employee Pension Benefit Plan As Party"
-                collapsed: true
-                contents:
-                  - page: "§ 2060."
-                    path: docs/pages/division-6-dissolution-section-2060..mdx
-                  - page: "§ 2061."
-                    path: docs/pages/division-6-dissolution-section-2061..mdx
-                  - page: "§ 2062."
-                    path: docs/pages/division-6-dissolution-section-2062..mdx
-                  - page: "§ 2063."
-                    path: docs/pages/division-6-dissolution-section-2063..mdx
-                  - page: "§ 2064."
-                    path: docs/pages/division-6-dissolution-section-2064..mdx
-                  - page: "§ 2065."
-                    path: docs/pages/division-6-dissolution-section-2065..mdx
-                  - page: "§ 2070."
-                    path: docs/pages/division-6-dissolution-section-2070..mdx
-                  - page: "§ 2071."
-                    path: docs/pages/division-6-dissolution-section-2071..mdx
-                  - page: "§ 2072."
-                    path: docs/pages/division-6-dissolution-section-2072..mdx
-                  - page: "§ 2073."
-                    path: docs/pages/division-6-dissolution-section-2073..mdx
-                  - page: "§ 2074."
-                    path: docs/pages/division-6-dissolution-section-2074..mdx
-              - section: "Chapter 1 — Application Of Part"
-                collapsed: true
-                contents:
-                  - page: "§ 2000."
-                    path: docs/pages/division-6-dissolution-section-2000..mdx
-              - section: "Chapter 7 — Restoration Of Spouse’S Former Name"
-                collapsed: true
-                contents:
-                  - page: "§ 2080."
-                    path: docs/pages/division-6-dissolution-section-2080..mdx
-                  - page: "§ 2081."
-                    path: docs/pages/division-6-dissolution-section-2081..mdx
-                  - page: "§ 2082."
-                    path: docs/pages/division-6-dissolution-section-2082..mdx
-              - section: "Chapter 2 — Jurisdiction"
-                collapsed: true
-                contents:
-                  - page: "§ 2010."
-                    path: docs/pages/division-6-dissolution-section-2010..mdx
-                  - page: "§ 2011."
-                    path: docs/pages/division-6-dissolution-section-2011..mdx
-                  - page: "§ 2012."
-                    path: docs/pages/division-6-dissolution-section-2012..mdx
-                  - page: "§ 2013."
-                    path: docs/pages/division-6-dissolution-section-2013..mdx
-              - section: "Chapter 3 — Procedural Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 2020."
-                    path: docs/pages/division-6-dissolution-section-2020..mdx
-                  - page: "§ 2021."
-                    path: docs/pages/division-6-dissolution-section-2021..mdx
-                  - page: "§ 2022."
-                    path: docs/pages/division-6-dissolution-section-2022..mdx
-                  - page: "§ 2023."
-                    path: docs/pages/division-6-dissolution-section-2023..mdx
-                  - page: "§ 2024."
-                    path: docs/pages/division-6-dissolution-section-2024..mdx
-                  - page: "§ 2024.5"
-                    path: docs/pages/division-6-dissolution-section-2024.5.mdx
-                  - page: "§ 2024.6"
-                    path: docs/pages/division-6-dissolution-section-2024.6.mdx
-                  - page: "§ 2024.7"
-                    path: docs/pages/division-6-dissolution-section-2024.7.mdx
-                  - page: "§ 2025."
-                    path: docs/pages/division-6-dissolution-section-2025..mdx
-                  - page: "§ 2026."
-                    path: docs/pages/division-6-dissolution-section-2026..mdx
-              - section: "Chapter 9 — Disclosure Of Assets And Liabilities"
-                collapsed: true
-                contents:
-                  - page: "§ 2100."
-                    path: docs/pages/division-6-dissolution-section-2100..mdx
-                  - page: "§ 2101."
-                    path: docs/pages/division-6-dissolution-section-2101..mdx
-                  - page: "§ 2102."
-                    path: docs/pages/division-6-dissolution-section-2102..mdx
-                  - page: "§ 2103."
-                    path: docs/pages/division-6-dissolution-section-2103..mdx
-                  - page: "§ 2104."
-                    path: docs/pages/division-6-dissolution-section-2104..mdx
-                  - page: "§ 2105."
-                    path: docs/pages/division-6-dissolution-section-2105..mdx
-                  - page: "§ 2106."
-                    path: docs/pages/division-6-dissolution-section-2106..mdx
-                  - page: "§ 2107."
-                    path: docs/pages/division-6-dissolution-section-2107..mdx
-                  - page: "§ 2108."
-                    path: docs/pages/division-6-dissolution-section-2108..mdx
-                  - page: "§ 2109."
-                    path: docs/pages/division-6-dissolution-section-2109..mdx
-                  - page: "§ 2110."
-                    path: docs/pages/division-6-dissolution-section-2110..mdx
-                  - page: "§ 2111."
-                    path: docs/pages/division-6-dissolution-section-2111..mdx
-                  - page: "§ 2112."
-                    path: docs/pages/division-6-dissolution-section-2112..mdx
-                  - page: "§ 2113."
-                    path: docs/pages/division-6-dissolution-section-2113..mdx
-              - section: "Chapter 2 — Voidable Marriage"
-                collapsed: true
-                contents:
-                  - page: "§ 2210."
-                    path: docs/pages/division-6-dissolution-section-2210..mdx
-                  - page: "§ 2211."
-                    path: docs/pages/division-6-dissolution-section-2211..mdx
-                  - page: "§ 2211."
-                    path: docs/pages/division-6-dissolution-section-2211..mdx
-                  - page: "§ 2212."
-                    path: docs/pages/division-6-dissolution-section-2212..mdx
-              - section: "Chapter 10 — Relief From Judgment"
-                collapsed: true
-                contents:
-                  - page: "§ 2120."
-                    path: docs/pages/division-6-dissolution-section-2120..mdx
-                  - page: "§ 2121."
-                    path: docs/pages/division-6-dissolution-section-2121..mdx
-                  - page: "§ 2122."
-                    path: docs/pages/division-6-dissolution-section-2122..mdx
-                  - page: "§ 2123."
-                    path: docs/pages/division-6-dissolution-section-2123..mdx
-                  - page: "§ 2124."
-                    path: docs/pages/division-6-dissolution-section-2124..mdx
-                  - page: "§ 2125."
-                    path: docs/pages/division-6-dissolution-section-2125..mdx
-                  - page: "§ 2126."
-                    path: docs/pages/division-6-dissolution-section-2126..mdx
-                  - page: "§ 2127."
-                    path: docs/pages/division-6-dissolution-section-2127..mdx
-                  - page: "§ 2128."
-                    path: docs/pages/division-6-dissolution-section-2128..mdx
-                  - page: "§ 2129."
-                    path: docs/pages/division-6-dissolution-section-2129..mdx
-              - section: "Chapter 1 — Void Marriage"
-                collapsed: true
-                contents:
-                  - page: "§ 2200."
-                    path: docs/pages/division-6-dissolution-section-2200..mdx
-                  - page: "§ 2201."
-                    path: docs/pages/division-6-dissolution-section-2201..mdx
-              - section: "Chapter 3 — Procedural Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 2250."
-                    path: docs/pages/division-6-dissolution-section-2250..mdx
-                  - page: "§ 2251."
-                    path: docs/pages/division-6-dissolution-section-2251..mdx
-                  - page: "§ 2252."
-                    path: docs/pages/division-6-dissolution-section-2252..mdx
-                  - page: "§ 2253."
-                    path: docs/pages/division-6-dissolution-section-2253..mdx
-                  - page: "§ 2254."
-                    path: docs/pages/division-6-dissolution-section-2254..mdx
-                  - page: "§ 2255."
-                    path: docs/pages/division-6-dissolution-section-2255..mdx
-              - section: "Chapter 1 — Effect Of Dissolution"
-                collapsed: true
-                contents:
-                  - page: "§ 2300."
-                    path: docs/pages/division-6-dissolution-section-2300..mdx
-              - section: "Chapter 2 — Grounds For Dissolution Or Legal Separation"
-                collapsed: true
-                contents:
-                  - page: "§ 2310."
-                    path: docs/pages/division-6-dissolution-section-2310..mdx
-                  - page: "§ 2311."
-                    path: docs/pages/division-6-dissolution-section-2311..mdx
-                  - page: "§ 2312."
-                    path: docs/pages/division-6-dissolution-section-2312..mdx
-                  - page: "§ 2313."
-                    path: docs/pages/division-6-dissolution-section-2313..mdx
-              - section: "Chapter 3 — Residence Requirements"
-                collapsed: true
-                contents:
-                  - page: "§ 2320."
-                    path: docs/pages/division-6-dissolution-section-2320..mdx
-                  - page: "§ 2321."
-                    path: docs/pages/division-6-dissolution-section-2321..mdx
-                  - page: "§ 2322."
-                    path: docs/pages/division-6-dissolution-section-2322..mdx
-              - section: "Chapter 4 — General Procedural Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 2330."
-                    path: docs/pages/division-6-dissolution-section-2330..mdx
-                  - page: "§ 2330.1"
-                    path: docs/pages/division-6-dissolution-section-2330.1.mdx
-                  - page: "§ 2330.3"
-                    path: docs/pages/division-6-dissolution-section-2330.3.mdx
-                  - page: "§ 2330.5"
-                    path: docs/pages/division-6-dissolution-section-2330.5.mdx
-                  - page: "§ 2331."
-                    path: docs/pages/division-6-dissolution-section-2331..mdx
-                  - page: "§ 2332."
-                    path: docs/pages/division-6-dissolution-section-2332..mdx
-                  - page: "§ 2333."
-                    path: docs/pages/division-6-dissolution-section-2333..mdx
-                  - page: "§ 2334."
-                    path: docs/pages/division-6-dissolution-section-2334..mdx
-                  - page: "§ 2335."
-                    path: docs/pages/division-6-dissolution-section-2335..mdx
-                  - page: "§ 2335.5"
-                    path: docs/pages/division-6-dissolution-section-2335.5.mdx
-                  - page: "§ 2336."
-                    path: docs/pages/division-6-dissolution-section-2336..mdx
-                  - page: "§ 2337."
-                    path: docs/pages/division-6-dissolution-section-2337..mdx
-                  - page: "§ 2338."
-                    path: docs/pages/division-6-dissolution-section-2338..mdx
-                  - page: "§ 2338.5"
-                    path: docs/pages/division-6-dissolution-section-2338.5.mdx
-                  - page: "§ 2339."
-                    path: docs/pages/division-6-dissolution-section-2339..mdx
-                  - page: "§ 2340."
-                    path: docs/pages/division-6-dissolution-section-2340..mdx
-                  - page: "§ 2341."
-                    path: docs/pages/division-6-dissolution-section-2341..mdx
-                  - page: "§ 2342."
-                    path: docs/pages/division-6-dissolution-section-2342..mdx
-                  - page: "§ 2342.5"
-                    path: docs/pages/division-6-dissolution-section-2342.5.mdx
-                  - page: "§ 2342.51"
-                    path: docs/pages/division-6-dissolution-section-2342.51.mdx
-                  - page: "§ 2343."
-                    path: docs/pages/division-6-dissolution-section-2343..mdx
-                  - page: "§ 2344."
-                    path: docs/pages/division-6-dissolution-section-2344..mdx
-                  - page: "§ 2345."
-                    path: docs/pages/division-6-dissolution-section-2345..mdx
-                  - page: "§ 2346."
-                    path: docs/pages/division-6-dissolution-section-2346..mdx
-                  - page: "§ 2347."
-                    path: docs/pages/division-6-dissolution-section-2347..mdx
-                  - page: "§ 2348."
-                    path: docs/pages/division-6-dissolution-section-2348..mdx
-              - section: "Chapter 5 — Summary Dissolution"
-                collapsed: true
-                contents:
-                  - page: "§ 2400."
-                    path: docs/pages/division-6-dissolution-section-2400..mdx
-                  - page: "§ 2401."
-                    path: docs/pages/division-6-dissolution-section-2401..mdx
-                  - page: "§ 2402."
-                    path: docs/pages/division-6-dissolution-section-2402..mdx
-                  - page: "§ 2403."
-                    path: docs/pages/division-6-dissolution-section-2403..mdx
-                  - page: "§ 2404."
-                    path: docs/pages/division-6-dissolution-section-2404..mdx
-                  - page: "§ 2405."
-                    path: docs/pages/division-6-dissolution-section-2405..mdx
-                  - page: "§ 2406."
-                    path: docs/pages/division-6-dissolution-section-2406..mdx
-              - section: "Chapter 6 — Case Management"
-                collapsed: true
-                contents:
-                  - page: "§ 2450."
-                    path: docs/pages/division-6-dissolution-section-2450..mdx
-                  - page: "§ 2451."
-                    path: docs/pages/division-6-dissolution-section-2451..mdx
-                  - page: "§ 2452."
-                    path: docs/pages/division-6-dissolution-section-2452..mdx
 
           - section: "Division 7 — Division of Property"
             collapsed: true
@@ -553,308 +83,6 @@ navigation:
             contents:
               - page: Overview
                 path: docs/pages/division-8-custody.mdx
-              - section: "Chapter 5 — Visitation Rights"
-                collapsed: true
-                contents:
-                  - page: "§ 3100."
-                    path: docs/pages/division-8-custody-section-3100..mdx
-                  - page: "§ 3101."
-                    path: docs/pages/division-8-custody-section-3101..mdx
-                  - page: "§ 3102."
-                    path: docs/pages/division-8-custody-section-3102..mdx
-                  - page: "§ 3103."
-                    path: docs/pages/division-8-custody-section-3103..mdx
-                  - page: "§ 3104."
-                    path: docs/pages/division-8-custody-section-3104..mdx
-                  - page: "§ 3105."
-                    path: docs/pages/division-8-custody-section-3105..mdx
-              - section: "Chapter 3 — Temporary Custody Order During Pendency Of Proceeding"
-                collapsed: true
-                contents:
-                  - page: "§ 3060."
-                    path: docs/pages/division-8-custody-section-3060..mdx
-                  - page: "§ 3061."
-                    path: docs/pages/division-8-custody-section-3061..mdx
-                  - page: "§ 3062."
-                    path: docs/pages/division-8-custody-section-3062..mdx
-                  - page: "§ 3063."
-                    path: docs/pages/division-8-custody-section-3063..mdx
-                  - page: "§ 3064."
-                    path: docs/pages/division-8-custody-section-3064..mdx
-              - section: "Chapter 2 — General Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 3010."
-                    path: docs/pages/division-8-custody-section-3010..mdx
-                  - page: "§ 3011."
-                    path: docs/pages/division-8-custody-section-3011..mdx
-                  - page: "§ 3012."
-                    path: docs/pages/division-8-custody-section-3012..mdx
-              - section: "Chapter 4 — Joint Custody"
-                collapsed: true
-                contents:
-                  - page: "§ 3080."
-                    path: docs/pages/division-8-custody-section-3080..mdx
-                  - page: "§ 3081."
-                    path: docs/pages/division-8-custody-section-3081..mdx
-                  - page: "§ 3082."
-                    path: docs/pages/division-8-custody-section-3082..mdx
-                  - page: "§ 3083."
-                    path: docs/pages/division-8-custody-section-3083..mdx
-                  - page: "§ 3084."
-                    path: docs/pages/division-8-custody-section-3084..mdx
-                  - page: "§ 3085."
-                    path: docs/pages/division-8-custody-section-3085..mdx
-                  - page: "§ 3086."
-                    path: docs/pages/division-8-custody-section-3086..mdx
-                  - page: "§ 3087."
-                    path: docs/pages/division-8-custody-section-3087..mdx
-                  - page: "§ 3088."
-                    path: docs/pages/division-8-custody-section-3088..mdx
-                  - page: "§ 3089."
-                    path: docs/pages/division-8-custody-section-3089..mdx
-              - section: "Chapter 6 — Custody Investigation And Report"
-                collapsed: true
-                contents:
-                  - page: "§ 3110."
-                    path: docs/pages/division-8-custody-section-3110..mdx
-                  - page: "§ 3110.5"
-                    path: docs/pages/division-8-custody-section-3110.5.mdx
-                  - page: "§ 3111."
-                    path: docs/pages/division-8-custody-section-3111..mdx
-                  - page: "§ 3112."
-                    path: docs/pages/division-8-custody-section-3112..mdx
-                  - page: "§ 3113."
-                    path: docs/pages/division-8-custody-section-3113..mdx
-                  - page: "§ 3114."
-                    path: docs/pages/division-8-custody-section-3114..mdx
-                  - page: "§ 3115."
-                    path: docs/pages/division-8-custody-section-3115..mdx
-                  - page: "§ 3116."
-                    path: docs/pages/division-8-custody-section-3116..mdx
-                  - page: "§ 3117."
-                    path: docs/pages/division-8-custody-section-3117..mdx
-                  - page: "§ 3118."
-                    path: docs/pages/division-8-custody-section-3118..mdx
-              - section: "Chapter 1 — General Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 3020."
-                    path: docs/pages/division-8-custody-section-3020..mdx
-                  - page: "§ 3021."
-                    path: docs/pages/division-8-custody-section-3021..mdx
-                  - page: "§ 3022."
-                    path: docs/pages/division-8-custody-section-3022..mdx
-                  - page: "§ 3022.3"
-                    path: docs/pages/division-8-custody-section-3022.3.mdx
-                  - page: "§ 3022.5"
-                    path: docs/pages/division-8-custody-section-3022.5.mdx
-                  - page: "§ 3023."
-                    path: docs/pages/division-8-custody-section-3023..mdx
-                  - page: "§ 3024."
-                    path: docs/pages/division-8-custody-section-3024..mdx
-                  - page: "§ 3025."
-                    path: docs/pages/division-8-custody-section-3025..mdx
-                  - page: "§ 3025.5"
-                    path: docs/pages/division-8-custody-section-3025.5.mdx
-                  - page: "§ 3026."
-                    path: docs/pages/division-8-custody-section-3026..mdx
-                  - page: "§ 3027."
-                    path: docs/pages/division-8-custody-section-3027..mdx
-                  - page: "§ 3027.1"
-                    path: docs/pages/division-8-custody-section-3027.1.mdx
-                  - page: "§ 3027.5"
-                    path: docs/pages/division-8-custody-section-3027.5.mdx
-                  - page: "§ 3028."
-                    path: docs/pages/division-8-custody-section-3028..mdx
-                  - page: "§ 3029."
-                    path: docs/pages/division-8-custody-section-3029..mdx
-                  - page: "§ 3030."
-                    path: docs/pages/division-8-custody-section-3030..mdx
-                  - page: "§ 3030.5"
-                    path: docs/pages/division-8-custody-section-3030.5.mdx
-                  - page: "§ 3031."
-                    path: docs/pages/division-8-custody-section-3031..mdx
-                  - page: "§ 3032."
-                    path: docs/pages/division-8-custody-section-3032..mdx
-              - section: "Chapter 1 — Definitions"
-                collapsed: true
-                contents:
-                  - page: "§ 3000."
-                    path: docs/pages/division-8-custody-section-3000..mdx
-                  - page: "§ 3002."
-                    path: docs/pages/division-8-custody-section-3002..mdx
-                  - page: "§ 3003."
-                    path: docs/pages/division-8-custody-section-3003..mdx
-                  - page: "§ 3004."
-                    path: docs/pages/division-8-custody-section-3004..mdx
-                  - page: "§ 3006."
-                    path: docs/pages/division-8-custody-section-3006..mdx
-                  - page: "§ 3007."
-                    path: docs/pages/division-8-custody-section-3007..mdx
-              - section: "Chapter 2 — Matters To Be Considered In Granting Custody"
-                collapsed: true
-                contents:
-                  - page: "§ 3040."
-                    path: docs/pages/division-8-custody-section-3040..mdx
-                  - page: "§ 3040.5"
-                    path: docs/pages/division-8-custody-section-3040.5.mdx
-                  - page: "§ 3041."
-                    path: docs/pages/division-8-custody-section-3041..mdx
-                  - page: "§ 3041.5"
-                    path: docs/pages/division-8-custody-section-3041.5.mdx
-                  - page: "§ 3042."
-                    path: docs/pages/division-8-custody-section-3042..mdx
-                  - page: "§ 3043."
-                    path: docs/pages/division-8-custody-section-3043..mdx
-                  - page: "§ 3044."
-                    path: docs/pages/division-8-custody-section-3044..mdx
-                  - page: "§ 3046."
-                    path: docs/pages/division-8-custody-section-3046..mdx
-                  - page: "§ 3047."
-                    path: docs/pages/division-8-custody-section-3047..mdx
-                  - page: "§ 3048."
-                    path: docs/pages/division-8-custody-section-3048..mdx
-                  - page: "§ 3049."
-                    path: docs/pages/division-8-custody-section-3049..mdx
-              - section: "Chapter 10 — Appointment Of Counsel To Represent Child"
-                collapsed: true
-                contents:
-                  - page: "§ 3150."
-                    path: docs/pages/division-8-custody-section-3150..mdx
-                  - page: "§ 3151."
-                    path: docs/pages/division-8-custody-section-3151..mdx
-                  - page: "§ 3152."
-                    path: docs/pages/division-8-custody-section-3152..mdx
-                  - page: "§ 3153."
-                    path: docs/pages/division-8-custody-section-3153..mdx
-              - section: "Chapter 1 — General Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 3400."
-                    path: docs/pages/division-8-custody-section-3400..mdx
-                  - page: "§ 3402."
-                    path: docs/pages/division-8-custody-section-3402..mdx
-                  - page: "§ 3403."
-                    path: docs/pages/division-8-custody-section-3403..mdx
-                  - page: "§ 3404."
-                    path: docs/pages/division-8-custody-section-3404..mdx
-                  - page: "§ 3405."
-                    path: docs/pages/division-8-custody-section-3405..mdx
-                  - page: "§ 3406."
-                    path: docs/pages/division-8-custody-section-3406..mdx
-                  - page: "§ 3407."
-                    path: docs/pages/division-8-custody-section-3407..mdx
-                  - page: "§ 3408."
-                    path: docs/pages/division-8-custody-section-3408..mdx
-                  - page: "§ 3409."
-                    path: docs/pages/division-8-custody-section-3409..mdx
-                  - page: "§ 3410."
-                    path: docs/pages/division-8-custody-section-3410..mdx
-                  - page: "§ 3411."
-                    path: docs/pages/division-8-custody-section-3411..mdx
-                  - page: "§ 3412."
-                    path: docs/pages/division-8-custody-section-3412..mdx
-              - section: "Chapter 7 — Action For Exclusive Custody"
-                collapsed: true
-                contents:
-                  - page: "§ 3120."
-                    path: docs/pages/division-8-custody-section-3120..mdx
-                  - page: "§ 3121."
-                    path: docs/pages/division-8-custody-section-3121..mdx
-              - section: "Chapter 2 — Jurisdiction"
-                collapsed: true
-                contents:
-                  - page: "§ 3421."
-                    path: docs/pages/division-8-custody-section-3421..mdx
-                  - page: "§ 3422."
-                    path: docs/pages/division-8-custody-section-3422..mdx
-                  - page: "§ 3423."
-                    path: docs/pages/division-8-custody-section-3423..mdx
-                  - page: "§ 3424."
-                    path: docs/pages/division-8-custody-section-3424..mdx
-                  - page: "§ 3425."
-                    path: docs/pages/division-8-custody-section-3425..mdx
-                  - page: "§ 3426."
-                    path: docs/pages/division-8-custody-section-3426..mdx
-                  - page: "§ 3427."
-                    path: docs/pages/division-8-custody-section-3427..mdx
-                  - page: "§ 3428."
-                    path: docs/pages/division-8-custody-section-3428..mdx
-                  - page: "§ 3429."
-                    path: docs/pages/division-8-custody-section-3429..mdx
-                  - page: "§ 3430."
-                    path: docs/pages/division-8-custody-section-3430..mdx
-              - section: "Chapter 9 — Check To Determine Whether Child Is Missing Person"
-                collapsed: true
-                contents:
-                  - page: "§ 3140."
-                    path: docs/pages/division-8-custody-section-3140..mdx
-              - section: "Chapter 3 — Enforcement"
-                collapsed: true
-                contents:
-                  - page: "§ 3441."
-                    path: docs/pages/division-8-custody-section-3441..mdx
-                  - page: "§ 3442."
-                    path: docs/pages/division-8-custody-section-3442..mdx
-                  - page: "§ 3443."
-                    path: docs/pages/division-8-custody-section-3443..mdx
-                  - page: "§ 3444."
-                    path: docs/pages/division-8-custody-section-3444..mdx
-                  - page: "§ 3445."
-                    path: docs/pages/division-8-custody-section-3445..mdx
-                  - page: "§ 3446."
-                    path: docs/pages/division-8-custody-section-3446..mdx
-                  - page: "§ 3447."
-                    path: docs/pages/division-8-custody-section-3447..mdx
-                  - page: "§ 3448."
-                    path: docs/pages/division-8-custody-section-3448..mdx
-                  - page: "§ 3449."
-                    path: docs/pages/division-8-custody-section-3449..mdx
-                  - page: "§ 3450."
-                    path: docs/pages/division-8-custody-section-3450..mdx
-                  - page: "§ 3451."
-                    path: docs/pages/division-8-custody-section-3451..mdx
-                  - page: "§ 3452."
-                    path: docs/pages/division-8-custody-section-3452..mdx
-                  - page: "§ 3453."
-                    path: docs/pages/division-8-custody-section-3453..mdx
-                  - page: "§ 3453.5"
-                    path: docs/pages/division-8-custody-section-3453.5.mdx
-                  - page: "§ 3454."
-                    path: docs/pages/division-8-custody-section-3454..mdx
-                  - page: "§ 3455."
-                    path: docs/pages/division-8-custody-section-3455..mdx
-                  - page: "§ 3456."
-                    path: docs/pages/division-8-custody-section-3456..mdx
-                  - page: "§ 3457."
-                    path: docs/pages/division-8-custody-section-3457..mdx
-              - section: "Chapter 8 — Location Of Missing Party Or Child"
-                collapsed: true
-                contents:
-                  - page: "§ 3130."
-                    path: docs/pages/division-8-custody-section-3130..mdx
-                  - page: "§ 3131."
-                    path: docs/pages/division-8-custody-section-3131..mdx
-                  - page: "§ 3132."
-                    path: docs/pages/division-8-custody-section-3132..mdx
-                  - page: "§ 3133."
-                    path: docs/pages/division-8-custody-section-3133..mdx
-                  - page: "§ 3134."
-                    path: docs/pages/division-8-custody-section-3134..mdx
-                  - page: "§ 3134.5"
-                    path: docs/pages/division-8-custody-section-3134.5.mdx
-                  - page: "§ 3135."
-                    path: docs/pages/division-8-custody-section-3135..mdx
-              - section: "Chapter 4 — Miscellaneous Provisions"
-                collapsed: true
-                contents:
-                  - page: "§ 3461."
-                    path: docs/pages/division-8-custody-section-3461..mdx
-                  - page: "§ 3462."
-                    path: docs/pages/division-8-custody-section-3462..mdx
-                  - page: "§ 3465."
-                    path: docs/pages/division-8-custody-section-3465..mdx
 
           - section: "Division 9 — Support"
             collapsed: true
@@ -879,12 +107,804 @@ navigation:
             contents:
               - page: Overview
                 path: docs/pages/division-12-parent-child.mdx
+              - section: "Chapter 1 — General Provisions"
+                collapsed: true
+                contents:
+                  - page: "§ 7600."
+                    path: docs/pages/division-12-parent-child-section-7600..mdx
+                  - page: "§ 7601."
+                    path: docs/pages/division-12-parent-child-section-7601..mdx
+                  - page: "§ 7602."
+                    path: docs/pages/division-12-parent-child-section-7602..mdx
+                  - page: "§ 7603."
+                    path: docs/pages/division-12-parent-child-section-7603..mdx
+                  - page: "§ 7604."
+                    path: docs/pages/division-12-parent-child-section-7604..mdx
+                  - page: "§ 7604.5"
+                    path: docs/pages/division-12-parent-child-section-7604.5.mdx
+                  - page: "§ 7605."
+                    path: docs/pages/division-12-parent-child-section-7605..mdx
+                  - page: "§ 7606."
+                    path: docs/pages/division-12-parent-child-section-7606..mdx
+              - section: "Chapter 2 — Genetic Testing To Determine Parentage"
+                collapsed: true
+                contents:
+                  - page: "§ 7550."
+                    path: docs/pages/division-12-parent-child-section-7550..mdx
+                  - page: "§ 7550.5"
+                    path: docs/pages/division-12-parent-child-section-7550.5.mdx
+                  - page: "§ 7551."
+                    path: docs/pages/division-12-parent-child-section-7551..mdx
+                  - page: "§ 7551.5"
+                    path: docs/pages/division-12-parent-child-section-7551.5.mdx
+                  - page: "§ 7552."
+                    path: docs/pages/division-12-parent-child-section-7552..mdx
+                  - page: "§ 7552.5"
+                    path: docs/pages/division-12-parent-child-section-7552.5.mdx
+                  - page: "§ 7553."
+                    path: docs/pages/division-12-parent-child-section-7553..mdx
+                  - page: "§ 7554."
+                    path: docs/pages/division-12-parent-child-section-7554..mdx
+                  - page: "§ 7555."
+                    path: docs/pages/division-12-parent-child-section-7555..mdx
+                  - page: "§ 7556."
+                    path: docs/pages/division-12-parent-child-section-7556..mdx
+                  - page: "§ 7557."
+                    path: docs/pages/division-12-parent-child-section-7557..mdx
+                  - page: "§ 7558."
+                    path: docs/pages/division-12-parent-child-section-7558..mdx
+                  - page: "§ 7559."
+                    path: docs/pages/division-12-parent-child-section-7559..mdx
+                  - page: "§ 7560."
+                    path: docs/pages/division-12-parent-child-section-7560..mdx
+                  - page: "§ 7562."
+                    path: docs/pages/division-12-parent-child-section-7562..mdx
+              - section: "Chapter 1 — Child Of Wife Cohabiting With Husband"
+                collapsed: true
+                contents:
+                  - page: "§ 7540."
+                    path: docs/pages/division-12-parent-child-section-7540..mdx
+                  - page: "§ 7541."
+                    path: docs/pages/division-12-parent-child-section-7541..mdx
+              - section: "Chapter 3 — Jurisdiction And Venue"
+                collapsed: true
+                contents:
+                  - page: "§ 7620."
+                    path: docs/pages/division-12-parent-child-section-7620..mdx
+              - section: "Chapter 2 — Establishing Parent And Child Relationship"
+                collapsed: true
+                contents:
+                  - page: "§ 7610."
+                    path: docs/pages/division-12-parent-child-section-7610..mdx
+                  - page: "§ 7611."
+                    path: docs/pages/division-12-parent-child-section-7611..mdx
+                  - page: "§ 7611.5"
+                    path: docs/pages/division-12-parent-child-section-7611.5.mdx
+                  - page: "§ 7612."
+                    path: docs/pages/division-12-parent-child-section-7612..mdx
+                  - page: "§ 7613."
+                    path: docs/pages/division-12-parent-child-section-7613..mdx
+                  - page: "§ 7613.5"
+                    path: docs/pages/division-12-parent-child-section-7613.5.mdx
+                  - page: "§ 7614."
+                    path: docs/pages/division-12-parent-child-section-7614..mdx
+              - section: "Chapter 4 — Determination Of Parent And Child Relationship"
+                collapsed: true
+                contents:
+                  - page: "§ 7630."
+                    path: docs/pages/division-12-parent-child-section-7630..mdx
+                  - page: "§ 7632."
+                    path: docs/pages/division-12-parent-child-section-7632..mdx
+                  - page: "§ 7633."
+                    path: docs/pages/division-12-parent-child-section-7633..mdx
+                  - page: "§ 7634."
+                    path: docs/pages/division-12-parent-child-section-7634..mdx
+                  - page: "§ 7635."
+                    path: docs/pages/division-12-parent-child-section-7635..mdx
+                  - page: "§ 7635.5"
+                    path: docs/pages/division-12-parent-child-section-7635.5.mdx
+                  - page: "§ 7636."
+                    path: docs/pages/division-12-parent-child-section-7636..mdx
+                  - page: "§ 7637."
+                    path: docs/pages/division-12-parent-child-section-7637..mdx
+                  - page: "§ 7638."
+                    path: docs/pages/division-12-parent-child-section-7638..mdx
+                  - page: "§ 7639."
+                    path: docs/pages/division-12-parent-child-section-7639..mdx
+                  - page: "§ 7640."
+                    path: docs/pages/division-12-parent-child-section-7640..mdx
+                  - page: "§ 7641."
+                    path: docs/pages/division-12-parent-child-section-7641..mdx
+                  - page: "§ 7642."
+                    path: docs/pages/division-12-parent-child-section-7642..mdx
+                  - page: "§ 7643."
+                    path: docs/pages/division-12-parent-child-section-7643..mdx
+                  - page: "§ 7643.5"
+                    path: docs/pages/division-12-parent-child-section-7643.5.mdx
+                  - page: "§ 7644."
+                    path: docs/pages/division-12-parent-child-section-7644..mdx
+                  - page: "§ 7645."
+                    path: docs/pages/division-12-parent-child-section-7645..mdx
+                  - page: "§ 7646."
+                    path: docs/pages/division-12-parent-child-section-7646..mdx
+                  - page: "§ 7647."
+                    path: docs/pages/division-12-parent-child-section-7647..mdx
+                  - page: "§ 7647.5"
+                    path: docs/pages/division-12-parent-child-section-7647.5.mdx
+                  - page: "§ 7647.7"
+                    path: docs/pages/division-12-parent-child-section-7647.7.mdx
+                  - page: "§ 7648."
+                    path: docs/pages/division-12-parent-child-section-7648..mdx
+                  - page: "§ 7648.1"
+                    path: docs/pages/division-12-parent-child-section-7648.1.mdx
+                  - page: "§ 7648.2"
+                    path: docs/pages/division-12-parent-child-section-7648.2.mdx
+                  - page: "§ 7648.3"
+                    path: docs/pages/division-12-parent-child-section-7648.3.mdx
+                  - page: "§ 7648.4"
+                    path: docs/pages/division-12-parent-child-section-7648.4.mdx
+                  - page: "§ 7648.8"
+                    path: docs/pages/division-12-parent-child-section-7648.8.mdx
+                  - page: "§ 7648.9"
+                    path: docs/pages/division-12-parent-child-section-7648.9.mdx
+                  - page: "§ 7649."
+                    path: docs/pages/division-12-parent-child-section-7649..mdx
+                  - page: "§ 7649.5"
+                    path: docs/pages/division-12-parent-child-section-7649.5.mdx
+                  - page: "§ 7650."
+                    path: docs/pages/division-12-parent-child-section-7650..mdx
+              - section: "Part 1 — Rights Of Parents"
+                collapsed: true
+                contents:
+                  - page: "§ 7500."
+                    path: docs/pages/division-12-parent-child-section-7500..mdx
+                  - page: "§ 7501."
+                    path: docs/pages/division-12-parent-child-section-7501..mdx
+                  - page: "§ 7502."
+                    path: docs/pages/division-12-parent-child-section-7502..mdx
+                  - page: "§ 7503."
+                    path: docs/pages/division-12-parent-child-section-7503..mdx
+                  - page: "§ 7504."
+                    path: docs/pages/division-12-parent-child-section-7504..mdx
+                  - page: "§ 7505."
+                    path: docs/pages/division-12-parent-child-section-7505..mdx
+                  - page: "§ 7506."
+                    path: docs/pages/division-12-parent-child-section-7506..mdx
+                  - page: "§ 7507."
+                    path: docs/pages/division-12-parent-child-section-7507..mdx
+              - section: "Chapter 3 — Establishment Of Parentage By Voluntary Declaration"
+                collapsed: true
+                contents:
+                  - page: "§ 7570."
+                    path: docs/pages/division-12-parent-child-section-7570..mdx
+                  - page: "§ 7571."
+                    path: docs/pages/division-12-parent-child-section-7571..mdx
+                  - page: "§ 7572."
+                    path: docs/pages/division-12-parent-child-section-7572..mdx
+                  - page: "§ 7573."
+                    path: docs/pages/division-12-parent-child-section-7573..mdx
+                  - page: "§ 7573.5"
+                    path: docs/pages/division-12-parent-child-section-7573.5.mdx
+                  - page: "§ 7574."
+                    path: docs/pages/division-12-parent-child-section-7574..mdx
+                  - page: "§ 7575."
+                    path: docs/pages/division-12-parent-child-section-7575..mdx
+                  - page: "§ 7576."
+                    path: docs/pages/division-12-parent-child-section-7576..mdx
+                  - page: "§ 7577."
+                    path: docs/pages/division-12-parent-child-section-7577..mdx
+                  - page: "§ 7578."
+                    path: docs/pages/division-12-parent-child-section-7578..mdx
+                  - page: "§ 7580."
+                    path: docs/pages/division-12-parent-child-section-7580..mdx
+                  - page: "§ 7581."
+                    path: docs/pages/division-12-parent-child-section-7581..mdx
+              - section: "Chapter 5 — Termination Of Parental Rights In Adoption Proceedings"
+                collapsed: true
+                contents:
+                  - page: "§ 7660."
+                    path: docs/pages/division-12-parent-child-section-7660..mdx
+                  - page: "§ 7660.5"
+                    path: docs/pages/division-12-parent-child-section-7660.5.mdx
+                  - page: "§ 7661."
+                    path: docs/pages/division-12-parent-child-section-7661..mdx
+                  - page: "§ 7662."
+                    path: docs/pages/division-12-parent-child-section-7662..mdx
+                  - page: "§ 7663."
+                    path: docs/pages/division-12-parent-child-section-7663..mdx
+                  - page: "§ 7664."
+                    path: docs/pages/division-12-parent-child-section-7664..mdx
+                  - page: "§ 7665."
+                    path: docs/pages/division-12-parent-child-section-7665..mdx
+                  - page: "§ 7666."
+                    path: docs/pages/division-12-parent-child-section-7666..mdx
+                  - page: "§ 7667."
+                    path: docs/pages/division-12-parent-child-section-7667..mdx
+                  - page: "§ 7668."
+                    path: docs/pages/division-12-parent-child-section-7668..mdx
+                  - page: "§ 7669."
+                    path: docs/pages/division-12-parent-child-section-7669..mdx
+                  - page: "§ 7670."
+                    path: docs/pages/division-12-parent-child-section-7670..mdx
+                  - page: "§ 7671."
+                    path: docs/pages/division-12-parent-child-section-7671..mdx
+              - section: "Chapter 6 — Protective And Restraining Orders"
+                collapsed: true
+                contents:
+                  - page: "§ 7700."
+                    path: docs/pages/division-12-parent-child-section-7700..mdx
+                  - page: "§ 7710."
+                    path: docs/pages/division-12-parent-child-section-7710..mdx
+                  - page: "§ 7720."
+                    path: docs/pages/division-12-parent-child-section-7720..mdx
+                  - page: "§ 7730."
+                    path: docs/pages/division-12-parent-child-section-7730..mdx
+              - section: "Chapter 2 — Circumstances Where Proceeding May Be Brought"
+                collapsed: true
+                contents:
+                  - page: "§ 7820."
+                    path: docs/pages/division-12-parent-child-section-7820..mdx
+                  - page: "§ 7821."
+                    path: docs/pages/division-12-parent-child-section-7821..mdx
+                  - page: "§ 7822."
+                    path: docs/pages/division-12-parent-child-section-7822..mdx
+                  - page: "§ 7823."
+                    path: docs/pages/division-12-parent-child-section-7823..mdx
+                  - page: "§ 7824."
+                    path: docs/pages/division-12-parent-child-section-7824..mdx
+                  - page: "§ 7825."
+                    path: docs/pages/division-12-parent-child-section-7825..mdx
+                  - page: "§ 7826."
+                    path: docs/pages/division-12-parent-child-section-7826..mdx
+                  - page: "§ 7827."
+                    path: docs/pages/division-12-parent-child-section-7827..mdx
+              - section: "Part 5 — Interstate Compact On Placement Of Children"
+                collapsed: true
+                contents:
+                  - page: "§ 7900."
+                    path: docs/pages/division-12-parent-child-section-7900..mdx
+                  - page: "§ 7901."
+                    path: docs/pages/division-12-parent-child-section-7901..mdx
+                  - page: "§ 7901.1"
+                    path: docs/pages/division-12-parent-child-section-7901.1.mdx
+                  - page: "§ 7902."
+                    path: docs/pages/division-12-parent-child-section-7902..mdx
+                  - page: "§ 7903."
+                    path: docs/pages/division-12-parent-child-section-7903..mdx
+                  - page: "§ 7904."
+                    path: docs/pages/division-12-parent-child-section-7904..mdx
+                  - page: "§ 7905."
+                    path: docs/pages/division-12-parent-child-section-7905..mdx
+                  - page: "§ 7906."
+                    path: docs/pages/division-12-parent-child-section-7906..mdx
+                  - page: "§ 7906.5"
+                    path: docs/pages/division-12-parent-child-section-7906.5.mdx
+                  - page: "§ 7907."
+                    path: docs/pages/division-12-parent-child-section-7907..mdx
+                  - page: "§ 7907.3"
+                    path: docs/pages/division-12-parent-child-section-7907.3.mdx
+                  - page: "§ 7907.5"
+                    path: docs/pages/division-12-parent-child-section-7907.5.mdx
+                  - page: "§ 7908."
+                    path: docs/pages/division-12-parent-child-section-7908..mdx
+                  - page: "§ 7908.5"
+                    path: docs/pages/division-12-parent-child-section-7908.5.mdx
+                  - page: "§ 7909."
+                    path: docs/pages/division-12-parent-child-section-7909..mdx
+                  - page: "§ 7910."
+                    path: docs/pages/division-12-parent-child-section-7910..mdx
+                  - page: "§ 7911."
+                    path: docs/pages/division-12-parent-child-section-7911..mdx
+                  - page: "§ 7911.1"
+                    path: docs/pages/division-12-parent-child-section-7911.1.mdx
+                  - page: "§ 7912."
+                    path: docs/pages/division-12-parent-child-section-7912..mdx
+                  - page: "§ 7913."
+                    path: docs/pages/division-12-parent-child-section-7913..mdx
+              - section: "Chapter 3 — Procedure"
+                collapsed: true
+                contents:
+                  - page: "§ 7840."
+                    path: docs/pages/division-12-parent-child-section-7840..mdx
+                  - page: "§ 7841."
+                    path: docs/pages/division-12-parent-child-section-7841..mdx
+                  - page: "§ 7842."
+                    path: docs/pages/division-12-parent-child-section-7842..mdx
+                  - page: "§ 7845."
+                    path: docs/pages/division-12-parent-child-section-7845..mdx
+                  - page: "§ 7850."
+                    path: docs/pages/division-12-parent-child-section-7850..mdx
+                  - page: "§ 7851."
+                    path: docs/pages/division-12-parent-child-section-7851..mdx
+                  - page: "§ 7851.5"
+                    path: docs/pages/division-12-parent-child-section-7851.5.mdx
+                  - page: "§ 7852."
+                    path: docs/pages/division-12-parent-child-section-7852..mdx
+                  - page: "§ 7860."
+                    path: docs/pages/division-12-parent-child-section-7860..mdx
+                  - page: "§ 7861."
+                    path: docs/pages/division-12-parent-child-section-7861..mdx
+                  - page: "§ 7862."
+                    path: docs/pages/division-12-parent-child-section-7862..mdx
+                  - page: "§ 7863."
+                    path: docs/pages/division-12-parent-child-section-7863..mdx
+                  - page: "§ 7864."
+                    path: docs/pages/division-12-parent-child-section-7864..mdx
+                  - page: "§ 7870."
+                    path: docs/pages/division-12-parent-child-section-7870..mdx
+                  - page: "§ 7871."
+                    path: docs/pages/division-12-parent-child-section-7871..mdx
+                  - page: "§ 7880."
+                    path: docs/pages/division-12-parent-child-section-7880..mdx
+                  - page: "§ 7881."
+                    path: docs/pages/division-12-parent-child-section-7881..mdx
+                  - page: "§ 7882."
+                    path: docs/pages/division-12-parent-child-section-7882..mdx
+                  - page: "§ 7883."
+                    path: docs/pages/division-12-parent-child-section-7883..mdx
+                  - page: "§ 7884."
+                    path: docs/pages/division-12-parent-child-section-7884..mdx
+                  - page: "§ 7890."
+                    path: docs/pages/division-12-parent-child-section-7890..mdx
+                  - page: "§ 7891."
+                    path: docs/pages/division-12-parent-child-section-7891..mdx
+                  - page: "§ 7892."
+                    path: docs/pages/division-12-parent-child-section-7892..mdx
+                  - page: "§ 7892.5"
+                    path: docs/pages/division-12-parent-child-section-7892.5.mdx
+                  - page: "§ 7893."
+                    path: docs/pages/division-12-parent-child-section-7893..mdx
+                  - page: "§ 7894."
+                    path: docs/pages/division-12-parent-child-section-7894..mdx
+                  - page: "§ 7895."
+                    path: docs/pages/division-12-parent-child-section-7895..mdx
+              - section: "Part 7 — Surrogacy And Donor Facilitators, Assisted Reproduction Agreements For Gestational Carriers, And Oocyte Donations"
+                collapsed: true
+                contents:
+                  - page: "§ 7960."
+                    path: docs/pages/division-12-parent-child-section-7960..mdx
+                  - page: "§ 7961."
+                    path: docs/pages/division-12-parent-child-section-7961..mdx
+                  - page: "§ 7962."
+                    path: docs/pages/division-12-parent-child-section-7962..mdx
+              - section: "Chapter 1 — General Provisions"
+                collapsed: true
+                contents:
+                  - page: "§ 7800."
+                    path: docs/pages/division-12-parent-child-section-7800..mdx
+                  - page: "§ 7801."
+                    path: docs/pages/division-12-parent-child-section-7801..mdx
+                  - page: "§ 7802."
+                    path: docs/pages/division-12-parent-child-section-7802..mdx
+                  - page: "§ 7803."
+                    path: docs/pages/division-12-parent-child-section-7803..mdx
+                  - page: "§ 7804."
+                    path: docs/pages/division-12-parent-child-section-7804..mdx
+                  - page: "§ 7805."
+                    path: docs/pages/division-12-parent-child-section-7805..mdx
+                  - page: "§ 7806."
+                    path: docs/pages/division-12-parent-child-section-7806..mdx
+                  - page: "§ 7807."
+                    path: docs/pages/division-12-parent-child-section-7807..mdx
+                  - page: "§ 7808."
+                    path: docs/pages/division-12-parent-child-section-7808..mdx
+              - section: "Part 6 — Foster Care Placement Considerations"
+                collapsed: true
+                contents:
+                  - page: "§ 7950."
+                    path: docs/pages/division-12-parent-child-section-7950..mdx
+                  - page: "§ 7951."
+                    path: docs/pages/division-12-parent-child-section-7951..mdx
+                  - page: "§ 7952."
+                    path: docs/pages/division-12-parent-child-section-7952..mdx
 
           - section: "Division 13 — Adoption"
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-13-adoption.mdx
+              - section: "Chapter 4 — Intercountry Adoptions"
+                collapsed: true
+                contents:
+                  - page: "§ 8900."
+                    path: docs/pages/division-13-adoption-section-8900..mdx
+                  - page: "§ 8900.5"
+                    path: docs/pages/division-13-adoption-section-8900.5.mdx
+                  - page: "§ 8901."
+                    path: docs/pages/division-13-adoption-section-8901..mdx
+                  - page: "§ 8902."
+                    path: docs/pages/division-13-adoption-section-8902..mdx
+                  - page: "§ 8903."
+                    path: docs/pages/division-13-adoption-section-8903..mdx
+                  - page: "§ 8904."
+                    path: docs/pages/division-13-adoption-section-8904..mdx
+                  - page: "§ 8905."
+                    path: docs/pages/division-13-adoption-section-8905..mdx
+                  - page: "§ 8906."
+                    path: docs/pages/division-13-adoption-section-8906..mdx
+                  - page: "§ 8907."
+                    path: docs/pages/division-13-adoption-section-8907..mdx
+                  - page: "§ 8908."
+                    path: docs/pages/division-13-adoption-section-8908..mdx
+                  - page: "§ 8909."
+                    path: docs/pages/division-13-adoption-section-8909..mdx
+                  - page: "§ 8910."
+                    path: docs/pages/division-13-adoption-section-8910..mdx
+                  - page: "§ 8911."
+                    path: docs/pages/division-13-adoption-section-8911..mdx
+                  - page: "§ 8912."
+                    path: docs/pages/division-13-adoption-section-8912..mdx
+                  - page: "§ 8913."
+                    path: docs/pages/division-13-adoption-section-8913..mdx
+                  - page: "§ 8914."
+                    path: docs/pages/division-13-adoption-section-8914..mdx
+                  - page: "§ 8915."
+                    path: docs/pages/division-13-adoption-section-8915..mdx
+                  - page: "§ 8916."
+                    path: docs/pages/division-13-adoption-section-8916..mdx
+                  - page: "§ 8917."
+                    path: docs/pages/division-13-adoption-section-8917..mdx
+                  - page: "§ 8918."
+                    path: docs/pages/division-13-adoption-section-8918..mdx
+                  - page: "§ 8919."
+                    path: docs/pages/division-13-adoption-section-8919..mdx
+                  - page: "§ 8919.5"
+                    path: docs/pages/division-13-adoption-section-8919.5.mdx
+                  - page: "§ 8920."
+                    path: docs/pages/division-13-adoption-section-8920..mdx
+                  - page: "§ 8923."
+                    path: docs/pages/division-13-adoption-section-8923..mdx
+                  - page: "§ 8924."
+                    path: docs/pages/division-13-adoption-section-8924..mdx
+                  - page: "§ 8925."
+                    path: docs/pages/division-13-adoption-section-8925..mdx
+              - section: "Chapter 6 — Vacation Of Adoption"
+                collapsed: true
+                contents:
+                  - page: "§ 9100."
+                    path: docs/pages/division-13-adoption-section-9100..mdx
+                  - page: "§ 9101."
+                    path: docs/pages/division-13-adoption-section-9101..mdx
+                  - page: "§ 9102."
+                    path: docs/pages/division-13-adoption-section-9102..mdx
+              - section: "Part 1 — Definitions"
+                collapsed: true
+                contents:
+                  - page: "§ 8500."
+                    path: docs/pages/division-13-adoption-section-8500..mdx
+                  - page: "§ 8502."
+                    path: docs/pages/division-13-adoption-section-8502..mdx
+                  - page: "§ 8503."
+                    path: docs/pages/division-13-adoption-section-8503..mdx
+                  - page: "§ 8506."
+                    path: docs/pages/division-13-adoption-section-8506..mdx
+                  - page: "§ 8509."
+                    path: docs/pages/division-13-adoption-section-8509..mdx
+                  - page: "§ 8512."
+                    path: docs/pages/division-13-adoption-section-8512..mdx
+                  - page: "§ 8513."
+                    path: docs/pages/division-13-adoption-section-8513..mdx
+                  - page: "§ 8514."
+                    path: docs/pages/division-13-adoption-section-8514..mdx
+                  - page: "§ 8515."
+                    path: docs/pages/division-13-adoption-section-8515..mdx
+                  - page: "§ 8518."
+                    path: docs/pages/division-13-adoption-section-8518..mdx
+                  - page: "§ 8521."
+                    path: docs/pages/division-13-adoption-section-8521..mdx
+                  - page: "§ 8524."
+                    path: docs/pages/division-13-adoption-section-8524..mdx
+                  - page: "§ 8527."
+                    path: docs/pages/division-13-adoption-section-8527..mdx
+                  - page: "§ 8530."
+                    path: docs/pages/division-13-adoption-section-8530..mdx
+                  - page: "§ 8533."
+                    path: docs/pages/division-13-adoption-section-8533..mdx
+                  - page: "§ 8539."
+                    path: docs/pages/division-13-adoption-section-8539..mdx
+                  - page: "§ 8542."
+                    path: docs/pages/division-13-adoption-section-8542..mdx
+                  - page: "§ 8543."
+                    path: docs/pages/division-13-adoption-section-8543..mdx
+                  - page: "§ 8545."
+                    path: docs/pages/division-13-adoption-section-8545..mdx
+                  - page: "§ 8548."
+                    path: docs/pages/division-13-adoption-section-8548..mdx
+              - section: "Chapter 5 — Stepparent Adoptions"
+                collapsed: true
+                contents:
+                  - page: "§ 9000."
+                    path: docs/pages/division-13-adoption-section-9000..mdx
+                  - page: "§ 9000.5"
+                    path: docs/pages/division-13-adoption-section-9000.5.mdx
+                  - page: "§ 9001."
+                    path: docs/pages/division-13-adoption-section-9001..mdx
+                  - page: "§ 9002."
+                    path: docs/pages/division-13-adoption-section-9002..mdx
+                  - page: "§ 9003."
+                    path: docs/pages/division-13-adoption-section-9003..mdx
+                  - page: "§ 9004."
+                    path: docs/pages/division-13-adoption-section-9004..mdx
+                  - page: "§ 9005."
+                    path: docs/pages/division-13-adoption-section-9005..mdx
+                  - page: "§ 9006."
+                    path: docs/pages/division-13-adoption-section-9006..mdx
+                  - page: "§ 9007."
+                    path: docs/pages/division-13-adoption-section-9007..mdx
+              - section: "Chapter 2 — Agency Adoptions"
+                collapsed: true
+                contents:
+                  - page: "§ 8700."
+                    path: docs/pages/division-13-adoption-section-8700..mdx
+                  - page: "§ 8700.5"
+                    path: docs/pages/division-13-adoption-section-8700.5.mdx
+                  - page: "§ 8701."
+                    path: docs/pages/division-13-adoption-section-8701..mdx
+                  - page: "§ 8702."
+                    path: docs/pages/division-13-adoption-section-8702..mdx
+                  - page: "§ 8703."
+                    path: docs/pages/division-13-adoption-section-8703..mdx
+                  - page: "§ 8704."
+                    path: docs/pages/division-13-adoption-section-8704..mdx
+                  - page: "§ 8704.5"
+                    path: docs/pages/division-13-adoption-section-8704.5.mdx
+                  - page: "§ 8705."
+                    path: docs/pages/division-13-adoption-section-8705..mdx
+                  - page: "§ 8706."
+                    path: docs/pages/division-13-adoption-section-8706..mdx
+                  - page: "§ 8707."
+                    path: docs/pages/division-13-adoption-section-8707..mdx
+                  - page: "§ 8707.1"
+                    path: docs/pages/division-13-adoption-section-8707.1.mdx
+                  - page: "§ 8708."
+                    path: docs/pages/division-13-adoption-section-8708..mdx
+                  - page: "§ 8709."
+                    path: docs/pages/division-13-adoption-section-8709..mdx
+                  - page: "§ 8710."
+                    path: docs/pages/division-13-adoption-section-8710..mdx
+                  - page: "§ 8710.1"
+                    path: docs/pages/division-13-adoption-section-8710.1.mdx
+                  - page: "§ 8710.2"
+                    path: docs/pages/division-13-adoption-section-8710.2.mdx
+                  - page: "§ 8710.3"
+                    path: docs/pages/division-13-adoption-section-8710.3.mdx
+                  - page: "§ 8710.4"
+                    path: docs/pages/division-13-adoption-section-8710.4.mdx
+                  - page: "§ 8711."
+                    path: docs/pages/division-13-adoption-section-8711..mdx
+                  - page: "§ 8711.5"
+                    path: docs/pages/division-13-adoption-section-8711.5.mdx
+                  - page: "§ 8712."
+                    path: docs/pages/division-13-adoption-section-8712..mdx
+                  - page: "§ 8713."
+                    path: docs/pages/division-13-adoption-section-8713..mdx
+                  - page: "§ 8714."
+                    path: docs/pages/division-13-adoption-section-8714..mdx
+                  - page: "§ 8714.5"
+                    path: docs/pages/division-13-adoption-section-8714.5.mdx
+                  - page: "§ 8715."
+                    path: docs/pages/division-13-adoption-section-8715..mdx
+                  - page: "§ 8716."
+                    path: docs/pages/division-13-adoption-section-8716..mdx
+                  - page: "§ 8717."
+                    path: docs/pages/division-13-adoption-section-8717..mdx
+                  - page: "§ 8718."
+                    path: docs/pages/division-13-adoption-section-8718..mdx
+                  - page: "§ 8719."
+                    path: docs/pages/division-13-adoption-section-8719..mdx
+                  - page: "§ 8720."
+                    path: docs/pages/division-13-adoption-section-8720..mdx
+              - section: "Chapter 7 — Disclosure Of Information"
+                collapsed: true
+                contents:
+                  - page: "§ 9200."
+                    path: docs/pages/division-13-adoption-section-9200..mdx
+                  - page: "§ 9201."
+                    path: docs/pages/division-13-adoption-section-9201..mdx
+                  - page: "§ 9202."
+                    path: docs/pages/division-13-adoption-section-9202..mdx
+                  - page: "§ 9202.5"
+                    path: docs/pages/division-13-adoption-section-9202.5.mdx
+                  - page: "§ 9203."
+                    path: docs/pages/division-13-adoption-section-9203..mdx
+                  - page: "§ 9203.1"
+                    path: docs/pages/division-13-adoption-section-9203.1.mdx
+                  - page: "§ 9204."
+                    path: docs/pages/division-13-adoption-section-9204..mdx
+                  - page: "§ 9205."
+                    path: docs/pages/division-13-adoption-section-9205..mdx
+                  - page: "§ 9206."
+                    path: docs/pages/division-13-adoption-section-9206..mdx
+                  - page: "§ 9208."
+                    path: docs/pages/division-13-adoption-section-9208..mdx
+                  - page: "§ 9209."
+                    path: docs/pages/division-13-adoption-section-9209..mdx
+              - section: "Chapter 3 — Independent Adoptions"
+                collapsed: true
+                contents:
+                  - page: "§ 8800."
+                    path: docs/pages/division-13-adoption-section-8800..mdx
+                  - page: "§ 8801."
+                    path: docs/pages/division-13-adoption-section-8801..mdx
+                  - page: "§ 8801.3"
+                    path: docs/pages/division-13-adoption-section-8801.3.mdx
+                  - page: "§ 8801.5"
+                    path: docs/pages/division-13-adoption-section-8801.5.mdx
+                  - page: "§ 8801.7"
+                    path: docs/pages/division-13-adoption-section-8801.7.mdx
+                  - page: "§ 8802."
+                    path: docs/pages/division-13-adoption-section-8802..mdx
+                  - page: "§ 8803."
+                    path: docs/pages/division-13-adoption-section-8803..mdx
+                  - page: "§ 8804."
+                    path: docs/pages/division-13-adoption-section-8804..mdx
+                  - page: "§ 8805."
+                    path: docs/pages/division-13-adoption-section-8805..mdx
+                  - page: "§ 8806."
+                    path: docs/pages/division-13-adoption-section-8806..mdx
+                  - page: "§ 8807."
+                    path: docs/pages/division-13-adoption-section-8807..mdx
+                  - page: "§ 8808."
+                    path: docs/pages/division-13-adoption-section-8808..mdx
+                  - page: "§ 8810."
+                    path: docs/pages/division-13-adoption-section-8810..mdx
+                  - page: "§ 8811."
+                    path: docs/pages/division-13-adoption-section-8811..mdx
+                  - page: "§ 8811.5"
+                    path: docs/pages/division-13-adoption-section-8811.5.mdx
+                  - page: "§ 8812."
+                    path: docs/pages/division-13-adoption-section-8812..mdx
+                  - page: "§ 8813."
+                    path: docs/pages/division-13-adoption-section-8813..mdx
+                  - page: "§ 8814."
+                    path: docs/pages/division-13-adoption-section-8814..mdx
+                  - page: "§ 8814.5"
+                    path: docs/pages/division-13-adoption-section-8814.5.mdx
+                  - page: "§ 8815."
+                    path: docs/pages/division-13-adoption-section-8815..mdx
+                  - page: "§ 8816."
+                    path: docs/pages/division-13-adoption-section-8816..mdx
+                  - page: "§ 8817."
+                    path: docs/pages/division-13-adoption-section-8817..mdx
+                  - page: "§ 8818."
+                    path: docs/pages/division-13-adoption-section-8818..mdx
+                  - page: "§ 8819."
+                    path: docs/pages/division-13-adoption-section-8819..mdx
+                  - page: "§ 8820."
+                    path: docs/pages/division-13-adoption-section-8820..mdx
+                  - page: "§ 8821."
+                    path: docs/pages/division-13-adoption-section-8821..mdx
+                  - page: "§ 8822."
+                    path: docs/pages/division-13-adoption-section-8822..mdx
+                  - page: "§ 8823."
+                    path: docs/pages/division-13-adoption-section-8823..mdx
+              - section: "Chapter 1 — General Provisions"
+                collapsed: true
+                contents:
+                  - page: "§ 8600."
+                    path: docs/pages/division-13-adoption-section-8600..mdx
+                  - page: "§ 8600.5"
+                    path: docs/pages/division-13-adoption-section-8600.5.mdx
+                  - page: "§ 8601."
+                    path: docs/pages/division-13-adoption-section-8601..mdx
+                  - page: "§ 8601.5"
+                    path: docs/pages/division-13-adoption-section-8601.5.mdx
+                  - page: "§ 8602."
+                    path: docs/pages/division-13-adoption-section-8602..mdx
+                  - page: "§ 8603."
+                    path: docs/pages/division-13-adoption-section-8603..mdx
+                  - page: "§ 8604."
+                    path: docs/pages/division-13-adoption-section-8604..mdx
+                  - page: "§ 8605."
+                    path: docs/pages/division-13-adoption-section-8605..mdx
+                  - page: "§ 8606."
+                    path: docs/pages/division-13-adoption-section-8606..mdx
+                  - page: "§ 8606.5"
+                    path: docs/pages/division-13-adoption-section-8606.5.mdx
+                  - page: "§ 8607."
+                    path: docs/pages/division-13-adoption-section-8607..mdx
+                  - page: "§ 8608."
+                    path: docs/pages/division-13-adoption-section-8608..mdx
+                  - page: "§ 8609."
+                    path: docs/pages/division-13-adoption-section-8609..mdx
+                  - page: "§ 8609.5"
+                    path: docs/pages/division-13-adoption-section-8609.5.mdx
+                  - page: "§ 8610."
+                    path: docs/pages/division-13-adoption-section-8610..mdx
+                  - page: "§ 8611."
+                    path: docs/pages/division-13-adoption-section-8611..mdx
+                  - page: "§ 8612."
+                    path: docs/pages/division-13-adoption-section-8612..mdx
+                  - page: "§ 8613."
+                    path: docs/pages/division-13-adoption-section-8613..mdx
+                  - page: "§ 8613.5"
+                    path: docs/pages/division-13-adoption-section-8613.5.mdx
+                  - page: "§ 8613.7"
+                    path: docs/pages/division-13-adoption-section-8613.7.mdx
+                  - page: "§ 8614."
+                    path: docs/pages/division-13-adoption-section-8614..mdx
+                  - page: "§ 8615."
+                    path: docs/pages/division-13-adoption-section-8615..mdx
+                  - page: "§ 8616."
+                    path: docs/pages/division-13-adoption-section-8616..mdx
+                  - page: "§ 8616.5"
+                    path: docs/pages/division-13-adoption-section-8616.5.mdx
+                  - page: "§ 8617."
+                    path: docs/pages/division-13-adoption-section-8617..mdx
+                  - page: "§ 8618."
+                    path: docs/pages/division-13-adoption-section-8618..mdx
+                  - page: "§ 8619."
+                    path: docs/pages/division-13-adoption-section-8619..mdx
+                  - page: "§ 8619.5"
+                    path: docs/pages/division-13-adoption-section-8619.5.mdx
+                  - page: "§ 8620."
+                    path: docs/pages/division-13-adoption-section-8620..mdx
+                  - page: "§ 8621."
+                    path: docs/pages/division-13-adoption-section-8621..mdx
+                  - page: "§ 8622."
+                    path: docs/pages/division-13-adoption-section-8622..mdx
+                  - page: "§ 8623."
+                    path: docs/pages/division-13-adoption-section-8623..mdx
+                  - page: "§ 8624."
+                    path: docs/pages/division-13-adoption-section-8624..mdx
+                  - page: "§ 8625."
+                    path: docs/pages/division-13-adoption-section-8625..mdx
+                  - page: "§ 8626."
+                    path: docs/pages/division-13-adoption-section-8626..mdx
+              - section: "Chapter 8 — Adoption Proceedings: Conflict Of Laws"
+                collapsed: true
+                contents:
+                  - page: "§ 9210."
+                    path: docs/pages/division-13-adoption-section-9210..mdx
+                  - page: "§ 9212."
+                    path: docs/pages/division-13-adoption-section-9212..mdx
+              - section: "Chapter 3 — Procedure For Terminating Adult Adoption"
+                collapsed: true
+                contents:
+                  - page: "§ 9340."
+                    path: docs/pages/division-13-adoption-section-9340..mdx
+              - section: "Chapter 2 — Procedure For Adult Adoption"
+                collapsed: true
+                contents:
+                  - page: "§ 9320."
+                    path: docs/pages/division-13-adoption-section-9320..mdx
+                  - page: "§ 9321."
+                    path: docs/pages/division-13-adoption-section-9321..mdx
+                  - page: "§ 9321.5"
+                    path: docs/pages/division-13-adoption-section-9321.5.mdx
+                  - page: "§ 9322."
+                    path: docs/pages/division-13-adoption-section-9322..mdx
+                  - page: "§ 9323."
+                    path: docs/pages/division-13-adoption-section-9323..mdx
+                  - page: "§ 9324."
+                    path: docs/pages/division-13-adoption-section-9324..mdx
+                  - page: "§ 9325."
+                    path: docs/pages/division-13-adoption-section-9325..mdx
+                  - page: "§ 9326."
+                    path: docs/pages/division-13-adoption-section-9326..mdx
+                  - page: "§ 9327."
+                    path: docs/pages/division-13-adoption-section-9327..mdx
+                  - page: "§ 9328."
+                    path: docs/pages/division-13-adoption-section-9328..mdx
+              - section: "Chapter 1 — General Provisions"
+                collapsed: true
+                contents:
+                  - page: "§ 9300."
+                    path: docs/pages/division-13-adoption-section-9300..mdx
+                  - page: "§ 9301."
+                    path: docs/pages/division-13-adoption-section-9301..mdx
+                  - page: "§ 9302."
+                    path: docs/pages/division-13-adoption-section-9302..mdx
+                  - page: "§ 9303."
+                    path: docs/pages/division-13-adoption-section-9303..mdx
+                  - page: "§ 9304."
+                    path: docs/pages/division-13-adoption-section-9304..mdx
+                  - page: "§ 9305."
+                    path: docs/pages/division-13-adoption-section-9305..mdx
+                  - page: "§ 9306."
+                    path: docs/pages/division-13-adoption-section-9306..mdx
+                  - page: "§ 9307."
+                    path: docs/pages/division-13-adoption-section-9307..mdx
 
           - section: "Division 14 — Family Law Facilitator Act"
             collapsed: true
