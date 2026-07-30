@@ -15,6 +15,16 @@ logo:
 
 favicon: docs/assets/favicon.svg
 
+colors:
+  accentPrimary:
+    light: "#B22234"
+    dark: "#4A7CB5"
+  background:
+    light: "#F5F3EE"
+    dark: "#111827"
+
+css: docs/assets/theme.css
+
 layout:
   searchbar-placement: header
   page-width: wide
@@ -23,7 +33,7 @@ layout:
 tabs:
   code:
     display-name: Family Code
-    icon: docs/assets/icon-circle.svg
+    icon: book-open
 
 navigation:
   - tab: code
