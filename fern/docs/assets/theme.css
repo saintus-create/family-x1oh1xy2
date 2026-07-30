@@ -1,268 +1,77 @@
-/* ============================================================
-   California Family Code — US Flat Matte Theme
-   Light: warm parchment + muted US red
-   Dark:  deep navy + steel blue
-   ============================================================ */
+/* California Family Code — minimal section-page styles only.
+   Do NOT override Fern core layout, sidebar, header, or cards. */
 
-/* ── Google Fonts ── */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
-
-/* ── Root tokens ── */
-:root {
-  --us-red:         #B22234;
-  --us-red-muted:   #8B1A28;
-  --us-navy:        #1B2A4A;
-  --us-steel:       #4A7CB5;
-  --us-steel-light: #6A9DD4;
-
-  --bg-light:       #F5F3EE;
-  --bg-light-card:  #EDEAE3;
-  --bg-light-border:#D6D1C8;
-
-  --bg-dark:        #111827;
-  --bg-dark-card:   #1A2436;
-  --bg-dark-border: #243047;
-
-  --text-light:     #1A1F2E;
-  --text-light-sub: #4A4F5E;
-  --text-dark:      #E2DDD4;
-  --text-dark-sub:  #8A95A8;
-}
-
-/* ── Base overrides ── */
-body {
-  font-family: 'Inter', system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-
-code, pre, .mono {
-  font-family: 'IBM Plex Mono', 'Fira Code', monospace;
-}
-
-/* ── Light mode surface ── */
-:root,
-[data-theme="light"] {
-  --fern-bg:           var(--bg-light);
-  --fern-card-bg:      var(--bg-light-card);
-  --fern-border:       var(--bg-light-border);
-  --fern-text:         var(--text-light);
-  --fern-text-sub:     var(--text-light-sub);
-  --fern-accent:       var(--us-red);
-  --fern-accent-hover: var(--us-red-muted);
-}
-
-/* ── Dark mode surface ── */
-[data-theme="dark"],
-.dark {
-  --fern-bg:           var(--bg-dark);
-  --fern-card-bg:      var(--bg-dark-card);
-  --fern-border:       var(--bg-dark-border);
-  --fern-text:         var(--text-dark);
-  --fern-text-sub:     var(--text-dark-sub);
-  --fern-accent:       var(--us-steel);
-  --fern-accent-hover: var(--us-steel-light);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --fern-bg:           var(--bg-dark);
-    --fern-card-bg:      var(--bg-dark-card);
-    --fern-border:       var(--bg-dark-border);
-    --fern-text:         var(--text-dark);
-    --fern-text-sub:     var(--text-dark-sub);
-    --fern-accent:       var(--us-steel);
-    --fern-accent-hover: var(--us-steel-light);
-  }
-}
-
-/* ── Sidebar navigation ── */
-aside, nav[aria-label="sidebar"], [class*="sidebar"] {
-  background: var(--fern-bg) !important;
-  border-right: 1px solid var(--fern-border) !important;
-}
-
-/* Sidebar section headers */
-[class*="sidebar"] [class*="section-title"],
-[class*="sidebar"] summary {
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--fern-text-sub);
-  padding: 0.55rem 0.75rem 0.2rem;
-}
-
-/* Sidebar active link */
-[class*="sidebar"] a[aria-current="page"],
-[class*="sidebar"] a.active {
-  background: color-mix(in srgb, var(--fern-accent) 12%, transparent) !important;
-  color: var(--fern-accent) !important;
-  font-weight: 600;
-  border-radius: 4px;
-}
-
-/* Sidebar hover */
-[class*="sidebar"] a:hover:not([aria-current="page"]) {
-  background: color-mix(in srgb, var(--fern-border) 50%, transparent) !important;
-  border-radius: 4px;
-}
-
-/* ── Top nav / header ── */
-header, [class*="header"], [class*="navbar"] {
-  background: var(--fern-bg) !important;
-  border-bottom: 1px solid var(--fern-border) !important;
-}
-
-/* ── Cards (home page) ── */
-.fern-card,
-[class*="card"],
-a[class*="card"] {
-  background: var(--fern-card-bg) !important;
-  border: 1px solid var(--fern-border) !important;
-  border-radius: 6px !important;
-  box-shadow: none !important;
-  transition: border-color 0.15s, background 0.15s;
-}
-.fern-card:hover,
-[class*="card"]:hover,
-a[class*="card"]:hover {
-  border-color: var(--fern-accent) !important;
-  background: var(--fern-bg) !important;
-}
-
-/* Card icon */
-[class*="card"] [class*="icon"],
-[class*="card"] svg {
-  color: var(--fern-accent) !important;
-}
-
-/* ── Links ── */
-a { color: var(--fern-accent); }
-a:hover { color: var(--fern-accent-hover); }
-
-/* ── Headings ── */
-h1 { font-weight: 700; letter-spacing: -0.02em; }
-h2 { font-weight: 600; letter-spacing: -0.01em; }
-h3 { font-weight: 600; }
-
-/* ── Dividers / HR ── */
-hr {
-  border: none;
-  border-top: 1px solid var(--fern-border);
-  margin: 1.5rem 0;
-}
-
-/* ── Code blocks ── */
-pre, code {
-  background: var(--fern-card-bg) !important;
-  border: 1px solid var(--fern-border) !important;
-  border-radius: 4px !important;
-}
-
-/* ── Section pages — breadcrumb ── */
+/* ── Breadcrumb (section pages only) ── */
 .fl-breadcrumb {
   font-size: 0.75rem;
-  color: var(--fern-text-sub);
-  margin-bottom: 1.5rem;
+  opacity: 0.65;
+  margin-bottom: 1.25rem;
   display: flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.35rem;
   flex-wrap: wrap;
 }
-.fl-breadcrumb a {
-  color: var(--fern-text-sub);
-  text-decoration: none;
-  transition: color 0.12s;
-}
-.fl-breadcrumb a:hover { color: var(--fern-accent); }
+.fl-breadcrumb a { text-decoration: none; }
+.fl-breadcrumb a:hover { text-decoration: underline; }
 .fl-crumb-sep { opacity: 0.4; }
 
-/* ── Section pages — prev/next nav ── */
+/* ── Prev / next nav buttons (section pages only) ── */
 .fl-section-nav {
   display: flex;
-  gap: 0.75rem;
+  gap: 0.6rem;
   margin: 2rem 0 1rem;
 }
 .fl-nav-btn {
   display: inline-flex;
   align-items: center;
-  padding: 0.4rem 0.85rem;
-  border: 1px solid var(--fern-border);
+  padding: 0.35rem 0.75rem;
+  border: 1px solid currentColor;
   border-radius: 4px;
-  font-size: 0.825rem;
+  font-size: 0.8rem;
   font-weight: 500;
-  color: var(--fern-text-sub);
-  background: var(--fern-card-bg);
+  opacity: 0.6;
   text-decoration: none;
-  transition: border-color 0.12s, color 0.12s, background 0.12s;
+  transition: opacity 0.12s;
 }
-.fl-nav-btn:hover {
-  border-color: var(--fern-accent);
-  color: var(--fern-accent);
-  background: var(--fern-bg);
-}
+.fl-nav-btn:hover { opacity: 1; }
 
-/* ── Section pages — source note ── */
+/* ── Source note (section pages only) ── */
 .source-note {
   font-size: 0.75rem;
-  color: var(--fern-text-sub);
+  opacity: 0.5;
   line-height: 1.6;
   margin-top: 2rem;
   padding-top: 0.75rem;
-  border-top: 1px solid var(--fern-border);
+  border-top: 1px solid currentColor;
 }
-.source-note a {
-  color: var(--fern-accent);
-  text-decoration: none;
-}
-.source-note a:hover { text-decoration: underline; }
+.source-note a { text-decoration: none; }
+.source-note a:hover { text-decoration: underline; opacity: 0.8; }
 
 /* ── Case annotation callouts ── */
 .case-callout {
-  background: var(--fern-card-bg);
-  border: 1px solid var(--fern-border);
-  border-left: 3px solid var(--fern-accent);
+  border-left: 3px solid currentColor;
   border-radius: 4px;
   padding: 0.9rem 1rem;
   margin: 1.25rem 0;
   font-size: 0.875rem;
   line-height: 1.65;
+  opacity: 0.9;
 }
-.case-callout strong {
-  display: block;
-  font-size: 0.875rem;
-  font-weight: 600;
-  color: var(--fern-text);
-  margin-bottom: 0.15rem;
-}
-.case-callout em {
-  font-size: 0.775rem;
-  color: var(--fern-accent);
-  font-style: normal;
-  display: block;
-  margin-bottom: 0.5rem;
-}
-.case-callout p { margin: 0.4rem 0; color: var(--fern-text-sub); }
-.case-statutes {
-  display: block;
-  font-size: 0.72rem;
-  color: var(--fern-text-sub);
-  margin-top: 0.65rem;
-  padding-top: 0.5rem;
-  border-top: 1px solid var(--fern-border);
-}
+.case-callout strong { display: block; font-weight: 600; margin-bottom: 0.15rem; }
+.case-callout em { font-size: 0.775rem; font-style: normal; display: block; margin-bottom: 0.5rem; }
+.case-callout p { margin: 0.4rem 0; }
+.case-statutes { font-size: 0.72rem; margin-top: 0.65rem; padding-top: 0.5rem; opacity: 0.55; }
 
-/* ── Subsection badges ── */
+/* ── Subsection number chips ── */
 .subsec {
   display: inline-block;
   font-size: 0.7rem;
-  font-family: 'IBM Plex Mono', monospace;
-  color: var(--fern-text-sub);
-  background: var(--fern-card-bg);
-  border: 1px solid var(--fern-border);
+  font-family: monospace;
+  border: 1px solid currentColor;
   border-radius: 3px;
   padding: 0.05rem 0.3rem;
   margin: 0 0.1rem;
+  opacity: 0.5;
   vertical-align: baseline;
 }
 
@@ -270,32 +79,13 @@ pre, code {
 .statute-link {
   display: inline-block;
   font-size: 0.72rem;
-  color: var(--fern-accent);
-  background: color-mix(in srgb, var(--fern-accent) 8%, var(--fern-bg));
-  border: 1px solid color-mix(in srgb, var(--fern-accent) 25%, transparent);
+  border: 1px solid currentColor;
   border-radius: 3px;
   padding: 0.1rem 0.35rem;
   margin: 0.1rem;
   text-decoration: none;
   white-space: nowrap;
-  transition: background 0.12s, border-color 0.12s;
+  opacity: 0.75;
+  transition: opacity 0.12s;
 }
-.statute-link:hover {
-  background: color-mix(in srgb, var(--fern-accent) 15%, var(--fern-bg));
-  border-color: color-mix(in srgb, var(--fern-accent) 45%, transparent);
-}
-
-/* ── Section number display ── */
-h1 + p,
-h2 + p {
-  margin-top: 0.25rem;
-}
-
-/* Section divider between statute text and history */
-.statute-history {
-  font-size: 0.8rem;
-  color: var(--fern-text-sub);
-  margin-top: 1rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid var(--fern-border);
-}
+.statute-link:hover { opacity: 1; text-decoration: none; }

@@ -23,7 +23,6 @@ colors:
     light: "#F5F3EE"
     dark: "#111827"
 
-css: docs/assets/theme.css
 
 layout:
   searchbar-placement: header
