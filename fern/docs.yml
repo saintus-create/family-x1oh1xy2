@@ -12,7 +12,8 @@ title: California Family Code
 
 logo:
   light: docs/assets/logo-light.svg
-  favicon: docs/assets/favicon.svg
+
+favicon: docs/assets/favicon.svg
 
 layout:
   searchbar-placement: header
