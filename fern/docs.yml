@@ -10,6 +10,19 @@ instances:
 
 title: California Family Code
 
+colors:
+  accentPrimary:
+    light: "#1E4A8A"
+    dark: "#6B9FD4"
+  background:
+    light: "#F5F4F0"
+    dark: "#1C2332"
+
+typography:
+  headingsFont:
+    name: Instrument Serif
+
+
 layout:
   searchbar-placement: header
   page-width: wide
@@ -31,6 +44,7 @@ navigation:
       - section: Divisions
         contents:
           - section: "Preliminary Provisions and Definitions"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
@@ -415,12 +429,14 @@ navigation:
                   - page: "197"
                     path: docs/pages/preliminary-provisions-section-197.mdx
 
-          - section: "Division 2 — Marriage"
+          - separator
+          - section: "Division 2  -  Marriage"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/marriage.mdx
-              - section: "Part 1 — Validity"
+              - section: "Part 1  -  Validity"
                 collapsed: true
                 contents:
                   - page: "200"
@@ -739,7 +755,7 @@ navigation:
                     path: docs/pages/marriage-section-299.2.mdx
                   - page: "299.6"
                     path: docs/pages/marriage-section-299.6.mdx
-              - section: "Part 2 — License & Certificate"
+              - section: "Part 2  -  License & Certificate"
                 collapsed: true
                 contents:
                   - page: "300"
@@ -1174,7 +1190,7 @@ navigation:
                     path: docs/pages/marriage-section-397.mdx
                   - page: "397.5"
                     path: docs/pages/marriage-section-397.5.mdx
-              - section: "Part 5 — Rights & Obligations"
+              - section: "Part 5  -  Rights & Obligations"
                 collapsed: true
                 contents:
                   - page: "702"
@@ -1246,7 +1262,9 @@ navigation:
                   - page: "739.5"
                     path: docs/pages/marriage-section-739.5.mdx
 
-          - section: "Division 2.5 — Domestic Partner Registration"
+          - separator
+          - section: "Division 2.5  -  Domestic Partner Registration"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
@@ -1277,12 +1295,14 @@ navigation:
                   - page: "299.6"
                     path: docs/pages/division-2.5-domestic-partners-section-299.6.mdx
 
-          - section: "Division 3 — Premarital Agreements"
+          - separator
+          - section: "Division 3  -  Premarital Agreements"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-3-marriage.mdx
-              - section: "Part 1 — Premarital Agreements"
+              - section: "Part 1  -  Premarital Agreements"
                 collapsed: true
                 contents:
                   - page: "300"
@@ -2149,7 +2169,7 @@ navigation:
                     path: docs/pages/division-3-marriage-section-697.320.mdx
                   - page: "699"
                     path: docs/pages/division-3-marriage-section-699.mdx
-              - section: "Part 2 — Transmutation"
+              - section: "Part 2  -  Transmutation"
                 collapsed: true
                 contents:
                   - page: "700"
@@ -2255,12 +2275,14 @@ navigation:
                   - page: "1607"
                     path: docs/pages/division-3-marriage-section-1607.mdx
 
-          - section: "Division 4 — Rights and Obligations During Marriage"
+          - separator
+          - section: "Division 4  -  Rights and Obligations During Marriage"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-4-rights-during-marriage.mdx
-              - section: "Part 1 — General"
+              - section: "Part 1  -  General"
                 collapsed: true
                 contents:
                   - page: "700"
@@ -2385,7 +2407,7 @@ navigation:
                     path: docs/pages/division-4-rights-during-marriage-section-739.mdx
                   - page: "739.5"
                     path: docs/pages/division-4-rights-during-marriage-section-739.5.mdx
-              - section: "Part 2 — Community Property"
+              - section: "Part 2  -  Community Property"
                 collapsed: true
                 contents:
                   - page: "750"
@@ -2484,7 +2506,7 @@ navigation:
                     path: docs/pages/division-4-rights-during-marriage-section-891.mdx
                   - page: "894"
                     path: docs/pages/division-4-rights-during-marriage-section-894.mdx
-              - section: "Part 3 — Management & Control"
+              - section: "Part 3  -  Management & Control"
                 collapsed: true
                 contents:
                   - page: "900"
@@ -2605,7 +2627,7 @@ navigation:
                     path: docs/pages/division-4-rights-during-marriage-section-998.mdx
                   - page: "999"
                     path: docs/pages/division-4-rights-during-marriage-section-999.mdx
-              - section: "Part 4 — Liability"
+              - section: "Part 4  -  Liability"
                 collapsed: true
                 contents:
                   - page: "1000"
@@ -2734,7 +2756,7 @@ navigation:
                     path: docs/pages/division-4-rights-during-marriage-section-1088.mdx
                   - page: "1094"
                     path: docs/pages/division-4-rights-during-marriage-section-1094.mdx
-              - section: "Part 5 — Nonprobate Transfers"
+              - section: "Part 5  -  Nonprobate Transfers"
                 collapsed: true
                 contents:
                   - page: "1100"
@@ -3119,7 +3141,7 @@ navigation:
                     path: docs/pages/division-4-rights-during-marriage-section-1590.mdx
                   - page: "1596"
                     path: docs/pages/division-4-rights-during-marriage-section-1596.mdx
-              - section: "Part 6 — Agreements"
+              - section: "Part 6  -  Agreements"
                 collapsed: true
                 contents:
                   - page: "1600"
@@ -3353,12 +3375,14 @@ navigation:
                   - page: "1963"
                     path: docs/pages/division-4-rights-during-marriage-section-1963.mdx
 
-          - section: "Division 5 — Conciliation Proceedings"
+          - separator
+          - section: "Division 5  -  Conciliation Proceedings"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-5-conciliation.mdx
-              - section: "Part 1 — Conciliation Court"
+              - section: "Part 1  -  Conciliation Court"
                 collapsed: true
                 contents:
                   - page: "1800"
@@ -3403,7 +3427,7 @@ navigation:
                     path: docs/pages/division-5-conciliation-section-1820.mdx
                   - page: "1821"
                     path: docs/pages/division-5-conciliation-section-1821.mdx
-              - section: "Part 2 — Jurisdiction"
+              - section: "Part 2  -  Jurisdiction"
                 collapsed: true
                 contents:
                   - page: "1830"
@@ -3432,7 +3456,7 @@ navigation:
                     path: docs/pages/division-5-conciliation-section-1841.mdx
                   - page: "1842"
                     path: docs/pages/division-5-conciliation-section-1842.mdx
-              - section: "Part 3 — Agreement"
+              - section: "Part 3  -  Agreement"
                 collapsed: true
                 contents:
                   - page: "1850"
@@ -3510,12 +3534,14 @@ navigation:
                   - page: "1987"
                     path: docs/pages/division-5-conciliation-section-1987.mdx
 
-          - section: "Division 6 — Nullity, Dissolution, and Legal Separation"
+          - separator
+          - section: "Division 6  -  Nullity, Dissolution, and Legal Separation"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-6-dissolution.mdx
-              - section: "Part 1 — General"
+              - section: "Part 1  -  General"
                 collapsed: true
                 contents:
                   - page: "2000"
@@ -3558,7 +3584,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2025.260.mdx
                   - page: "2026"
                     path: docs/pages/division-6-dissolution-section-2026.mdx
-              - section: "Part 2 — Jurisdiction"
+              - section: "Part 2  -  Jurisdiction"
                 collapsed: true
                 contents:
                   - page: "2030"
@@ -3571,7 +3597,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2033.mdx
                   - page: "2034"
                     path: docs/pages/division-6-dissolution-section-2034.mdx
-              - section: "Part 3 — Summary Dissolution"
+              - section: "Part 3  -  Summary Dissolution"
                 collapsed: true
                 contents:
                   - page: "2040"
@@ -3586,7 +3612,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2047.mdx
                   - page: "2049"
                     path: docs/pages/division-6-dissolution-section-2049.mdx
-              - section: "Part 4 — Nullity"
+              - section: "Part 4  -  Nullity"
                 collapsed: true
                 contents:
                   - page: "2050"
@@ -3609,7 +3635,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2064.mdx
                   - page: "2065"
                     path: docs/pages/division-6-dissolution-section-2065.mdx
-              - section: "Part 5 — Reconciliation"
+              - section: "Part 5  -  Reconciliation"
                 collapsed: true
                 contents:
                   - page: "2070"
@@ -3622,7 +3648,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2073.mdx
                   - page: "2074"
                     path: docs/pages/division-6-dissolution-section-2074.mdx
-              - section: "Part 6 — Waiting Period"
+              - section: "Part 6  -  Waiting Period"
                 collapsed: true
                 contents:
                   - page: "2080"
@@ -3631,7 +3657,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2081.mdx
                   - page: "2082"
                     path: docs/pages/division-6-dissolution-section-2082.mdx
-              - section: "Part 7 — Disclosure"
+              - section: "Part 7  -  Disclosure"
                 collapsed: true
                 contents:
                   - page: "2090"
@@ -3644,7 +3670,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2093.mdx
                   - page: "2099"
                     path: docs/pages/division-6-dissolution-section-2099.mdx
-              - section: "Part 8 — Injunctions"
+              - section: "Part 8  -  Injunctions"
                 collapsed: true
                 contents:
                   - page: "2100"
@@ -3693,7 +3719,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2128.mdx
                   - page: "2129"
                     path: docs/pages/division-6-dissolution-section-2129.mdx
-              - section: "Part 9 — Property Division"
+              - section: "Part 9  -  Property Division"
                 collapsed: true
                 contents:
                   - page: "2200"
@@ -3732,7 +3758,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2265.mdx
                   - page: "2266"
                     path: docs/pages/division-6-dissolution-section-2266.mdx
-              - section: "Part 10 — Spousal Support"
+              - section: "Part 10  -  Spousal Support"
                 collapsed: true
                 contents:
                   - page: "2300"
@@ -3805,7 +3831,7 @@ navigation:
                     path: docs/pages/division-6-dissolution-section-2348.mdx
                   - page: "2351"
                     path: docs/pages/division-6-dissolution-section-2351.mdx
-              - section: "Part 11 — Fees & Costs"
+              - section: "Part 11  -  Fees & Costs"
                 collapsed: true
                 contents:
                   - page: "2400"
@@ -3833,12 +3859,14 @@ navigation:
                   - page: "2456"
                     path: docs/pages/division-6-dissolution-section-2456.mdx
 
-          - section: "Division 7 — Division of Property"
+          - separator
+          - section: "Division 7  -  Division of Property"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-7-property.mdx
-              - section: "Part 1 — Community Property"
+              - section: "Part 1  -  Community Property"
                 collapsed: true
                 contents:
                   - page: "2500"
@@ -3851,7 +3879,7 @@ navigation:
                     path: docs/pages/division-7-property-section-2530.mdx
                   - page: "2543"
                     path: docs/pages/division-7-property-section-2543.mdx
-              - section: "Part 2 — Division"
+              - section: "Part 2  -  Division"
                 collapsed: true
                 contents:
                   - page: "2550"
@@ -3868,14 +3896,14 @@ navigation:
                     path: docs/pages/division-7-property-section-2555.mdx
                   - page: "2556"
                     path: docs/pages/division-7-property-section-2556.mdx
-              - section: "Part 3 — Retirement Plans"
+              - section: "Part 3  -  Retirement Plans"
                 collapsed: true
                 contents:
                   - page: "2580"
                     path: docs/pages/division-7-property-section-2580.mdx
                   - page: "2581"
                     path: docs/pages/division-7-property-section-2581.mdx
-              - section: "Part 4 — Reimbursements"
+              - section: "Part 4  -  Reimbursements"
                 collapsed: true
                 contents:
                   - page: "2600"
@@ -3894,7 +3922,7 @@ navigation:
                     path: docs/pages/division-7-property-section-2605.mdx
                   - page: "2610"
                     path: docs/pages/division-7-property-section-2610.mdx
-              - section: "Part 5 — Tax Liabilities"
+              - section: "Part 5  -  Tax Liabilities"
                 collapsed: true
                 contents:
                   - page: "2620"
@@ -3919,7 +3947,7 @@ navigation:
                     path: docs/pages/division-7-property-section-2628.mdx
                   - page: "2630"
                     path: docs/pages/division-7-property-section-2630.mdx
-              - section: "Part 6 — Separate Property"
+              - section: "Part 6  -  Separate Property"
                 collapsed: true
                 contents:
                   - page: "2640"
@@ -3977,12 +4005,14 @@ navigation:
                   - page: "2984"
                     path: docs/pages/division-7-property-section-2984.mdx
 
-          - section: "Division 8 — Custody of Children"
+          - separator
+          - section: "Division 8  -  Custody of Children"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-8-custody.mdx
-              - section: "Part 1 — Jurisdiction"
+              - section: "Part 1  -  Jurisdiction"
                 collapsed: true
                 contents:
                   - page: "3000"
@@ -4003,7 +4033,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3011.mdx
                   - page: "3012"
                     path: docs/pages/division-8-custody-section-3012.mdx
-              - section: "Part 2 — Custody Rights"
+              - section: "Part 2  -  Custody Rights"
                 collapsed: true
                 contents:
                   - page: "3020"
@@ -4044,7 +4074,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3031.mdx
                   - page: "3032"
                     path: docs/pages/division-8-custody-section-3032.mdx
-              - section: "Part 3 — Temporary Orders"
+              - section: "Part 3  -  Temporary Orders"
                 collapsed: true
                 contents:
                   - page: "3040"
@@ -4071,7 +4101,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3049.mdx
                   - page: "3051"
                     path: docs/pages/division-8-custody-section-3051.mdx
-              - section: "Part 4 — Domestic Violence"
+              - section: "Part 4  -  Domestic Violence"
                 collapsed: true
                 contents:
                   - page: "3060"
@@ -4084,7 +4114,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3063.mdx
                   - page: "3064"
                     path: docs/pages/division-8-custody-section-3064.mdx
-              - section: "Part 5 — Modification"
+              - section: "Part 5  -  Modification"
                 collapsed: true
                 contents:
                   - page: "3080"
@@ -4107,7 +4137,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3088.mdx
                   - page: "3089"
                     path: docs/pages/division-8-custody-section-3089.mdx
-              - section: "Part 6 — Visitation"
+              - section: "Part 6  -  Visitation"
                 collapsed: true
                 contents:
                   - page: "3100"
@@ -4170,7 +4200,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3152.mdx
                   - page: "3153"
                     path: docs/pages/division-8-custody-section-3153.mdx
-              - section: "Part 7 — Mediation"
+              - section: "Part 7  -  Mediation"
                 collapsed: true
                 contents:
                   - page: "3160"
@@ -4185,7 +4215,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3164.mdx
                   - page: "3165"
                     path: docs/pages/division-8-custody-section-3165.mdx
-              - section: "Part 8 — Investigations"
+              - section: "Part 8  -  Investigations"
                 collapsed: true
                 contents:
                   - page: "3170"
@@ -4228,7 +4258,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3191.mdx
                   - page: "3192"
                     path: docs/pages/division-8-custody-section-3192.mdx
-              - section: "Part 9 — Interstate"
+              - section: "Part 9  -  Interstate"
                 collapsed: true
                 contents:
                   - page: "3200"
@@ -4253,7 +4283,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3301.mdx
                   - page: "3303"
                     path: docs/pages/division-8-custody-section-3303.mdx
-              - section: "Part 10 — Hague Convention"
+              - section: "Part 10  -  Hague Convention"
                 collapsed: true
                 contents:
                   - page: "3400"
@@ -4284,7 +4314,7 @@ navigation:
                     path: docs/pages/division-8-custody-section-3412.mdx
                   - page: "3413"
                     path: docs/pages/division-8-custody-section-3413.mdx
-              - section: "Part 11 — UCCJEA"
+              - section: "Part 11  -  UCCJEA"
                 collapsed: true
                 contents:
                   - page: "3421"
@@ -4380,19 +4410,21 @@ navigation:
                   - page: "3493"
                     path: docs/pages/division-8-custody-section-3493.mdx
 
-          - section: "Division 9 — Support"
+          - separator
+          - section: "Division 9  -  Support"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-9-support.mdx
-              - section: "Part 1 — Duty of Support"
+              - section: "Part 1  -  Duty of Support"
                 collapsed: true
                 contents:
                   - page: "3500"
                     path: docs/pages/division-9-support-section-3500.mdx
                   - page: "3515"
                     path: docs/pages/division-9-support-section-3515.mdx
-              - section: "Part 2 — Child Support"
+              - section: "Part 2  -  Child Support"
                 collapsed: true
                 contents:
                   - page: "3550"
@@ -4411,7 +4443,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3557.mdx
                   - page: "3558"
                     path: docs/pages/division-9-support-section-3558.mdx
-              - section: "Part 3 — Support Formula"
+              - section: "Part 3  -  Support Formula"
                 collapsed: true
                 contents:
                   - page: "3580"
@@ -4450,7 +4482,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3612.mdx
                   - page: "3613"
                     path: docs/pages/division-9-support-section-3613.mdx
-              - section: "Part 4 — Medical Support"
+              - section: "Part 4  -  Medical Support"
                 collapsed: true
                 contents:
                   - page: "3620"
@@ -4483,7 +4515,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3633.mdx
                   - page: "3634"
                     path: docs/pages/division-9-support-section-3634.mdx
-              - section: "Part 5 — Other Obligations"
+              - section: "Part 5  -  Other Obligations"
                 collapsed: true
                 contents:
                   - page: "3650"
@@ -4512,7 +4544,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3667.mdx
                   - page: "3668"
                     path: docs/pages/division-9-support-section-3668.mdx
-              - section: "Part 6 — Modification"
+              - section: "Part 6  -  Modification"
                 collapsed: true
                 contents:
                   - page: "3680"
@@ -4527,7 +4559,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3692.mdx
                   - page: "3693"
                     path: docs/pages/division-9-support-section-3693.mdx
-              - section: "Part 7 — Enforcement"
+              - section: "Part 7  -  Enforcement"
                 collapsed: true
                 contents:
                   - page: "3700"
@@ -4572,7 +4604,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3752.5.mdx
                   - page: "3753"
                     path: docs/pages/division-9-support-section-3753.mdx
-              - section: "Part 8 — Income Withholding"
+              - section: "Part 8  -  Income Withholding"
                 collapsed: true
                 contents:
                   - page: "3760"
@@ -4603,7 +4635,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3772.mdx
                   - page: "3773"
                     path: docs/pages/division-9-support-section-3773.mdx
-              - section: "Part 9 — Governmental Enforcement"
+              - section: "Part 9  -  Governmental Enforcement"
                 collapsed: true
                 contents:
                   - page: "3800"
@@ -4628,7 +4660,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3810.mdx
                   - page: "3830"
                     path: docs/pages/division-9-support-section-3830.mdx
-              - section: "Part 10 — Spousal Support"
+              - section: "Part 10  -  Spousal Support"
                 collapsed: true
                 contents:
                   - page: "3900"
@@ -4691,7 +4723,7 @@ navigation:
                     path: docs/pages/division-9-support-section-3951.mdx
                   - page: "3952"
                     path: docs/pages/division-9-support-section-3952.mdx
-              - section: "Part 11 — Guidelines"
+              - section: "Part 11  -  Guidelines"
                 collapsed: true
                 contents:
                   - page: "4000"
@@ -4726,7 +4758,7 @@ navigation:
                     path: docs/pages/division-9-support-section-4013.mdx
                   - page: "4014"
                     path: docs/pages/division-9-support-section-4014.mdx
-              - section: "Part 12 — Income"
+              - section: "Part 12  -  Income"
                 collapsed: true
                 contents:
                   - page: "4050"
@@ -4785,7 +4817,7 @@ navigation:
                     path: docs/pages/division-9-support-section-4075.mdx
                   - page: "4076"
                     path: docs/pages/division-9-support-section-4076.mdx
-              - section: "Part 13 — Special Circumstances"
+              - section: "Part 13  -  Special Circumstances"
                 collapsed: true
                 contents:
                   - page: "4200"
@@ -4814,7 +4846,7 @@ navigation:
                     path: docs/pages/division-9-support-section-4252.mdx
                   - page: "4253"
                     path: docs/pages/division-9-support-section-4253.mdx
-              - section: "Part 14 — Interstate"
+              - section: "Part 14  -  Interstate"
                 collapsed: true
                 contents:
                   - page: "4300"
@@ -4913,7 +4945,7 @@ navigation:
                     path: docs/pages/division-9-support-section-4413.mdx
                   - page: "4414"
                     path: docs/pages/division-9-support-section-4414.mdx
-              - section: "Part 15 — UIFSA"
+              - section: "Part 15  -  UIFSA"
                 collapsed: true
                 contents:
                   - page: "4500"
@@ -5026,7 +5058,7 @@ navigation:
                     path: docs/pages/division-9-support-section-4641.mdx
                   - page: "4684"
                     path: docs/pages/division-9-support-section-4684.mdx
-              - section: "Part 16 — Spousal Support Orders"
+              - section: "Part 16  -  Spousal Support Orders"
                 collapsed: true
                 contents:
                   - page: "4700"
@@ -5083,7 +5115,7 @@ navigation:
                     path: docs/pages/division-9-support-section-4812.mdx
                   - page: "4852"
                     path: docs/pages/division-9-support-section-4852.mdx
-              - section: "Part 17 — Tribal"
+              - section: "Part 17  -  Tribal"
                 collapsed: true
                 contents:
                   - page: "4908"
@@ -5475,12 +5507,14 @@ navigation:
                   - page: "5700.905"
                     path: docs/pages/division-9-support-section-5700.905.mdx
 
-          - section: "Division 10 — Prevention of Domestic Violence"
+          - separator
+          - section: "Division 10  -  Prevention of Domestic Violence"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-10-domestic-violence.mdx
-              - section: "Part 1 — General Provisions"
+              - section: "Part 1  -  General Provisions"
                 collapsed: true
                 contents:
                   - page: "5000"
@@ -5965,7 +5999,7 @@ navigation:
                     path: docs/pages/division-10-domestic-violence-section-6149.mdx
                   - page: "6149.5"
                     path: docs/pages/division-10-domestic-violence-section-6149.5.mdx
-              - section: "Part 2 — Definitions"
+              - section: "Part 2  -  Definitions"
                 collapsed: true
                 contents:
                   - page: "6200"
@@ -6018,7 +6052,7 @@ navigation:
                     path: docs/pages/division-10-domestic-violence-section-6228.mdx
                   - page: "6229"
                     path: docs/pages/division-10-domestic-violence-section-6229.mdx
-              - section: "Part 3 — Emergency Protective Orders"
+              - section: "Part 3  -  Emergency Protective Orders"
                 collapsed: true
                 contents:
                   - page: "6240"
@@ -6057,7 +6091,7 @@ navigation:
                     path: docs/pages/division-10-domestic-violence-section-6274.mdx
                   - page: "6275"
                     path: docs/pages/division-10-domestic-violence-section-6275.mdx
-              - section: "Part 4 — Domestic Violence Prevention Act"
+              - section: "Part 4  -  Domestic Violence Prevention Act"
                 collapsed: true
                 contents:
                   - page: "6300"
@@ -6128,7 +6162,7 @@ navigation:
                     path: docs/pages/division-10-domestic-violence-section-6360.mdx
                   - page: "6361"
                     path: docs/pages/division-10-domestic-violence-section-6361.mdx
-              - section: "Part 5 — Enforcement"
+              - section: "Part 5  -  Enforcement"
                 collapsed: true
                 contents:
                   - page: "6380"
@@ -6153,7 +6187,7 @@ navigation:
                     path: docs/pages/division-10-domestic-violence-section-6388.mdx
                   - page: "6389"
                     path: docs/pages/division-10-domestic-violence-section-6389.mdx
-              - section: "Part 6 — Support Orders"
+              - section: "Part 6  -  Support Orders"
                 collapsed: true
                 contents:
                   - page: "6400"
@@ -6178,7 +6212,7 @@ navigation:
                     path: docs/pages/division-10-domestic-violence-section-6408.mdx
                   - page: "6409"
                     path: docs/pages/division-10-domestic-violence-section-6409.mdx
-              - section: "Part 7 — Interstate Enforcement"
+              - section: "Part 7  -  Interstate Enforcement"
                 collapsed: true
                 contents:
                   - page: "6450"
@@ -6206,12 +6240,14 @@ navigation:
                   - page: "6479"
                     path: docs/pages/division-10-domestic-violence-section-6479.mdx
 
-          - section: "Division 11 — Minors"
+          - separator
+          - section: "Division 11  -  Minors"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-11-minors.mdx
-              - section: "Part 1 — Emancipation"
+              - section: "Part 1  -  Emancipation"
                 collapsed: true
                 contents:
                   - page: "6500"
@@ -6294,7 +6330,7 @@ navigation:
                     path: docs/pages/division-11-minors-section-6615.mdx
                   - page: "6676"
                     path: docs/pages/division-11-minors-section-6676.mdx
-              - section: "Part 2 — Contracts"
+              - section: "Part 2  -  Contracts"
                 collapsed: true
                 contents:
                   - page: "6700"
@@ -6331,7 +6367,7 @@ navigation:
                     path: docs/pages/division-11-minors-section-6805.mdx
                   - page: "6806"
                     path: docs/pages/division-11-minors-section-6806.mdx
-              - section: "Part 3 — Medical Consent"
+              - section: "Part 3  -  Medical Consent"
                 collapsed: true
                 contents:
                   - page: "6900"
@@ -6370,7 +6406,7 @@ navigation:
                     path: docs/pages/division-11-minors-section-6930.mdx
                   - page: "6950"
                     path: docs/pages/division-11-minors-section-6950.mdx
-              - section: "Part 4 — Other Provisions"
+              - section: "Part 4  -  Other Provisions"
                 collapsed: true
                 contents:
                   - page: "7000"
@@ -6428,12 +6464,14 @@ navigation:
                   - page: "7143"
                     path: docs/pages/division-11-minors-section-7143.mdx
 
-          - section: "Division 12 — Parent and Child Relationship"
+          - separator
+          - section: "Division 12  -  Parent and Child Relationship"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-12-parent-child.mdx
-              - section: "Part 1 — Presumptions"
+              - section: "Part 1  -  Presumptions"
                 collapsed: true
                 contents:
                   - page: "7110"
@@ -6526,7 +6564,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7560.mdx
                   - page: "7562"
                     path: docs/pages/division-12-parent-child-section-7562.mdx
-              - section: "Part 2 — Paternity"
+              - section: "Part 2  -  Paternity"
                 collapsed: true
                 contents:
                   - page: "7570"
@@ -6557,7 +6595,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7580.mdx
                   - page: "7581"
                     path: docs/pages/division-12-parent-child-section-7581.mdx
-              - section: "Part 3 — Surrogacy"
+              - section: "Part 3  -  Surrogacy"
                 collapsed: true
                 contents:
                   - page: "7600"
@@ -6592,7 +6630,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7614.mdx
                   - page: "7620"
                     path: docs/pages/division-12-parent-child-section-7620.mdx
-              - section: "Part 4 — Parentage Actions"
+              - section: "Part 4  -  Parentage Actions"
                 collapsed: true
                 contents:
                   - page: "7630"
@@ -6657,7 +6695,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7649.5.mdx
                   - page: "7650"
                     path: docs/pages/division-12-parent-child-section-7650.mdx
-              - section: "Part 5 — Support"
+              - section: "Part 5  -  Support"
                 collapsed: true
                 contents:
                   - page: "7660"
@@ -6686,7 +6724,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7670.mdx
                   - page: "7671"
                     path: docs/pages/division-12-parent-child-section-7671.mdx
-              - section: "Part 6 — Interstate"
+              - section: "Part 6  -  Interstate"
                 collapsed: true
                 contents:
                   - page: "7700"
@@ -6787,7 +6825,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7894.mdx
                   - page: "7895"
                     path: docs/pages/division-12-parent-child-section-7895.mdx
-              - section: "Part 7 — Genetic Parentage"
+              - section: "Part 7  -  Genetic Parentage"
                 collapsed: true
                 contents:
                   - page: "7900"
@@ -6836,7 +6874,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-7951.mdx
                   - page: "7952"
                     path: docs/pages/division-12-parent-child-section-7952.mdx
-              - section: "Part 8 — Indian Family"
+              - section: "Part 8  -  Indian Family"
                 collapsed: true
                 contents:
                   - page: "7960"
@@ -6913,7 +6951,7 @@ navigation:
                     path: docs/pages/division-12-parent-child-section-8468.mdx
                   - page: "8469"
                     path: docs/pages/division-12-parent-child-section-8469.mdx
-              - section: "Part 9 — Freedom from Parental Custody"
+              - section: "Part 9  -  Freedom from Parental Custody"
                 collapsed: true
                 contents:
                   - page: "8500"
@@ -6957,12 +6995,14 @@ navigation:
                   - page: "8548"
                     path: docs/pages/division-12-parent-child-section-8548.mdx
 
-          - section: "Division 13 — Adoption"
+          - separator
+          - section: "Division 13  -  Adoption"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
                 path: docs/pages/division-13-adoption.mdx
-              - section: "Part 1 — General"
+              - section: "Part 1  -  General"
                 collapsed: true
                 contents:
                   - page: "865"
@@ -7079,7 +7119,7 @@ navigation:
                     path: docs/pages/division-13-adoption-section-999.mdx
                   - page: "8530"
                     path: docs/pages/division-13-adoption-section-8530.mdx
-              - section: "Part 2 — Agency Adoptions"
+              - section: "Part 2  -  Agency Adoptions"
                 collapsed: true
                 contents:
                   - page: "8600"
@@ -7176,7 +7216,7 @@ navigation:
                     path: docs/pages/division-13-adoption-section-8638.mdx
                   - page: "8639"
                     path: docs/pages/division-13-adoption-section-8639.mdx
-              - section: "Part 3 — Independent Adoptions"
+              - section: "Part 3  -  Independent Adoptions"
                 collapsed: true
                 contents:
                   - page: "8700"
@@ -7253,7 +7293,7 @@ navigation:
                     path: docs/pages/division-13-adoption-section-8735.mdx
                   - page: "8736"
                     path: docs/pages/division-13-adoption-section-8736.mdx
-              - section: "Part 4 — Intercountry"
+              - section: "Part 4  -  Intercountry"
                 collapsed: true
                 contents:
                   - page: "8800"
@@ -7312,7 +7352,7 @@ navigation:
                     path: docs/pages/division-13-adoption-section-8822.mdx
                   - page: "8823"
                     path: docs/pages/division-13-adoption-section-8823.mdx
-              - section: "Part 5 — Stepparent"
+              - section: "Part 5  -  Stepparent"
                 collapsed: true
                 contents:
                   - page: "8900"
@@ -7367,7 +7407,7 @@ navigation:
                     path: docs/pages/division-13-adoption-section-8924.mdx
                   - page: "8925"
                     path: docs/pages/division-13-adoption-section-8925.mdx
-              - section: "Part 6 — Adult Adoptions"
+              - section: "Part 6  -  Adult Adoptions"
                 collapsed: true
                 contents:
                   - page: "9000"
@@ -7396,7 +7436,7 @@ navigation:
                     path: docs/pages/division-13-adoption-section-9010.mdx
                   - page: "9011"
                     path: docs/pages/division-13-adoption-section-9011.mdx
-              - section: "Part 7 — Validation"
+              - section: "Part 7  -  Validation"
                 collapsed: true
                 contents:
                   - page: "9100"
@@ -7472,7 +7512,9 @@ navigation:
                   - page: "9609"
                     path: docs/pages/division-13-adoption-section-9609.mdx
 
-          - section: "Division 14 — Family Law Facilitator Act"
+          - separator
+          - section: "Division 14  -  Family Law Facilitator Act"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
@@ -8145,7 +8187,9 @@ navigation:
                   - page: "16521.5"
                     path: docs/pages/division-14-family-law-facilitator-section-16521.5.mdx
 
-          - section: "Division 17 — Support Services"
+          - separator
+          - section: "Division 17  -  Support Services"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
@@ -9200,7 +9244,9 @@ navigation:
                   - page: "19702.3"
                     path: docs/pages/division-17-support-services-section-19702.3.mdx
 
-          - section: "Division 20 — Pilot Projects"
+          - separator
+          - section: "Division 20  -  Pilot Projects"
+            icon: book-open
             collapsed: true
             contents:
               - page: Overview
@@ -9476,6 +9522,7 @@ navigation:
                     path: docs/pages/division-20-pilot-projects-section-70631.mdx
 
       - section: Case Annotations
+        icon: scale
         contents:
           - page: What is Abuse
             path: docs/pages/case-annotations/abuse-definition.mdx
@@ -9505,25 +9552,3 @@ navigation:
             path: docs/pages/case-annotations/vexatious-litigant.mdx
           - page: Other Cases
             path: docs/pages/case-annotations/other-cases.mdx
-
-colors:
-  accent-primary:
-    light: "#0066cc"
-    dark: "#4da6ff"
-  background:
-    light: "#ffffff"
-    dark: "#0d1117"
-  border:
-    light: "#e5e5e5"
-    dark: "#2a2a2a"
-
-theme:
-  page-actions: toolbar
-  footer-nav: minimal
-
-landing-page:
-  page: Home
-  path: docs/pages/home.mdx
-
-css:
-  - styles.css
